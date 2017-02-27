@@ -11,6 +11,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.yxtvg.com/types/
 .mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5461,6 +5462,7 @@ pd2.js*.
 .f11w.com
 .intentarget.com
 .taohanpai.com
+.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -6578,6 +6580,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.yxtvg.com/types/
 .mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12028,6 +12031,7 @@ pd2.js*.
 .f11w.com
 .intentarget.com
 .taohanpai.com
+.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -13146,6 +13150,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.yxtvg.com/types/
 .mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -17816,6 +17821,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .taohanpai.com
+.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?js/tc\.js
