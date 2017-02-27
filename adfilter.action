@@ -11,6 +11,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1392,16 +1393,12 @@ TAG:^adfilter-block-dnt$
 .mwsl.qiniudn.com/250x250-
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
-.muyuge.net/js/bb/
 .muyuge.com/js/bb/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.people.com.cn/css/2010tianrun/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
-.ms211.com/js/tf\.js
-.ms211.com/about/
-.ms211.com/211tf/
 .mql5.com/data\?
 .mp3.haogeba.com
 .motorfans.com.cn/iggs_system/
@@ -1475,7 +1472,6 @@ TAG:^adfilter-block-dnt$
 .meijub.com/a/youxiajiao
 .medsci.cn/aimgs/
 .media.cheshi-img.com
-.mcncc.com/yeyou/gg\.js
 .mcncc.com/yeyou/.*\.htm
 .mbalib.com/wiki/common/wikibits\.js
 .mat1.gtimg.com/ent/flash/.*300
@@ -4356,6 +4352,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .toy9090.com
 .toufangke.com
 .touchrom.com
+.topqualitylink.com
 .top888.com
 .top267.com
 .toourbb.com
@@ -4666,6 +4663,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jwqj.net
 .jusha.com
 .junnew.com
+.junfull.com
 .juhepen.com
 .juejdkio.com
 .juandou.com
@@ -5254,6 +5252,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .321tui.com
 .321tui.cn
 .2m2n.com
+.2f.com
 .28acglz.com
 .272xb.com
 .268mob.cn
@@ -5389,6 +5388,7 @@ js*./(.*/)?i\.js\?
 /(.*/)?tourl\.html\?url=
 /(.*/)?svr/popwin\.aspx\?
 /(.*/)?showpage2\.asp\?u=
+/(.*/)?s/js/fshow\.js
 /(.*/)?s/i\.php\?id=
 /(.*/)?pge/\?s=
 /(.*/)?pd2\.js
@@ -5458,10 +5458,9 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-/(.*/)?s/js/fshow\.js
-.junfull.com
-.topqualitylink.com
-.2f.com
+.f11w.com
+.intentarget.com
+.taohanpai.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -6579,6 +6578,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7960,16 +7960,12 @@ TAG:^adfilter-block-elem$
 .mwsl.qiniudn.com/250x250-
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
-.muyuge.net/js/bb/
 .muyuge.com/js/bb/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.people.com.cn/css/2010tianrun/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
-.ms211.com/js/tf\.js
-.ms211.com/about/
-.ms211.com/211tf/
 .mql5.com/data\?
 .mp3.haogeba.com
 .motorfans.com.cn/iggs_system/
@@ -8043,7 +8039,6 @@ TAG:^adfilter-block-elem$
 .meijub.com/a/youxiajiao
 .medsci.cn/aimgs/
 .media.cheshi-img.com
-.mcncc.com/yeyou/gg\.js
 .mcncc.com/yeyou/.*\.htm
 .mbalib.com/wiki/common/wikibits\.js
 .mat1.gtimg.com/ent/flash/.*300
@@ -10924,6 +10919,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .toy9090.com
 .toufangke.com
 .touchrom.com
+.topqualitylink.com
 .top888.com
 .top267.com
 .toourbb.com
@@ -11234,6 +11230,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jwqj.net
 .jusha.com
 .junnew.com
+.junfull.com
 .juhepen.com
 .juejdkio.com
 .juandou.com
@@ -11822,6 +11819,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .321tui.com
 .321tui.cn
 .2m2n.com
+.2f.com
 .28acglz.com
 .272xb.com
 .268mob.cn
@@ -11957,6 +11955,7 @@ js*./(.*/)?i\.js\?
 /(.*/)?tourl\.html\?url=
 /(.*/)?svr/popwin\.aspx\?
 /(.*/)?showpage2\.asp\?u=
+/(.*/)?s/js/fshow\.js
 /(.*/)?s/i\.php\?id=
 /(.*/)?pge/\?s=
 /(.*/)?pd2\.js
@@ -12026,10 +12025,9 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-/(.*/)?s/js/fshow\.js
-.junfull.com
-.topqualitylink.com
-.2f.com
+.f11w.com
+.intentarget.com
+.taohanpai.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -13148,6 +13146,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14476,15 +14475,12 @@ TAG:^adfilter-block-request$
 .mwsl.qiniudn.com/250x250-
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
-.muyuge.net/js/bb/
 .muyuge.com/js/bb/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.people.com.cn/css/2010tianrun/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
-.ms211.com/js/tf\.js
-.ms211.com/211tf/
 .mql5.com/data\?
 .motorfans.com.cn/iggs_system/
 .motorfans.com.cn/igg/
@@ -14555,7 +14551,6 @@ TAG:^adfilter-block-request$
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
 .media.cheshi-img.com
-.mcncc.com/yeyou/gg\.js
 .mcncc.com/yeyou/.*\.htm
 .mbalib.com/wiki/common/wikibits\.js
 .mat1.gtimg.com/ent/flash/.*300
@@ -17198,6 +17193,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .trzina.com
 .tradeccl.com
 .tpe163.com
+.topqualitylink.com
 .top267.com
 .toourbb.com
 .tongqing2015.com
@@ -17399,6 +17395,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jxlqgs.com
 .jxjzny.com
 .jwqj.net
+.junfull.com
 .jsmwd.com
 .jsadt.com
 .johtzj.com
@@ -17818,8 +17815,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.junfull.com
-.topqualitylink.com
+.taohanpai.com
 /.*&par=
 ad.*.
 /(.*/)?js/tc\.js
@@ -19008,6 +19004,7 @@ gg.*.
 .32414.com
 .321tui.com
 .321tui.cn
+.2f.com
 .2529.com
 .23kmm.com
 .235123.net
@@ -19039,6 +19036,7 @@ gg.*.
 /.*:8080/js/v2\.1\.js
 /.*:8080/js/v1\.js
 /(.*/)?svr/popwin\.aspx\?
+/(.*/)?s/js/fshow\.js
 /(.*/)?pge/\?s=
 /(.*/)?pd2\.js
 pd2.js*.
@@ -19053,8 +19051,8 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-/(.*/)?s/js/fshow\.js
-.2f.com
+.f11w.com
+.intentarget.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -19741,7 +19739,6 @@ TAG:^adfilter-block-xframe$
 .pfizer.com.tw
 .ouyaoxiazai.com
 .narutom.com/v2/v/
-.ms211.com/about/
 .momoshop.com.tw/goods/GoodsDetail\.jsp\?
 .mahua.com/api/
 .javjunkies.com/FL
