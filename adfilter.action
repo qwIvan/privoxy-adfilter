@@ -5466,6 +5466,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*&pcs=
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -12042,6 +12043,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*&pcs=
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -17838,6 +17840,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+/.*&pcs=
 /.*&par=
 ad.*.
 /(.*/)?js/tc\.js
