@@ -20,7 +20,7 @@
   `Options` > `Edit Main Configuration`
 
 #Release
-##ArchLinux
+###ArchLinux
 From [AUR](https://aur.archlinux.org/packages/privoxy-adfilter/)
 ```
 yaourt -S privoxy-adfilter
