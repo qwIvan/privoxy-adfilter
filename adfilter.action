@@ -11,6 +11,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.g.mnw.cn
 .junshi.cn/api/TTWeixin
 .tiexue.net/txgatj/
 .zzz4.com/JS_AD/
@@ -1435,7 +1436,6 @@ TAG:^adfilter-block-dnt$
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
 .mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2016-01-28/g100\.shtml
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
@@ -6582,6 +6582,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.g.mnw.cn
 .junshi.cn/api/TTWeixin
 .tiexue.net/txgatj/
 .zzz4.com/JS_AD/
@@ -8006,7 +8007,6 @@ TAG:^adfilter-block-elem$
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
 .mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2016-01-28/g100\.shtml
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
@@ -13154,6 +13154,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.g.mnw.cn
 .junshi.cn/api/TTWeixin
 .tiexue.net/txgatj/
 .zzz4.com/JS_AD/
@@ -14522,7 +14523,6 @@ TAG:^adfilter-block-request$
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
 .mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2016-01-28/g100\.shtml
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
