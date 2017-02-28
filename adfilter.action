@@ -11,8 +11,6 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
-.yxtvg.com/types/
-.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -128,6 +126,7 @@ TAG:^adfilter-block-dnt$
 .yy521.com/js/baidu
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
+.yxtvg.com/types/
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
@@ -1437,6 +1436,7 @@ TAG:^adfilter-block-dnt$
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .mlbuy.com/gg\.js
 .mixer.video.iqiyi.com/jp/mixin/resources/
 .miwifi.com/pcads/
@@ -4178,6 +4178,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yhzm.cc
 .yhtcd.com
 .yghua.com
+.yfycy.com
 .yf898.com
 .ye3.com
 .ydlnt.com
@@ -4377,6 +4378,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tbaocdn.com
 .taotu001.com
 .taojingu.cn
+.taohanpai.com
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
@@ -4714,6 +4716,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iroby.com
 .iprefer.com.tw
 .ipaypay.cn
+.intentarget.com
 .instreet.cn
 .index8.cn
 .imneinei.com
@@ -4851,6 +4854,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .f6ce.com
 .f2zd.com
 .f1zd.com
+.f11w.com
 .f1190.com
 .ezucods.cn
 .ez33.org.cn
@@ -5459,10 +5463,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.f11w.com
-.intentarget.com
-.taohanpai.com
-.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -6580,8 +6580,6 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
-.yxtvg.com/types/
-.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6697,6 +6695,7 @@ TAG:^adfilter-block-elem$
 .yy521.com/js/baidu
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
+.yxtvg.com/types/
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
@@ -8006,6 +8005,7 @@ TAG:^adfilter-block-elem$
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .mlbuy.com/gg\.js
 .mixer.video.iqiyi.com/jp/mixin/resources/
 .miwifi.com/pcads/
@@ -10747,6 +10747,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yhzm.cc
 .yhtcd.com
 .yghua.com
+.yfycy.com
 .yf898.com
 .ye3.com
 .ydlnt.com
@@ -10946,6 +10947,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tbaocdn.com
 .taotu001.com
 .taojingu.cn
+.taohanpai.com
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
@@ -11283,6 +11285,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iroby.com
 .iprefer.com.tw
 .ipaypay.cn
+.intentarget.com
 .instreet.cn
 .index8.cn
 .imneinei.com
@@ -11420,6 +11423,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .f6ce.com
 .f2zd.com
 .f1zd.com
+.f11w.com
 .f1190.com
 .ezucods.cn
 .ez33.org.cn
@@ -12028,10 +12032,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.f11w.com
-.intentarget.com
-.taohanpai.com
-.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -13150,8 +13150,6 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
-.yxtvg.com/types/
-.mm111.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13267,6 +13265,7 @@ TAG:^adfilter-block-request$
 .yy521.com/js/baidu
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
+.yxtvg.com/types/
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
@@ -14521,6 +14520,7 @@ TAG:^adfilter-block-request$
 .mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
+.mm111.net/api\.php\?mod=ad&
 .mlbuy.com/gg\.js
 .mixer.video.iqiyi.com/jp/mixin/resources/
 .miwifi.com/pcads/
@@ -17089,6 +17089,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yidulive.net
 .yhzm.cc
 .yhtcd.com
+.yfycy.com
 .yf898.com
 .ydlnt.com
 .ychun03.com
@@ -17214,6 +17215,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tdayi.com
 .tc600.com
 .tbaocdn.com
+.taohanpai.com
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
@@ -17820,8 +17822,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.taohanpai.com
-.yfycy.com
 /.*&par=
 ad.*.
 /(.*/)?js/tc\.js
@@ -18787,6 +18787,7 @@ gg.*.
 .is686.com
 .iprefer.com.tw
 .ipaypay.cn
+.intentarget.com
 .instreet.cn
 .index8.cn
 .image.qndown.com
@@ -18837,6 +18838,7 @@ gg.*.
 .fadama.com
 .f8272.com
 .f1zd.com
+.f11w.com
 .ez33.com
 .eyouv.cn
 .emarbox.com
@@ -19057,8 +19059,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.f11w.com
-.intentarget.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
