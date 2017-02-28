@@ -18,3 +18,11 @@
   `C:\Program Files\Privoxy\config.txt`
   or
   `Options` > `Edit Main Configuration`
+
+#Release
+##ArchLinux
+From [AUR](https://aur.archlinux.org/packages/privoxy-adfilter/)
+```
+yaourt -S privoxy-adfilter
+#or pacaur -S privoxy-adfilter
+```
