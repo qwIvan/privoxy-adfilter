@@ -11,6 +11,32 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.ap*./.*\.pl520\.com[^\w%.-]
+.ap*.pl520.com
+.3.guidaye.com
+.1.rengshu.com
+.fuz.cc
+.youbian.com
+.lele999.com
+.feidalu.com
+.yjbys.org
+.fmgoal.com
+.yhzm.cc
+.daima.huoche.net
+.52lubo.cn
+.firefang.cn
+.1.win7china.com
+.gwy.sdsgwy.com
+.dn7788.com
+.gzlykj.cn
+.daima.chazidian.com
+.scriptwap1.360doc.cn
+.baidu.greenxf.cn
+/(.*/)?s\?di=u
+/.*&pdbid=
+/.*\?pdbid=
+/.*&pcs=
+/.*&par=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -912,7 +938,6 @@ TAG:^adfilter-block-dnt$
 .scupio.com/adpinline/
 .scsn.cn/Public/config/Couplet/Index
 .scsn.cn/Public/config/Couplet/16\.js
-.scriptwap1.360doc.cn
 .script.vccoo.com
 .script.cmfu.com/Script/GameAdAptationInfo\.js
 .script.cmfu.com/ADScript/
@@ -2212,7 +2237,6 @@ TAG:^adfilter-block-dnt$
 .gxnews.com.cn/clientscript/index_duilian_
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
-.gwy.sdsgwy.com
 .gwbnsh.net.cn/hd/unicom/ad\.html
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
@@ -2652,7 +2676,6 @@ TAG:^adfilter-block-dnt$
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
-.daima.chazidian.com
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dabin69.com/template/comiis_ydzx/ads/topad01\.jpg
@@ -3929,7 +3952,6 @@ TAG:^adfilter-block-dnt$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
-.1.win7china.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -4166,7 +4188,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ymcqb.com
 .ykjmy.com
 .yk0712.com
-.yjbys.org
 .yiwuds.com
 .yiwad.com
 .yiranxian.cn
@@ -4179,7 +4200,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yiiwoo.com
 .yigao.com
 .yidulive.net
-.yhzm.cc
 .yhtcd.com
 .yghua.com
 .yfycy.com
@@ -4622,7 +4642,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
-.lele999.com
 .leeyuoxs.com
 .le4le.com
 .le123.cn
@@ -4792,7 +4811,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .h9377c.com
 .gzqudou.com
 .gzmjnx.cn
-.gzlykj.cn
 .gzktpf.com
 .gzbywl.com
 .gydag.com
@@ -4840,15 +4858,12 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fthcz.com
 .founseezb.cn
 .fnkjj.com
-.fmgoal.com
 .fmad.cc
 .flashwing.net
 .fjmeyer.com
 .fjkst.com
-.firefang.cn
 .ffhtek.com
 .feitian001.com
-.feidalu.com
 .fd7c.com
 .farm-cn.plista.com
 .fadama.com
@@ -4912,7 +4927,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dou777.com
 .doniv.net
 .dnvus.com
-.dn7788.com
 .dmtrck.com
 .dm1080p.com
 .dleke.com
@@ -4939,7 +4953,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dashet.com
 .dante2007.com
 .daima123.cc
-.daima.huoche.net
 .d8360.com
 .d1ad.com
 .czpwm.com
@@ -5217,7 +5230,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .57union.com
 .565882.com
 .5399.com
-.52lubo.cn
 .52lover.info
 .52kmk.com
 .52kmh.com
@@ -5467,8 +5479,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-/.*&pcs=
-/.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -6585,6 +6595,32 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.ap*./.*\.pl520\.com[^\w%.-]
+.ap*.pl520.com
+.3.guidaye.com
+.1.rengshu.com
+.fuz.cc
+.youbian.com
+.lele999.com
+.feidalu.com
+.yjbys.org
+.fmgoal.com
+.yhzm.cc
+.daima.huoche.net
+.52lubo.cn
+.firefang.cn
+.1.win7china.com
+.gwy.sdsgwy.com
+.dn7788.com
+.gzlykj.cn
+.daima.chazidian.com
+.scriptwap1.360doc.cn
+.baidu.greenxf.cn
+/(.*/)?s\?di=u
+/.*&pdbid=
+/.*\?pdbid=
+/.*&pcs=
+/.*&par=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7486,7 +7522,6 @@ TAG:^adfilter-block-elem$
 .scupio.com/adpinline/
 .scsn.cn/Public/config/Couplet/Index
 .scsn.cn/Public/config/Couplet/16\.js
-.scriptwap1.360doc.cn
 .script.vccoo.com
 .script.cmfu.com/Script/GameAdAptationInfo\.js
 .script.cmfu.com/ADScript/
@@ -8786,7 +8821,6 @@ TAG:^adfilter-block-elem$
 .gxnews.com.cn/clientscript/index_duilian_
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
-.gwy.sdsgwy.com
 .gwbnsh.net.cn/hd/unicom/ad\.html
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
@@ -9226,7 +9260,6 @@ TAG:^adfilter-block-elem$
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
-.daima.chazidian.com
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dabin69.com/template/comiis_ydzx/ads/topad01\.jpg
@@ -10503,7 +10536,6 @@ TAG:^adfilter-block-elem$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
-.1.win7china.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -10740,7 +10772,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ymcqb.com
 .ykjmy.com
 .yk0712.com
-.yjbys.org
 .yiwuds.com
 .yiwad.com
 .yiranxian.cn
@@ -10753,7 +10784,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yiiwoo.com
 .yigao.com
 .yidulive.net
-.yhzm.cc
 .yhtcd.com
 .yghua.com
 .yfycy.com
@@ -11196,7 +11226,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
-.lele999.com
 .leeyuoxs.com
 .le4le.com
 .le123.cn
@@ -11366,7 +11395,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .h9377c.com
 .gzqudou.com
 .gzmjnx.cn
-.gzlykj.cn
 .gzktpf.com
 .gzbywl.com
 .gydag.com
@@ -11414,15 +11442,12 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fthcz.com
 .founseezb.cn
 .fnkjj.com
-.fmgoal.com
 .fmad.cc
 .flashwing.net
 .fjmeyer.com
 .fjkst.com
-.firefang.cn
 .ffhtek.com
 .feitian001.com
-.feidalu.com
 .fd7c.com
 .farm-cn.plista.com
 .fadama.com
@@ -11486,7 +11511,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dou777.com
 .doniv.net
 .dnvus.com
-.dn7788.com
 .dmtrck.com
 .dm1080p.com
 .dleke.com
@@ -11513,7 +11537,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dashet.com
 .dante2007.com
 .daima123.cc
-.daima.huoche.net
 .d8360.com
 .d1ad.com
 .czpwm.com
@@ -11791,7 +11814,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .57union.com
 .565882.com
 .5399.com
-.52lubo.cn
 .52lover.info
 .52kmk.com
 .52kmh.com
@@ -12041,8 +12063,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-/.*&pcs=
-/.*&par=
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -13160,6 +13180,27 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimg.top/images/.*\.gif
+.ap*./.*\.pl520\.com[^\w%.-]
+.ap*.pl520.com
+.3.guidaye.com
+.1.rengshu.com
+.lele999.com
+.feidalu.com
+.fmgoal.com
+.yhzm.cc
+.daima.huoche.net
+.52lubo.cn
+.firefang.cn
+.1.win7china.com
+.gwy.sdsgwy.com
+.dn7788.com
+.gzlykj.cn
+.daima.chazidian.com
+.scriptwap1.360doc.cn
+.baidu.greenxf.cn
+/(.*/)?s\?di=u
+/.*&pcs=
+/.*&par=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14032,7 +14073,6 @@ TAG:^adfilter-block-request$
 .scupio.com/adpinline/
 .scsn.cn/Public/config/Couplet/Index
 .scsn.cn/Public/config/Couplet/16\.js
-.scriptwap1.360doc.cn
 .script.vccoo.com
 .script.cmfu.com/Script/GameAdAptationInfo\.js
 .script.cmfu.com/ADScript/
@@ -15270,7 +15310,6 @@ TAG:^adfilter-block-request$
 .gxnews.com.cn/clientscript/index_duilian_
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
-.gwy.sdsgwy.com
 .gwbnsh.net.cn/hd/unicom/ad\.html
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
@@ -15687,7 +15726,6 @@ TAG:^adfilter-block-request$
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
-.daima.chazidian.com
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dabin69.com/template/comiis_ydzx/ads/topad01\.jpg
@@ -16905,7 +16943,6 @@ TAG:^adfilter-block-request$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
-.1.win7china.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -17100,7 +17137,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yinhaijuan.com
 .yijia2009.com
 .yidulive.net
-.yhzm.cc
 .yhtcd.com
 .yfycy.com
 .yf898.com
@@ -17384,7 +17420,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .liangziweixg.com
 .lhusy.com
 .lhengilin.com
-.lele999.com
 .leeyuoxs.com
 .le4le.com
 .lashou1000.com
@@ -17485,7 +17520,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .h9377c.com
 .gzqudou.com
 .gzmjnx.cn
-.gzlykj.cn
 .gzktpf.com
 .gydag.com
 .gugulonger.cn
@@ -17515,12 +17549,9 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fthcz.com
 .founseezb.cn
 .fnkjj.com
-.fmgoal.com
 .fjmeyer.com
 .fjkst.com
-.firefang.cn
 .ffhtek.com
-.feidalu.com
 .fd7c.com
 .farm-cn.plista.com
 .facebookma.cn
@@ -17563,7 +17594,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .doudao.cn
 .dou777.com
 .dnvus.com
-.dn7788.com
 .dleke.com
 .diaojiaoji168.com
 .dhxyzx.cn
@@ -17579,7 +17609,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dashet.com
 .dante2007.com
 .daima123.cc
-.daima.huoche.net
 .czpwm.com
 .czpush.com
 .czjiuding.cn
@@ -17737,7 +17766,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .592man.com
 .58.215.179.159
 .57union.com
-.52lubo.cn
 .52kmk.com
 .5207470.com
 .51weidashi.com
@@ -17835,8 +17863,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-/.*&pcs=
-/.*&par=
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18568,6 +18594,9 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rt} \
 }
+.fuz.cc
+.youbian.com
+.yjbys.org
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -18598,7 +18627,6 @@ gg.*.
 .youle55.com
 .youbet8.com
 .yongv.com
-.yjbys.org
 .yiwad.com
 .yiqiv.com
 .yiqifa.com/.*\.js
@@ -19734,6 +19762,8 @@ floatad.*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
+/.*&pdbid=
+/.*\?pdbid=
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
