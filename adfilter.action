@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6622,6 +6623,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13203,6 +13205,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
