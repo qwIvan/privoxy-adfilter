@@ -1911,7 +1911,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R252
 s@^referer(?=:[^\n]*[./](?:gametower\.com\.tw)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R253
-s@^referer(?=:[^\n]*[./](?:gotrip\.hk|weekendhk\.com)):.*@adfilter-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:gotrip\.hk|nmplus\.hk|weekendhk\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R254
 s@^referer(?=:[^\n]*[./](?:haitao\.com)):.*@adfilter-unblock-dnt@Ti
@@ -2341,7 +2341,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R252
 s@^referer(?=:[^\n]*[./](?:gametower\.com\.tw)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R253
-s@^referer(?=:[^\n]*[./](?:gotrip\.hk|weekendhk\.com)):.*@adfilter-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:gotrip\.hk|nmplus\.hk|weekendhk\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R254
 s@^referer(?=:[^\n]*[./](?:haitao\.com)):.*@adfilter-unblock-elem@Ti
@@ -2839,7 +2839,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-request-R252
 s@^referer(?=:[^\n]*[./](?:gametower\.com\.tw)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R253
-s@^referer(?=:[^\n]*[./](?:gotrip\.hk|weekendhk\.com)):.*@adfilter-unblock-request@Ti
+s@^referer(?=:[^\n]*[./](?:gotrip\.hk|nmplus\.hk|weekendhk\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R254
 s@^referer(?=:[^\n]*[./](?:haitao\.com)):.*@adfilter-unblock-request@Ti

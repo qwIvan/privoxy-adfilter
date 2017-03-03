@@ -20698,8 +20698,8 @@ advertisement.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R253} \
 }
-/(.*/)?adgpt\.js
-adgpt.js*.
+/(.*/)?adgpt\.
+adgpt.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R254} \
 }
@@ -21703,8 +21703,8 @@ advertisement.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R253} \
 }
-/(.*/)?adgpt\.js
-adgpt.js*.
+/(.*/)?adgpt\.
+adgpt.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R254} \
 }
@@ -22849,8 +22849,8 @@ advertisement.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R253} \
 }
-/(.*/)?adgpt\.js
-adgpt.js*.
+/(.*/)?adgpt\.
+adgpt.*.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R254} \
