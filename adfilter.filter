@@ -384,7 +384,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R81
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R82
-s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|ttmeiju\.com|wgun\.net)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|wgun\.net)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R83
 s@^referer(?=:[^\n]*[./](?:henbt\.com)):.*@adfilter-block-dnt@Ti
@@ -897,7 +897,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R81
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R82
-s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|ttmeiju\.com|wgun\.net)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|wgun\.net)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R83
 s@^referer(?=:[^\n]*[./](?:henbt\.com)):.*@adfilter-block-elem@Ti
@@ -1544,7 +1544,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R81
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R82
-s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|ttmeiju\.com|wgun\.net)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hdarea\.co|moe-acg\.cc|wgun\.net)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R83
 s@^referer(?=:[^\n]*[./](?:henbt\.com)):.*@adfilter-block-request@Ti
