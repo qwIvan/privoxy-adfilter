@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -836,8 +837,6 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
-.sinaimg.cn/large/68299a77jw1eu2f2opaakg205k05k74r\.gif
-.sinaimg.cn/large/68299a77jw1et76sa28ljg208c03i0t0\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
@@ -1486,7 +1485,6 @@ TAG:^adfilter-block-dnt$
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
 .mgbbs.cn/js/float\.js
-.mfxp.com/images/
 .mfacelive.com/Scripts/social/openchannel_min\.js
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
@@ -6622,6 +6620,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7421,8 +7420,6 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
-.sinaimg.cn/large/68299a77jw1eu2f2opaakg205k05k74r\.gif
-.sinaimg.cn/large/68299a77jw1et76sa28ljg208c03i0t0\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
@@ -8071,7 +8068,6 @@ TAG:^adfilter-block-elem$
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
 .mgbbs.cn/js/float\.js
-.mfxp.com/images/
 .mfacelive.com/Scripts/social/openchannel_min\.js
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
@@ -13203,6 +13199,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13976,8 +13973,6 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
-.sinaimg.cn/large/68299a77jw1eu2f2opaakg205k05k74r\.gif
-.sinaimg.cn/large/68299a77jw1et76sa28ljg208c03i0t0\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
@@ -14596,7 +14591,6 @@ TAG:^adfilter-block-request$
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
 .mgbbs.cn/js/float\.js
-.mfxp.com/images/
 .mfacelive.com/Scripts/social/openchannel_min\.js
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
