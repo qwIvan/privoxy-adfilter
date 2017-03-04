@@ -1431,8 +1431,6 @@ TAG:^adfilter-block-dnt$
 .mshow.fang.com/s\?z=
 .mql5.com/data\?
 .mp3.haogeba.com
-.motorfans.com.cn/iggs_system/
-.motorfans.com.cn/igg/
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
 .mopxing.com/skin/sex/js/.*content
@@ -1461,8 +1459,6 @@ TAG:^adfilter-block-dnt$
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
-.mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -2799,7 +2795,7 @@ TAG:^adfilter-block-dnt$
 .cilibaba.org/static/ad\.
 .cidianwang.com/js/zdtop\.js
 .cidianwang.com/images/taobao/
-.chyangwa.net/block/cf/
+.chyangwa.net/block/bb/
 .chunxiao.tv/1\.aspx
 .chubun.com/images/banners/
 .chuantu.biz/t2/22/1450961822x1822613148\.gif
@@ -8020,8 +8016,6 @@ TAG:^adfilter-block-elem$
 .mshow.fang.com/s\?z=
 .mql5.com/data\?
 .mp3.haogeba.com
-.motorfans.com.cn/iggs_system/
-.motorfans.com.cn/igg/
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
 .mopxing.com/skin/sex/js/.*content
@@ -8050,8 +8044,6 @@ TAG:^adfilter-block-elem$
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
-.mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -9388,7 +9380,7 @@ TAG:^adfilter-block-elem$
 .cilibaba.org/static/ad\.
 .cidianwang.com/js/zdtop\.js
 .cidianwang.com/images/taobao/
-.chyangwa.net/block/cf/
+.chyangwa.net/block/bb/
 .chunxiao.tv/1\.aspx
 .chubun.com/images/banners/
 .chuantu.biz/t2/22/1450961822x1822613148\.gif
@@ -14550,8 +14542,6 @@ TAG:^adfilter-block-request$
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
 .mql5.com/data\?
-.motorfans.com.cn/iggs_system/
-.motorfans.com.cn/igg/
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
 .mopxing.com/skin/sex/js/.*content
@@ -14579,8 +14569,6 @@ TAG:^adfilter-block-request$
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
-.mnw.cn/script/info/baiduadm\.html\?
-.mnw.cn/2015-11-05/g14\.shtml
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -15848,7 +15836,7 @@ TAG:^adfilter-block-request$
 .cilibaba.org/static/ad\.
 .cidianwang.com/js/zdtop\.js
 .cidianwang.com/images/taobao/
-.chyangwa.net/block/cf/
+.chyangwa.net/block/bb/
 .chunxiao.tv/1\.aspx
 .chubun.com/images/banners/
 .chuantu.biz/t2/22/1450961822x1822613148\.gif
