@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.dydab.com
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
@@ -2090,7 +2091,6 @@ TAG:^adfilter-block-dnt$
 .httpcn.com/Images/banner
 .httpcn.com/images/ad_
 .htpc1.com/iBT/tools/
-.htai.me/tb
 .hsbianma.com/content/mogujie/
 .hs.cnfol.com/Cm/Imgs/Load\.gif
 .hrszyl.com/images/jiaoyou
@@ -6618,6 +6618,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.dydab.com
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
@@ -8671,7 +8672,6 @@ TAG:^adfilter-block-elem$
 .httpcn.com/Images/banner
 .httpcn.com/images/ad_
 .htpc1.com/iBT/tools/
-.htai.me/tb
 .hsbianma.com/content/mogujie/
 .hs.cnfol.com/Cm/Imgs/Load\.gif
 .hrszyl.com/images/jiaoyou
@@ -13195,6 +13195,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.dydab.com
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .miercn.com/iframe/
 .115.29.141.121:8086/js/wp\.js
@@ -15161,7 +15162,6 @@ TAG:^adfilter-block-request$
 .httpcn.com/Images/banner
 .httpcn.com/images/ad_
 .htpc1.com/iBT/tools/
-.htai.me/tb
 .hsbianma.com/content/mogujie/
 .hs.cnfol.com/Cm/Imgs/Load\.gif
 .hrszyl.com/images/jiaoyou

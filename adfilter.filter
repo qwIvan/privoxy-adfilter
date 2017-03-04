@@ -396,7 +396,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R85
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R86
-s@^referer(?=:[^\n]*[./](?:htai\.co)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R87
 s@^referer(?=:[^\n]*[./](?:ifeng\.com)):.*@adfilter-block-dnt@Ti
@@ -909,7 +909,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R85
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R86
-s@^referer(?=:[^\n]*[./](?:htai\.co)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R87
 s@^referer(?=:[^\n]*[./](?:ifeng\.com)):.*@adfilter-block-elem@Ti
@@ -1553,7 +1553,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R85
 s@^referer(?=:[^\n]*[./](?:hkgolden\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R86
-s@^referer(?=:[^\n]*[./](?:htai\.co)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hmog\.me)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R87
 s@^referer(?=:[^\n]*[./](?:ifeng\.com)):.*@adfilter-block-request@Ti
