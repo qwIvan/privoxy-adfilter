@@ -37,7 +37,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.imgur.com/4SbDoav\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1911,6 +1910,7 @@ TAG:^adfilter-block-dnt$
 .imgur.com/qHtXzOk\.jpg
 .imgur.com/hkYNDSj\.gif
 .imgur.com/df53F09\.jpg
+.imgur.com/4SbDoav\.jpg
 .imgsrc.baidu.com/tieba/pic/item/
 .imgshost.pw/02_cn_ad/
 .imgs.cc/images/ad_
@@ -6625,7 +6625,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.imgur.com/4SbDoav\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -8499,6 +8498,7 @@ TAG:^adfilter-block-elem$
 .imgur.com/qHtXzOk\.jpg
 .imgur.com/hkYNDSj\.gif
 .imgur.com/df53F09\.jpg
+.imgur.com/4SbDoav\.jpg
 .imgsrc.baidu.com/tieba/pic/item/
 .imgshost.pw/02_cn_ad/
 .imgs.cc/images/ad_
@@ -13209,7 +13209,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.imgur.com/4SbDoav\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -15007,6 +15006,7 @@ TAG:^adfilter-block-request$
 .imgur.com/qHtXzOk\.jpg
 .imgur.com/hkYNDSj\.gif
 .imgur.com/df53F09\.jpg
+.imgur.com/4SbDoav\.jpg
 .imgshost.pw/02_cn_ad/
 .imgs.cc/images/ad_
 .imgroom.net/images/.*\.gif
