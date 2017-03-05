@@ -37,10 +37,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.dydab.com
-.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
-.miercn.com/iframe/
-.115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1479,6 +1475,7 @@ TAG:^adfilter-block-dnt$
 .mil.news.sina.com.cn/iframe/109/2013/1015/hotpic\.html
 .mil.news.sina.com.cn/iframe/109/2012/1024/photo\.html
 .mifengtd.cn/ad-
+.miercn.com/iframe/
 .midifan.com/aaa/
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
@@ -2115,6 +2112,7 @@ TAG:^adfilter-block-dnt$
 .hoopchina.com.cn/static/www/.*340-230\.
 .hoopchina.com.cn/common/lazyLoadAd\.js
 .hongxiu.com/images/home20140530\.gif
+.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hongdou.gxnews.com.cn/upload/index/
 .hn-pc.com/css/Fun_Div\.js
 .hktvmall.com/api/preroll/getList\?
@@ -2546,6 +2544,7 @@ TAG:^adfilter-block-dnt$
 .dyguo.com/pc/.*0\.js
 .dydh.tv/statics/js/tuku
 .dydh.tv/img/
+.dydab.com
 .dybird.com/Runtime/js/yd
 .dy2018.com/jsdd/
 .dxrc.cn/images/sy\.gif
@@ -3922,6 +3921,7 @@ TAG:^adfilter-block-dnt$
 .115mm.com/js/
 .115img.com/static/pc/d_127\.html
 .115.29.46.146
+.115.29.141.121:8086/js/wp\.js
 .115.28.114.149/.*_proxy\.
 .114so.cn
 .114so.cn/js/nm.*\.js
@@ -6618,10 +6618,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.dydab.com
-.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
-.miercn.com/iframe/
-.115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -8060,6 +8056,7 @@ TAG:^adfilter-block-elem$
 .mil.news.sina.com.cn/iframe/109/2013/1015/hotpic\.html
 .mil.news.sina.com.cn/iframe/109/2012/1024/photo\.html
 .mifengtd.cn/ad-
+.miercn.com/iframe/
 .midifan.com/aaa/
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
@@ -8696,6 +8693,7 @@ TAG:^adfilter-block-elem$
 .hoopchina.com.cn/static/www/.*340-230\.
 .hoopchina.com.cn/common/lazyLoadAd\.js
 .hongxiu.com/images/home20140530\.gif
+.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hongdou.gxnews.com.cn/upload/index/
 .hn-pc.com/css/Fun_Div\.js
 .hktvmall.com/api/preroll/getList\?
@@ -9127,6 +9125,7 @@ TAG:^adfilter-block-elem$
 .dyguo.com/pc/.*0\.js
 .dydh.tv/statics/js/tuku
 .dydh.tv/img/
+.dydab.com
 .dybird.com/Runtime/js/yd
 .dy2018.com/jsdd/
 .dxrc.cn/images/sy\.gif
@@ -10503,6 +10502,7 @@ TAG:^adfilter-block-elem$
 .115mm.com/js/
 .115img.com/static/pc/d_127\.html
 .115.29.46.146
+.115.29.141.121:8086/js/wp\.js
 .115.28.114.149/.*_proxy\.
 .114so.cn
 .114so.cn/js/nm.*\.js
@@ -13195,10 +13195,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.dydab.com
-.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
-.miercn.com/iframe/
-.115.29.141.121:8086/js/wp\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14581,6 +14577,7 @@ TAG:^adfilter-block-request$
 .mil.news.sina.com.cn/iframe/109/2013/1015/hotpic\.html
 .mil.news.sina.com.cn/iframe/109/2012/1024/photo\.html
 .mifengtd.cn/ad-
+.miercn.com/iframe/
 .midifan.com/aaa/
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
@@ -15185,6 +15182,7 @@ TAG:^adfilter-block-request$
 .hoopchina.com.cn/static/www/.*340-230\.
 .hoopchina.com.cn/common/lazyLoadAd\.js
 .hongxiu.com/images/home20140530\.gif
+.honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hn-pc.com/css/Fun_Div\.js
 .hktvmall.com/api/preroll/getList\?
 .hkheadline.com/.*/right_promo\.js
@@ -15599,6 +15597,7 @@ TAG:^adfilter-block-request$
 .dyguo.com/pc/.*0\.js
 .dydh.tv/statics/js/tuku
 .dydh.tv/img/
+.dydab.com
 .dybird.com/Runtime/js/yd
 .dy2018.com/jsdd/
 .dxrc.cn/images/sy\.gif
@@ -16908,6 +16907,7 @@ TAG:^adfilter-block-request$
 .119.167.73.60/m_code/
 .115mm.com/js/
 .115img.com/static/pc/d_127\.html
+.115.29.141.121:8086/js/wp\.js
 .115.28.114.149/.*_proxy\.
 .114so.cn/js/nm.*\.js
 .114fw.com/dagg/
