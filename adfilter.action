@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.meitui.org/.*\.js
 .mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -3249,7 +3250,6 @@ TAG:^adfilter-block-dnt$
 .aiyidu.com/aiyidu/adver/
 .aitaotu.com/style/js/aitaotu
 .airouba.com/public/js/global\.js
-.airenti.in
 .aipai.com/common/html/commonAdForTfansTo\.html
 .aipai.com/app/www/templates/common/ifr/fans_640_40\.html
 .aipai.com/app/www/templates/common/.*_videos_
@@ -6620,6 +6620,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.meitui.org/.*\.js
 .mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9832,7 +9833,6 @@ TAG:^adfilter-block-elem$
 .aiyidu.com/aiyidu/adver/
 .aitaotu.com/style/js/aitaotu
 .airouba.com/public/js/global\.js
-.airenti.in
 .aipai.com/common/html/commonAdForTfansTo\.html
 .aipai.com/app/www/templates/common/ifr/fans_640_40\.html
 .aipai.com/app/www/templates/common/.*_videos_
@@ -13199,6 +13199,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.meitui.org/.*\.js
 .mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18401,7 +18402,6 @@ TAG:^adfilter-block-request-Aj-Cj$
 .bbs169.com/.*\.
 .baishuku.com/news/
 .ayxz.com/images/
-.airenti.in
 .962.net/show/cms_
 .962.net/show/all_
 .6park.com/parks/
@@ -20303,7 +20303,6 @@ TAG:^adfilter-unblock-dnt$
 .appledaily.com.hk/admedia/
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
-.airenti.in/.*/
 .airchina.com.cn/dynamicAd/
 .advertise.shijue.cvidea.cn
 .advert.kf5.com
@@ -21317,7 +21316,6 @@ TAG:^adfilter-unblock-elem$
 .appledaily.com.hk/admedia/
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
-.airenti.in/.*/
 .airchina.com.cn/dynamicAd/
 .advertise.shijue.cvidea.cn
 .advert.kf5.com
@@ -22441,7 +22439,6 @@ TAG:^adfilter-unblock-request-Aij-Cij$
 TAG:^adfilter-unblock-request-Aj-Cj$
 .simba.taobao.com/\?name=mcad
 .online.unionpay.com/ads/
-.airenti.in/.*/
 .adjs.8591.com.tw
 
 {-block \
