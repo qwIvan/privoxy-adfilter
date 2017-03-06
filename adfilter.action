@@ -5472,6 +5472,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.edncui.net
 .pjtymy.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12056,6 +12057,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.edncui.net
 .pjtymy.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -17857,6 +17859,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.edncui.net
 .pjtymy.cn
 ad.*.
 /(.*/)?js/tc\.js
