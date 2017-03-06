@@ -5470,6 +5470,9 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.cn/vs\.php\?id=
+.*.cn/vs\.php\?id=
+.pjtymy.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12051,6 +12054,9 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.cn/vs\.php\?id=
+.*.cn/vs\.php\?id=
+.pjtymy.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -17851,6 +17857,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.pjtymy.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18533,6 +18540,8 @@ js*./(.*/)?i\.js\?
 .*.com/code\.php\?z=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.cn/vs\.php\?id=
+.*.cn/vs\.php\?id=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
