@@ -37,8 +37,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.meitui.org/.*\.js
-.mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1486,6 +1484,7 @@ TAG:^adfilter-block-dnt$
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
 .meiyouad.com/static/pc/img/111\.gif
+.meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
 .meijukankan.net/Uploads/images/ourads\.gif
@@ -1518,6 +1517,7 @@ TAG:^adfilter-block-dnt$
 .mahua.com/www/default/js/replace_ab\.js
 .mahua.com/www/default/js/mahua_show\.js
 .mahua.com/api/
+.mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
@@ -4302,6 +4302,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantaico.com
 .wangsufast.com
 .w65p.com
+.w3989.com
 .vvvulqn7.com
 .vtale.org
 .vsnoon.com
@@ -5469,7 +5470,6 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.w3989.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6618,8 +6618,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.meitui.org/.*\.js
-.mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -8067,6 +8065,7 @@ TAG:^adfilter-block-elem$
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
 .meiyouad.com/static/pc/img/111\.gif
+.meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
 .meijukankan.net/Uploads/images/ourads\.gif
@@ -8099,6 +8098,7 @@ TAG:^adfilter-block-elem$
 .mahua.com/www/default/js/replace_ab\.js
 .mahua.com/www/default/js/mahua_show\.js
 .mahua.com/api/
+.mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
@@ -10883,6 +10883,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantaico.com
 .wangsufast.com
 .w65p.com
+.w3989.com
 .vvvulqn7.com
 .vtale.org
 .vsnoon.com
@@ -12050,7 +12051,6 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.w3989.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13195,8 +13195,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.meitui.org/.*\.js
-.mahoupao.net/api\.php\?mod=ad&
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14588,6 +14586,7 @@ TAG:^adfilter-block-request$
 .meizhou.com/images/topbanner
 .meiyouad.com/user/admin\?
 .meiyouad.com/static/pc/img/111\.gif
+.meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
 .meijukankan.net/Uploads/images/ourads\.gif
@@ -14618,6 +14617,7 @@ TAG:^adfilter-block-request$
 .mail.pchome.com.tw/img/classifieds/300120\.gif
 .mahua.com/www/default/js/replace_ab\.js
 .mahua.com/www/default/js/mahua_show\.js
+.mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
@@ -17205,6 +17205,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantaico.com
 .wangsufast.com
 .w65p.com
+.w3989.com
 .vvvulqn7.com
 .vtale.org
 .videondun.com
@@ -17850,7 +17851,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.w3989.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
