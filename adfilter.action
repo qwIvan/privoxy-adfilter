@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -5471,6 +5472,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.8mfty.com
 .edncui.net
 .pjtymy.cn
 /.*\.cn/show\?id=
@@ -6621,6 +6623,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -12055,6 +12058,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.8mfty.com
 .edncui.net
 .pjtymy.cn
 /.*\.cn/show\?id=
@@ -13201,6 +13205,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -17856,6 +17861,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.8mfty.com
 .edncui.net
 .pjtymy.cn
 ad.*.
