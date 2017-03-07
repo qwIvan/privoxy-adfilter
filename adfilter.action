@@ -1358,8 +1358,8 @@ TAG:^adfilter-block-dnt$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
-.nga.*./(.*/)?proxy/cache_attach/ds_list\.js
-.nga.*./(.*/)?common_res/js_adscommon\.js
+.nga*./(.*/)?proxy/cache_attach/ds_list\.js
+.nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -3627,8 +3627,7 @@ TAG:^adfilter-block-dnt$
 .512ms.com/js/index_ggw_show\.js
 .51.com/up/bdfmt/
 .50megumi.com.tw
-.50970.com/picimg/.*120\.gif
-.50970.com/js/jd_view/jbox_l05\.html
+.50970.com/js/gg\.js
 .506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
@@ -7947,8 +7946,8 @@ TAG:^adfilter-block-elem$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
-.nga.*./(.*/)?proxy/cache_attach/ds_list\.js
-.nga.*./(.*/)?common_res/js_adscommon\.js
+.nga*./(.*/)?proxy/cache_attach/ds_list\.js
+.nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -10216,8 +10215,7 @@ TAG:^adfilter-block-elem$
 .512ms.com/js/index_ggw_show\.js
 .51.com/up/bdfmt/
 .50megumi.com.tw
-.50970.com/picimg/.*120\.gif
-.50970.com/js/jd_view/jbox_l05\.html
+.50970.com/js/gg\.js
 .506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
@@ -14481,8 +14479,8 @@ TAG:^adfilter-block-request$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
-.nga.*./(.*/)?proxy/cache_attach/ds_list\.js
-.nga.*./(.*/)?common_res/js_adscommon\.js
+.nga*./(.*/)?proxy/cache_attach/ds_list\.js
+.nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -16642,8 +16640,7 @@ TAG:^adfilter-block-request$
 .51688.cc/ya/
 .512ms.com/js/index_ggw_show\.js
 .51.com/up/bdfmt/
-.50970.com/picimg/.*120\.gif
-.50970.com/js/jd_view/jbox_l05\.html
+.50970.com/js/gg\.js
 .506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
