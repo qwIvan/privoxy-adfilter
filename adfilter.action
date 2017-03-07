@@ -37,7 +37,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1350,6 +1349,7 @@ TAG:^adfilter-block-dnt$
 .ntpcb.com/html/channel/citypark/images/p83_shouqian_
 .nownews.com/public/combat300x600\.gif
 .nownews.com/assets/js/setAds\.js
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .north-plus.net/images/men
 .nokiacn.net/gg.*\.htm
 .no1.168abc.net/upload/
@@ -4219,6 +4219,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xsu.cc
 .xq199.com
 .xq12.com
+.xpqfc.com
 .xp3366.com
 .xnjpg.com
 .xmshqh.com
@@ -4518,6 +4519,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .polkoa.com
 .pofang.com
 .pnhfc.com
+.pjtymy.cn
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
@@ -4529,6 +4531,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .p0y.cn/.*\.swf
 .ou188.com
 .orchidscape.net
+.onlifjj.net
 .onetad.com
 .okokw.com
 .okm918.com
@@ -4884,6 +4887,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .eeee500.com
 .ee4kdushuba.com
 .eduzzjy.com
+.edncui.net
 .ecuc123.net
 .easou.com
 .ea3721.com
@@ -5167,6 +5171,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .913h6.cn
 .911.cc
 .8ox.cn
+.8mfty.com
 .8le8le.com
 .8hykthze.cricket
 .892155.com
@@ -5230,6 +5235,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .5207470.com
 .51weidashi.com
 .51junpin.net
+.51jumintong.com
 .51ads.com
 .4kt2.com
 .4ggww.com
@@ -5468,16 +5474,10 @@ pd2.js*.
 .*.com/cpc/.*\.ashx\?
 /.*\.com/code\.php\?z=
 .*.com/code\.php\?z=
-/.*\.cn/showpage\.asp\?u=
-.*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
-.onlifjj.net
-.xpqfc.com
-.51jumintong.com
-.8mfty.com
-.edncui.net
-.pjtymy.cn
+/.*\.cn/showpage\.asp\?u=
+.*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6626,7 +6626,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7939,6 +7938,7 @@ TAG:^adfilter-block-elem$
 .ntpcb.com/html/channel/citypark/images/p83_shouqian_
 .nownews.com/public/combat300x600\.gif
 .nownews.com/assets/js/setAds\.js
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .north-plus.net/images/men
 .nokiacn.net/gg.*\.htm
 .no1.168abc.net/upload/
@@ -10808,6 +10808,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xsu.cc
 .xq199.com
 .xq12.com
+.xpqfc.com
 .xp3366.com
 .xnjpg.com
 .xmshqh.com
@@ -11107,6 +11108,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .polkoa.com
 .pofang.com
 .pnhfc.com
+.pjtymy.cn
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
@@ -11118,6 +11120,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .p0y.cn/.*\.swf
 .ou188.com
 .orchidscape.net
+.onlifjj.net
 .onetad.com
 .okokw.com
 .okm918.com
@@ -11473,6 +11476,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .eeee500.com
 .ee4kdushuba.com
 .eduzzjy.com
+.edncui.net
 .ecuc123.net
 .easou.com
 .ea3721.com
@@ -11756,6 +11760,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .913h6.cn
 .911.cc
 .8ox.cn
+.8mfty.com
 .8le8le.com
 .8hykthze.cricket
 .892155.com
@@ -11819,6 +11824,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .5207470.com
 .51weidashi.com
 .51junpin.net
+.51jumintong.com
 .51ads.com
 .4kt2.com
 .4ggww.com
@@ -12057,16 +12063,10 @@ pd2.js*.
 .*.com/cpc/.*\.ashx\?
 /.*\.com/code\.php\?z=
 .*.com/code\.php\?z=
-/.*\.cn/showpage\.asp\?u=
-.*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
-.onlifjj.net
-.xpqfc.com
-.51jumintong.com
-.8mfty.com
-.edncui.net
-.pjtymy.cn
+/.*\.cn/showpage\.asp\?u=
+.*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13211,7 +13211,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.nownews.com/ad2004/170303-155750-4753p\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14473,6 +14472,7 @@ TAG:^adfilter-block-request$
 .ntpcb.com/html/channel/citypark/images/p83_shouqian_
 .nownews.com/public/combat300x600\.gif
 .nownews.com/assets/js/setAds\.js
+.nownews.com/ad2004/170303-155750-4753p\.jpg
 .north-plus.net/images/men
 .nokiacn.net/gg.*\.htm
 .no1.168abc.net/upload/
@@ -17160,6 +17160,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xulizui6.com
 .xtxa.net
 .xq199.com
+.xpqfc.com
 .xnjpg.com
 .xmcmn.com
 .xlwnx.com
@@ -17349,6 +17350,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .polkoa.com
 .pofang.com
 .pnhfc.com
+.pjtymy.cn
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
@@ -17358,6 +17360,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .p0y.cn/.*\.swf
 .ou188.com
 .orchidscape.net
+.onlifjj.net
 .okm918.com
 .oikxlcv.wang
 .officeme.cn
@@ -17571,6 +17574,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .eiv.baidu.com
 .eeee500.com
 .eduzzjy.com
+.edncui.net
 .ecuc123.net
 .e719.net
 .e708.net
@@ -17741,6 +17745,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .91zgm.com
 .91ysa.com
 .91xry.com
+.8mfty.com
 .8hykthze.cricket
 .892155.com
 .88rpg.net
@@ -17772,6 +17777,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .52kmk.com
 .5207470.com
 .51weidashi.com
+.51jumintong.com
 .4ggww.com
 .456juhd.com
 .3ygww.com
@@ -17867,12 +17873,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.onlifjj.net
-.xpqfc.com
-.51jumintong.com
-.8mfty.com
-.edncui.net
-.pjtymy.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18553,10 +18553,10 @@ js*./(.*/)?i\.js\?
 .*.com/cpc/.*\.ashx\?
 /.*\.com/code\.php\?z=
 .*.com/code\.php\?z=
-/.*\.cn/showpage\.asp\?u=
-.*.cn/showpage\.asp\?u=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+/.*\.cn/showpage\.asp\?u=
+.*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
