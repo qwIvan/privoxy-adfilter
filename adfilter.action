@@ -37,6 +37,11 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
+.39.net/test/k\.js
+.hao123.com/ifeed/cpc\?
+.bdstatic.com/.*/static/common/js/djlib_
+.1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5472,6 +5477,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.5imoney.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6620,6 +6626,11 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
+.39.net/test/k\.js
+.hao123.com/ifeed/cpc\?
+.bdstatic.com/.*/static/common/js/djlib_
+.1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12055,6 +12066,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.5imoney.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13199,6 +13211,11 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
+.39.net/test/k\.js
+.hao123.com/ifeed/cpc\?
+.bdstatic.com/.*/static/common/js/djlib_
+.1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -17854,6 +17871,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.5imoney.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
