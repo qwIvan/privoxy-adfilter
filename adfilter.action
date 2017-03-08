@@ -40,7 +40,6 @@ TAG:^adfilter-block-dnt$
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/test/k\.js
 .hao123.com/ifeed/cpc\?
-.bdstatic.com/.*/static/common/js/djlib_
 .1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
@@ -5836,6 +5835,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6629,7 +6629,6 @@ TAG:^adfilter-block-elem$
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/test/k\.js
 .hao123.com/ifeed/cpc\?
-.bdstatic.com/.*/static/common/js/djlib_
 .1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
@@ -12425,6 +12424,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13214,7 +13214,6 @@ TAG:^adfilter-block-request$
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/test/k\.js
 .hao123.com/ifeed/cpc\?
-.bdstatic.com/.*/static/common/js/djlib_
 .1.hao123.com
 .oneinstack.com/images/
 .zzz4.com/JS_AD/
@@ -18218,6 +18217,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
