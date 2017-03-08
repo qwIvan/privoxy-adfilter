@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -205,7 +206,6 @@ TAG:^adfilter-block-dnt$
 .yjyc-ask.com/res/ads/
 .yjhas.net
 .yizhai.net/myjs/f.*\.js
-.yiyihd.com/data/attachment/portal/
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
@@ -1317,7 +1317,6 @@ TAG:^adfilter-block-dnt$
 .orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
-.opticsky.cn/images/2016/vlf2016\.gif
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
@@ -1328,7 +1327,6 @@ TAG:^adfilter-block-dnt$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
-.oneinstack.com/wp-content/uploads/2015/05/oneinstack-
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -6622,6 +6620,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6790,7 +6789,6 @@ TAG:^adfilter-block-elem$
 .yjyc-ask.com/res/ads/
 .yjhas.net
 .yizhai.net/myjs/f.*\.js
-.yiyihd.com/data/attachment/portal/
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
@@ -7902,7 +7900,6 @@ TAG:^adfilter-block-elem$
 .orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
-.opticsky.cn/images/2016/vlf2016\.gif
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
@@ -7913,7 +7910,6 @@ TAG:^adfilter-block-elem$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
-.oneinstack.com/wp-content/uploads/2015/05/oneinstack-
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -13203,6 +13199,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13367,7 +13364,6 @@ TAG:^adfilter-block-request$
 .yktang8.com/.*\.gif
 .yjyc-ask.com/res/ads/
 .yizhai.net/myjs/f.*\.js
-.yiyihd.com/data/attachment/portal/
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
@@ -14432,7 +14428,6 @@ TAG:^adfilter-block-request$
 .orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
-.opticsky.cn/images/2016/vlf2016\.gif
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
@@ -14442,7 +14437,6 @@ TAG:^adfilter-block-request$
 .open-open.com/jp240200\.jpg
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
-.oneinstack.com/wp-content/uploads/2015/05/oneinstack-
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
