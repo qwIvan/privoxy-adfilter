@@ -37,11 +37,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.39.net/PictureLib/A/f76/20161102/org_802389\.gif
-.39.net/test/k\.js
-.hao123.com/ifeed/cpc\?
-.1.hao123.com
-.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1331,6 +1326,7 @@ TAG:^adfilter-block-dnt$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
+.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -2209,6 +2205,7 @@ TAG:^adfilter-block-dnt$
 .hao123img.com/res/js/common/erjiAdv\.
 .hao123img.com/res/ecom/
 .hao123.com/zt/
+.hao123.com/ifeed/cpc\?
 .hao123.cn/images/vip\.png
 .hao.rising.cn/images/nsdgg\.jpg
 .hao.rising.cn/catalog/bottom\.html
@@ -3672,7 +3669,9 @@ TAG:^adfilter-block-dnt$
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/js/google/
 .39.net/js/baidu/
 .39.net/creative/
@@ -3941,6 +3940,7 @@ TAG:^adfilter-block-dnt$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
+.1.hao123.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -5219,6 +5219,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .61.152.223.15
 .5mnh.com
 .5leji.com
+.5imoney.com
 .59519.com
 .592man.com
 .58.215.179.159
@@ -5476,7 +5477,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.5imoney.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5560,6 +5560,7 @@ tan.js*.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?stoneip_Sidebar\.png
+/(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
@@ -5835,7 +5836,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6626,11 +6626,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.39.net/PictureLib/A/f76/20161102/org_802389\.gif
-.39.net/test/k\.js
-.hao123.com/ifeed/cpc\?
-.1.hao123.com
-.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7920,6 +7915,7 @@ TAG:^adfilter-block-elem$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
+.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -8798,6 +8794,7 @@ TAG:^adfilter-block-elem$
 .hao123img.com/res/js/common/erjiAdv\.
 .hao123img.com/res/ecom/
 .hao123.com/zt/
+.hao123.com/ifeed/cpc\?
 .hao123.cn/images/vip\.png
 .hao.rising.cn/images/nsdgg\.jpg
 .hao.rising.cn/catalog/bottom\.html
@@ -10261,7 +10258,9 @@ TAG:^adfilter-block-elem$
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/js/google/
 .39.net/js/baidu/
 .39.net/creative/
@@ -10530,6 +10529,7 @@ TAG:^adfilter-block-elem$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
+.1.hao123.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -11808,6 +11808,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .61.152.223.15
 .5mnh.com
 .5leji.com
+.5imoney.com
 .59519.com
 .592man.com
 .58.215.179.159
@@ -12065,7 +12066,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.5imoney.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12149,6 +12149,7 @@ tan.js*.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?stoneip_Sidebar\.png
+/(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
@@ -12424,7 +12425,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13211,11 +13211,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.39.net/PictureLib/A/f76/20161102/org_802389\.gif
-.39.net/test/k\.js
-.hao123.com/ifeed/cpc\?
-.1.hao123.com
-.oneinstack.com/images/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14453,6 +14448,7 @@ TAG:^adfilter-block-request$
 .open-open.com/jp240200\.jpg
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
+.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -15291,6 +15287,7 @@ TAG:^adfilter-block-request$
 .hao123img.com/res/js/common/erjiAdv\.
 .hao123img.com/res/ecom/
 .hao123.com/zt/
+.hao123.com/ifeed/cpc\?
 .hao123.cn/images/vip\.png
 .hao.rising.cn/images/nsdgg\.jpg
 .hao.rising.cn/catalog/bottom\.html
@@ -16685,7 +16682,9 @@ TAG:^adfilter-block-request$
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
+.39.net/PictureLib/A/f76/20161102/org_802389\.gif
 .39.net/js/google/
 .39.net/js/baidu/
 .39.net/creative/
@@ -16942,6 +16941,7 @@ TAG:^adfilter-block-request$
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
+.1.hao123.com
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -17768,6 +17768,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .61.174.50.211
 .61.160.200.*./.*:
 .61.152.223.15
+.5imoney.com
 .592man.com
 .58.215.179.159
 .57union.com
@@ -17870,7 +17871,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.5imoney.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -17951,6 +17951,7 @@ tan.js*.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?stoneip_Sidebar\.png
+/(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
@@ -18217,7 +18218,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?static/common/js/djlib_
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
