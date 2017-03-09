@@ -41,6 +41,8 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.shufazidian.com/float/yanue\.
+.toutiao.com/.*/ad/
 .sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sina.cn/api/article/news_banner\?
 .bmp2.ali213.net/js/
@@ -6641,6 +6643,8 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.shufazidian.com/float/yanue\.
+.toutiao.com/.*/ad/
 .sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sina.cn/api/article/news_banner\?
 .bmp2.ali213.net/js/
@@ -13237,6 +13241,8 @@ TAG:^adfilter-block-request$
 .hehe1.200218.com
 /.*&pcs=
 /.*&par=
+.shufazidian.com/float/yanue\.
+.toutiao.com/.*/ad/
 .sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sina.cn/api/article/news_banner\?
 .bmp2.ali213.net/js/
