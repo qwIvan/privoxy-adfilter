@@ -37,6 +37,9 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.client.88tours.com
+.qq.com/happyfarm/hotspot_v_9\.swf
+/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6626,6 +6629,9 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.client.88tours.com
+.qq.com/happyfarm/hotspot_v_9\.swf
+/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13211,6 +13217,9 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.client.88tours.com
+.qq.com/happyfarm/hotspot_v_9\.swf
+/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -20401,6 +20410,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.passiontimes.hk/player-
 
 {+client-header-tagger{adfilter-unblock-dnt-R188} \
 }
@@ -21414,6 +21424,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.passiontimes.hk/player-
 
 {+client-header-tagger{adfilter-unblock-elem-R188} \
 }
@@ -22403,6 +22414,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.passiontimes.hk/player-
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
