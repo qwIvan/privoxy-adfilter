@@ -41,6 +41,8 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.dio66.net/images/.*\.gif
+.pmb.tj.ali213.net/js/
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1336,7 +1338,6 @@ TAG:^adfilter-block-dnt$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
-.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -6644,6 +6645,8 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.dio66.net/images/.*\.gif
+.pmb.tj.ali213.net/js/
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7939,7 +7942,6 @@ TAG:^adfilter-block-elem$
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
 .onlinedown.net/newhuagg/.*_pic_
-.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -13243,6 +13245,8 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.dio66.net/images/.*\.gif
+.pmb.tj.ali213.net/js/
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14486,7 +14490,6 @@ TAG:^adfilter-block-request$
 .open-open.com/jp240200\.jpg
 .open-open.com/j300250n\.jpg
 .onlinedown.net/zhuangjiad/
-.oneinstack.com/images/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
