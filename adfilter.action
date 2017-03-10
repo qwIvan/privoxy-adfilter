@@ -1046,9 +1046,6 @@ TAG:^adfilter-block-dnt$
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/bg/1666\.js
-.quledu.com/style/wap\.js
-.quledu.com/js/nrh\.js
-.quledu.com/ex\?i=
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -5932,16 +5929,16 @@ wxh.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R17} \
 }
-
-{+client-header-tagger{adfilter-block-dnt-R18} \
-}
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R19} \
+{+client-header-tagger{adfilter-block-dnt-R18} \
 }
 .sinaimg.cn
+
+{+client-header-tagger{adfilter-block-dnt-R19} \
+}
 
 {+client-header-tagger{adfilter-block-dnt-R20} \
 }
@@ -6364,27 +6361,27 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-dnt-R118} \
 }
-
-{+client-header-tagger{adfilter-block-dnt-R119} \
-}
 /(.*/)?img/br650\.gif
 /(.*/)?img/br300\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R120} \
+{+client-header-tagger{adfilter-block-dnt-R119} \
 }
 .oeya.com
 
-{+client-header-tagger{adfilter-block-dnt-R121} \
+{+client-header-tagger{adfilter-block-dnt-R120} \
 }
 .howbbs.net
 
-{+client-header-tagger{adfilter-block-dnt-R122} \
+{+client-header-tagger{adfilter-block-dnt-R121} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-dnt-R123} \
+{+client-header-tagger{adfilter-block-dnt-R122} \
 }
 .url.cn
+
+{+client-header-tagger{adfilter-block-dnt-R123} \
+}
 
 {+client-header-tagger{adfilter-block-dnt-R124} \
 }
@@ -7650,9 +7647,6 @@ TAG:^adfilter-block-elem$
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/bg/1666\.js
-.quledu.com/style/wap\.js
-.quledu.com/js/nrh\.js
-.quledu.com/ex\?i=
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -12536,16 +12530,16 @@ wxh.js*.
 
 {+client-header-tagger{adfilter-block-elem-R17} \
 }
-
-{+client-header-tagger{adfilter-block-elem-R18} \
-}
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-elem-R19} \
+{+client-header-tagger{adfilter-block-elem-R18} \
 }
 .sinaimg.cn
+
+{+client-header-tagger{adfilter-block-elem-R19} \
+}
 
 {+client-header-tagger{adfilter-block-elem-R20} \
 }
@@ -12968,27 +12962,27 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-elem-R118} \
 }
-
-{+client-header-tagger{adfilter-block-elem-R119} \
-}
 /(.*/)?img/br650\.gif
 /(.*/)?img/br300\.gif
 
-{+client-header-tagger{adfilter-block-elem-R120} \
+{+client-header-tagger{adfilter-block-elem-R119} \
 }
 .oeya.com
 
-{+client-header-tagger{adfilter-block-elem-R121} \
+{+client-header-tagger{adfilter-block-elem-R120} \
 }
 .howbbs.net
 
-{+client-header-tagger{adfilter-block-elem-R122} \
+{+client-header-tagger{adfilter-block-elem-R121} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-elem-R123} \
+{+client-header-tagger{adfilter-block-elem-R122} \
 }
 .url.cn
+
+{+client-header-tagger{adfilter-block-elem-R123} \
+}
 
 {+client-header-tagger{adfilter-block-elem-R124} \
 }
@@ -14213,9 +14207,6 @@ TAG:^adfilter-block-request$
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/bg/1666\.js
-.quledu.com/style/wap\.js
-.quledu.com/js/nrh\.js
-.quledu.com/ex\?i=
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -19236,13 +19227,13 @@ wxhfm.html*.
 /(.*/)?wxh\.js
 wxh.js*.
 
-{+client-header-tagger{adfilter-block-request-R18} \
+{+client-header-tagger{adfilter-block-request-R17} \
 }
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-request-R19} \
+{+client-header-tagger{adfilter-block-request-R18} \
 }
 .sinaimg.cn
 
@@ -19619,24 +19610,24 @@ dealer1.gif*.
 }
 .qpic.cn
 
-{+client-header-tagger{adfilter-block-request-R119} \
+{+client-header-tagger{adfilter-block-request-R118} \
 }
 /(.*/)?img/br650\.gif
 /(.*/)?img/br300\.gif
 
-{+client-header-tagger{adfilter-block-request-R120} \
+{+client-header-tagger{adfilter-block-request-R119} \
 }
 .oeya.com
 
-{+client-header-tagger{adfilter-block-request-R121} \
+{+client-header-tagger{adfilter-block-request-R120} \
 }
 .howbbs.net
 
-{+client-header-tagger{adfilter-block-request-R122} \
+{+client-header-tagger{adfilter-block-request-R121} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-request-R123} \
+{+client-header-tagger{adfilter-block-request-R122} \
 }
 .url.cn
 
