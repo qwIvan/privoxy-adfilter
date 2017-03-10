@@ -14,8 +14,11 @@ TAG:^adfilter-block-dnt$
 .youbian.com
 .yjbys.org
 .yhzm.cc
+.whn.star-media.cn
+.sscm1.mipujia.com
 .scriptwap1.360doc.cn
 .lele999.com
+.hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
 .fuz.cc
@@ -25,6 +28,7 @@ TAG:^adfilter-block-dnt$
 .dn7788.com
 .daima.huoche.net
 .daima.chazidian.com
+.d6.mobaders.com
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
@@ -33,22 +37,10 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 /(.*/)?s\?di=u
-.d6.mobaders.com
-.whn.star-media.cn
-.sscm1.mipujia.com
-.hehe1.200218.com
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.shufazidian.com/float/yanue\.
-.toutiao.com/.*/ad/
-.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
-.sina.cn/api/article/news_banner\?
-.bmp2.ali213.net/js/
-.client.88tours.com
-.qq.com/happyfarm/hotspot_v_9\.swf
-/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -620,6 +612,7 @@ TAG:^adfilter-block-dnt$
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
+.toutiao.com/.*/ad/
 .totuwo.com/wp-content/uploads/20.*\.gif
 .totheglory.im/pic/ttg_
 .totheglory.im/pic/ttg-
@@ -828,6 +821,7 @@ TAG:^adfilter-block-dnt$
 .sinajs.cn/t4/apps/publicity/static/wbad\.js
 .sinaimg.cn/.*_wap_ad_
 .sinaimg.cn/.*/deco/
+.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sinaimg.cn/unipro/
 .sinaimg.cn/mw690/a6a976a2tw1e2naxcbjyoj\.jpg
 .sinaimg.cn/mw690/a6a976a2jw1eptzya6d9cj20go01odgn\.jpg
@@ -874,6 +868,7 @@ TAG:^adfilter-block-dnt$
 .sina.com.cn/201608/04/1427623\.jpg
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
+.sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
 .simplecd.wang/static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
@@ -885,6 +880,7 @@ TAG:^adfilter-block-dnt$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
 .shows.21cn.com
@@ -1084,6 +1080,7 @@ TAG:^adfilter-block-dnt$
 .qq.com/minivideo_v1/vd/res/enttencentvideo\.xml
 .qq.com/livemsg\?
 .qq.com/Index/getAdsAndHotspot
+.qq.com/happyfarm/hotspot_v_9\.swf
 .qq.com/getadv\.
 .qq.com/games/videogame\.htm
 .qq.com/game/footerbar
@@ -2780,6 +2777,7 @@ TAG:^adfilter-block-dnt$
 .cloudfront.net/images/K10/adv/
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
+.client.88tours.com
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -2973,6 +2971,7 @@ TAG:^adfilter-block-dnt$
 .bonbonme.com/js/g1313166/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
+.bmp2.ali213.net/js/
 .bmp1.ali213.net/pubjs/index_sc_utf8\.js
 .bmp1.ali213.net/js/
 .bmp.ali213.net/js/
@@ -4070,6 +4069,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?18touch-guanggao\.
 18touch-guanggao.*.
 /(.*/)?10jqka_info/html/ad_
+/.*\.shuotxts\.com%2Fad
 /.*\.qidian\.com/gameBox\.
 .*.qidian.com/gameBox\.
 /.*\.qidian\.com/bgOps\.
@@ -4666,6 +4666,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kqy1.com
 .koukou7.com
 .koopei.com
+.kmwqxqh.com
 .kmadou.com
 .kldmm.com
 .kld666.com
@@ -5489,7 +5490,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.kmwqxqh.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6616,8 +6616,11 @@ TAG:^adfilter-block-elem$
 .youbian.com
 .yjbys.org
 .yhzm.cc
+.whn.star-media.cn
+.sscm1.mipujia.com
 .scriptwap1.360doc.cn
 .lele999.com
+.hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
 .fuz.cc
@@ -6627,6 +6630,7 @@ TAG:^adfilter-block-elem$
 .dn7788.com
 .daima.huoche.net
 .daima.chazidian.com
+.d6.mobaders.com
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
@@ -6635,22 +6639,10 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 /(.*/)?s\?di=u
-.d6.mobaders.com
-.whn.star-media.cn
-.sscm1.mipujia.com
-.hehe1.200218.com
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.shufazidian.com/float/yanue\.
-.toutiao.com/.*/ad/
-.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
-.sina.cn/api/article/news_banner\?
-.bmp2.ali213.net/js/
-.client.88tours.com
-.qq.com/happyfarm/hotspot_v_9\.swf
-/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7222,6 +7214,7 @@ TAG:^adfilter-block-elem$
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
+.toutiao.com/.*/ad/
 .totuwo.com/wp-content/uploads/20.*\.gif
 .totheglory.im/pic/ttg_
 .totheglory.im/pic/ttg-
@@ -7430,6 +7423,7 @@ TAG:^adfilter-block-elem$
 .sinajs.cn/t4/apps/publicity/static/wbad\.js
 .sinaimg.cn/.*_wap_ad_
 .sinaimg.cn/.*/deco/
+.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sinaimg.cn/unipro/
 .sinaimg.cn/mw690/a6a976a2tw1e2naxcbjyoj\.jpg
 .sinaimg.cn/mw690/a6a976a2jw1eptzya6d9cj20go01odgn\.jpg
@@ -7476,6 +7470,7 @@ TAG:^adfilter-block-elem$
 .sina.com.cn/201608/04/1427623\.jpg
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
+.sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
 .simplecd.wang/static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
@@ -7487,6 +7482,7 @@ TAG:^adfilter-block-elem$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
 .shows.21cn.com
@@ -7686,6 +7682,7 @@ TAG:^adfilter-block-elem$
 .qq.com/minivideo_v1/vd/res/enttencentvideo\.xml
 .qq.com/livemsg\?
 .qq.com/Index/getAdsAndHotspot
+.qq.com/happyfarm/hotspot_v_9\.swf
 .qq.com/getadv\.
 .qq.com/games/videogame\.htm
 .qq.com/game/footerbar
@@ -9382,6 +9379,7 @@ TAG:^adfilter-block-elem$
 .cloudfront.net/images/K10/adv/
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
+.client.88tours.com
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -9575,6 +9573,7 @@ TAG:^adfilter-block-elem$
 .bonbonme.com/js/g1313166/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
+.bmp2.ali213.net/js/
 .bmp1.ali213.net/pubjs/index_sc_utf8\.js
 .bmp1.ali213.net/js/
 .bmp.ali213.net/js/
@@ -10672,6 +10671,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?18touch-guanggao\.
 18touch-guanggao.*.
 /(.*/)?10jqka_info/html/ad_
+/.*\.shuotxts\.com%2Fad
 /.*\.qidian\.com/gameBox\.
 .*.qidian.com/gameBox\.
 /.*\.qidian\.com/bgOps\.
@@ -11268,6 +11268,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kqy1.com
 .koukou7.com
 .koopei.com
+.kmwqxqh.com
 .kmadou.com
 .kldmm.com
 .kld666.com
@@ -12091,7 +12092,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.kmwqxqh.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13217,8 +13217,11 @@ TAG:^adfilter-block-request$
 .146.148.85.61
 .caoimg.top/images/.*\.gif
 .yhzm.cc
+.whn.star-media.cn
+.sscm1.mipujia.com
 .scriptwap1.360doc.cn
 .lele999.com
+.hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
 .fmgoal.com
@@ -13227,6 +13230,7 @@ TAG:^adfilter-block-request$
 .dn7788.com
 .daima.huoche.net
 .daima.chazidian.com
+.d6.mobaders.com
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
@@ -13235,20 +13239,8 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 /(.*/)?s\?di=u
-.d6.mobaders.com
-.whn.star-media.cn
-.sscm1.mipujia.com
-.hehe1.200218.com
 /.*&pcs=
 /.*&par=
-.shufazidian.com/float/yanue\.
-.toutiao.com/.*/ad/
-.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
-.sina.cn/api/article/news_banner\?
-.bmp2.ali213.net/js/
-.client.88tours.com
-.qq.com/happyfarm/hotspot_v_9\.swf
-/.*\.shuotxts\.com%2Fad
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13801,6 +13793,7 @@ TAG:^adfilter-block-request$
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
+.toutiao.com/.*/ad/
 .totuwo.com/wp-content/uploads/20.*\.gif
 .totheglory.im/pic/ttg_
 .totheglory.im/pic/ttg-
@@ -14001,6 +13994,7 @@ TAG:^adfilter-block-request$
 .sinajs.cn/t6/home/js/pl/guide/adforfqy/
 .sinajs.cn/t4/apps/publicity/static/wbad\.js
 .sinaimg.cn/.*_wap_ad_
+.sinaimg.cn/wap/online/cms/article/formal/js/economyClup\.
 .sinaimg.cn/unipro/
 .sinaimg.cn/mw690/a6a976a2tw1e2naxcbjyoj\.jpg
 .sinaimg.cn/mw690/a6a976a2jw1eptzya6d9cj20go01odgn\.jpg
@@ -14046,6 +14040,7 @@ TAG:^adfilter-block-request$
 .sina.com.cn/201608/04/1427623\.jpg
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
+.sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
 .simplecd.wang/static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
@@ -14057,6 +14052,7 @@ TAG:^adfilter-block-request$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
 .shows.21cn.com
@@ -14245,6 +14241,7 @@ TAG:^adfilter-block-request$
 .qq.com/minivideo_v1/vd/res/enttencentvideo\.xml
 .qq.com/livemsg\?
 .qq.com/Index/getAdsAndHotspot
+.qq.com/happyfarm/hotspot_v_9\.swf
 .qq.com/getadv\.
 .qq.com/games/videogame\.htm
 .qq.com/coral/ADS
@@ -15855,6 +15852,7 @@ TAG:^adfilter-block-request$
 .cloudfront.net/images/K10/adv/
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
+.client.88tours.com
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -16042,6 +16040,7 @@ TAG:^adfilter-block-request$
 .bonbonme.com/js/g1313166/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
+.bmp2.ali213.net/js/
 .bmp1.ali213.net/pubjs/index_sc_utf8\.js
 .bmp1.ali213.net/js/
 .bmp.ali213.net/js/
@@ -17092,6 +17091,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?18touch-guanggao\.
 18touch-guanggao.*.
 /(.*/)?10jqka_info/html/ad_
+/.*\.shuotxts\.com%2Fad
 /.*\.qidian\.com/gameBox\.
 .*.qidian.com/gameBox\.
 /.*\.qidian\.com/bgOps\.
@@ -17474,6 +17474,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ksrsy.com
 .kqy1.com
 .koukou7.com
+.kmwqxqh.com
 .kmadou.com
 .kldmm.com
 .kld666.com
@@ -17909,7 +17910,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.kmwqxqh.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20219,6 +20219,7 @@ TAG:^adfilter-unblock-dnt$
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
+.passiontimes.hk/player-
 .ooomm.com/ad/Whoyao_logo114\.png
 .ooomm.com/ad/icon/
 .online.unionpay.com/ads/
@@ -20440,7 +20441,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.passiontimes.hk/player-
 
 {+client-header-tagger{adfilter-unblock-dnt-R188} \
 }
@@ -21239,6 +21239,7 @@ TAG:^adfilter-unblock-elem$
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
+.passiontimes.hk/player-
 .ooomm.com/ad/Whoyao_logo114\.png
 .ooomm.com/ad/icon/
 .online.unionpay.com/ads/
@@ -21454,7 +21455,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.passiontimes.hk/player-
 
 {+client-header-tagger{adfilter-unblock-elem-R188} \
 }
@@ -22239,6 +22239,7 @@ TAG:^adfilter-unblock-request$
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
+.passiontimes.hk/player-
 .ooomm.com/ad/Whoyao_logo114\.png
 .ooomm.com/ad/icon/
 .omusic.com.tw/backend/uploadpic/adindex/
@@ -22444,7 +22445,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.passiontimes.hk/player-
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
