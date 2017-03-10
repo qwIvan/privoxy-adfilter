@@ -2612,7 +2612,7 @@ TAG:^adfilter-block-dnt$
 .dnvod.eu/.*/201
 .dnvod.eu/.*\.jpg
 .dnvod.eu/.*\.gif
-.dnvod.eu/upload/videoInfo/
+.dnvod.eu/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
@@ -9214,7 +9214,7 @@ TAG:^adfilter-block-elem$
 .dnvod.eu/.*/201
 .dnvod.eu/.*\.jpg
 .dnvod.eu/.*\.gif
-.dnvod.eu/upload/videoInfo/
+.dnvod.eu/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
@@ -15699,7 +15699,7 @@ TAG:^adfilter-block-request$
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
-.dnvod.eu/upload/videoInfo/
+.dnvod.eu/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmfans.net/template/haokandemanhhua/images/g_js/
 .dm530.net/pic/fgr/.*\.js
