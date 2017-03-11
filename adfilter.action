@@ -41,6 +41,7 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6643,6 +6644,7 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
+.qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13241,6 +13243,7 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
+.qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
