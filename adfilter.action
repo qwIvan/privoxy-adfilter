@@ -16,7 +16,7 @@ TAG:^adfilter-block-dnt$
 .yhzm.cc
 .whn.star-media.cn
 .sscm1.mipujia.com
-.scriptwap1.360doc.cn
+.wapscript1.360doc.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -37,10 +37,13 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .milk.yesky.com.cn
+.dm.jb51.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pss=
+.mydrivers.com/m/apptuijian\.
+.mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
 .qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
@@ -6620,7 +6623,7 @@ TAG:^adfilter-block-elem$
 .yhzm.cc
 .whn.star-media.cn
 .sscm1.mipujia.com
-.scriptwap1.360doc.cn
+.wapscript1.360doc.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -6641,10 +6644,13 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .milk.yesky.com.cn
+.dm.jb51.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pss=
+.mydrivers.com/m/apptuijian\.
+.mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
 .qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
@@ -13223,7 +13229,7 @@ TAG:^adfilter-block-request$
 .yhzm.cc
 .whn.star-media.cn
 .sscm1.mipujia.com
-.scriptwap1.360doc.cn
+.wapscript1.360doc.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -13243,8 +13249,11 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .milk.yesky.com.cn
+.dm.jb51.net
 /(.*/)?s\?di=u
 /.*&pss=
+.mydrivers.com/m/apptuijian\.
+.mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
 .qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
