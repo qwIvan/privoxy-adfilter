@@ -42,6 +42,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pss=
+.rayfile.com/media/img/rili_
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
@@ -6649,6 +6650,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pdbid=
 /.*&pss=
+.rayfile.com/media/img/rili_
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
@@ -13252,6 +13254,7 @@ TAG:^adfilter-block-request$
 .dm.jb51.net
 /(.*/)?s\?di=u
 /.*&pss=
+.rayfile.com/media/img/rili_
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/news/2017/.*-260\.
 .gtimg.com/www/mobi/js/app-bar-
