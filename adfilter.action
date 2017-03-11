@@ -41,9 +41,6 @@ TAG:^adfilter-block-dnt$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.dio66.net/images/.*\.gif
-.pmb.tj.ali213.net/js/
-.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1200,6 +1197,7 @@ TAG:^adfilter-block-dnt$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
+.pmb.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -2643,6 +2641,7 @@ TAG:^adfilter-block-dnt$
 .dioguitar23.*./(.*/)?images/.*\.gif
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
+.dio66.net/images/.*\.gif
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -3785,6 +3784,7 @@ TAG:^adfilter-block-dnt$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
 .201*.myhard.com
@@ -4842,6 +4842,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gf1353.com
 .gf1352.com
 .gf108.com
+.geryi.com
 .geotmt.com
 .ge95.com
 .gdxxb.com
@@ -5489,7 +5490,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.geryi.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6643,9 +6643,6 @@ TAG:^adfilter-block-elem$
 /.*&pdbid=
 /.*&pcs=
 /.*&par=
-.dio66.net/images/.*\.gif
-.pmb.tj.ali213.net/js/
-.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7802,6 +7799,7 @@ TAG:^adfilter-block-elem$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
+.pmb.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -9245,6 +9243,7 @@ TAG:^adfilter-block-elem$
 .dioguitar23.*./(.*/)?images/.*\.gif
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
+.dio66.net/images/.*\.gif
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -10387,6 +10386,7 @@ TAG:^adfilter-block-elem$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
 .201*.myhard.com
@@ -11444,6 +11444,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gf1353.com
 .gf1352.com
 .gf108.com
+.geryi.com
 .geotmt.com
 .ge95.com
 .gdxxb.com
@@ -12091,7 +12092,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.geryi.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13241,9 +13241,6 @@ TAG:^adfilter-block-request$
 /(.*/)?s\?di=u
 /.*&pcs=
 /.*&par=
-.dio66.net/images/.*\.gif
-.pmb.tj.ali213.net/js/
-.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14354,6 +14351,7 @@ TAG:^adfilter-block-request$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
+.pmb.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -15728,6 +15726,7 @@ TAG:^adfilter-block-request$
 .dioguitar23.*./(.*/)?images/.*\.gif
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
+.dio66.net/images/.*\.gif
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -16820,6 +16819,7 @@ TAG:^adfilter-block-request$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
 .201*.myhard.com
@@ -17578,6 +17578,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gfd80.com
 .gf1352.com
 .gf108.com
+.geryi.com
 .ge95.com
 .gdbly.com
 .fytza.cn
@@ -17909,7 +17910,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.geryi.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
