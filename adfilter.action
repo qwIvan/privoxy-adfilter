@@ -15,8 +15,9 @@ TAG:^adfilter-block-dnt$
 .yjbys.org
 .yhzm.cc
 .whn.star-media.cn
-.sscm1.mipujia.com
 .wapscript1.360doc.cn
+.sscm1.mipujia.com
+.milk.yesky.com.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -26,6 +27,7 @@ TAG:^adfilter-block-dnt$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -36,17 +38,10 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.milk.yesky.com.cn
-.dm.jb51.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
-/.*&pdbid=
 /.*&pss=
-.rayfile.com/media/img/rili_
-.mydrivers.com/m/apptuijian\.
-.mydrivers.com/news/2017/.*-260\.
-.gtimg.com/www/mobi/js/app-bar-
-.qhimg.com/static/.*/common/seed\.js
+/.*&pdbid=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -849,7 +844,6 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
-.sinaimg.cn/large/0066A9h6gw1fbdmctew4cg30qo028agm\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -1031,6 +1025,7 @@ TAG:^adfilter-block-dnt$
 .ref.so/templates/ref/images/client/tg.*\.jpg
 .readnovel.com/js/
 .read.2200book.com/images/bloading\.gif
+.rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
 .rainmall.com/tv/js/bofang
@@ -1152,6 +1147,7 @@ TAG:^adfilter-block-dnt$
 .qianlong.com/vda/
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
+.qhimg.com/static/.*/common/seed\.js
 .qhf168.com/data/attachment/portal/
 .qdmm.com/javascript/SNDAADAltern\.js
 .qdmm.com/javascript/NewSNDAPop\.js
@@ -1411,6 +1407,8 @@ TAG:^adfilter-block-dnt$
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_hsb_677_210\.gif
 .mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*-260\.
+.mydrivers.com/m/apptuijian\.
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mycodes.net/js/
@@ -2257,6 +2255,7 @@ TAG:^adfilter-block-dnt$
 .gtimg.com/.*/adv/
 .gtimg.com/.*/ad/
 .gtimg.com/www/test/300_250\.swf
+.gtimg.com/www/mobi/js/app-bar-
 .gtimg.com/web/default_fodders/300x600_
 .gtimg.com/v/pics/hv1/88/83/1734/112774603\.jpg
 .gtimg.com/sports/images/30090\.jpg
@@ -5796,10 +5795,6 @@ AD2v1.1.js*.
 1867fa6ff2e978a303d41b08e2b30b50.gif*.
 /(.*/)?122300031760\.gif
 122300031760.gif*.
-/(.*/)?120704004751\.gif
-120704004751.gif*.
-/(.*/)?120704004750\.gif
-120704004750.gif*.
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -5853,6 +5848,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -6623,8 +6622,9 @@ TAG:^adfilter-block-elem$
 .yjbys.org
 .yhzm.cc
 .whn.star-media.cn
-.sscm1.mipujia.com
 .wapscript1.360doc.cn
+.sscm1.mipujia.com
+.milk.yesky.com.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -6634,6 +6634,7 @@ TAG:^adfilter-block-elem$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -6644,17 +6645,10 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.milk.yesky.com.cn
-.dm.jb51.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
-/.*&pdbid=
 /.*&pss=
-.rayfile.com/media/img/rili_
-.mydrivers.com/m/apptuijian\.
-.mydrivers.com/news/2017/.*-260\.
-.gtimg.com/www/mobi/js/app-bar-
-.qhimg.com/static/.*/common/seed\.js
+/.*&pdbid=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7457,7 +7451,6 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
-.sinaimg.cn/large/0066A9h6gw1fbdmctew4cg30qo028agm\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -7639,6 +7632,7 @@ TAG:^adfilter-block-elem$
 .ref.so/templates/ref/images/client/tg.*\.jpg
 .readnovel.com/js/
 .read.2200book.com/images/bloading\.gif
+.rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
 .rainmall.com/tv/js/bofang
@@ -7760,6 +7754,7 @@ TAG:^adfilter-block-elem$
 .qianlong.com/vda/
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
+.qhimg.com/static/.*/common/seed\.js
 .qhf168.com/data/attachment/portal/
 .qdmm.com/javascript/SNDAADAltern\.js
 .qdmm.com/javascript/NewSNDAPop\.js
@@ -8019,6 +8014,8 @@ TAG:^adfilter-block-elem$
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_hsb_677_210\.gif
 .mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*-260\.
+.mydrivers.com/m/apptuijian\.
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mycodes.net/js/
@@ -8865,6 +8862,7 @@ TAG:^adfilter-block-elem$
 .gtimg.com/.*/adv/
 .gtimg.com/.*/ad/
 .gtimg.com/www/test/300_250\.swf
+.gtimg.com/www/mobi/js/app-bar-
 .gtimg.com/web/default_fodders/300x600_
 .gtimg.com/v/pics/hv1/88/83/1734/112774603\.jpg
 .gtimg.com/sports/images/30090\.jpg
@@ -12404,10 +12402,6 @@ AD2v1.1.js*.
 1867fa6ff2e978a303d41b08e2b30b50.gif*.
 /(.*/)?122300031760\.gif
 122300031760.gif*.
-/(.*/)?120704004751\.gif
-120704004751.gif*.
-/(.*/)?120704004750\.gif
-120704004750.gif*.
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -12461,6 +12455,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13230,8 +13228,9 @@ TAG:^adfilter-block-request$
 .caoimg.top/images/.*\.gif
 .yhzm.cc
 .whn.star-media.cn
-.sscm1.mipujia.com
 .wapscript1.360doc.cn
+.sscm1.mipujia.com
+.milk.yesky.com.cn
 .lele999.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -13240,6 +13239,7 @@ TAG:^adfilter-block-request$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -13250,15 +13250,8 @@ TAG:^adfilter-block-request$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.milk.yesky.com.cn
-.dm.jb51.net
 /(.*/)?s\?di=u
 /.*&pss=
-.rayfile.com/media/img/rili_
-.mydrivers.com/m/apptuijian\.
-.mydrivers.com/news/2017/.*-260\.
-.gtimg.com/www/mobi/js/app-bar-
-.qhimg.com/static/.*/common/seed\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14034,7 +14027,6 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
 .sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
-.sinaimg.cn/large/0066A9h6gw1fbdmctew4cg30qo028agm\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -14208,6 +14200,7 @@ TAG:^adfilter-block-request$
 .rentiyishu.org/.*\.js
 .ref.so/templates/ref/images/client/tg.*\.jpg
 .read.2200book.com/images/bloading\.gif
+.rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
 .rainmall.com/tv/js/bofang
@@ -14321,6 +14314,7 @@ TAG:^adfilter-block-request$
 .qianmu.org/resource/js/jquery\.ads\.js
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
+.qhimg.com/static/.*/common/seed\.js
 .qhf168.com/data/attachment/portal/
 .qdmm.com/javascript/SNDAADAltern\.js
 .qdmm.com/javascript/NewSNDAPop\.js
@@ -14569,6 +14563,8 @@ TAG:^adfilter-block-request$
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_hsb_677_210\.gif
 .mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*-260\.
+.mydrivers.com/m/apptuijian\.
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mybjx.net/theme/default/js/common/mtibjx\.js
@@ -15377,6 +15373,7 @@ TAG:^adfilter-block-request$
 .gtimg.com/.*/adv/
 .gtimg.com/.*/ad/
 .gtimg.com/www/test/300_250\.swf
+.gtimg.com/www/mobi/js/app-bar-
 .gtimg.com/web/default_fodders/300x600_
 .gtimg.com/v/pics/hv1/88/83/1734/112774603\.jpg
 .gtimg.com/sports/images/30090\.jpg
@@ -18218,10 +18215,6 @@ AD2v1.1.js*.
 1867fa6ff2e978a303d41b08e2b30b50.gif*.
 /(.*/)?122300031760\.gif
 122300031760.gif*.
-/(.*/)?120704004751\.gif
-120704004751.gif*.
-/(.*/)?120704004750\.gif
-120704004750.gif*.
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -18273,6 +18266,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
