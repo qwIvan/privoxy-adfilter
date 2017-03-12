@@ -42,6 +42,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6649,6 +6650,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13252,6 +13254,7 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
+.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
