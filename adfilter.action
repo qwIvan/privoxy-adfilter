@@ -44,6 +44,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.gvm.com.tw/scripts/jquery\.colorbox-
 .cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6657,6 +6658,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.gvm.com.tw/scripts/jquery\.colorbox-
 .cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13266,6 +13268,7 @@ TAG:^adfilter-block-request$
 .js.syiae.com
 /(.*/)?s\?di=u
 /.*&pss=
+.gvm.com.tw/scripts/jquery\.colorbox-
 .cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
