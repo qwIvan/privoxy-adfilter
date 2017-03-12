@@ -38,6 +38,7 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
+.a.fengyx.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
@@ -3242,7 +3243,7 @@ TAG:^adfilter-block-dnt$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/images/promotion/
+.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
@@ -6646,6 +6647,7 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
+.a.fengyx.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
@@ -9850,7 +9852,7 @@ TAG:^adfilter-block-elem$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/images/promotion/
+.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
@@ -13252,6 +13254,7 @@ TAG:^adfilter-block-request$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
+.a.fengyx.com
 /(.*/)?s\?di=u
 /.*&pss=
 .cnbetacdn.com/frontend/vipics/yijian_
@@ -16316,7 +16319,7 @@ TAG:^adfilter-block-request$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/images/promotion/
+.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
