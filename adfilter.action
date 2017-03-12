@@ -39,6 +39,7 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .a.fengyx.com
+.js.syiae.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
@@ -1583,7 +1584,6 @@ TAG:^adfilter-block-dnt$
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
 .linuxidc.com/linuxfile/linux
-.linuxeye.com/ad_buttom\.html
 .linuxeden.com/plus/web_js\.php
 .linkwan.com/gb/javascript/c5-
 .linkwan.com/gb/javascript/b4\.js
@@ -6652,6 +6652,7 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .a.fengyx.com
+.js.syiae.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
@@ -8196,7 +8197,6 @@ TAG:^adfilter-block-elem$
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
 .linuxidc.com/linuxfile/linux
-.linuxeye.com/ad_buttom\.html
 .linuxeden.com/plus/web_js\.php
 .linkwan.com/gb/javascript/c5-
 .linkwan.com/gb/javascript/b4\.js
@@ -13263,6 +13263,7 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .a.fengyx.com
+.js.syiae.com
 /(.*/)?s\?di=u
 /.*&pss=
 .cnbetacdn.com/frontend/vipics/yijian_
@@ -14743,7 +14744,6 @@ TAG:^adfilter-block-request$
 .liu16.com/yuyue\.jpg
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
-.linuxeye.com/ad_buttom\.html
 .linuxeden.com/plus/web_js\.php
 .linkwan.com/gb/javascript/c5-
 .linkwan.com/gb/javascript/b4\.js
