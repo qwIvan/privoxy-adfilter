@@ -19,6 +19,7 @@ TAG:^adfilter-block-dnt$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
@@ -34,18 +35,15 @@ TAG:^adfilter-block-dnt$
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
+.a.fengyx.com
 .52lubo.cn
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.a.fengyx.com
-.js.syiae.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.gvm.com.tw/scripts/jquery\.colorbox-
-.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -2240,6 +2238,7 @@ TAG:^adfilter-block-dnt$
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
 .gwbnsh.net.cn/hd/unicom/ad\.html
+.gvm.com.tw/scripts/jquery\.colorbox-
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
 .gusuwang.com/ymsextweb/images/index/ist_t\.jpg
@@ -2772,6 +2771,7 @@ TAG:^adfilter-block-dnt$
 .cnfol.com/f=ud/Js/Ad
 .cndzys.com/huanlian/
 .cnchu.com/aps/
+.cnbetacdn.com/frontend/vipics/yijian_
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
@@ -3240,11 +3240,11 @@ TAG:^adfilter-block-dnt$
 .alicdn.com/tps/.*-950-90\.
 .alicdn.com/g/mm/afp-cdn/JS/
 .alicdn.com/app/wxbpromotion/.*/js/cpm/cpm_jq\.js
+.ali213.net/.*/promotion/
 .ali213.net/static/js/kv
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
@@ -5792,6 +5792,10 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /(.*/)?1867fa6ff2e978a303d41b08e2b30b50\.gif
@@ -5851,10 +5855,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?30814100318\.gif
-30814100318.gif*.
-/(.*/)?30814100317\.gif
-30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -6633,6 +6633,7 @@ TAG:^adfilter-block-elem$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
@@ -6648,18 +6649,15 @@ TAG:^adfilter-block-elem$
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
+.a.fengyx.com
 .52lubo.cn
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.a.fengyx.com
-.js.syiae.com
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.gvm.com.tw/scripts/jquery\.colorbox-
-.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -8854,6 +8852,7 @@ TAG:^adfilter-block-elem$
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
 .gwbnsh.net.cn/hd/unicom/ad\.html
+.gvm.com.tw/scripts/jquery\.colorbox-
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
 .gusuwang.com/ymsextweb/images/index/ist_t\.jpg
@@ -9386,6 +9385,7 @@ TAG:^adfilter-block-elem$
 .cnfol.com/f=ud/Js/Ad
 .cndzys.com/huanlian/
 .cnchu.com/aps/
+.cnbetacdn.com/frontend/vipics/yijian_
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
@@ -9854,11 +9854,11 @@ TAG:^adfilter-block-elem$
 .alicdn.com/tps/.*-950-90\.
 .alicdn.com/g/mm/afp-cdn/JS/
 .alicdn.com/app/wxbpromotion/.*/js/cpm/cpm_jq\.js
+.ali213.net/.*/promotion/
 .ali213.net/static/js/kv
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
@@ -12406,6 +12406,10 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /(.*/)?1867fa6ff2e978a303d41b08e2b30b50\.gif
@@ -12465,10 +12469,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?30814100318\.gif
-30814100318.gif*.
-/(.*/)?30814100317\.gif
-30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13246,6 +13246,7 @@ TAG:^adfilter-block-request$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
 .gwy.sdsgwy.com
@@ -13260,16 +13261,13 @@ TAG:^adfilter-block-request$
 .baidu.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
+.a.fengyx.com
 .52lubo.cn
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.a.fengyx.com
-.js.syiae.com
 /(.*/)?s\?di=u
 /.*&pss=
-.gvm.com.tw/scripts/jquery\.colorbox-
-.cnbetacdn.com/frontend/vipics/yijian_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -15372,6 +15370,7 @@ TAG:^adfilter-block-request$
 .gxnews.com.cn/cache/wwwads\.js
 .gx.xinhuanet.com/images2007/banner\.htm
 .gwbnsh.net.cn/hd/unicom/ad\.html
+.gvm.com.tw/scripts/jquery\.colorbox-
 .guyizhou.cn/temp/top_banner_
 .gusuwang.com/ymsextweb/javascript/gs
 .gusuwang.com/ymsextweb/images/index/ist_t\.jpg
@@ -15873,6 +15872,7 @@ TAG:^adfilter-block-request$
 .cnfol.com/f=ud/Js/Ad
 .cndzys.com/huanlian/
 .cnchu.com/aps/
+.cnbetacdn.com/frontend/vipics/yijian_
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
@@ -16326,11 +16326,11 @@ TAG:^adfilter-block-request$
 .alicdn.com/tps/.*-950-90\.
 .alicdn.com/g/mm/afp-cdn/JS/
 .alicdn.com/app/wxbpromotion/.*/js/cpm/cpm_jq\.js
+.ali213.net/.*/promotion/
 .ali213.net/static/js/kv
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
-.ali213.net/.*/promotion/
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
 .alabout.com/images/.*\.gif
@@ -18226,6 +18226,10 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?30814100318\.gif
+30814100318.gif*.
+/(.*/)?30814100317\.gif
+30814100317.gif*.
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /(.*/)?1867fa6ff2e978a303d41b08e2b30b50\.gif
@@ -18283,10 +18287,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?30814100318\.gif
-30814100318.gif*.
-/(.*/)?30814100317\.gif
-30814100317.gif*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
