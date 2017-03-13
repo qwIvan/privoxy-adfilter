@@ -1311,7 +1311,7 @@ TAG:^adfilter-block-dnt$
 .p.aty.sohu.com/p\?cat=
 .p.7060.la
 .p.37youyou.com/.*\.jpg
-.oyksoft.com/show/s\.php/
+.oyksoft.com/show/b\.
 .overseaschinesemedia.com/img/.*\.gif
 .ouyaoxiazai.com
 .ousns.net/daohang/
@@ -1331,8 +1331,6 @@ TAG:^adfilter-block-dnt$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
-.onlinedown.net/zhuangjiad/
-.onlinedown.net/newhuagg/.*_pic_
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -4026,8 +4024,6 @@ sinaLoginReward2014.*.
 /(.*/)?opbb/float\.js
 /(.*/)?nowscore/ad/.*
 /(.*/)?nimabdd_1010/.*baidu
-/(.*/)?newhuagg/index_
-/(.*/)?newhuagg/.*_right
 /(.*/)?moneymaker/js/videoplayer\.js
 /(.*/)?moneymaker/js/tmpp\.js
 /(.*/)?moneymaker/js/kppp\.js
@@ -5008,7 +5004,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnbole.net
 .cmaxisolation.com
 .cloudad.asia
-.cjlaoshi.com
 .cj-cy.com
 .cifenqi.com
 .chushoushijian.cn
@@ -5621,7 +5616,6 @@ pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
 /(.*/)?pc/Tpl/baibaipc//js/.*
 /(.*/)?paypic/.*
-/(.*/)?newhuagg/gg_search_
 /(.*/)?new_site_topad[^\w%.-]
 /(.*/)?nanrenpeng/ads/.*
 /(.*/)?moneymaker-banners/ads_
@@ -7919,7 +7913,7 @@ TAG:^adfilter-block-elem$
 .p.aty.sohu.com/p\?cat=
 .p.7060.la
 .p.37youyou.com/.*\.jpg
-.oyksoft.com/show/s\.php/
+.oyksoft.com/show/b\.
 .overseaschinesemedia.com/img/.*\.gif
 .ouyaoxiazai.com
 .ousns.net/daohang/
@@ -7939,8 +7933,6 @@ TAG:^adfilter-block-elem$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
-.onlinedown.net/zhuangjiad/
-.onlinedown.net/newhuagg/.*_pic_
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -10634,8 +10626,6 @@ sinaLoginReward2014.*.
 /(.*/)?opbb/float\.js
 /(.*/)?nowscore/ad/.*
 /(.*/)?nimabdd_1010/.*baidu
-/(.*/)?newhuagg/index_
-/(.*/)?newhuagg/.*_right
 /(.*/)?moneymaker/js/videoplayer\.js
 /(.*/)?moneymaker/js/tmpp\.js
 /(.*/)?moneymaker/js/kppp\.js
@@ -11616,7 +11606,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnbole.net
 .cmaxisolation.com
 .cloudad.asia
-.cjlaoshi.com
 .cj-cy.com
 .cifenqi.com
 .chushoushijian.cn
@@ -12229,7 +12218,6 @@ pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
 /(.*/)?pc/Tpl/baibaipc//js/.*
 /(.*/)?paypic/.*
-/(.*/)?newhuagg/gg_search_
 /(.*/)?new_site_topad[^\w%.-]
 /(.*/)?nanrenpeng/ads/.*
 /(.*/)?moneymaker-banners/ads_
@@ -14473,7 +14461,7 @@ TAG:^adfilter-block-request$
 .p.aty.sohu.com/p\?cat=
 .p.7060.la
 .p.37youyou.com/.*\.jpg
-.oyksoft.com/show/s\.php/
+.oyksoft.com/show/b\.
 .overseaschinesemedia.com/img/.*\.gif
 .ousns.net/daohang/
 .oupeng.com/ezine/res/js/advcontrol\.js
@@ -14492,7 +14480,6 @@ TAG:^adfilter-block-request$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
-.onlinedown.net/zhuangjiad/
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -17060,8 +17047,6 @@ sinaLoginReward2014.*.
 /(.*/)?opbb/float\.js
 /(.*/)?nowscore/ad/.*
 /(.*/)?nimabdd_1010/.*baidu
-/(.*/)?newhuagg/index_
-/(.*/)?newhuagg/.*_right
 /(.*/)?moneymaker/js/videoplayer\.js
 /(.*/)?moneymaker/js/tmpp\.js
 /(.*/)?moneymaker/js/kppp\.js
@@ -18047,7 +18032,6 @@ pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
 /(.*/)?pc/Tpl/baibaipc//js/.*
 /(.*/)?paypic/.*
-/(.*/)?newhuagg/gg_search_
 /(.*/)?new_site_topad[^\w%.-]
 /(.*/)?nanrenpeng/ads/.*
 /(.*/)?moneymaker-banners/ads_
@@ -18449,7 +18433,6 @@ TAG:^adfilter-block-request-Aj-Cj$
 .piaohua.com/js/yzz/
 .pfp.sina.com.cn
 .ouyaoxiazai.com
-.onlinedown.net/newhuagg/.*_pic_
 .myhack58.com/.*0
 .medsci.cn/aimgs/
 .linuxidc.com/linuxfile/linux
@@ -18988,7 +18971,6 @@ gg.*.
 .coinadv.com
 .cnxad.com
 .cloudad.asia
-.cjlaoshi.com
 .cifenqi.com
 .chinesean.com
 .chinauma.net
