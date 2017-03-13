@@ -44,6 +44,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6651,6 +6652,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13254,6 +13256,7 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
+.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
