@@ -44,7 +44,6 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1331,6 +1330,7 @@ TAG:^adfilter-block-dnt$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
+.onlinedown.net/Public/img/bomAD\.jpg
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -6646,7 +6646,6 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7933,6 +7932,7 @@ TAG:^adfilter-block-elem$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
+.onlinedown.net/Public/img/bomAD\.jpg
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -13244,7 +13244,6 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
-.onlinedown.net/Public/img/bomAD\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14480,6 +14479,7 @@ TAG:^adfilter-block-request$
 .opticsky.cn/images/2016/240X60\.png
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
+.onlinedown.net/Public/img/bomAD\.jpg
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
