@@ -10,7 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
-.caoimg.top/images/.*\.gif
+.caoimgs.com/images/.*\.gif
 .jsm.9939.com
 .youbian.com
 .yjbys.org
@@ -6608,7 +6608,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
-.caoimg.top/images/.*\.gif
+.caoimgs.com/images/.*\.gif
 .jsm.9939.com
 .youbian.com
 .yjbys.org
@@ -13207,7 +13207,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
-.caoimg.top/images/.*\.gif
+.caoimgs.com/images/.*\.gif
 .jsm.9939.com
 .yhzm.cc
 .whn.star-media.cn
