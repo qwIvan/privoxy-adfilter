@@ -46,6 +46,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6643,6 +6644,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13236,6 +13238,7 @@ TAG:^adfilter-block-request$
 .dm.sanwen.net
 /(.*/)?s\?di=u
 /.*&pss=
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -20428,7 +20431,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.soku.com/.*/sideads\.
 
 {+client-header-tagger{adfilter-unblock-dnt-R189} \
 }
@@ -21441,7 +21443,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.soku.com/.*/sideads\.
 
 {+client-header-tagger{adfilter-unblock-elem-R189} \
 }
@@ -22430,7 +22431,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.soku.com/.*/sideads\.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
