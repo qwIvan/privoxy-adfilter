@@ -1262,10 +1262,6 @@ TAG:^adfilter-block-dnt$
 .penglai.com.cn/UploadFile/image/.*\.gif
 .pedaily.cn/head/js/m\.js
 .peasyun.com/Uploads/Thumbs/advs_
-.pdim.gs/c885483ba52dc7dacf8a6b635e2e9e62\.jpg
-.pdim.gs/94b6d356ba68b66ef186bfa53543891c\.jpeg
-.pdim.gs/38d04d17157819171093cf6ee88e4a5b\.jpeg
-.pdim.gs/11361cfa7fde20b846c03749bd40409a\.jpeg
 .pcworld.com.cn/Article/UploadFiles/201403/2014031016150885\.jpg
 .pcstore.com.tw/css/myacc_init\.js
 .pcpp.com.cn/news/ad/
@@ -1292,7 +1288,6 @@ TAG:^adfilter-block-dnt$
 .pc6.com/img/
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
-.pbtxt.com/k-
 .patmm.com/ad/
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
@@ -1325,8 +1320,6 @@ TAG:^adfilter-block-dnt$
 .orzx.im/images/downloader\.jpg
 .orzx.im/Document/union/
 .orzx.im/Document/recommend/flashpoint\.html
-.orsoon.com/v1/js/down_hot\.js
-.orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
 .opticsky.cn/images/2016/240X60\.png
@@ -7866,10 +7859,6 @@ TAG:^adfilter-block-elem$
 .penglai.com.cn/UploadFile/image/.*\.gif
 .pedaily.cn/head/js/m\.js
 .peasyun.com/Uploads/Thumbs/advs_
-.pdim.gs/c885483ba52dc7dacf8a6b635e2e9e62\.jpg
-.pdim.gs/94b6d356ba68b66ef186bfa53543891c\.jpeg
-.pdim.gs/38d04d17157819171093cf6ee88e4a5b\.jpeg
-.pdim.gs/11361cfa7fde20b846c03749bd40409a\.jpeg
 .pcworld.com.cn/Article/UploadFiles/201403/2014031016150885\.jpg
 .pcstore.com.tw/css/myacc_init\.js
 .pcpp.com.cn/news/ad/
@@ -7896,7 +7885,6 @@ TAG:^adfilter-block-elem$
 .pc6.com/img/
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
-.pbtxt.com/k-
 .patmm.com/ad/
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
@@ -7929,8 +7917,6 @@ TAG:^adfilter-block-elem$
 .orzx.im/images/downloader\.jpg
 .orzx.im/Document/union/
 .orzx.im/Document/recommend/flashpoint\.html
-.orsoon.com/v1/js/down_hot\.js
-.orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
 .opticsky.cn/images/2016/240X60\.png
@@ -14416,10 +14402,6 @@ TAG:^adfilter-block-request$
 .penglai.com.cn/UploadFile/image/.*\.gif
 .pedaily.cn/head/js/m\.js
 .peasyun.com/Uploads/Thumbs/advs_
-.pdim.gs/c885483ba52dc7dacf8a6b635e2e9e62\.jpg
-.pdim.gs/94b6d356ba68b66ef186bfa53543891c\.jpeg
-.pdim.gs/38d04d17157819171093cf6ee88e4a5b\.jpeg
-.pdim.gs/11361cfa7fde20b846c03749bd40409a\.jpeg
 .pcworld.com.cn/Article/UploadFiles/201403/2014031016150885\.jpg
 .pcstore.com.tw/css/myacc_init\.js
 .pcpp.com.cn/news/ad/
@@ -14446,7 +14428,6 @@ TAG:^adfilter-block-request$
 .pc6.com/img/
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
-.pbtxt.com/k-
 .patmm.com/ad/
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
@@ -14478,8 +14459,6 @@ TAG:^adfilter-block-request$
 .orzx.im/images/downloader\.jpg
 .orzx.im/Document/union/
 .orzx.im/Document/recommend/flashpoint\.html
-.orsoon.com/v1/js/down_hot\.js
-.orsoon.com/v1/da/js\.js
 .orsoon.com/images/.*\.gif
 .orsoon.com*./(.*/)?zhuanti/
 .opticsky.cn/images/2016/240X60\.png
@@ -20230,8 +20209,6 @@ TAG:^adfilter-unblock-dnt$
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
-.ooomm.com/ad/Whoyao_logo114\.png
-.ooomm.com/ad/icon/
 .online.unionpay.com/ads/
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
@@ -20451,6 +20428,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.soku.com/.*/sideads\.
 
 {+client-header-tagger{adfilter-unblock-dnt-R189} \
 }
@@ -21250,8 +21228,6 @@ TAG:^adfilter-unblock-elem$
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
-.ooomm.com/ad/Whoyao_logo114\.png
-.ooomm.com/ad/icon/
 .online.unionpay.com/ads/
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
@@ -21465,6 +21441,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.soku.com/.*/sideads\.
 
 {+client-header-tagger{adfilter-unblock-elem-R189} \
 }
@@ -22250,8 +22227,6 @@ TAG:^adfilter-unblock-request$
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
-.ooomm.com/ad/Whoyao_logo114\.png
-.ooomm.com/ad/icon/
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
 .nceea.cn/Content/images/ad/
@@ -22455,6 +22430,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.soku.com/.*/sideads\.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
