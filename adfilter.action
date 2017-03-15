@@ -11,7 +11,6 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
-.jsm.9939.com
 .youbian.com
 .yjbys.org
 .yhzm.cc
@@ -20,6 +19,7 @@ TAG:^adfilter-block-dnt$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.jsm.9939.com
 .js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -29,6 +29,7 @@ TAG:^adfilter-block-dnt$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.sanwen.net
 .dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
@@ -41,12 +42,10 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.dm.sanwen.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -3212,6 +3211,7 @@ TAG:^adfilter-block-dnt$
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.zdnet.com.cn/www/images/
 .am.szhome.com
 .am.6park.com
@@ -4659,6 +4659,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kqy1.com
 .koukou7.com
 .koopei.com
+.kod4pc293.com
 .kmwqxqh.com
 .kmadou.com
 .kldmm.com
@@ -5483,7 +5484,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.kod4pc293.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6610,7 +6610,6 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
-.jsm.9939.com
 .youbian.com
 .yjbys.org
 .yhzm.cc
@@ -6619,6 +6618,7 @@ TAG:^adfilter-block-elem$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.jsm.9939.com
 .js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -6628,6 +6628,7 @@ TAG:^adfilter-block-elem$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.sanwen.net
 .dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
@@ -6640,12 +6641,10 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.dm.sanwen.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -9811,6 +9810,7 @@ TAG:^adfilter-block-elem$
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.zdnet.com.cn/www/images/
 .am.szhome.com
 .am.6park.com
@@ -11258,6 +11258,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kqy1.com
 .koukou7.com
 .koopei.com
+.kod4pc293.com
 .kmwqxqh.com
 .kmadou.com
 .kldmm.com
@@ -12082,7 +12083,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.kod4pc293.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13210,13 +13210,13 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
-.jsm.9939.com
 .yhzm.cc
 .whn.star-media.cn
 .wapscript1.360doc.cn
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.jsm.9939.com
 .js.syiae.com
 .hehe1.200218.com
 .gzlykj.cn
@@ -13225,6 +13225,7 @@ TAG:^adfilter-block-request$
 .firefang.cn
 .feidalu.com
 .dn7788.com
+.dm.sanwen.net
 .dm.jb51.net
 .daima.huoche.net
 .daima.chazidian.com
@@ -13237,10 +13238,8 @@ TAG:^adfilter-block-request$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.dm.sanwen.net
 /(.*/)?s\?di=u
 /.*&pss=
-.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -16270,6 +16269,7 @@ TAG:^adfilter-block-request$
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.szhome.com
 .am.6park.com
 .alu.cn/aluTrade/Fragments/ListAdvertisementProducts\.
@@ -17462,6 +17462,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ksrsy.com
 .kqy1.com
 .koukou7.com
+.kod4pc293.com
 .kmwqxqh.com
 .kmadou.com
 .kldmm.com
@@ -17899,7 +17900,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.kod4pc293.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
