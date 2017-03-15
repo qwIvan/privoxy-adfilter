@@ -47,6 +47,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.dataguru.cn/site_
 .warting.com/plus/.*\.php\?aid=
 .zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
@@ -6651,6 +6652,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.dataguru.cn/site_
 .warting.com/plus/.*\.php\?aid=
 .zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
@@ -13251,6 +13253,7 @@ TAG:^adfilter-block-request$
 .f1.bizhiku.net
 /(.*/)?s\?di=u
 /.*&pss=
+.dataguru.cn/site_
 .warting.com/plus/.*\.php\?aid=
 .zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
