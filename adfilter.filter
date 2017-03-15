@@ -1794,7 +1794,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R207
 s@^referer(?=:[^\n]*[./](?:5i5j\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R208
-s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|dataguru\.cn|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R209
 s@^referer(?=:[^\n]*[./](?:7958\.com\.cn)):.*@adfilter-unblock-dnt@Ti
@@ -2230,7 +2230,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R207
 s@^referer(?=:[^\n]*[./](?:5i5j\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R208
-s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|dataguru\.cn|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R209
 s@^referer(?=:[^\n]*[./](?:7958\.com\.cn)):.*@adfilter-unblock-elem@Ti
@@ -2743,7 +2743,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-request-R207
 s@^referer(?=:[^\n]*[./](?:5i5j\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R208
-s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|dataguru\.cn|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-request@Ti
+s@^referer(?=:[^\n]*[./](?:66u\.com|changhong\.com|fei3d\.com|oneplusbbs\.com|readboy\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R209
 s@^referer(?=:[^\n]*[./](?:7958\.com\.cn)):.*@adfilter-unblock-request@Ti
