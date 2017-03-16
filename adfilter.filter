@@ -387,7 +387,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R80
 s@^referer(?=:[^\n]*[./](?:gdmm\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R81
-s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.li|hacg\.red|zqnow\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.red|zqnow\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R82
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-dnt@Ti
@@ -906,7 +906,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R80
 s@^referer(?=:[^\n]*[./](?:gdmm\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R81
-s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.li|hacg\.red|zqnow\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.red|zqnow\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R82
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-elem@Ti
@@ -1559,7 +1559,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R8
 s@^referer(?=:[^\n]*[./](?:172\.86\.179\.138|208\.94\.244\.100|208\.94\.244\.98|a88\.us|ac168\.info|ac88\.info|aisex\.com|fdzone\.org|go543\.com|jandown\.com|mimima\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R81
-s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.li|hacg\.red|zqnow\.com)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:hacg\.fi|hacg\.red|zqnow\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R82
 s@^referer(?=:[^\n]*[./](?:hanzify\.net|hanzify\.org)):.*@adfilter-block-request@Ti

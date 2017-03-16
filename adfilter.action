@@ -852,7 +852,6 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
-.sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -5923,6 +5922,7 @@ config.*.
 
 {+client-header-tagger{adfilter-block-dnt-R16} \
 }
+/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
 /(.*/)?wxh\.js
@@ -7458,7 +7458,6 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
-.sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -12529,6 +12528,7 @@ config.*.
 
 {+client-header-tagger{adfilter-block-elem-R16} \
 }
+/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
 /(.*/)?wxh\.js
@@ -14033,7 +14033,6 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
-.sinaimg.cn/large/4bab3bccgw1fakos6x37xj20qe0akq7x\.jpg
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -19233,6 +19232,7 @@ config.*.
 
 {+client-header-tagger{adfilter-block-request-R16} \
 }
+/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
 /(.*/)?wxh\.js
