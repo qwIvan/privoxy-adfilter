@@ -5490,6 +5490,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.net/vs\.php\?id=
 .*.net/vs\.php\?id=
+.zymro.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12095,6 +12096,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.net/vs\.php\?id=
 .*.net/vs\.php\?id=
+.zymro.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -17916,6 +17918,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.zymro.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
