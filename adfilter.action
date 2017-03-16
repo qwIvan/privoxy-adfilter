@@ -47,6 +47,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -5490,6 +5491,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6652,6 +6655,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -12095,6 +12099,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13253,6 +13259,7 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
+.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -18602,6 +18609,8 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
