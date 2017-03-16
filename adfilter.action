@@ -28,6 +28,7 @@ TAG:^adfilter-block-dnt$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.f1.bizhiku.net
 .dn7788.com
 .dm.sanwen.net
 .dm.jb51.net
@@ -42,19 +43,16 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.f1.bizhiku.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.dataguru.cn/site_
-.warting.com/plus/.*\.php\?aid=
-.zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/img/
+.zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
 .zuoche.com/promo/.*\.jspx
@@ -467,6 +465,7 @@ TAG:^adfilter-block-dnt$
 .wbzol.com/swf/352X76\.swf
 .wbzol.com/images/1120-
 .warting.com/plus/hz\.php\?aid=
+.warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
 .wap.xxbiquge.com/.*\.html
 .wanyx.com/Public/js/cqby\.swf
@@ -2667,6 +2666,7 @@ TAG:^adfilter-block-dnt$
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
+.dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
@@ -4712,6 +4712,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jnrsjm.com
 .jlssbz.com
 .jl027.com
+.jkmxy.com
 .jk939.com
 .jiyou2014.com
 .jixing8.net
@@ -5489,7 +5490,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.jkmxy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6633,6 +6633,7 @@ TAG:^adfilter-block-elem$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.f1.bizhiku.net
 .dn7788.com
 .dm.sanwen.net
 .dm.jb51.net
@@ -6647,19 +6648,16 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.f1.bizhiku.net
 /(.*/)?s\?di=u
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.dataguru.cn/site_
-.warting.com/plus/.*\.php\?aid=
-.zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/img/
+.zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
 .zuoche.com/promo/.*\.jspx
@@ -7072,6 +7070,7 @@ TAG:^adfilter-block-elem$
 .wbzol.com/swf/352X76\.swf
 .wbzol.com/images/1120-
 .warting.com/plus/hz\.php\?aid=
+.warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
 .wap.xxbiquge.com/.*\.html
 .wanyx.com/Public/js/cqby\.swf
@@ -9272,6 +9271,7 @@ TAG:^adfilter-block-elem$
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
+.dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
@@ -11317,6 +11317,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jnrsjm.com
 .jlssbz.com
 .jl027.com
+.jkmxy.com
 .jk939.com
 .jiyou2014.com
 .jixing8.net
@@ -12094,7 +12095,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.jkmxy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13236,6 +13236,7 @@ TAG:^adfilter-block-request$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.f1.bizhiku.net
 .dn7788.com
 .dm.sanwen.net
 .dm.jb51.net
@@ -13250,17 +13251,14 @@ TAG:^adfilter-block-request$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-.f1.bizhiku.net
 /(.*/)?s\?di=u
 /.*&pss=
-.dataguru.cn/site_
-.warting.com/plus/.*\.php\?aid=
-.zzc.cn/b1/live_b_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/img/
+.zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
 .zuoche.com/promo/.*\.jspx
@@ -13664,6 +13662,7 @@ TAG:^adfilter-block-request$
 .wbzol.com/swf/352X76\.swf
 .wbzol.com/images/1120-
 .warting.com/plus/hz\.php\?aid=
+.warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
@@ -15759,6 +15758,7 @@ TAG:^adfilter-block-request$
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
+.dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .daohangtx.com/jishudaohang/indextop\.js
@@ -17505,6 +17505,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jnrsjm.com
 .jlssbz.com
 .jl027.com
+.jkmxy.com
 .jk939.com
 .jiyou2014.com
 .jiuku.cc
@@ -17917,7 +17918,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jkmxy.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
