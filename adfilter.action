@@ -1181,7 +1181,7 @@ TAG:^adfilter-block-dnt$
 .pt80.net/source/plugin/fysq_ad/
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
-.property.hk/ad_
+.property.hk/js/adside\.js
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
@@ -7790,7 +7790,7 @@ TAG:^adfilter-block-elem$
 .pt80.net/source/plugin/fysq_ad/
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
-.property.hk/ad_
+.property.hk/js/adside\.js
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
@@ -14350,6 +14350,7 @@ TAG:^adfilter-block-request$
 .pt80.net/source/plugin/fysq_ad/
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
+.property.hk/js/adside\.js
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
@@ -18447,7 +18448,6 @@ TAG:^adfilter-block-request-Aj-Cj$
 .same*.jrj.com.cn
 .qqread.com/.*js/
 .qianlong.com/vda/
-.property.hk/ad_
 .piaohua.com/js/yzz/
 .pfp.sina.com.cn
 .ouyaoxiazai.com
