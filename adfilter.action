@@ -47,6 +47,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -5491,6 +5492,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.lyaeccn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6654,6 +6656,7 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -12098,6 +12101,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.lyaeccn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13257,6 +13261,7 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
+.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -17921,6 +17926,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.lyaeccn.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
