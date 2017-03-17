@@ -47,8 +47,6 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.shandian.biz/a/ad\.js
-.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -920,6 +918,7 @@ TAG:^adfilter-block-dnt$
 .shangdu.com/lyinfo/ad/
 .shang.hlgnet.net/code/
 .shang.hlgnet.com/code/
+.shandian.biz/a/ad\.js
 .sh114so.com
 .sh114so.com/js/nm.*\.js
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
@@ -2771,6 +2770,7 @@ TAG:^adfilter-block-dnt$
 .cmsjs.eastmoney.com
 .club.pchome.net/.*/localexchange\.php
 .cloudfront.net/images/K10/adv/
+.cloudfront-666.kxcdn.com/v4\.js
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
@@ -4131,6 +4131,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
+.zymro.com
 .ztdsp.com
 .zsdexun.com.cn
 .zrpfk.com
@@ -4989,6 +4990,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cpcv.cc
 .cpc.cc
 .couqm.com.cn
+.cosoyoo.com
 .corocksi.com
 .cooolyi.cn
 .coolnay.com
@@ -5457,6 +5459,8 @@ pd2.js*.
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 /(.*/)?99vjj/.*
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.net/showpage\.asp\?u=
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
@@ -5487,10 +5491,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.net/vs\.php\?id=
-.*.net/vs\.php\?id=
-.cosoyoo.com
-.zymro.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5923,9 +5923,9 @@ config.*.
 
 {+client-header-tagger{adfilter-block-dnt-R16} \
 }
-/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
+/(.*/)?wxh_asy\.js
 /(.*/)?wxh\.js
 wxh.js*.
 
@@ -6654,8 +6654,6 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.shandian.biz/a/ad\.js
-.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7527,6 +7525,7 @@ TAG:^adfilter-block-elem$
 .shangdu.com/lyinfo/ad/
 .shang.hlgnet.net/code/
 .shang.hlgnet.com/code/
+.shandian.biz/a/ad\.js
 .sh114so.com
 .sh114so.com/js/nm.*\.js
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
@@ -9378,6 +9377,7 @@ TAG:^adfilter-block-elem$
 .cmsjs.eastmoney.com
 .club.pchome.net/.*/localexchange\.php
 .cloudfront.net/images/K10/adv/
+.cloudfront-666.kxcdn.com/v4\.js
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
@@ -10738,6 +10738,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
+.zymro.com
 .ztdsp.com
 .zsdexun.com.cn
 .zrpfk.com
@@ -11596,6 +11597,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cpcv.cc
 .cpc.cc
 .couqm.com.cn
+.cosoyoo.com
 .corocksi.com
 .cooolyi.cn
 .coolnay.com
@@ -12064,6 +12066,8 @@ pd2.js*.
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 /(.*/)?99vjj/.*
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.net/showpage\.asp\?u=
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
@@ -12094,10 +12098,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.net/vs\.php\?id=
-.*.net/vs\.php\?id=
-.cosoyoo.com
-.zymro.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12530,9 +12530,9 @@ config.*.
 
 {+client-header-tagger{adfilter-block-elem-R16} \
 }
-/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
+/(.*/)?wxh_asy\.js
 /(.*/)?wxh\.js
 wxh.js*.
 
@@ -13257,8 +13257,6 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
-.shandian.biz/a/ad\.js
-.cloudfront-666.kxcdn.com/v4\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14101,6 +14099,7 @@ TAG:^adfilter-block-request$
 .shangdu.com/lyinfo/ad/
 .shang.hlgnet.net/code/
 .shang.hlgnet.com/code/
+.shandian.biz/a/ad\.js
 .sh114so.com/js/nm.*\.js
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
 .sh.sina.com.cn/iframe/522/
@@ -15857,6 +15856,7 @@ TAG:^adfilter-block-request$
 .cnbeta.com/assets/images/.*_670_90\.
 .cna5.cc/skins/js/
 .cloudfront.net/images/K10/adv/
+.cloudfront-666.kxcdn.com/v4\.js
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
@@ -17143,6 +17143,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?freeone/htm/2011\.php
 .zzrcz.com
 .zzbaowen.com
+.zymro.com
 .zsdexun.com.cn
 .zrpfk.com
 .zp22938576.com
@@ -17682,6 +17683,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cpms.cc
 .cpcv.cc
 .couqm.com.cn
+.cosoyoo.com
 .corocksi.com
 .cooolyi.cn
 .code668.com
@@ -17919,8 +17921,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.cosoyoo.com
-.zymro.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18579,6 +18579,8 @@ js*./(.*/)?i\.js\?
 /(.*/)?fshow\.php\?id=
 /(.*/)?cpc/.*\.ashx\?u=
 /(.*/)?c/i\.php\?id=
+/.*\.net/vs\.php\?id=
+.*.net/vs\.php\?id=
 /.*\.net/showpage\.asp\?u=
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
@@ -18605,8 +18607,6 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.net/vs\.php\?id=
-.*.net/vs\.php\?id=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
@@ -19235,9 +19235,9 @@ config.*.
 
 {+client-header-tagger{adfilter-block-request-R16} \
 }
-/(.*/)?wxh_asy\.js
 /(.*/)?wxhfm\.html
 wxhfm.html*.
+/(.*/)?wxh_asy\.js
 /(.*/)?wxh\.js
 wxh.js*.
 
@@ -20266,6 +20266,7 @@ TAG:^adfilter-unblock-dnt$
 .jjjgame.com/plus/ad_
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
+.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
 .ifeng.com/mfp/mfpMultipleDelivery\.do\?t=js&CHANNEL=v&ADUNITID=216&
 .icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -20457,7 +20458,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 
 {+client-header-tagger{adfilter-unblock-dnt-R189} \
 }
@@ -21279,6 +21279,7 @@ TAG:^adfilter-unblock-elem$
 .jjjgame.com/plus/ad_
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
+.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
 .ifeng.com/mfp/mfpMultipleDelivery\.do\?t=js&CHANNEL=v&ADUNITID=216&
 .icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -21466,7 +21467,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 
 {+client-header-tagger{adfilter-unblock-elem-R189} \
 }
@@ -22273,6 +22273,7 @@ TAG:^adfilter-unblock-request$
 .jjjgame.com/plus/ad_
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
+.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
 .ifeng.com/mfp/mfpMultipleDelivery\.do\?t=js&CHANNEL=v&ADUNITID=216&
 .icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -22451,7 +22452,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
