@@ -47,6 +47,8 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6656,6 +6658,8 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13261,6 +13265,8 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -20464,6 +20470,8 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.ad4.on.cc/web/
+.on.cc/html/AC_RunActiveContent\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R189} \
 }
@@ -20908,6 +20916,7 @@ urchin.js*.
 /(.*/)?hitCount_
 /(.*/)?hitCount\.
 hitCount.*.
+.stickyadstv.com/vast/vpaid-adapter/
 
 {+client-header-tagger{adfilter-unblock-dnt-R287} \
 }
@@ -21473,6 +21482,8 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.ad4.on.cc/web/
+.on.cc/html/AC_RunActiveContent\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R189} \
 }
@@ -21909,6 +21920,7 @@ urchin.js*.
 /(.*/)?hitCount_
 /(.*/)?hitCount\.
 hitCount.*.
+.stickyadstv.com/vast/vpaid-adapter/
 
 {+client-header-tagger{adfilter-unblock-elem-R287} \
 }
@@ -22458,6 +22470,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.on.cc/html/AC_RunActiveContent\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
@@ -22525,6 +22538,7 @@ TAG:^adfilter-unblock-request-Aj-Cj$
 }
 TAG:^adfilter-unblock-request-Aj-Cj-Xx$
 .download.mokeedev.com
+.ad4.on.cc/web/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aj-Cj-Xx-when-R188nt} \
@@ -23075,6 +23089,7 @@ mobileads.*.
 }
 /(.*/)?urchin\.js
 urchin.js*.
+.stickyadstv.com/vast/vpaid-adapter/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R287} \
