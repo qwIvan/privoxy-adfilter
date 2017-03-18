@@ -5494,6 +5494,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.sigbusa.com
 .qzkxt.com
 .189.gd/.*\.html
 /.*\.cn/show\?id=
@@ -12106,6 +12107,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.sigbusa.com
 .qzkxt.com
 .189.gd/.*\.html
 /.*\.cn/show\?id=
@@ -17937,6 +17939,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.sigbusa.com
 .qzkxt.com
 ad.*.
 /(.*/)?js/tc\.js
