@@ -43,10 +43,10 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-/(.*/)?s\?di=u
-/.*\?pdbid=
-/.*&pss=
-/.*&pdbid=
+.1.panduoduo.net
+/.*&pcn=
+/.*\?pss=
+.sspai.com/api/v1/advertisements\?
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
@@ -5495,6 +5495,7 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 .qzkxt.com
+.189.gd/.*\.html
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6654,10 +6655,10 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-/(.*/)?s\?di=u
-/.*\?pdbid=
-/.*&pss=
-/.*&pdbid=
+.1.panduoduo.net
+/.*&pcn=
+/.*\?pss=
+.sspai.com/api/v1/advertisements\?
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
@@ -12106,6 +12107,7 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 .qzkxt.com
+.189.gd/.*\.html
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13263,8 +13265,10 @@ TAG:^adfilter-block-request$
 .3.guidaye.com
 .1.win7china.com
 .1.rengshu.com
-/(.*/)?s\?di=u
-/.*&pss=
+.1.panduoduo.net
+/.*&pcn=
+/.*\?pss=
+.sspai.com/api/v1/advertisements\?
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .zzz4.com/JS_AD/
@@ -19174,6 +19178,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.189.gd/.*\.html
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -19843,8 +19848,6 @@ floatad.*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/.*\?pdbid=
-/.*&pdbid=
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
