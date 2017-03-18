@@ -47,7 +47,6 @@ TAG:^adfilter-block-dnt$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1355,6 +1354,7 @@ TAG:^adfilter-block-dnt$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
+.nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
@@ -4618,6 +4618,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
+.lyaeccn.com
 .lx167.com
 .lv711.net
 .lubosheng.cn
@@ -5492,7 +5493,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.lyaeccn.com
+.qzkxt.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6656,7 +6657,6 @@ TAG:^adfilter-block-elem$
 /.*\?pdbid=
 /.*&pss=
 /.*&pdbid=
-.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7964,6 +7964,7 @@ TAG:^adfilter-block-elem$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
+.nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
@@ -11227,6 +11228,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
+.lyaeccn.com
 .lx167.com
 .lv711.net
 .lubosheng.cn
@@ -12101,7 +12103,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.lyaeccn.com
+.qzkxt.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13261,7 +13263,6 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 /(.*/)?s\?di=u
 /.*&pss=
-.nimasou.info/static/xdm\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14519,6 +14520,7 @@ TAG:^adfilter-block-request$
 .niutuku.com/skin/style2013/ad/
 .niu20.com/g/
 .ningmengzhibo.com/ement/beforeSearchEment\.action
+.nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
 .newsmth.net/nForum/googlead/
@@ -17460,6 +17462,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
+.lyaeccn.com
 .lubosheng.cn
 .lu.sogou.com
 .lthxz.cn
@@ -17927,7 +17930,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.lyaeccn.com
+.qzkxt.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
