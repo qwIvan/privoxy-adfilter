@@ -44,11 +44,8 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-/.*&pcn=
 /.*\?pss=
-.sspai.com/api/v1/advertisements\?
-.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
-.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
+/.*&pcn=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -423,6 +420,8 @@ TAG:^adfilter-block-dnt$
 .wodexiaoshuo123.com/js/.*zhangjie\.js
 .wodexiaoshuo123.com/js/.*lun\.js
 .wo256.com/256_gg/.*\.gif
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
@@ -762,6 +761,7 @@ TAG:^adfilter-block-dnt$
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
+.sspai.com/api/v1/advertisements\?
 .ssnn.net/.*-200-250\.jpg
 .ssajax.cn/js/info/ads/
 .srzc.com/.*/zwfjs/
@@ -4454,6 +4454,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sinaaliyun.cn
 .sinaalicdn.com
 .sin114.com
+.sigbusa.com
 .sicentlife.com
 .si9377.com
 .shujuwu.com
@@ -4494,6 +4495,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .rekanw.com
 .re.taotaosou.com
 .rayli.com.cn
+.qzkxt.com
 .qzdfc.com
 .qyctj.com
 .qxxys.com
@@ -5316,6 +5318,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1kmb.cn
 .1i580.com
 .18tzx.com
+.189.gd/.*\.html
 .182.92.81.104
 .180.76.171.28
 .17zhaole.com
@@ -5494,9 +5497,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.sigbusa.com
-.qzkxt.com
-.189.gd/.*\.html
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6657,11 +6657,8 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-/.*&pcn=
 /.*\?pss=
-.sspai.com/api/v1/advertisements\?
-.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
-.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
+/.*&pcn=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7036,6 +7033,8 @@ TAG:^adfilter-block-elem$
 .wodexiaoshuo123.com/js/.*zhangjie\.js
 .wodexiaoshuo123.com/js/.*lun\.js
 .wo256.com/256_gg/.*\.gif
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
@@ -7375,6 +7374,7 @@ TAG:^adfilter-block-elem$
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
+.sspai.com/api/v1/advertisements\?
 .ssnn.net/.*-200-250\.jpg
 .ssajax.cn/js/info/ads/
 .srzc.com/.*/zwfjs/
@@ -11067,6 +11067,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sinaaliyun.cn
 .sinaalicdn.com
 .sin114.com
+.sigbusa.com
 .sicentlife.com
 .si9377.com
 .shujuwu.com
@@ -11107,6 +11108,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .rekanw.com
 .re.taotaosou.com
 .rayli.com.cn
+.qzkxt.com
 .qzdfc.com
 .qyctj.com
 .qxxys.com
@@ -11929,6 +11931,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1kmb.cn
 .1i580.com
 .18tzx.com
+.189.gd/.*\.html
 .182.92.81.104
 .180.76.171.28
 .17zhaole.com
@@ -12107,9 +12110,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.sigbusa.com
-.qzkxt.com
-.189.gd/.*\.html
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13268,11 +13268,8 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-/.*&pcn=
 /.*\?pss=
-.sspai.com/api/v1/advertisements\?
-.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
-.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
+/.*&pcn=
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13640,6 +13637,8 @@ TAG:^adfilter-block-request$
 .wodexiaoshuo123.com/js/.*zhangjie\.js
 .wodexiaoshuo123.com/js/.*lun\.js
 .wo256.com/256_gg/.*\.gif
+.wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
+.wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
@@ -13962,6 +13961,7 @@ TAG:^adfilter-block-request$
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
+.sspai.com/api/v1/advertisements\?
 .ssnn.net/.*-200-250\.jpg
 .ssajax.cn/js/info/ads/
 .srzc.com/.*/zwfjs/
@@ -17361,6 +17361,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sino-seve.com
 .sinaaliyun.cn
 .sinaalicdn.com
+.sigbusa.com
 .sicentlife.com
 .si9377.com
 .show.kc.taotaosou.com
@@ -17387,6 +17388,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .remotedu.cn
 .reliancevalve.com
 .re.taotaosou.com
+.qzkxt.com
 .qzdfc.com
 .qyctj.com
 .qxxys.com
@@ -17939,8 +17941,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.sigbusa.com
-.qzkxt.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19145,6 +19145,7 @@ gg.*.
 .1v7.cn
 .1qwe3r.com
 .1lo0.net
+.189.gd/.*\.html
 .17zhaole.com
 .139site.com
 .12l22.net
@@ -19181,7 +19182,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.189.gd/.*\.html
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -20257,6 +20257,7 @@ TAG:^adfilter-unblock-dnt$
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
 .online.unionpay.com/ads/
+.on.cc/html/AC_RunActiveContent\.js
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
 .nceea.cn/Content/images/ad/
@@ -20406,6 +20407,7 @@ TAG:^adfilter-unblock-dnt$
 .adjs.8591.com.tw
 .addon.discuz.com/resource/.*/ad
 .adcdn.pingan.com
+.ad4.on.cc/web/
 .ad.thsi.cn/siteHome/
 .ad.ourgame.com
 .ad.kazakinfo.com
@@ -20476,8 +20478,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ad4.on.cc/web/
-.on.cc/html/AC_RunActiveContent\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R189} \
 }
@@ -21275,6 +21275,7 @@ TAG:^adfilter-unblock-elem$
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
 .online.unionpay.com/ads/
+.on.cc/html/AC_RunActiveContent\.js
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
 .nceea.cn/Content/images/ad/
@@ -21419,6 +21420,7 @@ TAG:^adfilter-unblock-elem$
 .adjs.8591.com.tw
 .addon.discuz.com/resource/.*/ad
 .adcdn.pingan.com
+.ad4.on.cc/web/
 .ad.thsi.cn/siteHome/
 .ad.ourgame.com
 .ad.kazakinfo.com
@@ -21488,8 +21490,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ad4.on.cc/web/
-.on.cc/html/AC_RunActiveContent\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R189} \
 }
@@ -22272,6 +22272,7 @@ TAG:^adfilter-unblock-request$
 .pic.zol-img.com.cn/2009/pix_index\.swf
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
+.on.cc/html/AC_RunActiveContent\.js
 .omusic.com.tw/backend/uploadpic/adindex/
 .news.u17i.com/advert/
 .nceea.cn/Content/images/ad/
@@ -22476,7 +22477,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.on.cc/html/AC_RunActiveContent\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
