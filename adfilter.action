@@ -46,6 +46,7 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6670,6 +6671,7 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13292,6 +13294,7 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
