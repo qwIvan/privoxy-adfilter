@@ -44,8 +44,13 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.bd1.nxing.cn
+/.*&uc=
 /.*\?pss=
 /.*&pcn=
+.nxing.cn/uploads/uploads/.*-size300x250\.
+.zb.nxing.cn
+.nxing.cn/uploads/uploads/.*-size1220x
 .guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
@@ -5502,6 +5507,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.a0b33.com
 .a0b22.com
 .dlzjdesign.com
 /.*\.cn/show\?id=
@@ -6669,8 +6675,13 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.bd1.nxing.cn
+/.*&uc=
 /.*\?pss=
 /.*&pcn=
+.nxing.cn/uploads/uploads/.*-size300x250\.
+.zb.nxing.cn
+.nxing.cn/uploads/uploads/.*-size1220x
 .guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
@@ -12127,6 +12138,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.a0b33.com
 .a0b22.com
 .dlzjdesign.com
 /.*\.cn/show\?id=
@@ -13292,8 +13304,13 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.bd1.nxing.cn
+/.*&uc=
 /.*\?pss=
 /.*&pcn=
+.nxing.cn/uploads/uploads/.*-size300x250\.
+.zb.nxing.cn
+.nxing.cn/uploads/uploads/.*-size1220x
 .guangsuss.com/tpl/html/
 .soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
@@ -17970,6 +17987,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.a0b33.com
 .a0b22.com
 .dlzjdesign.com
 ad.*.
