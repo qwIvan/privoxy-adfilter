@@ -46,6 +46,7 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -5501,6 +5502,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.a0b22.com
+.dlzjdesign.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5857,6 +5860,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?detail_gg\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -6663,6 +6667,7 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -12118,6 +12123,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.a0b22.com
+.dlzjdesign.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12474,6 +12481,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?detail_gg\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13278,6 +13286,7 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 /.*\?pss=
 /.*&pcn=
+.soduso.com/js/sat\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -17953,6 +17962,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.a0b22.com
+.dlzjdesign.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18297,6 +18308,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?detail_gg\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
