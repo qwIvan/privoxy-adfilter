@@ -48,6 +48,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+/.*\.qidian\.com/floatOpBox\.
+.*.qidian.com/floatOpBox\.
 .nxing.cn/uploads/uploads/.*-size300x250\.
 .zb.nxing.cn
 .nxing.cn/uploads/uploads/.*-size1220x
@@ -6679,6 +6681,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+/.*\.qidian\.com/floatOpBox\.
+.*.qidian.com/floatOpBox\.
 .nxing.cn/uploads/uploads/.*-size300x250\.
 .zb.nxing.cn
 .nxing.cn/uploads/uploads/.*-size1220x
@@ -13308,6 +13312,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+/.*\.qidian\.com/floatOpBox\.
+.*.qidian.com/floatOpBox\.
 .nxing.cn/uploads/uploads/.*-size300x250\.
 .zb.nxing.cn
 .nxing.cn/uploads/uploads/.*-size1220x
