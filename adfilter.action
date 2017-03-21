@@ -1211,7 +1211,8 @@ TAG:^adfilter-block-dnt$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
-.pmb.tj.ali213.net/js/
+.pmb*./.*\.tj\.ali213\.net/js/
+.pmb*.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -5875,6 +5876,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?template/paody/aaaa/all-top\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -7850,7 +7852,8 @@ TAG:^adfilter-block-elem$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
-.pmb.tj.ali213.net/js/
+.pmb*./.*\.tj\.ali213\.net/js/
+.pmb*.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -12514,6 +12517,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?template/paody/aaaa/all-top\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -14441,7 +14445,8 @@ TAG:^adfilter-block-request$
 .poco.cn/mypoco/myphoto/20140418/18/5589980820140418182334072\.gif
 .poco.cn/mypoco/myphoto/20140330/21/5589980820140330214657064\.jpg
 .pme10.com/zbs/gs/ad_
-.pmb.tj.ali213.net/js/
+.pmb*./.*\.tj\.ali213\.net/js/
+.pmb*.tj.ali213.net/js/
 .plurk.com/Ads/
 .playgm.cn/data/attachment/portal/
 .playad.xjmg.com
@@ -18357,6 +18362,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?template/paody/aaaa/all-top\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -20198,6 +20204,7 @@ TAG:^adfilter-unblock-dnt$
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
+.8drama.com
 .zjol.com.cn/.*/index\.jsp\?newsid=
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
@@ -21229,6 +21236,7 @@ TAG:^adfilter-unblock-elem$
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
+.8drama.com
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -22245,6 +22253,7 @@ TAG:^adfilter-unblock-request$
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
+.8drama.com
 .zjol.com.cn/.*/index\.jsp\?newsid=
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
