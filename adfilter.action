@@ -48,6 +48,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1167,7 +1168,7 @@ TAG:^adfilter-block-dnt$
 .qdjimo.com/html/js/
 .qd.x4399.com
 .qd.snwx.com
-.qd.dhzw.com
+.qd.dhzw.org
 .qbox.me/ftq_
 .qbaobei.com/data/attachment/portal/201310/23/171915wh3ox3oiwck3dwxo\.jpg
 .qbaobei.com/data/attachment/portal/201310/23/171807xmyi29gah8cypbh6\.gif
@@ -2652,7 +2653,7 @@ TAG:^adfilter-block-dnt$
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
 .diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
-.dhzw.com/m-
+.dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
 .dfcfw.com/js/tg/rightAd_v2\.js
 .dfcfw.com/js/.*/emfloatmedia_
@@ -5173,6 +5174,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .a0c66.com
 .a0b33.com
 .a0b22.com
+.a0b11.com
 .a.youdao.com
 .9xu.com
 .9w1an.com
@@ -5512,6 +5514,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/(.*/)?newblog/.*
+.vwws6.net
+.3gmtr.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6681,6 +6686,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7800,7 +7806,7 @@ TAG:^adfilter-block-elem$
 .qdjimo.com/html/js/
 .qd.x4399.com
 .qd.snwx.com
-.qd.dhzw.com
+.qd.dhzw.org
 .qbox.me/ftq_
 .qbaobei.com/data/attachment/portal/201310/23/171915wh3ox3oiwck3dwxo\.jpg
 .qbaobei.com/data/attachment/portal/201310/23/171807xmyi29gah8cypbh6\.gif
@@ -9285,7 +9291,7 @@ TAG:^adfilter-block-elem$
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
 .diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
-.dhzw.com/m-
+.dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
 .dfcfw.com/js/tg/rightAd_v2\.js
 .dfcfw.com/js/.*/emfloatmedia_
@@ -11806,6 +11812,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .a0c66.com
 .a0b33.com
 .a0b22.com
+.a0b11.com
 .a.youdao.com
 .9xu.com
 .9w1an.com
@@ -12145,6 +12152,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/(.*/)?newblog/.*
+.vwws6.net
+.3gmtr.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13312,6 +13322,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14388,7 +14399,7 @@ TAG:^adfilter-block-request$
 .qdjimo.com/html/js/
 .qd.x4399.com
 .qd.snwx.com
-.qd.dhzw.com
+.qd.dhzw.org
 .qbox.me/ftq_
 .qbaobei.com/data/attachment/portal/201310/23/171915wh3ox3oiwck3dwxo\.jpg
 .qbaobei.com/data/attachment/portal/201310/23/171807xmyi29gah8cypbh6\.gif
@@ -15803,7 +15814,7 @@ TAG:^adfilter-block-request$
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
 .diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
-.dhzw.com/m-
+.dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
 .dfcfw.com/js/tg/rightAd_v2\.js
 .dfcfw.com/js/.*/emfloatmedia_
@@ -17850,6 +17861,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .a0c66.com
 .a0b33.com
 .a0b22.com
+.a0b11.com
 .a.youdao.com
 .99lolo.com
 .95558000.com
@@ -17996,6 +18008,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.vwws6.net
+.3gmtr.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18682,6 +18696,7 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/(.*/)?newblog/.*
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
