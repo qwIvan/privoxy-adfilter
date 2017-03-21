@@ -20557,6 +20557,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.histock.tw/JScript/AD/ad_header_768x90\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R190} \
 }
@@ -21580,6 +21581,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.histock.tw/JScript/AD/ad_header_768x90\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R190} \
 }
@@ -22578,6 +22580,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.histock.tw/JScript/AD/ad_header_768x90\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
