@@ -48,6 +48,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.m.biquwu.cc/.*\.html
 .m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6686,6 +6687,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.m.biquwu.cc/.*\.html
 .m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18521,6 +18523,7 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
+.m.biquwu.cc/.*\.html
 .xntk.net
 .wap.xxbiquge.com/.*\.html
 .sznews.com/css/
