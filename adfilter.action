@@ -48,6 +48,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.pingpang.info/uploadfile/TTW\.gif
 .m.biquwu.cc/.*\.html
 .m.kankanwu.com/js/
 .zzz4.com/JS_AD/
@@ -6686,6 +6687,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.pingpang.info/uploadfile/TTW\.gif
 .m.biquwu.cc/.*\.html
 .m.kankanwu.com/js/
 .zzz4.com/JS_AD/
@@ -13322,6 +13324,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.pingpang.info/uploadfile/TTW\.gif
 .m.kankanwu.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
