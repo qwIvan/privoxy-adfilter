@@ -5517,6 +5517,8 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /(.*/)?newblog/.*
+.zhiong.net
+.yzygo.com
 .vwws6.net
 .3gmtr.com
 /.*\.cn/show\?id=
@@ -12158,6 +12160,8 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /(.*/)?newblog/.*
+.zhiong.net
+.yzygo.com
 .vwws6.net
 .3gmtr.com
 /.*\.cn/show\?id=
@@ -18015,6 +18019,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.zhiong.net
+.yzygo.com
 .vwws6.net
 .3gmtr.com
 ad.*.
