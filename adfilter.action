@@ -20583,6 +20583,7 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .weithenn.org
+.moviesunusa.net
 
 {+client-header-tagger{adfilter-unblock-dnt-R191} \
 }
@@ -21607,6 +21608,7 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .weithenn.org
+.moviesunusa.net
 
 {+client-header-tagger{adfilter-unblock-elem-R191} \
 }
@@ -22606,6 +22608,7 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .weithenn.org
+.moviesunusa.net
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
