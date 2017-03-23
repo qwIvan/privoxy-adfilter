@@ -5708,6 +5708,8 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -12352,6 +12354,8 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -18205,6 +18209,8 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?guanggao2\.
 guanggao2.*.
 /(.*/)?guanggao/.*
@@ -20342,7 +20348,6 @@ TAG:^adfilter-unblock-dnt$
 .qbao.com/hp/pc/.*Ad\.
 .pubimg-weichouji.sina.com/img/ad/
 .pub.alimama.com/common/adzone/
-.ps123.net/MyFile/toptxt\.js
 .poster.weather.com.cn/p_files/base/
 .pos.baidu.com/crossdomain\.xml
 .pmm.people.com.cn/main/s\?user=people\|homepage\|2013juxing
@@ -21369,7 +21374,6 @@ TAG:^adfilter-unblock-elem$
 .qbao.com/hp/pc/.*Ad\.
 .pubimg-weichouji.sina.com/img/ad/
 .pub.alimama.com/common/adzone/
-.ps123.net/MyFile/toptxt\.js
 .poster.weather.com.cn/p_files/base/
 .pos.baidu.com/crossdomain\.xml
 .pmm.people.com.cn/main/s\?user=people\|homepage\|2013juxing
@@ -22377,7 +22381,6 @@ TAG:^adfilter-unblock-request$
 .qidian.com/ploy/20.*\.swf
 .pubimg-weichouji.sina.com/img/ad/
 .pub.alimama.com/common/adzone/
-.ps123.net/MyFile/toptxt\.js
 .pos.baidu.com/crossdomain\.xml
 .pmm.people.com.cn/main/s\?user=people\|homepage\|2013juxing
 .piccool.com/2home/phpAdsNew/
