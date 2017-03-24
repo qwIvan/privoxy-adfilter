@@ -1247,7 +1247,7 @@ TAG:^adfilter-block-dnt$
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
 .phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
-.photofans.cn/cooperator/banner/
+.photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
 .pharmnet.com.cn/js/float_div\.js
 .pharmnet.com.cn/cnbanner/
@@ -7895,7 +7895,7 @@ TAG:^adfilter-block-elem$
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
 .phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
-.photofans.cn/cooperator/banner/
+.photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
 .pharmnet.com.cn/js/float_div\.js
 .pharmnet.com.cn/cnbanner/
@@ -14494,7 +14494,7 @@ TAG:^adfilter-block-request$
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
 .phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
-.photofans.cn/cooperator/banner/
+.photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
 .pharmnet.com.cn/js/float_div\.js
 .pharmnet.com.cn/cnbanner/
