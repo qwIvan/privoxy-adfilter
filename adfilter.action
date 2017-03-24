@@ -47,9 +47,11 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .kuku99.com
+.1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6696,9 +6698,11 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .kuku99.com
+.1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13342,9 +13346,11 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
