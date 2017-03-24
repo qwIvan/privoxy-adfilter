@@ -49,8 +49,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
-.pchome.net/flow\.php
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -105,6 +103,7 @@ TAG:^adfilter-block-dnt$
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
+.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -1284,6 +1283,7 @@ TAG:^adfilter-block-dnt$
 .pconline.com.cn/_hux_/
 .pcmx.autohome.com.cn/impress\?
 .pcjishu.com/other/yj300x3006\.jpg
+.pchome.net/flow\.php
 .pchome.com.tw/img/js/xpcadshow\.js
 .pcgames.com.cn/g/
 .pccoo.cn/js/dlv1\.0\.js
@@ -4213,6 +4213,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yinhaijuan.com
 .yijia2009.com
 .yiiwoo.com
+.yigyx.com
 .yigao.com
 .yidulive.net
 .yhtcd.com
@@ -5523,7 +5524,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.yigyx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5649,6 +5649,8 @@ pushstart.aspx
 /(.*/)?pic/ad/.*
 /(.*/)?piaofu\.js
 piaofu.js*.
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?pcqiqidongman\.png
 pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
@@ -5710,8 +5712,6 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
-/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
-phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -6697,8 +6697,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
-.pchome.net/flow\.php
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6753,6 +6751,7 @@ TAG:^adfilter-block-elem$
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
+.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -7932,6 +7931,7 @@ TAG:^adfilter-block-elem$
 .pconline.com.cn/_hux_/
 .pcmx.autohome.com.cn/impress\?
 .pcjishu.com/other/yj300x3006\.jpg
+.pchome.net/flow\.php
 .pchome.com.tw/img/js/xpcadshow\.js
 .pcgames.com.cn/g/
 .pccoo.cn/js/dlv1\.0\.js
@@ -10861,6 +10861,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yinhaijuan.com
 .yijia2009.com
 .yiiwoo.com
+.yigyx.com
 .yigao.com
 .yidulive.net
 .yhtcd.com
@@ -12171,7 +12172,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.yigyx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12297,6 +12297,8 @@ pushstart.aspx
 /(.*/)?pic/ad/.*
 /(.*/)?piaofu\.js
 piaofu.js*.
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?pcqiqidongman\.png
 pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
@@ -12358,8 +12360,6 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
-/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
-phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -13343,8 +13343,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
-.pchome.net/flow\.php
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13399,6 +13397,7 @@ TAG:^adfilter-block-request$
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
+.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -14529,6 +14528,7 @@ TAG:^adfilter-block-request$
 .pconline.com.cn/_hux_/
 .pcmx.autohome.com.cn/impress\?
 .pcjishu.com/other/yj300x3006\.jpg
+.pchome.net/flow\.php
 .pchome.com.tw/img/js/xpcadshow\.js
 .pcgames.com.cn/g/
 .pccoo.cn/js/dlv1\.0\.js
@@ -17282,6 +17282,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yinyuehu.cn
 .yinhaijuan.com
 .yijia2009.com
+.yigyx.com
 .yidulive.net
 .yhtcd.com
 .yfycy.com
@@ -18035,7 +18036,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.yigyx.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18155,6 +18155,8 @@ QianFanAdPalyer.*.
 /(.*/)?pic/ad/.*
 /(.*/)?piaofu\.js
 piaofu.js*.
+/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
+phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?pcqiqidongman\.png
 pcqiqidongman.png*.
 /(.*/)?pc/Tpl/baibaipc/js/.*
@@ -18215,8 +18217,6 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
-/(.*/)?phpvar\.com/wp-content/uploads/image/100xuexi/.*
-phpvar.com/wp-content/uploads/image/100xuexi/.*
 /(.*/)?guanggao2\.
 guanggao2.*.
 /(.*/)?guanggao/.*
