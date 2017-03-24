@@ -46,6 +46,7 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.kuku99.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -6694,6 +6695,7 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.kuku99.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -18778,6 +18780,7 @@ gg.*.
 .youbian.com
 .yjbys.org
 .fuz.cc
+.kuku99.com
 .xxx169.org
 .kokojia.com
 .k99.cc
