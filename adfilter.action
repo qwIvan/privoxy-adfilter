@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.ftxs.org/images/86dg980x100\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -3680,7 +3681,6 @@ TAG:^adfilter-block-dnt$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
-.3dmgame.com/templets/xiazai/js/getwindow\.js
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
@@ -6702,6 +6702,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.ftxs.org/images/86dg980x100\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -10331,7 +10332,6 @@ TAG:^adfilter-block-elem$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
-.3dmgame.com/templets/xiazai/js/getwindow\.js
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
@@ -13350,6 +13350,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.ftxs.org/images/86dg980x100\.jpg
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -16820,7 +16821,6 @@ TAG:^adfilter-block-request$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
-.3dmgame.com/templets/xiazai/js/getwindow\.js
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
