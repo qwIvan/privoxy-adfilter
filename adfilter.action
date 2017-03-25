@@ -19,6 +19,7 @@ TAG:^adfilter-block-dnt$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.kuku99.com
 .jsm.9939.com
 .js.syiae.com
 .hehe1.200218.com
@@ -46,12 +47,10 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-.kuku99.com
 .1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -3964,6 +3963,7 @@ TAG:^adfilter-block-dnt$
 .107.182.131.103/cache/\?q=/images/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
+.1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
@@ -6670,6 +6670,7 @@ TAG:^adfilter-block-elem$
 .sscm1.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
+.kuku99.com
 .jsm.9939.com
 .js.syiae.com
 .hehe1.200218.com
@@ -6697,12 +6698,10 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-.kuku99.com
 .1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -10615,6 +10614,7 @@ TAG:^adfilter-block-elem$
 .107.182.131.103/cache/\?q=/images/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
+.1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
@@ -13350,7 +13350,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.1010pic.com/scripts/hd/yueyue3\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -17091,6 +17090,7 @@ TAG:^adfilter-block-request$
 .107.182.131.103/cache/\?q=/images/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
+.1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
 .100ksw.com/include/ksbdfd\.js
@@ -18785,8 +18785,8 @@ gg.*.
 }
 .youbian.com
 .yjbys.org
-.fuz.cc
 .kuku99.com
+.fuz.cc
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20515,6 +20515,7 @@ TAG:^adfilter-unblock-dnt$
 .appledaily.com.hk/admedia/
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
+.alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
 .advertise.shijue.cvidea.cn
 .advert.kf5.com
@@ -20595,7 +20596,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.alicdn.com/mm/tb-page-peel/
 
 {+client-header-tagger{adfilter-unblock-dnt-R190} \
 }
@@ -21537,6 +21537,7 @@ TAG:^adfilter-unblock-elem$
 .appledaily.com.hk/admedia/
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
+.alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
 .advertise.shijue.cvidea.cn
 .advert.kf5.com
@@ -21616,7 +21617,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.alicdn.com/mm/tb-page-peel/
 
 {+client-header-tagger{adfilter-unblock-elem-R190} \
 }
@@ -22540,6 +22540,7 @@ TAG:^adfilter-unblock-request$
 .aqy103.com/js/aqy/main\.js
 .appledaily.com.tw/.*_ad_logo\.
 .angpic.3g.net.cn/ai/.*/
+.alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
 .advertise.shijue.cvidea.cn
 .advert.kf5.com
@@ -22612,7 +22613,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.alicdn.com/mm/tb-page-peel/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
