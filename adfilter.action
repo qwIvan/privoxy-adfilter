@@ -5529,6 +5529,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cdyqc.com
+.360366.net
 .zgczjw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12179,6 +12181,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cdyqc.com
+.360366.net
 .zgczjw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18044,6 +18048,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.cdyqc.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19292,6 +19297,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.360366.net
 .zgczjw.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
