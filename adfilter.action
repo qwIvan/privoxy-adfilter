@@ -20259,6 +20259,7 @@ TAG:^adfilter-unblock-dnt$
 .count.video.sina.com.cn/.*\?video_ids=
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
+.alicdn.com/retcode/log/log\.js
 .analytics.163.com/ntes\.js
 .aliyun.com/nocaptcha/analyze\.js
 .alicdn.com/.*/click_track\.js
@@ -21290,6 +21291,7 @@ TAG:^adfilter-unblock-elem$
 .count.video.sina.com.cn/.*\?video_ids=
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
+.alicdn.com/retcode/log/log\.js
 .analytics.163.com/ntes\.js
 .aliyun.com/nocaptcha/analyze\.js
 .alicdn.com/.*/click_track\.js
@@ -22306,6 +22308,7 @@ TAG:^adfilter-unblock-request$
 .count.video.sina.com.cn/.*\?video_ids=
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
+.alicdn.com/retcode/log/log\.js
 .analytics.163.com/ntes\.js
 .aliyun.com/nocaptcha/analyze\.js
 .alicdn.com/.*/click_track\.js
