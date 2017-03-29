@@ -21,7 +21,7 @@
 
 # Release
 ### ArchLinux
-From [AUR](https://aur.archlinux.org/packages/privoxy-adfilter/)
+From [AUR](https://aur.archlinux.org/packages/privoxy-adfilter/), synchronous updating using [aur-roboot](https://github.com/qwIvan/aur-robot).
 ```
 yaourt -S privoxy-adfilter
 #or pacaur -S privoxy-adfilter
