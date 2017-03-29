@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/react\.js\?id=
 .ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5544,6 +5545,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 .gd.189.cn/.*\.htm\?SP=
 .aishiguolong.com
+.weixiangzu.cn
+.lucting.cn
 .1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -6708,6 +6711,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/react\.js\?id=
 .ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12201,6 +12205,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 .gd.189.cn/.*\.htm\?SP=
 .aishiguolong.com
+.weixiangzu.cn
+.lucting.cn
 .1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -13362,6 +13368,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/react\.js\?id=
 .ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18070,6 +18077,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .aishiguolong.com
+.weixiangzu.cn
+.lucting.cn
 .1d1px.net
 ad.*.
 /(.*/)?js/tc\.js
