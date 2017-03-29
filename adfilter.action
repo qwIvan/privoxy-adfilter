@@ -5542,6 +5542,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.gd.189.cn/.*\.htm\?SP=
+.aishiguolong.com
 .1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12197,6 +12199,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.gd.189.cn/.*\.htm\?SP=
+.aishiguolong.com
 .1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18065,6 +18069,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.aishiguolong.com
 .1d1px.net
 ad.*.
 /(.*/)?js/tc\.js
@@ -19316,6 +19321,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.gd.189.cn/.*\.htm\?SP=
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
