@@ -15,6 +15,8 @@ TAG:^adfilter-block-dnt$
 .yjbys.org
 .yhzm.cc
 .wapscript1.360doc.cn
+.star-media.cn
+.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
 .kuku99.com
@@ -41,21 +43,14 @@ TAG:^adfilter-block-dnt$
 .a.fengyx.com
 .52lubo.cn
 .3.guidaye.com
+.200218.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-.star-media.cn
-.200218.com
-.mipujia.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.iclient.ifeng.com
-.fcai.com/ifengIndex\.html
-.muyuge.com/fw\.html/
-.miaobige.com/react\.js\?id=
-.ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1205,6 +1200,7 @@ TAG:^adfilter-block-dnt$
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
+.ppty.tv/index/js/float\.js
 .pptv.com/game/aplus/client/gamedetail\.html
 .ppsj.com.cn/ppsj728\.gif
 .ppsj.com.cn/images/usa_250_120\.gif
@@ -1428,6 +1424,7 @@ TAG:^adfilter-block-dnt$
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
+.muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.com/homep_ad
@@ -1485,6 +1482,7 @@ TAG:^adfilter-block-dnt$
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
+.miaobige.com/react\.js\?id=
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -2039,6 +2037,7 @@ TAG:^adfilter-block-dnt$
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
+.iclient.ifeng.com
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibook8.com/xia.*\.js
@@ -2449,6 +2448,7 @@ TAG:^adfilter-block-dnt$
 .fdc.com.cn/cms/js/home_js/.*_move_
 .fdc.com.cn/cms/js/bbs/dl\.js
 .fdc.com.cn/cms/js/bbs/bbstonglan\.js
+.fcai.com/ifengIndex\.html
 .faxingw.cn/js/wenba\.js
 .faxingw.cn/js/jiafa
 .faxingw.cn/js/detailgcbox\.js
@@ -4331,6 +4331,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wgnlz.com
 .werpig.com
 .weizhanle.com
+.weixiangzu.cn
 .weiqiqu.cn
 .weddingeeos.com
 .weareqy.com
@@ -4657,6 +4658,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lyaeccn.com
 .lx167.com
 .lv711.net
+.lucting.cn
 .lubosheng.cn
 .lu.sogou.com
 .lthxz.cn
@@ -4826,6 +4828,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .housefun.com.tw
 .houdaolj.com
 .hnyny.com
+.hnctsm.com
 .hn163fck.com
 .hmp33.com
 .hivecn.cn
@@ -4839,6 +4842,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .heima8.com
 .hcreditx.com
 .hbsimg.com
+.hbalx.cn
 .hauchi.com.tw
 .haoyiwang.net
 .haomm.com
@@ -4886,6 +4890,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ge95.com
 .gdxxb.com
 .gdbly.com
+.gd.189.cn/.*\.htm\?SP=
 .gclick.cn
 .gansha.co
 .gameone.com
@@ -4901,9 +4906,11 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fst360.com
 .founseezb.cn
 .fnkjj.com
 .fmad.cc
+.flowcodeapp.com
 .flashwing.net
 .fjmeyer.com
 .fjkst.com
@@ -5145,6 +5152,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ajuhd.com
 .ajhdf.com
 .ajaxcdn.org
+.aishiguolong.com
 .aimato.com
 .aifei.info
 .aidaicn.com
@@ -5363,8 +5371,10 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1kzh.com
 .1kmb.cn
 .1i580.com
+.1d1px.net
 .18tzx.com
 .189.gd/.*\.html
+.189.cn/.*/push/
 .182.92.81.104
 .180.76.171.28
 .17zhaole.com
@@ -5546,16 +5556,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.gd.189.cn/.*\.htm\?SP=
-.flowcodeapp.com
-.189.cn/.*/push/
-.aishiguolong.com
-.weixiangzu.cn
-.lucting.cn
-.fst360.com
-.hbalx.cn
-.hnctsm.com
-.1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6683,6 +6683,8 @@ TAG:^adfilter-block-elem$
 .yjbys.org
 .yhzm.cc
 .wapscript1.360doc.cn
+.star-media.cn
+.mipujia.com
 .milk.yesky.com.cn
 .lele999.com
 .kuku99.com
@@ -6709,21 +6711,14 @@ TAG:^adfilter-block-elem$
 .a.fengyx.com
 .52lubo.cn
 .3.guidaye.com
+.200218.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-.star-media.cn
-.200218.com
-.mipujia.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.iclient.ifeng.com
-.fcai.com/ifengIndex\.html
-.muyuge.com/fw\.html/
-.miaobige.com/react\.js\?id=
-.ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7873,6 +7868,7 @@ TAG:^adfilter-block-elem$
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
+.ppty.tv/index/js/float\.js
 .pptv.com/game/aplus/client/gamedetail\.html
 .ppsj.com.cn/ppsj728\.gif
 .ppsj.com.cn/images/usa_250_120\.gif
@@ -8096,6 +8092,7 @@ TAG:^adfilter-block-elem$
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
+.muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.com/homep_ad
@@ -8153,6 +8150,7 @@ TAG:^adfilter-block-elem$
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
+.miaobige.com/react\.js\?id=
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -8707,6 +8705,7 @@ TAG:^adfilter-block-elem$
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
+.iclient.ifeng.com
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibook8.com/xia.*\.js
@@ -9117,6 +9116,7 @@ TAG:^adfilter-block-elem$
 .fdc.com.cn/cms/js/home_js/.*_move_
 .fdc.com.cn/cms/js/bbs/dl\.js
 .fdc.com.cn/cms/js/bbs/bbstonglan\.js
+.fcai.com/ifengIndex\.html
 .faxingw.cn/js/wenba\.js
 .faxingw.cn/js/jiafa
 .faxingw.cn/js/detailgcbox\.js
@@ -10999,6 +10999,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wgnlz.com
 .werpig.com
 .weizhanle.com
+.weixiangzu.cn
 .weiqiqu.cn
 .weddingeeos.com
 .weareqy.com
@@ -11325,6 +11326,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lyaeccn.com
 .lx167.com
 .lv711.net
+.lucting.cn
 .lubosheng.cn
 .lu.sogou.com
 .lthxz.cn
@@ -11494,6 +11496,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .housefun.com.tw
 .houdaolj.com
 .hnyny.com
+.hnctsm.com
 .hn163fck.com
 .hmp33.com
 .hivecn.cn
@@ -11507,6 +11510,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .heima8.com
 .hcreditx.com
 .hbsimg.com
+.hbalx.cn
 .hauchi.com.tw
 .haoyiwang.net
 .haomm.com
@@ -11554,6 +11558,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ge95.com
 .gdxxb.com
 .gdbly.com
+.gd.189.cn/.*\.htm\?SP=
 .gclick.cn
 .gansha.co
 .gameone.com
@@ -11569,9 +11574,11 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fst360.com
 .founseezb.cn
 .fnkjj.com
 .fmad.cc
+.flowcodeapp.com
 .flashwing.net
 .fjmeyer.com
 .fjkst.com
@@ -11813,6 +11820,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ajuhd.com
 .ajhdf.com
 .ajaxcdn.org
+.aishiguolong.com
 .aimato.com
 .aifei.info
 .aidaicn.com
@@ -12031,8 +12039,10 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1kzh.com
 .1kmb.cn
 .1i580.com
+.1d1px.net
 .18tzx.com
 .189.gd/.*\.html
+.189.cn/.*/push/
 .182.92.81.104
 .180.76.171.28
 .17zhaole.com
@@ -12214,16 +12224,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.gd.189.cn/.*\.htm\?SP=
-.flowcodeapp.com
-.189.cn/.*/push/
-.aishiguolong.com
-.weixiangzu.cn
-.lucting.cn
-.fst360.com
-.hbalx.cn
-.hnctsm.com
-.1d1px.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13381,11 +13381,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.iclient.ifeng.com
-.fcai.com/ifengIndex\.html
-.muyuge.com/fw\.html/
-.miaobige.com/react\.js\?id=
-.ppty.tv/index/js/float\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14490,6 +14485,7 @@ TAG:^adfilter-block-request$
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
+.ppty.tv/index/js/float\.js
 .pptv.com/game/aplus/client/gamedetail\.html
 .ppsj.com.cn/ppsj728\.gif
 .ppsj.com.cn/images/usa_250_120\.gif
@@ -14705,6 +14701,7 @@ TAG:^adfilter-block-request$
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
+.muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
 .msn.com/homep_ad
@@ -14760,6 +14757,7 @@ TAG:^adfilter-block-request$
 .microcontrol.cn/HomeImages/AD/
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
+.miaobige.com/react\.js\?id=
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -15283,6 +15281,7 @@ TAG:^adfilter-block-request$
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
+.iclient.ifeng.com
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibook8.com/xia.*\.js
@@ -15678,6 +15677,7 @@ TAG:^adfilter-block-request$
 .fdc.com.cn/cms/js/home_js/.*_move_
 .fdc.com.cn/cms/js/bbs/dl\.js
 .fdc.com.cn/cms/js/bbs/bbstonglan\.js
+.fcai.com/ifengIndex\.html
 .faxingw.cn/js/wenba\.js
 .faxingw.cn/js/jiafa
 .faxingw.cn/js/detailgcbox\.js
@@ -17407,6 +17407,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wgnmp.com
 .wgnlz.com
 .werpig.com
+.weixiangzu.cn
 .weiqiqu.cn
 .wdzsb.com.cn
 .wazero.online
@@ -17611,6 +17612,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lyrymy.com
 .lyhdream.com
 .lyaeccn.com
+.lucting.cn
 .lubosheng.cn
 .lu.sogou.com
 .lthxz.cn
@@ -17711,6 +17713,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hr41.cn
 .houdaolj.com
 .hnyny.com
+.hnctsm.com
 .hmp33.com
 .hivecn.cn
 .hiad.myweb.hinet.net
@@ -17721,6 +17724,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hfjuki.com
 .hesxz.com
 .hcreditx.com
+.hbalx.cn
 .haolew.com
 .haohaowan8.com
 .hao123rt.com
@@ -17758,8 +17762,10 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fst360.com
 .founseezb.cn
 .fnkjj.com
+.flowcodeapp.com
 .fjmeyer.com
 .fjkst.com
 .ffhtek.com
@@ -17921,6 +17927,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .alicmayuns.com
 .ajuhd.com
 .ajaxcdn.org
+.aishiguolong.com
 .ahyau.com
 .ahhuazhen.com
 .afjlb.com
@@ -18026,6 +18033,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1kzh.com
 .1kmb.cn
 .1i580.com
+.1d1px.net
 .18tzx.com
 .182.92.81.104
 .180.76.171.28
@@ -18092,14 +18100,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.flowcodeapp.com
-.aishiguolong.com
-.weixiangzu.cn
-.lucting.cn
-.fst360.com
-.hbalx.cn
-.hnctsm.com
-.1d1px.net
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18841,11 +18841,11 @@ gg.*.
 }
 .youbian.com
 .yjbys.org
+.star-media.cn
+.mipujia.com
 .kuku99.com
 .fuz.cc
-.star-media.cn
 .200218.com
-.mipujia.com
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -19118,6 +19118,7 @@ gg.*.
 .gf1353.com
 .geotmt.com
 .gdxxb.com
+.gd.189.cn/.*\.htm\?SP=
 .gclick.cn
 .gansha.co
 .gameone.com
@@ -19317,6 +19318,7 @@ gg.*.
 .1qwe3r.com
 .1lo0.net
 .189.gd/.*\.html
+.189.cn/.*/push/
 .17zhaole.com
 .139site.com
 .12l22.net
@@ -19353,8 +19355,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.gd.189.cn/.*\.htm\?SP=
-.189.cn/.*/push/
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -20256,7 +20256,6 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
-.cmstool.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .tajs.qq.com/stats\?
@@ -20273,6 +20272,7 @@ TAG:^adfilter-unblock-dnt$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
+.cmstool.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -21285,7 +21285,6 @@ addata.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
-.cmstool.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .tajs.qq.com/stats\?
@@ -21302,6 +21301,7 @@ TAG:^adfilter-unblock-elem$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
+.cmstool.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -22301,7 +22301,6 @@ addata.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
-.cmstool.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
@@ -22316,6 +22315,7 @@ TAG:^adfilter-unblock-request$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
+.cmstool.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
