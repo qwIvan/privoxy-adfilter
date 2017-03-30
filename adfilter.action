@@ -5916,6 +5916,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?ad_unified_access\?
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -12584,6 +12585,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?ad_unified_access\?
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -18448,6 +18450,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?ad_unified_access\?
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
