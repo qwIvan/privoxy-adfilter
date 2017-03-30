@@ -5545,6 +5545,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.idcqi.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12199,6 +12200,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.idcqi.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -18062,6 +18064,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.idcqi.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
