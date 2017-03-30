@@ -1833,7 +1833,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R224
 s@^referer(?=:[^\n]*[./](?:cdcedu\.cn|pisen\.com\.cn|wb\.qq\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R225
-s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|qdxqs\.com|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R226
 s@^referer(?=:[^\n]*[./](?:cits\.cn|ininin\.com|midea\.com|muyingzhijia\.com|yxjc\.13322\.com)):.*@adfilter-unblock-dnt@Ti
@@ -2263,7 +2263,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R224
 s@^referer(?=:[^\n]*[./](?:cdcedu\.cn|pisen\.com\.cn|wb\.qq\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R225
-s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|qdxqs\.com|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R226
 s@^referer(?=:[^\n]*[./](?:cits\.cn|ininin\.com|midea\.com|muyingzhijia\.com|yxjc\.13322\.com)):.*@adfilter-unblock-elem@Ti
@@ -2755,7 +2755,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-request-R224
 s@^referer(?=:[^\n]*[./](?:cdcedu\.cn|pisen\.com\.cn|wb\.qq\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R225
-s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|qdxqs\.com|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-request@Ti
+s@^referer(?=:[^\n]*[./](?:ciros\.com\.cn|dianxinos\.com|gotobuy\.com\.tw|re-vat\.com|sj-touch\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R226
 s@^referer(?=:[^\n]*[./](?:cits\.cn|ininin\.com|midea\.com|muyingzhijia\.com|yxjc\.13322\.com)):.*@adfilter-unblock-request@Ti

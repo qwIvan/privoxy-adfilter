@@ -1071,7 +1071,6 @@ TAG:^adfilter-block-dnt$
 .qqzhibo.tk/js/t
 .qqyy.com/js/public_end_add\.js
 .qqyy.com/js/commAdv
-.qqxzb.com/.*/js/global\.js
 .qqxbt.com/Content/img/hd
 .qqtz.com/ad
 .qqtn.com/js/.*0\.js
@@ -1138,8 +1137,6 @@ TAG:^adfilter-block-dnt$
 .qixingquan.com/qxq-images/js/qxq_t\.js
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
-.qiuziti.com/img/rightp20\.gif
-.qiuziti.com/img/c4d\.jpg
 .qitete.com/sp/
 .qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
@@ -5658,7 +5655,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qxq-images/livallbanner\.jpg
 /(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -7740,7 +7736,6 @@ TAG:^adfilter-block-elem$
 .qqzhibo.tk/js/t
 .qqyy.com/js/public_end_add\.js
 .qqyy.com/js/commAdv
-.qqxzb.com/.*/js/global\.js
 .qqxbt.com/Content/img/hd
 .qqtz.com/ad
 .qqtn.com/js/.*0\.js
@@ -7807,8 +7802,6 @@ TAG:^adfilter-block-elem$
 .qixingquan.com/qxq-images/js/qxq_t\.js
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
-.qiuziti.com/img/rightp20\.gif
-.qiuziti.com/img/c4d\.jpg
 .qitete.com/sp/
 .qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
@@ -12327,7 +12320,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qxq-images/livallbanner\.jpg
 /(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -14366,7 +14358,6 @@ TAG:^adfilter-block-request$
 .qqzhibo.tk/js/t
 .qqyy.com/js/public_end_add\.js
 .qqyy.com/js/commAdv
-.qqxzb.com/.*/js/global\.js
 .qqxbt.com/Content/img/hd
 .qqtn.com/js/.*0\.js
 .qqread.com/swf/
@@ -14428,8 +14419,6 @@ TAG:^adfilter-block-request$
 .qixingquan.com/qxq-images/js/qxq_t\.js
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
-.qiuziti.com/img/rightp20\.gif
-.qiuziti.com/img/c4d\.jpg
 .qitete.com/sp/
 .qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
@@ -18201,7 +18190,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qxq-images/livallbanner\.jpg
 /(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
