@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
 .titan007.com/ad/
@@ -6713,6 +6714,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
 .titan007.com/ad/
@@ -13369,6 +13371,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
 .titan007.com/ad/
