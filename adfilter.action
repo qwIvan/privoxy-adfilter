@@ -502,7 +502,6 @@ TAG:^adfilter-block-dnt$
 .wallstreetcn.com/v2/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
-.wal8.com/img48/544027_20160424182911/146446612161\.gif
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
 .w010w.com.cn
@@ -594,8 +593,6 @@ TAG:^adfilter-block-dnt$
 .tzfdc.com/Images/09/flv/flv_index\.js
 .tzfdc.com/fdcSell/
 .tzfdc.com.cn/userfiles/flash/
-.tyyhhdf.com/upload/1/148781/images/2016.*\.gif
-.tyyhhdf.com/upload/1/148781/images/2015.*\.gif
 .ty121.cn/IAA/
 .txzqw.cc/js/float\.js
 .txtyd.com/js/.*box\.js
@@ -620,7 +617,6 @@ TAG:^adfilter-block-dnt$
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
 .tuicool.com/images/upload/.*00\.jpg
-.tuhaoylw.com/upload/1/18591636/images/.*\.gif
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
@@ -1087,9 +1083,7 @@ TAG:^adfilter-block-dnt$
 .qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
-.qqhjy.com/UploadFile/2015-10/nuoxinkameng\.gif
 .qqhjy.com/soft/Upload.*\.gif
-.qqhjy.com/sgxkm1\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
 .qq6080.com/template/zeyi/aaaa/
@@ -2688,7 +2682,6 @@ TAG:^adfilter-block-dnt$
 .dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
-.daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
@@ -2712,7 +2705,6 @@ TAG:^adfilter-block-dnt$
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
 .cye.com.cn/JS/AdsJS/
-.cxzyw.com/upload/1/148966/images/.*\.gif
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
@@ -3548,8 +3540,6 @@ TAG:^adfilter-block-dnt$
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
-.66ip.cn/klz/953X164\.gif
-.66ip.cn/common/img/yaoyao\.jpg
 .6665432.com/.*\.gif
 .66384.com/templets/SWFad
 .66384.com/templets/js/stats\.js
@@ -4028,7 +4018,6 @@ sex169.*./(.*/)?.*/.*\.
 /.*_yad_jsonp_
 /.*_vmind\.qqvideo\.tc\.qq\.com[^\w%.-]
 /.*_!!1731999033\.
-/.*_!!1032334477\.
 /(.*[^\w%.-])?zhuanqian/adall\.js
 /.*\?method=baidu\.ting\.commercial\.tactics&
 /.*:88/lighttpd/default/
@@ -5660,7 +5649,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
 /(.*/)?qqguojigg/.*
@@ -7170,7 +7158,6 @@ TAG:^adfilter-block-elem$
 .wallstreetcn.com/v2/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
-.wal8.com/img48/544027_20160424182911/146446612161\.gif
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
 .w010w.com.cn
@@ -7262,8 +7249,6 @@ TAG:^adfilter-block-elem$
 .tzfdc.com/Images/09/flv/flv_index\.js
 .tzfdc.com/fdcSell/
 .tzfdc.com.cn/userfiles/flash/
-.tyyhhdf.com/upload/1/148781/images/2016.*\.gif
-.tyyhhdf.com/upload/1/148781/images/2015.*\.gif
 .ty121.cn/IAA/
 .txzqw.cc/js/float\.js
 .txtyd.com/js/.*box\.js
@@ -7288,7 +7273,6 @@ TAG:^adfilter-block-elem$
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
 .tuicool.com/images/upload/.*00\.jpg
-.tuhaoylw.com/upload/1/18591636/images/.*\.gif
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
@@ -7755,9 +7739,7 @@ TAG:^adfilter-block-elem$
 .qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
-.qqhjy.com/UploadFile/2015-10/nuoxinkameng\.gif
 .qqhjy.com/soft/Upload.*\.gif
-.qqhjy.com/sgxkm1\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
 .qq6080.com/template/zeyi/aaaa/
@@ -9356,7 +9338,6 @@ TAG:^adfilter-block-elem$
 .dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
-.daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
@@ -9380,7 +9361,6 @@ TAG:^adfilter-block-elem$
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
 .cye.com.cn/JS/AdsJS/
-.cxzyw.com/upload/1/148966/images/.*\.gif
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
@@ -10216,8 +10196,6 @@ TAG:^adfilter-block-elem$
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
-.66ip.cn/klz/953X164\.gif
-.66ip.cn/common/img/yaoyao\.jpg
 .6665432.com/.*\.gif
 .66384.com/templets/SWFad
 .66384.com/templets/js/stats\.js
@@ -10696,7 +10674,6 @@ sex169.*./(.*/)?.*/.*\.
 /.*_yad_jsonp_
 /.*_vmind\.qqvideo\.tc\.qq\.com[^\w%.-]
 /.*_!!1731999033\.
-/.*_!!1032334477\.
 /(.*[^\w%.-])?zhuanqian/adall\.js
 /.*\?method=baidu\.ting\.commercial\.tactics&
 /.*:88/lighttpd/default/
@@ -12328,7 +12305,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
 /(.*/)?qqguojigg/.*
@@ -13821,7 +13797,6 @@ TAG:^adfilter-block-request$
 .wallstreetcn.com/v2/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
-.wal8.com/img48/544027_20160424182911/146446612161\.gif
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
 .vvvdj.com/sms/
@@ -13907,8 +13882,6 @@ TAG:^adfilter-block-request$
 .tzfdc.com/Images/09/flv/flv_index\.js
 .tzfdc.com/fdcSell/
 .tzfdc.com.cn/userfiles/flash/
-.tyyhhdf.com/upload/1/148781/images/2016.*\.gif
-.tyyhhdf.com/upload/1/148781/images/2015.*\.gif
 .ty121.cn/IAA/
 .txzqw.cc/js/float\.js
 .txtyd.com/js/.*box\.js
@@ -13932,7 +13905,6 @@ TAG:^adfilter-block-request$
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
 .tuicool.com/images/upload/.*00\.jpg
-.tuhaoylw.com/upload/1/18591636/images/.*\.gif
 .tudouui.com/tspecial/assets/PauseContainer\.swf
 .tuan.cs090.com/gettuan\.php\?
 .ttyavav.com/qian/
@@ -14378,9 +14350,7 @@ TAG:^adfilter-block-request$
 .qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
-.qqhjy.com/UploadFile/2015-10/nuoxinkameng\.gif
 .qqhjy.com/soft/Upload.*\.gif
-.qqhjy.com/sgxkm1\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
 .qq6080.com/template/zeyi/aaaa/
@@ -15904,7 +15874,6 @@ TAG:^adfilter-block-request$
 .dataguru.cn/site_
 .dashi.cn/134\.gif
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
-.daohangtx.com/jishudaohang/indextop\.js
 .danlan.org/KFC/
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
@@ -15922,7 +15891,6 @@ TAG:^adfilter-block-request$
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
 .cye.com.cn/JS/AdsJS/
-.cxzyw.com/upload/1/148966/images/.*\.gif
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
@@ -16722,8 +16690,6 @@ TAG:^adfilter-block-request$
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
-.66ip.cn/klz/953X164\.gif
-.66ip.cn/common/img/yaoyao\.jpg
 .6665432.com/.*\.gif
 .66384.com/templets/SWFad
 .66384.com/templets/js/stats\.js
@@ -17181,7 +17147,6 @@ sex169.*./(.*/)?.*/.*/.*\.gif
 /.*_yad_jsonp_
 /.*_vmind\.qqvideo\.tc\.qq\.com[^\w%.-]
 /.*_!!1731999033\.
-/.*_!!1032334477\.
 /(.*[^\w%.-])?zhuanqian/adall\.js
 /.*\?method=baidu\.ting\.commercial\.tactics&
 /.*:88/lighttpd/default/
@@ -18202,7 +18167,6 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
-/(.*/)?qqyouyuead/.*
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
 /(.*/)?qqguojigg/.*
