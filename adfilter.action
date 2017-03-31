@@ -51,6 +51,9 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.housefindeasy.com/images/vip_ads
+.housefindeasy.com/images/.*banner978x90\.
+.housefindeasy.com/images/b_.*\.png
 .gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
@@ -5554,6 +5557,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cnzzlink.com
+.cmslayue.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6714,6 +6719,9 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.housefindeasy.com/images/vip_ads
+.housefindeasy.com/images/.*banner978x90\.
+.housefindeasy.com/images/b_.*\.png
 .gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
@@ -12217,6 +12225,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cnzzlink.com
+.cmslayue.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13371,6 +13381,9 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.housefindeasy.com/images/vip_ads
+.housefindeasy.com/images/.*banner978x90\.
+.housefindeasy.com/images/b_.*\.png
 .gamme.com.tw/uploads/.*\?2
 .120.27.*./.*\.html
 .120.27.*.html*.
@@ -18089,6 +18102,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.cnzzlink.com
+.cmslayue.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
