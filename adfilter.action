@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1059,7 +1060,6 @@ TAG:^adfilter-block-dnt$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
-.qulishi.com/bg/1666\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -6708,6 +6708,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7716,7 +7717,6 @@ TAG:^adfilter-block-elem$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
-.qulishi.com/bg/1666\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -13359,6 +13359,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14330,7 +14331,6 @@ TAG:^adfilter-block-request$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
-.qulishi.com/bg/1666\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
