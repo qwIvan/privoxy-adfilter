@@ -453,8 +453,6 @@ TAG:^adfilter-block-dnt$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
-.weixin.qqday.com/js/tj\.js
-.weixin.qqday.com/js/rb\.js
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -1072,7 +1070,6 @@ TAG:^adfilter-block-dnt$
 .qqtn.com/js/.*0\.js
 .qqread.com/swf/
 .qqread.com/.*js/
-.qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
 .qqhjy.com/soft/Upload.*\.gif
@@ -1132,7 +1129,6 @@ TAG:^adfilter-block-dnt$
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
 .qitete.com/sp/
-.qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
 .qingkong.net/skin/htcs/images/980\.jpg
 .qingkai.com/gg_img/
@@ -1140,7 +1136,6 @@ TAG:^adfilter-block-dnt$
 .qimm.org/Uploads/ad/
 .qiming360.com/mingJs/xmKu_
 .qilanxiaozhu.*./(.*/)?data/attachment/portal/
-.qikuyou.com/images/images/250\.png
 .qihoo.com/hot/text\.html\?site=
 .qihaa.cn/js/
 .qidian.com/ploy/cloudary08/
@@ -7110,8 +7105,6 @@ TAG:^adfilter-block-elem$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
-.weixin.qqday.com/js/tj\.js
-.weixin.qqday.com/js/rb\.js
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -7729,7 +7722,6 @@ TAG:^adfilter-block-elem$
 .qqtn.com/js/.*0\.js
 .qqread.com/swf/
 .qqread.com/.*js/
-.qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
 .qqhjy.com/soft/Upload.*\.gif
@@ -7789,7 +7781,6 @@ TAG:^adfilter-block-elem$
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
 .qitete.com/sp/
-.qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
 .qingkong.net/skin/htcs/images/980\.jpg
 .qingkai.com/gg_img/
@@ -7797,7 +7788,6 @@ TAG:^adfilter-block-elem$
 .qimm.org/Uploads/ad/
 .qiming360.com/mingJs/xmKu_
 .qilanxiaozhu.*./(.*/)?data/attachment/portal/
-.qikuyou.com/images/images/250\.png
 .qihoo.com/hot/text\.html\?site=
 .qihaa.cn/js/
 .qidian.com/ploy/cloudary08/
@@ -13753,8 +13743,6 @@ TAG:^adfilter-block-request$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
-.weixin.qqday.com/js/tj\.js
-.weixin.qqday.com/js/rb\.js
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -14341,7 +14329,6 @@ TAG:^adfilter-block-request$
 .qqxbt.com/Content/img/hd
 .qqtn.com/js/.*0\.js
 .qqread.com/swf/
-.qqmcc.org/biz/home_top_960x90\.html
 .qqjia.com/images/ad
 .qqjia.com/dan\.js
 .qqhjy.com/soft/Upload.*\.gif
@@ -14398,7 +14385,6 @@ TAG:^adfilter-block-request$
 .qixingquan.com/partner/
 .qixingquan.com/api\.php\?mod=ad&adid=
 .qitete.com/sp/
-.qiqibu.com/js/.*\.gif
 .qiniudn.com/ad-zalra\.jpg
 .qingkong.net/skin/htcs/images/980\.jpg
 .qingkai.com/gg_img/
@@ -14406,7 +14392,6 @@ TAG:^adfilter-block-request$
 .qimm.org/Uploads/ad/
 .qiming360.com/mingJs/xmKu_
 .qilanxiaozhu.*./(.*/)?data/attachment/portal/
-.qikuyou.com/images/images/250\.png
 .qihoo.com/hot/text\.html\?site=
 .qihaa.cn/js/
 .qidian.com/ploy/cloudary08/
@@ -20377,7 +20362,6 @@ TAG:^adfilter-unblock-dnt$
 .qiyipic.com/common/fix/pub_images/
 .qingdaoport.net/adv/random\.jsp
 .qingcheng.com/.*/ad
-.qikuyou.com/images/js/adv\.js
 .qidian.com/ploy/20.*\.swf
 .qbao.com/hp/pc/.*Ad\.
 .pubimg-weichouji.sina.com/img/ad/
@@ -21403,7 +21387,6 @@ TAG:^adfilter-unblock-elem$
 .qiyipic.com/common/fix/pub_images/
 .qingdaoport.net/adv/random\.jsp
 .qingcheng.com/.*/ad
-.qikuyou.com/images/js/adv\.js
 .qidian.com/ploy/20.*\.swf
 .qbao.com/hp/pc/.*Ad\.
 .pubimg-weichouji.sina.com/img/ad/
@@ -22411,7 +22394,6 @@ TAG:^adfilter-unblock-request$
 .qiyipic.com/common/fix/pub_images/
 .qingdaoport.net/adv/random\.jsp
 .qingcheng.com/.*/ad
-.qikuyou.com/images/js/adv\.js
 .qidian.com/ploy/20.*\.swf
 .pubimg-weichouji.sina.com/img/ad/
 .pub.alimama.com/common/adzone/
