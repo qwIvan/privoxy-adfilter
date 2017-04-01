@@ -5480,7 +5480,6 @@ pd2.js*.
 /(.*/)?page/s\.php\?s=
 /(.*/)?page/index\.php\?s=
 /(.*/)?page/\?s=
-/(.*/)?newblog/.*
 /(.*/)?msow\.aspx\?AID=
 /(.*/)?mshow\.aspx\?AID=
 /(.*/)?mobile/mads\.js
@@ -12132,7 +12131,6 @@ pd2.js*.
 /(.*/)?page/s\.php\?s=
 /(.*/)?page/index\.php\?s=
 /(.*/)?page/\?s=
-/(.*/)?newblog/.*
 /(.*/)?msow\.aspx\?AID=
 /(.*/)?mshow\.aspx\?AID=
 /(.*/)?mobile/mads\.js
@@ -18708,7 +18706,6 @@ js*./(.*/)?i\.js\?
 /(.*/)?v\.php\?z=
 /(.*/)?showpage2\.asp\?u=
 /(.*/)?s/i\.php\?id=
-/(.*/)?newblog/.*
 /(.*/)?m/i\.php\?id=
 /(.*/)?i\.php\?z=
 /(.*/)?getcode\.jsp\?uid=
