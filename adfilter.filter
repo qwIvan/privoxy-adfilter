@@ -78,7 +78,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R121
 s@^referer(?=:[^\n]*[./](?:shuajizhijia\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R122
-s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zhuzhudao\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zzdxs\.org)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R123
 s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@adfilter-block-dnt@Ti
@@ -591,7 +591,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R121
 s@^referer(?=:[^\n]*[./](?:shuajizhijia\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R122
-s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zhuzhudao\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zzdxs\.org)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R123
 s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@adfilter-block-elem@Ti
@@ -1116,7 +1116,7 @@ s@^referer(?=:[^\n]*[./](?:tt1069\.com)):.*@adfilter-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-R175t
 s@^referer:.*@$&\t$host@Di
-s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zhuzhudao\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj@i
+s@^referer(?=:[^\n]*[./](?:storebt\.com|xtzgjx\.com|zzdxs\.org))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-R6
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@adfilter-block-request-Aj-Cj@Ti
