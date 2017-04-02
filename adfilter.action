@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1058,6 +1057,7 @@ TAG:^adfilter-block-dnt$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
+.qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -5185,6 +5185,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ad000000.com
 .ad-survey.com
 .ad-plus.cn
+.acwgf.com
 .acs86.com
 .acgbase.com
 .a9377j.com
@@ -5543,7 +5544,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.acwgf.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6703,7 +6703,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7710,6 +7709,7 @@ TAG:^adfilter-block-elem$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
+.qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -11837,6 +11837,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ad000000.com
 .ad-survey.com
 .ad-plus.cn
+.acwgf.com
 .acs86.com
 .acgbase.com
 .a9377j.com
@@ -12195,7 +12196,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.acwgf.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13349,7 +13349,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.qulishi.com/js/.*Adv\.js
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14319,6 +14318,7 @@ TAG:^adfilter-block-request$
 .qunar.com/vataframe/b\.html\?
 .qunar.com/vata\?chan=
 .qunar.com/render/.*Advertisement\.jsp\?
+.qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
@@ -17898,6 +17898,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .adbot.tw
 .ad9377.com
 .ad000000.com
+.acwgf.com
 .a9377j.com
 .a907907.com
 .a3p4.net
@@ -18057,7 +18058,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.acwgf.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
