@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.0x01e7.website
 .oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .liewen.cc/.*\.htm
@@ -1050,7 +1051,6 @@ TAG:^adfilter-block-dnt$
 .rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
 .r3.ykimg.com
-.qzwb.com/.*\.swf$
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
@@ -1150,7 +1150,6 @@ TAG:^adfilter-block-dnt$
 .qidian.com/ejs/qd/js/index/bannerTop\.
 .qianzhan.com/html/.*_txtlinks\.html
 .qianmu.org/resource/js/jquery\.ads\.js
-.qianlong.com/vda/
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
 .qhimg.com/static/.*/common/seed\.js
@@ -5542,6 +5541,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.bdtongfei.cn
 .quansj.cn
 .517m.cn
 .jxbjt.com
@@ -6415,7 +6415,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-dnt-R117} \
 }
 /(.*/)?img/br650\.gif
-/(.*/)?img/br300\.gif
 
 {+client-header-tagger{adfilter-block-dnt-R118} \
 }
@@ -6705,6 +6704,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.0x01e7.website
 .oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .liewen.cc/.*\.htm
@@ -7704,7 +7704,6 @@ TAG:^adfilter-block-elem$
 .rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
 .r3.ykimg.com
-.qzwb.com/.*\.swf$
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
@@ -7804,7 +7803,6 @@ TAG:^adfilter-block-elem$
 .qidian.com/ejs/qd/js/index/bannerTop\.
 .qianzhan.com/html/.*_txtlinks\.html
 .qianmu.org/resource/js/jquery\.ads\.js
-.qianlong.com/vda/
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
 .qhimg.com/static/.*/common/seed\.js
@@ -12196,6 +12194,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.bdtongfei.cn
 .quansj.cn
 .517m.cn
 .jxbjt.com
@@ -13069,7 +13068,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-elem-R117} \
 }
 /(.*/)?img/br650\.gif
-/(.*/)?img/br300\.gif
 
 {+client-header-tagger{adfilter-block-elem-R118} \
 }
@@ -13353,6 +13351,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.0x01e7.website
 .oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .zzz4.com/JS_AD/
@@ -14315,7 +14314,6 @@ TAG:^adfilter-block-request$
 .rainmall.com/tv/js/bofang
 .rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
-.qzwb.com/.*\.swf$
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qz828.com/css/2010/script/.*ad
@@ -18059,6 +18057,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.bdtongfei.cn
 .quansj.cn
 .517m.cn
 .jxbjt.com
@@ -18583,7 +18582,6 @@ TAG:^adfilter-block-request-Aj-Cj$
 .same*./.*\.jrj\.com\.cn[^\w%.-]
 .same*.jrj.com.cn
 .qqread.com/.*js/
-.qianlong.com/vda/
 .piaohua.com/js/yzz/
 .pfp.sina.com.cn
 .ouyaoxiazai.com
@@ -19774,7 +19772,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-request-R117} \
 }
 /(.*/)?img/br650\.gif
-/(.*/)?img/br300\.gif
 
 {+client-header-tagger{adfilter-block-request-R118} \
 }
