@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
@@ -6704,6 +6705,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
@@ -13351,6 +13353,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.oneinstack.com/ad_buttom\.html
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
