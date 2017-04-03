@@ -52,6 +52,7 @@ TAG:^adfilter-block-dnt$
 /.*\?pss=
 /.*&pcn=
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
+.liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6700,6 +6701,7 @@ TAG:^adfilter-block-elem$
 /.*\?pss=
 /.*&pcn=
 .gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
+.liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -18556,6 +18558,7 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
+.liewen.cc/.*\.htm
 .xntk.net
 .wap.xxbiquge.com/.*\.html
 .sznews.com/css/
