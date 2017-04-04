@@ -996,7 +996,6 @@ TAG:^adfilter-block-dnt$
 .runsky.com/html/.*_index_
 .runsky.com/bbsadv-
 .runmang.com/img/
-.runbt.net/image/banner\.png
 .ruian.com/img/y13/
 .ruian.com/img/2016/a1-6-1\.gif
 .rugao35.com/Public/config/Couplet/Index
@@ -1006,9 +1005,6 @@ TAG:^adfilter-block-dnt$
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
 .rtbs.cn/bi\.js
-.rshhy.com/uploads/allimg/130517/1_1834445801\.jpg
-.rshhy.com/templets/default/images/zhixiao01\.jpg
-.rshhy.com/templets/default/images/paimai01\.jpg
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
@@ -1043,8 +1039,6 @@ TAG:^adfilter-block-dnt$
 .rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
-.rainmall.com/tv/js/bofang
-.rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
 .r3.ykimg.com
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
@@ -1095,7 +1089,6 @@ TAG:^adfilter-block-dnt$
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qk101.com/life/
-.qjis.com/js/qjis_nr\.js
 .qiyun.org/images/js/.*\.htm
 .qiyipic.com/zongyi/fix/runningman20141008_bg03\.jpg
 .qiyipic.com/zongyi/fix/runningman20141008_bg02\.jpg
@@ -3634,7 +3627,6 @@ TAG:^adfilter-block-dnt$
 .51.com/up/bdfmt/
 .50megumi.com.tw
 .50970.com/js/gg\.js
-.506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
 .5011.net/template/images/.*0\.gif
@@ -6414,7 +6406,8 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-dnt-R118} \
 }
-.oeya.com
+/.*\.oeya\.com/
+.*.oeya.com
 
 {+client-header-tagger{adfilter-block-dnt-R119} \
 }
@@ -7645,7 +7638,6 @@ TAG:^adfilter-block-elem$
 .runsky.com/html/.*_index_
 .runsky.com/bbsadv-
 .runmang.com/img/
-.runbt.net/image/banner\.png
 .ruian.com/img/y13/
 .ruian.com/img/2016/a1-6-1\.gif
 .rugao35.com/Public/config/Couplet/Index
@@ -7655,9 +7647,6 @@ TAG:^adfilter-block-elem$
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
 .rtbs.cn/bi\.js
-.rshhy.com/uploads/allimg/130517/1_1834445801\.jpg
-.rshhy.com/templets/default/images/zhixiao01\.jpg
-.rshhy.com/templets/default/images/paimai01\.jpg
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
@@ -7692,8 +7681,6 @@ TAG:^adfilter-block-elem$
 .rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
-.rainmall.com/tv/js/bofang
-.rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
 .r3.ykimg.com
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
@@ -7744,7 +7731,6 @@ TAG:^adfilter-block-elem$
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qk101.com/life/
-.qjis.com/js/qjis_nr\.js
 .qiyun.org/images/js/.*\.htm
 .qiyipic.com/zongyi/fix/runningman20141008_bg03\.jpg
 .qiyipic.com/zongyi/fix/runningman20141008_bg02\.jpg
@@ -10283,7 +10269,6 @@ TAG:^adfilter-block-elem$
 .51.com/up/bdfmt/
 .50megumi.com.tw
 .50970.com/js/gg\.js
-.506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
 .5011.net/template/images/.*0\.gif
@@ -13063,7 +13048,8 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-elem-R118} \
 }
-.oeya.com
+/.*\.oeya\.com/
+.*.oeya.com
 
 {+client-header-tagger{adfilter-block-elem-R119} \
 }
@@ -14255,7 +14241,6 @@ TAG:^adfilter-block-request$
 .runsky.com/html/.*_index_
 .runsky.com/bbsadv-
 .runmang.com/img/
-.runbt.net/image/banner\.png
 .ruian.com/img/y13/
 .ruian.com/img/2016/a1-6-1\.gif
 .rugao35.com/Public/config/Couplet/Index
@@ -14264,9 +14249,6 @@ TAG:^adfilter-block-request$
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
 .rtbs.cn/bi\.js
-.rshhy.com/uploads/allimg/130517/1_1834445801\.jpg
-.rshhy.com/templets/default/images/zhixiao01\.jpg
-.rshhy.com/templets/default/images/paimai01\.jpg
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
@@ -14300,8 +14282,6 @@ TAG:^adfilter-block-request$
 .rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
 .rar8.net/htmljs/
-.rainmall.com/tv/js/bofang
-.rainmall.com/tv/js/ad
 .r3sub.com/images/banners/
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
@@ -14346,7 +14326,6 @@ TAG:^adfilter-block-request$
 .qq.com/article_qq/ad_article_qq/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qk101.com/life/
-.qjis.com/js/qjis_nr\.js
 .qiyun.org/images/js/.*\.htm
 .qiyipic.com/zongyi/fix/runningman20141008_bg03\.jpg
 .qiyipic.com/zongyi/fix/runningman20141008_bg02\.jpg
@@ -16767,7 +16746,6 @@ TAG:^adfilter-block-request$
 .512ms.com/js/index_ggw_show\.js
 .51.com/up/bdfmt/
 .50970.com/js/gg\.js
-.506ys.com/js/200\.js
 .5068.com/websleft\.js
 .5068.com/.*gg
 .5011.net/template/images/.*0\.gif
@@ -19763,7 +19741,8 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-request-R118} \
 }
-.oeya.com
+/.*\.oeya\.com/
+.*.oeya.com
 
 {+client-header-tagger{adfilter-block-request-R119} \
 }
