@@ -1009,7 +1009,6 @@ TAG:^adfilter-block-dnt$
 .rsccs.com/code/
 .rosmm.com/ad_js/
 .rkanr.com/data/cpcache/cp.*\.js
-.rkanr.cn/upload/2013/12/31/165683e8-bab4-4c6a-b28b-22ca7a60c1f6\.jpg
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
 .rising.com.cn/weblog/
@@ -1033,7 +1032,6 @@ TAG:^adfilter-block-dnt$
 .rentiyishu99.net/b\.js
 .rentiyishu99.net/a\.js
 .rentiyishu.org/.*\.js
-.ref.so/templates/ref/images/client/tg.*\.jpg
 .readnovel.com/js/
 .read.2200book.com/images/bloading\.gif
 .rayfile.com/media/img/rili_
@@ -6411,7 +6409,9 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-dnt-R119} \
 }
-.howbbs.net
+.bpimg.com
+.buimg.com
+.piimg.com
 
 {+client-header-tagger{adfilter-block-dnt-R120} \
 }
@@ -7651,7 +7651,6 @@ TAG:^adfilter-block-elem$
 .rsccs.com/code/
 .rosmm.com/ad_js/
 .rkanr.com/data/cpcache/cp.*\.js
-.rkanr.cn/upload/2013/12/31/165683e8-bab4-4c6a-b28b-22ca7a60c1f6\.jpg
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
 .rising.com.cn/weblog/
@@ -7675,7 +7674,6 @@ TAG:^adfilter-block-elem$
 .rentiyishu99.net/b\.js
 .rentiyishu99.net/a\.js
 .rentiyishu.org/.*\.js
-.ref.so/templates/ref/images/client/tg.*\.jpg
 .readnovel.com/js/
 .read.2200book.com/images/bloading\.gif
 .rayfile.com/media/img/rili_
@@ -13053,7 +13051,9 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-elem-R119} \
 }
-.howbbs.net
+.bpimg.com
+.buimg.com
+.piimg.com
 
 {+client-header-tagger{adfilter-block-elem-R120} \
 }
@@ -14253,7 +14253,6 @@ TAG:^adfilter-block-request$
 .rsccs.com/code/
 .rosmm.com/ad_js/
 .rkanr.com/data/cpcache/cp.*\.js
-.rkanr.cn/upload/2013/12/31/165683e8-bab4-4c6a-b28b-22ca7a60c1f6\.jpg
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
 .rising.com.cn/weblog/
@@ -14277,7 +14276,6 @@ TAG:^adfilter-block-request$
 .rentiyishu99.net/b\.js
 .rentiyishu99.net/a\.js
 .rentiyishu.org/.*\.js
-.ref.so/templates/ref/images/client/tg.*\.jpg
 .read.2200book.com/images/bloading\.gif
 .rayfile.com/media/img/rili_
 .ratedxbiz.com/d/
@@ -19746,7 +19744,9 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-request-R119} \
 }
-.howbbs.net
+.bpimg.com
+.buimg.com
+.piimg.com
 
 {+client-header-tagger{adfilter-block-request-R120} \
 }

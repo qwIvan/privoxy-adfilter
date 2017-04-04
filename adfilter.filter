@@ -225,7 +225,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R33
 s@^referer(?=:[^\n]*[./](?:77file\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R34
-s@^referer(?=:[^\n]*[./](?:88files\.net|ref\.so)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:88files\.net)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R35
 s@^referer(?=:[^\n]*[./](?:91fuli\.xyz|diyifuli\.top|idaohang\.top|ifulione\.com|ifulione\.top|onedh\.xyz|onefuli\.top)):.*@adfilter-block-dnt@Ti
@@ -738,7 +738,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R33
 s@^referer(?=:[^\n]*[./](?:77file\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R34
-s@^referer(?=:[^\n]*[./](?:88files\.net|ref\.so)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:88files\.net)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R35
 s@^referer(?=:[^\n]*[./](?:91fuli\.xyz|diyifuli\.top|idaohang\.top|ifulione\.com|ifulione\.top|onedh\.xyz|onefuli\.top)):.*@adfilter-block-elem@Ti
@@ -1413,7 +1413,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R33
 s@^referer(?=:[^\n]*[./](?:77file\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R34
-s@^referer(?=:[^\n]*[./](?:88files\.net|ref\.so)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:88files\.net)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R35
 s@^referer(?=:[^\n]*[./](?:91fuli\.xyz|diyifuli\.top|idaohang\.top|ifulione\.com|ifulione\.top|onedh\.xyz|onefuli\.top)):.*@adfilter-block-request@Ti
