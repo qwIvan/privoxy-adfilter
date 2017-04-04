@@ -1144,7 +1144,7 @@ TAG:^adfilter-block-dnt$
 .qidian.com/Javascript/DoublePop\.js
 .qidian.com/Images/book_.*_other
 .qidian.com/ejs/qd/js/index/bannerTop\.
-.qianzhan.com/html/.*_txtlinks\.html
+.qianzhan123.com/jsgg/
 .qianmu.org/resource/js/jquery\.ads\.js
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
@@ -7793,7 +7793,7 @@ TAG:^adfilter-block-elem$
 .qidian.com/Javascript/DoublePop\.js
 .qidian.com/Images/book_.*_other
 .qidian.com/ejs/qd/js/index/bannerTop\.
-.qianzhan.com/html/.*_txtlinks\.html
+.qianzhan123.com/jsgg/
 .qianmu.org/resource/js/jquery\.ads\.js
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
@@ -14394,7 +14394,7 @@ TAG:^adfilter-block-request$
 .qidian.com/Javascript/DoublePop\.js
 .qidian.com/Images/book_.*_other
 .qidian.com/ejs/qd/js/index/bannerTop\.
-.qianzhan.com/html/.*_txtlinks\.html
+.qianzhan123.com/jsgg/
 .qianmu.org/resource/js/jquery\.ads\.js
 .qianhua.*./(.*/)?data/attachment/portal/
 .qhnews.com/tupian/
