@@ -51,10 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.0x01e7.website
-.oneinstack.com/ad_buttom\.html
-.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
-.liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -1316,6 +1312,7 @@ TAG:^adfilter-block-dnt$
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
 .onlinedown.net/Public/img/bomAD\.jpg
+.oneinstack.com/ad_buttom\.html
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -1580,6 +1577,7 @@ TAG:^adfilter-block-dnt$
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
+.liewen.cc/.*\.htm
 .lieqi.com/templates/.*/js/_banner\.js
 .liepin.com/event/jobadver/
 .licai18.com/pic/.*\.swf
@@ -2261,6 +2259,7 @@ TAG:^adfilter-block-dnt$
 .gtimg.com/edu/0727abroad/duilian
 .gtimg.com/comic/richmedia/
 .gtimg.com/comic/pics/hv1/29/74/1631/106074674\.jpg
+.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .gtimg.cn/mediastyle/event/20160306_music_live/img/skd\.jpg
 .gter.net/.*adv
 .gt.yy.com
@@ -3962,6 +3961,7 @@ TAG:^adfilter-block-dnt$
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
+.0x01e7.website
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -4144,6 +4144,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zzbaowen.com
 .zytwq.net
 .zymro.com
+.zybpj.com
 .ztdsp.com
 .zsdexun.com.cn
 .zrpfk.com
@@ -4225,6 +4226,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yatemy.cn
 .yanglaopt.net
 .yangdasen.cn
+.yageben.com
 .xzyituo.com
 .xzdchl.com
 .xytom.com
@@ -4433,6 +4435,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .t3nlink.com
 .szxpsg.com
 .szvr.com
+.szggdw.com
 .szfaq.com
 .szdzbx.com
 .sytz1288.com
@@ -4519,6 +4522,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qxxys.com
 .qucaigg.com
 .qubilou.com
+.quansj.cn
 .qtmojo.com
 .qtmojo.cn
 .qshxc.com
@@ -4712,6 +4716,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jxxiangchu.com
 .jxlqgs.com
 .jxjzny.com
+.jxbjt.com
 .jwqj.net
 .jusha.com
 .junnew.com
@@ -5100,6 +5105,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .behe.com
 .beeho.site
 .bebelait.com
+.bdtongfei.cn
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
@@ -5291,6 +5297,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .51junpin.net
 .51jumintong.com
 .51ads.com
+.517m.cn
 .4kt2.com
 .4ggww.com
 .49ko.com
@@ -5305,6 +5312,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .3g.990.net
 .3dwwwgame.com
 .3alian.net
+.39xc.net
 .3975lm.com
 .38ra.com
 .3839168.com
@@ -5541,14 +5549,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.szggdw.com
-.39xc.net
-.zybpj.com
-.bdtongfei.cn
-.quansj.cn
-.517m.cn
-.jxbjt.com
-.yageben.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6707,10 +6707,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.0x01e7.website
-.oneinstack.com/ad_buttom\.html
-.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
-.liewen.cc/.*\.htm
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7972,6 +7968,7 @@ TAG:^adfilter-block-elem$
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
 .onlinedown.net/Public/img/bomAD\.jpg
+.oneinstack.com/ad_buttom\.html
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -8236,6 +8233,7 @@ TAG:^adfilter-block-elem$
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
+.liewen.cc/.*\.htm
 .lieqi.com/templates/.*/js/_banner\.js
 .liepin.com/event/jobadver/
 .licai18.com/pic/.*\.swf
@@ -8917,6 +8915,7 @@ TAG:^adfilter-block-elem$
 .gtimg.com/edu/0727abroad/duilian
 .gtimg.com/comic/richmedia/
 .gtimg.com/comic/pics/hv1/29/74/1631/106074674\.jpg
+.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .gtimg.cn/mediastyle/event/20160306_music_live/img/skd\.jpg
 .gter.net/.*adv
 .gt.yy.com
@@ -10618,6 +10617,7 @@ TAG:^adfilter-block-elem$
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
+.0x01e7.website
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -10800,6 +10800,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zzbaowen.com
 .zytwq.net
 .zymro.com
+.zybpj.com
 .ztdsp.com
 .zsdexun.com.cn
 .zrpfk.com
@@ -10881,6 +10882,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yatemy.cn
 .yanglaopt.net
 .yangdasen.cn
+.yageben.com
 .xzyituo.com
 .xzdchl.com
 .xytom.com
@@ -11089,6 +11091,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .t3nlink.com
 .szxpsg.com
 .szvr.com
+.szggdw.com
 .szfaq.com
 .szdzbx.com
 .sytz1288.com
@@ -11175,6 +11178,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qxxys.com
 .qucaigg.com
 .qubilou.com
+.quansj.cn
 .qtmojo.com
 .qtmojo.cn
 .qshxc.com
@@ -11368,6 +11372,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jxxiangchu.com
 .jxlqgs.com
 .jxjzny.com
+.jxbjt.com
 .jwqj.net
 .jusha.com
 .junnew.com
@@ -11756,6 +11761,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .behe.com
 .beeho.site
 .bebelait.com
+.bdtongfei.cn
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
@@ -11947,6 +11953,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .51junpin.net
 .51jumintong.com
 .51ads.com
+.517m.cn
 .4kt2.com
 .4ggww.com
 .49ko.com
@@ -11961,6 +11968,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .3g.990.net
 .3dwwwgame.com
 .3alian.net
+.39xc.net
 .3975lm.com
 .38ra.com
 .3839168.com
@@ -12197,14 +12205,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.szggdw.com
-.39xc.net
-.zybpj.com
-.bdtongfei.cn
-.quansj.cn
-.517m.cn
-.jxbjt.com
-.yageben.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13357,9 +13357,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.0x01e7.website
-.oneinstack.com/ad_buttom\.html
-.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14572,6 +14569,7 @@ TAG:^adfilter-block-request$
 .opticsky.cn/images/2015/gy-px201
 .opinion.people.com.cn/GB/
 .onlinedown.net/Public/img/bomAD\.jpg
+.oneinstack.com/ad_buttom\.html
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
@@ -15476,6 +15474,7 @@ TAG:^adfilter-block-request$
 .gtimg.com/edu/0727abroad/duilian
 .gtimg.com/comic/richmedia/
 .gtimg.com/comic/pics/hv1/29/74/1631/106074674\.jpg
+.gtimg.com/auto/js/autoproject/autoarticle/low-price-car_
 .gtimg.cn/mediastyle/event/20160306_music_live/img/skd\.jpg
 .gter.net/.*adv
 .gt.yy.com
@@ -17096,6 +17095,7 @@ TAG:^adfilter-block-request$
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
+.0x01e7.website
 .0dian8.org/data/js/
 .07908.com/images/
 .0772fang.com/assets/js/Newhouse/inserAds\.js
@@ -17252,6 +17252,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zzrcz.com
 .zzbaowen.com
 .zymro.com
+.zybpj.com
 .zsdexun.com.cn
 .zrpfk.com
 .zqworks.com
@@ -17301,6 +17302,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yatemy.cn
 .yanglaopt.net
 .yangdasen.cn
+.yageben.com
 .xzyituo.com
 .xytom.com
 .xyssp.com
@@ -17432,6 +17434,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .taat00889.com
 .t70123.com
 .szxpsg.com
+.szggdw.com
 .szfaq.com
 .szdzbx.com
 .sytz1288.com
@@ -17491,6 +17494,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qyctj.com
 .qxxys.com
 .qucaigg.com
+.quansj.cn
 .qtmojo.cn
 .qshxc.com
 .qsbz2011.com
@@ -17617,6 +17621,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jxxiangchu.com
 .jxlqgs.com
 .jxjzny.com
+.jxbjt.com
 .jwqj.net
 .junfull.com
 .jsmwd.com
@@ -17863,6 +17868,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .beibeigoudai.com
 .beeho.site
 .bebelait.com
+.bdtongfei.cn
 .bccyyc.com
 .baidulao.com
 .baiduace.com
@@ -17964,12 +17970,14 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .51xumei.com
 .51weidashi.com
 .51jumintong.com
+.517m.cn
 .4ggww.com
 .456juhd.com
 .3ygww.com
 .3qmh.com
 .3gmtr.com
 .3g.990.net
+.39xc.net
 .376zf.com
 .36pn.com
 .366safego.com
@@ -18063,14 +18071,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.szggdw.com
-.39xc.net
-.zybpj.com
-.bdtongfei.cn
-.quansj.cn
-.517m.cn
-.jxbjt.com
-.yageben.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18581,7 +18581,6 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-.liewen.cc/.*\.htm
 .xntk.net
 .wap.xxbiquge.com/.*\.html
 .sznews.com/css/
@@ -18598,6 +18597,7 @@ TAG:^adfilter-block-request-Aj-Cj$
 .medsci.cn/aimgs/
 .m.biquwu.cc/.*\.html
 .linuxidc.com/linuxfile/linux
+.liewen.cc/.*\.htm
 .jz5u.com/js/tl
 .js.tv.itc.cn/gg
 .ifengimg.com/.*Float
