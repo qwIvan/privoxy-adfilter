@@ -51,6 +51,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.jfrft.com/.*/w234\.js
+.jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -473,7 +475,7 @@ TAG:^adfilter-block-dnt$
 .wbzol.com/images/1120-
 .warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
-.wap.xxbiquge.com/.*\.html
+.xxbiquge.com/.*\.htm
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
@@ -5534,6 +5536,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.runiman.com
 .139y.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -6693,6 +6696,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.jfrft.com/.*/w234\.js
+.jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7115,7 +7120,7 @@ TAG:^adfilter-block-elem$
 .wbzol.com/images/1120-
 .warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
-.wap.xxbiquge.com/.*\.html
+.xxbiquge.com/.*\.htm
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
@@ -12176,6 +12181,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.runiman.com
 .139y.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -13329,6 +13335,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.jfrft.com/.*/w234\.js
+.jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18028,6 +18036,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.runiman.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18539,7 +18548,7 @@ TAG:^adfilter-block-request-Ai-Ci$
 }
 TAG:^adfilter-block-request-Aj-Cj$
 .xntk.net
-.wap.xxbiquge.com/.*\.html
+.xxbiquge.com/.*\.htm
 .sznews.com/css/
 .stheadline.com/.*banner
 .skads.gxsky.com
