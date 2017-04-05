@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -592,8 +591,8 @@ TAG:^adfilter-block-dnt$
 .txt99.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
-.twaifei.info/.*\.gif
 .twavtv.com/js/jquery\.colorbox
+.twaifei.info/.*\.gif
 .tw.buy.yahoo.com/\?z=
 .tw.beanfun.com/bfweb/NEW/commonlogin
 .tvmao.com/blog/showdetail\.
@@ -859,6 +858,7 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -6410,8 +6410,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-dnt-R119} \
 }
 .bpimg.com
-.buimg.com
-.piimg.com
 
 {+client-header-tagger{adfilter-block-dnt-R120} \
 }
@@ -6693,7 +6691,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7234,8 +7231,8 @@ TAG:^adfilter-block-elem$
 .txt99.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
-.twaifei.info/.*\.gif
 .twavtv.com/js/jquery\.colorbox
+.twaifei.info/.*\.gif
 .tw.buy.yahoo.com/\?z=
 .tw.beanfun.com/bfweb/NEW/commonlogin
 .tvmao.com/blog/showdetail\.
@@ -7501,6 +7498,7 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -13052,8 +13050,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-elem-R119} \
 }
 .bpimg.com
-.buimg.com
-.piimg.com
 
 {+client-header-tagger{adfilter-block-elem-R120} \
 }
@@ -13329,7 +13325,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13853,8 +13848,8 @@ TAG:^adfilter-block-request$
 .txt99.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
-.twaifei.info/.*\.gif
 .twavtv.com/js/jquery\.colorbox
+.twaifei.info/.*\.gif
 .tw.buy.yahoo.com/\?z=
 .tw.beanfun.com/bfweb/NEW/commonlogin
 .tvmao.com/blog/showdetail\.
@@ -14110,6 +14105,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
@@ -19745,8 +19741,6 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-request-R119} \
 }
 .bpimg.com
-.buimg.com
-.piimg.com
 
 {+client-header-tagger{adfilter-block-request-R120} \
 }
