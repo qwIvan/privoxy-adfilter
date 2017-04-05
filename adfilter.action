@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/.*/w234\.js
 .jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
@@ -5536,6 +5535,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.3htai.com
 .runiman.com
 .139y.com
 /.*\.cn/show\?id=
@@ -6696,7 +6696,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/.*/w234\.js
 .jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
@@ -12181,6 +12180,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.3htai.com
 .runiman.com
 .139y.com
 /.*\.cn/show\?id=
@@ -13335,7 +13335,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/.*/w234\.js
 .jfrft.com/images/nono/
 .ad-api.cnblogs.com
 .zzz4.com/JS_AD/
@@ -18036,6 +18035,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.3htai.com
 .runiman.com
 ad.*.
 /(.*/)?js/tc\.js
