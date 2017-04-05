@@ -5535,6 +5535,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.1lib.cn
+.qdchunyu.com
 .3htai.com
 .runiman.com
 .139y.com
@@ -12180,6 +12182,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.1lib.cn
+.qdchunyu.com
 .3htai.com
 .runiman.com
 .139y.com
@@ -18035,6 +18039,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.1lib.cn
+.qdchunyu.com
 .3htai.com
 .runiman.com
 ad.*.
