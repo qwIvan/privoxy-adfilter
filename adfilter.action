@@ -51,8 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/images/nono/
-.ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -284,6 +282,7 @@ TAG:^adfilter-block-dnt$
 .xxhh.com/xh\.js
 .xxhh.com/static/assets/pics/moguzbad\.jpg
 .xxdm.*./(.*/)?js/union/
+.xxbiquge.com/.*\.htm
 .xxbiquge.com/js/xbiquge\.js
 .xx978.info/images/468-60OK\.gif
 .xv98.com/js/hengfu
@@ -474,7 +473,6 @@ TAG:^adfilter-block-dnt$
 .wbzol.com/images/1120-
 .warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
-.xxbiquge.com/.*\.htm
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
@@ -1761,6 +1759,7 @@ TAG:^adfilter-block-dnt$
 .jfrft.com/js/main_video\.js
 .jfrft.com/js/main_list\.js
 .jfrft.com/js/m_dilidili_main\.js
+.jfrft.com/images/nono/
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
@@ -3304,6 +3303,7 @@ TAG:^adfilter-block-dnt$
 .ad.12306.cn/res/.*\.html
 .ad-resource.huanqiu.com
 .ad-img.diyidan.net
+.ad-api.cnblogs.com
 .actoys.net/statics/js/index/ad\.js
 .actoys.net/js/beitou\.js
 .actoys.net/index\.php\?m=poster&
@@ -4493,6 +4493,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .s17cnzz.com
 .rwjfs.com
 .ruxianke.com
+.runiman.com
 .ruanwenclub.com
 .rsccs.com
 .rhgyg.com
@@ -4524,6 +4525,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
 .ptdrw.com
@@ -5294,6 +5296,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .3vlm.com
 .3qmh.com
 .3p-link.com
+.3htai.com
 .3gmtr.com
 .3g.990.net
 .3dwwwgame.com
@@ -5347,6 +5350,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1uandun.com
 .1qwe3r.com
 .1lo0.net
+.1lib.cn
 .1l1.cc
 .1kzh.com
 .1kmb.cn
@@ -5364,6 +5368,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .170yy.com
 .1680go.com
 .1503.net/code/
+.139y.com
 .139site.com
 .139.159.32.82
 .138138138.top
@@ -5535,11 +5540,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.1lib.cn
-.qdchunyu.com
-.3htai.com
-.runiman.com
-.139y.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6698,8 +6698,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/images/nono/
-.ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -6931,6 +6929,7 @@ TAG:^adfilter-block-elem$
 .xxhh.com/xh\.js
 .xxhh.com/static/assets/pics/moguzbad\.jpg
 .xxdm.*./(.*/)?js/union/
+.xxbiquge.com/.*\.htm
 .xxbiquge.com/js/xbiquge\.js
 .xx978.info/images/468-60OK\.gif
 .xv98.com/js/hengfu
@@ -7121,7 +7120,6 @@ TAG:^adfilter-block-elem$
 .wbzol.com/images/1120-
 .warting.com/plus/.*\.php\?aid=
 .wapzj.com/template/yudi_kanchai/style/icon27\.jpg
-.xxbiquge.com/.*\.htm
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
@@ -8408,6 +8406,7 @@ TAG:^adfilter-block-elem$
 .jfrft.com/js/main_video\.js
 .jfrft.com/js/main_list\.js
 .jfrft.com/js/m_dilidili_main\.js
+.jfrft.com/images/nono/
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
@@ -9951,6 +9950,7 @@ TAG:^adfilter-block-elem$
 .ad.12306.cn/res/.*\.html
 .ad-resource.huanqiu.com
 .ad-img.diyidan.net
+.ad-api.cnblogs.com
 .actoys.net/statics/js/index/ad\.js
 .actoys.net/js/beitou\.js
 .actoys.net/index\.php\?m=poster&
@@ -11140,6 +11140,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .s17cnzz.com
 .rwjfs.com
 .ruxianke.com
+.runiman.com
 .ruanwenclub.com
 .rsccs.com
 .rhgyg.com
@@ -11171,6 +11172,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
 .ptdrw.com
@@ -11941,6 +11943,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .3vlm.com
 .3qmh.com
 .3p-link.com
+.3htai.com
 .3gmtr.com
 .3g.990.net
 .3dwwwgame.com
@@ -11994,6 +11997,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .1uandun.com
 .1qwe3r.com
 .1lo0.net
+.1lib.cn
 .1l1.cc
 .1kzh.com
 .1kmb.cn
@@ -12011,6 +12015,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .170yy.com
 .1680go.com
 .1503.net/code/
+.139y.com
 .139site.com
 .139.159.32.82
 .138138138.top
@@ -12182,11 +12187,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.1lib.cn
-.qdchunyu.com
-.3htai.com
-.runiman.com
-.139y.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13339,8 +13339,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.jfrft.com/images/nono/
-.ad-api.cnblogs.com
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14975,6 +14973,7 @@ TAG:^adfilter-block-request$
 .jfrft.com/js/main_video\.js
 .jfrft.com/js/main_list\.js
 .jfrft.com/js/m_dilidili_main\.js
+.jfrft.com/images/nono/
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
@@ -16453,6 +16452,7 @@ TAG:^adfilter-block-request$
 .ad.12306.cn/res/.*\.html
 .ad-resource.huanqiu.com
 .ad-img.diyidan.net
+.ad-api.cnblogs.com
 .actoys.net/statics/js/index/ad\.js
 .actoys.net/js/beitou\.js
 .actoys.net/index\.php\?m=poster&
@@ -17452,6 +17452,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .s9w.cc
 .rwjfs.com
 .ruxianke.com
+.runiman.com
 .rhgyg.com
 .rencai56.com
 .remotedu.cn
@@ -17472,6 +17473,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiyii.com
 .qiqiww.com
 .qingqu.la
+.qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
 .ptdrw.com
@@ -17943,6 +17945,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .456juhd.com
 .3ygww.com
 .3qmh.com
+.3htai.com
 .3gmtr.com
 .3g.990.net
 .39xc.net
@@ -17968,6 +17971,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .2012ui.com
 .201071.com
 .1uandun.com
+.1lib.cn
 .1l1.cc
 .1kzh.com
 .1kmb.cn
@@ -18039,10 +18043,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.1lib.cn
-.qdchunyu.com
-.3htai.com
-.runiman.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18553,8 +18553,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-.xntk.net
 .xxbiquge.com/.*\.htm
+.xntk.net
 .sznews.com/css/
 .stheadline.com/.*banner
 .skads.gxsky.com
@@ -19257,6 +19257,7 @@ gg.*.
 .189.gd/.*\.html
 .189.cn/.*/push/
 .17zhaole.com
+.139y.com
 .139site.com
 .12l22.net
 .12291.com
@@ -19292,7 +19293,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.139y.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
