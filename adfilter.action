@@ -5543,6 +5543,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xmsqz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12196,6 +12197,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xmsqz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -18058,6 +18060,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .cnkok.com
+.xmsqz.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
