@@ -5526,6 +5526,7 @@ pd2.js*.
 .*.com/pp\.php\?uid=
 /.*\.com/mediaController\.php\?pid=
 .*.com/mediaController\.php\?pid=
+.cnkok.com
 /.*\.com/jscode/
 .*.com/jscode/
 /.*\.com/htmlcode/
@@ -12179,6 +12180,7 @@ pd2.js*.
 .*.com/pp\.php\?uid=
 /.*\.com/mediaController\.php\?pid=
 .*.com/mediaController\.php\?pid=
+.cnkok.com
 /.*\.com/jscode/
 .*.com/jscode/
 /.*\.com/htmlcode/
@@ -18057,6 +18059,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.cnkok.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
