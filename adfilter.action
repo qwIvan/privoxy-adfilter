@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -489,11 +488,12 @@ TAG:^adfilter-block-dnt$
 .wan.sogou.com/pop/
 .wan.sogou.com/cdn/
 .wan.liebao.cn/zt/
-.wallstreetcn.com/v2/ads[^\w%.-]
+.wallstreetcn.com/.*/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
+.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .w010w.com.cn
 .vzhuan.cn/html/
 .vvvdj.com/sms/
@@ -4446,6 +4446,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ssdaili.com
 .sscj123.com
 .sscefsol.com
+.sqext.com
 .sphwq.net
 .spcode.baidu.com
 .souacode.com
@@ -5541,7 +5542,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.sqext.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6704,7 +6704,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7142,11 +7141,12 @@ TAG:^adfilter-block-elem$
 .wan.sogou.com/pop/
 .wan.sogou.com/cdn/
 .wan.liebao.cn/zt/
-.wallstreetcn.com/v2/ads[^\w%.-]
+.wallstreetcn.com/.*/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
+.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .w010w.com.cn
 .vzhuan.cn/html/
 .vvvdj.com/sms/
@@ -11099,6 +11099,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ssdaili.com
 .sscj123.com
 .sscefsol.com
+.sqext.com
 .sphwq.net
 .spcode.baidu.com
 .souacode.com
@@ -12194,7 +12195,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.sqext.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13351,7 +13351,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -13778,11 +13777,12 @@ TAG:^adfilter-block-request$
 .wan.sogou.com/static/fragment/
 .wan.sogou.com/pop/
 .wan.liebao.cn/zt/
-.wallstreetcn.com/v2/ads[^\w%.-]
+.wallstreetcn.com/.*/ads[^\w%.-]
 .wallstcn.com/.*-300x250\.
 .wallstcn.com/image\?url=http%3A%2F%2Fcbjs\.
 .wacowla.com/wp-content/uploads/.*_320x60\.
 .wa.kuwo.cn/lyrics/img/kwgg/
+.w3cschool.cn/attachments/image/20170405/1491384200537518\.gif
 .vvvdj.com/sms/
 .vupload.duowan.com
 .vodtw.com/m-
@@ -17434,6 +17434,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ssjy168.com
 .ssdaili.com
 .sscefsol.com
+.sqext.com
 .spcode.baidu.com
 .socdm.com
 .so9l.com
@@ -18056,7 +18057,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.sqext.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
