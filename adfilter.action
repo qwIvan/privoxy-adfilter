@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.100xuexi.com/CssModel/.*Layout\.js
 .shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
@@ -6706,6 +6707,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.100xuexi.com/CssModel/.*Layout\.js
 .shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
@@ -13355,6 +13357,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.100xuexi.com/CssModel/.*Layout\.js
 .shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
