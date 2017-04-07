@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -740,7 +741,6 @@ TAG:^adfilter-block-dnt$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
-.stoneip.info/wp-content/uploads/.*/SIM-
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .sto.cn*./(.*/)?temp/adv\.jpg
@@ -812,7 +812,6 @@ TAG:^adfilter-block-dnt$
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
-.skykiwi.com/video\.html
 .skycn.com/js/top\.js
 .skinme.cc/assets/index/.*/banner2016
 .skdh2.com/tp/
@@ -5626,7 +5625,6 @@ tan.js*.
 /(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
-/(.*/)?stoneip_Sidebar\.png
 /(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
@@ -6706,6 +6704,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7395,7 +7394,6 @@ TAG:^adfilter-block-elem$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
-.stoneip.info/wp-content/uploads/.*/SIM-
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .sto.cn*./(.*/)?temp/adv\.jpg
@@ -7467,7 +7465,6 @@ TAG:^adfilter-block-elem$
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
-.skykiwi.com/video\.html
 .skycn.com/js/top\.js
 .skinme.cc/assets/index/.*/banner2016
 .skdh2.com/tp/
@@ -12281,7 +12278,6 @@ tan.js*.
 /(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
-/(.*/)?stoneip_Sidebar\.png
 /(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
@@ -13355,6 +13351,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shufazidian.com/image/728x90ty\.jpg
 .ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14021,7 +14018,6 @@ TAG:^adfilter-block-request$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
-.stoneip.info/wp-content/uploads/.*/SIM-
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .sto.cn*./(.*/)?temp/adv\.jpg
@@ -14092,7 +14088,6 @@ TAG:^adfilter-block-request$
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
-.skykiwi.com/video\.html
 .skycn.com/js/top\.js
 .skinme.cc/assets/index/.*/banner2016
 .skdh2.com/tp/
@@ -18142,7 +18137,6 @@ tan.js*.
 /(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
-/(.*/)?stoneip_Sidebar\.png
 /(.*/)?static/common/js/djlib_
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
