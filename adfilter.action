@@ -51,9 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.100xuexi.com/CssModel/.*Layout\.js
-.shufazidian.com/image/728x90ty\.jpg
-.ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -897,6 +894,7 @@ TAG:^adfilter-block-dnt$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/image/728x90ty\.jpg
 .shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
@@ -1006,6 +1004,7 @@ TAG:^adfilter-block-dnt$
 .ruanjianxiaozi.qiniudn.com
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
+.ruan8.com/img/1200-90\.gif
 .rtbs.cn/bi\.js
 .rsdown.cn/static/t/
 .rsccs.com/code/
@@ -3946,6 +3945,7 @@ TAG:^adfilter-block-dnt$
 .1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
+.100xuexi.com/CssModel/.*Layout\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
@@ -4212,6 +4212,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ychun03.com
 .ychml.com
 .yatemy.cn
+.yaohq.com
 .yanglaopt.net
 .yangdasen.cn
 .yageben.com
@@ -4235,6 +4236,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xpqfc.com
 .xp3366.com
 .xnjpg.com
+.xmsqz.com
 .xmshqh.com
 .xmcmn.com
 .xlwnx.com
@@ -5032,6 +5034,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnxad.com
 .cnsjx.net
 .cnscdj.com
+.cnkok.com
 .cnfanglei.com
 .cncy8.com
 .cnbole.net
@@ -5527,7 +5530,6 @@ pd2.js*.
 .*.com/pp\.php\?uid=
 /.*\.com/mediaController\.php\?pid=
 .*.com/mediaController\.php\?pid=
-.cnkok.com
 /.*\.com/jscode/
 .*.com/jscode/
 /.*\.com/htmlcode/
@@ -5544,8 +5546,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.yaohq.com
-.xmsqz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6707,9 +6707,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.100xuexi.com/CssModel/.*Layout\.js
-.shufazidian.com/image/728x90ty\.jpg
-.ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7553,6 +7550,7 @@ TAG:^adfilter-block-elem$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/image/728x90ty\.jpg
 .shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
@@ -7662,6 +7660,7 @@ TAG:^adfilter-block-elem$
 .ruanjianxiaozi.qiniudn.com
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
+.ruan8.com/img/1200-90\.gif
 .rtbs.cn/bi\.js
 .rsdown.cn/static/t/
 .rsccs.com/code/
@@ -10602,6 +10601,7 @@ TAG:^adfilter-block-elem$
 .1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
+.100xuexi.com/CssModel/.*Layout\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
@@ -10868,6 +10868,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ychun03.com
 .ychml.com
 .yatemy.cn
+.yaohq.com
 .yanglaopt.net
 .yangdasen.cn
 .yageben.com
@@ -10891,6 +10892,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xpqfc.com
 .xp3366.com
 .xnjpg.com
+.xmsqz.com
 .xmshqh.com
 .xmcmn.com
 .xlwnx.com
@@ -11688,6 +11690,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnxad.com
 .cnsjx.net
 .cnscdj.com
+.cnkok.com
 .cnfanglei.com
 .cncy8.com
 .cnbole.net
@@ -12183,7 +12186,6 @@ pd2.js*.
 .*.com/pp\.php\?uid=
 /.*\.com/mediaController\.php\?pid=
 .*.com/mediaController\.php\?pid=
-.cnkok.com
 /.*\.com/jscode/
 .*.com/jscode/
 /.*\.com/htmlcode/
@@ -12200,8 +12202,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.yaohq.com
-.xmsqz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13357,9 +13357,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.100xuexi.com/CssModel/.*Layout\.js
-.shufazidian.com/image/728x90ty\.jpg
-.ruan8.com/img/1200-90\.gif
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14175,6 +14172,7 @@ TAG:^adfilter-block-request$
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
 .shulihua.net/js/gzlishi468google\.js
+.shufazidian.com/image/728x90ty\.jpg
 .shufazidian.com/float/yanue\.
 .shuajizhijia.com/uploads/allimg/141121/1_1702554911\.jpg
 .shuajizhijia.com/static/js/rightdown\.js
@@ -14278,6 +14276,7 @@ TAG:^adfilter-block-request$
 .ruanyifeng.com/blog/images/sub_
 .ruan8.com/img/head\.js
 .ruan8.com/img/foot\.js
+.ruan8.com/img/1200-90\.gif
 .rtbs.cn/bi\.js
 .rsdown.cn/static/t/
 .rsccs.com/code/
@@ -17080,6 +17079,7 @@ TAG:^adfilter-block-request$
 .1010pic.com/scripts/hd/yueyue3\.js
 .101.78.195.135/js/
 .100yangsheng.com/a1/a\.js
+.100xuexi.com/CssModel/.*Layout\.js
 .100ksw.com/include/ksbdfd\.js
 .100.admin5.com
 .1.hao123.com
@@ -17288,6 +17288,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ychun03.com
 .ychml.com
 .yatemy.cn
+.yaohq.com
 .yanglaopt.net
 .yangdasen.cn
 .yageben.com
@@ -17306,6 +17307,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xq199.com
 .xpqfc.com
 .xnjpg.com
+.xmsqz.com
 .xmcmn.com
 .xlwnx.com
 .xkwfao.com
@@ -17816,6 +17818,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnxad.net
 .cnsjx.net
 .cnscdj.com
+.cnkok.com
 .cnfanglei.com
 .cncy8.com
 .cnbole.net
@@ -18064,9 +18067,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.cnkok.com
-.yaohq.com
-.xmsqz.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
