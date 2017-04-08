@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -5643,7 +5644,6 @@ sogouAD.*.
 /(.*/)?show\.js\?sp=.*&oid=
 /(.*/)?show\.js\?aid=.*&pushid=
 /(.*/)?scripts/youthad\.js
-/(.*/)?sbo8gg/.*
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
@@ -6708,6 +6708,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -12300,7 +12301,6 @@ sogouAD.*.
 /(.*/)?show\.js\?sp=.*&oid=
 /(.*/)?show\.js\?aid=.*&pushid=
 /(.*/)?scripts/youthad\.js
-/(.*/)?sbo8gg/.*
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
@@ -13359,6 +13359,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -18163,7 +18164,6 @@ sogouAD.*.
 /(.*/)?show\.js\?sp=.*&oid=
 /(.*/)?show\.js\?aid=.*&pushid=
 /(.*/)?scripts/youthad\.js
-/(.*/)?sbo8gg/.*
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?RenderLapinBlock\?
