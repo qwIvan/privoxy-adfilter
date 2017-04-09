@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zzzyk.com/js/
 .shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
@@ -6710,6 +6711,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zzzyk.com/js/
 .shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
@@ -13363,6 +13365,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zzzyk.com/js/
 .shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
