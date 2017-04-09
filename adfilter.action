@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -969,6 +968,7 @@ TAG:^adfilter-block-dnt$
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
+.sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .same.stockstar.com
 .same.eastmoney.com
@@ -4845,6 +4845,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gzbywl.com
 .gydag.com
 .guoshennet.com
+.guidashu.com
 .gugulonger.cn
 .gugeys.com
 .guduopu.com
@@ -5547,7 +5548,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.guidashu.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6708,7 +6708,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7626,6 +7625,7 @@ TAG:^adfilter-block-elem$
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
+.sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .same.stockstar.com
 .same.eastmoney.com
@@ -11502,6 +11502,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gzbywl.com
 .gydag.com
 .guoshennet.com
+.guidashu.com
 .gugulonger.cn
 .gugeys.com
 .guduopu.com
@@ -12204,7 +12205,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.guidashu.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13359,7 +13359,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sbo8.com/static/theme/js/bottom\.
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14247,6 +14246,7 @@ TAG:^adfilter-block-request$
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
+.sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .same.stockstar.com
 .same.eastmoney.com
@@ -17697,6 +17697,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gzktpf.com
 .gydag.com
 .guoshennet.com
+.guidashu.com
 .gugulonger.cn
 .guduopu.com
 .gtmucs.cn
@@ -18070,7 +18071,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.guidashu.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
