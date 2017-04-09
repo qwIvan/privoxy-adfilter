@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6709,6 +6710,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13361,6 +13363,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.shicimingju.com/Public/js/buttom\.js
 .bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -20341,7 +20344,6 @@ TAG:^adfilter-unblock-dnt$
 .szhr.com
 .szhr.com.cn/.*ad
 .szhr.com.cn
-.szeyz.com/szyz/portal/images/ad-
 .sz3e.com/css/ad\.
 .sxjbjt.com/.*/ad
 .swsc.com.cn/download/ad_images/
@@ -21363,7 +21365,6 @@ TAG:^adfilter-unblock-elem$
 .szhr.com
 .szhr.com.cn/.*ad
 .szhr.com.cn
-.szeyz.com/szyz/portal/images/ad-
 .sz3e.com/css/ad\.
 .sxjbjt.com/.*/ad
 .swsc.com.cn/download/ad_images/
@@ -22368,7 +22369,6 @@ TAG:^adfilter-unblock-request$
 .szhr.com
 .szhr.com.cn/.*ad
 .szhr.com.cn
-.szeyz.com/szyz/portal/images/ad-
 .sz3e.com/css/ad\.
 .sxjbjt.com/.*/ad
 .swsc.com.cn/download/ad_images/
