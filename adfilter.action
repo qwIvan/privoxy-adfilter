@@ -51,6 +51,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cckke.com/fanhao/v/ad
+.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5502,6 +5504,8 @@ pd2.js*.
 /(.*/)?js/cpc_i\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
+.wangdq.com
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?i\.php\?z=
 /(.*/)?getcode\.jsp\?uid=
 /(.*/)?g\.jsp\?uid=
@@ -6711,6 +6715,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cckke.com/fanhao/v/ad
+.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12162,6 +12168,8 @@ pd2.js*.
 /(.*/)?js/cpc_i\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
+.wangdq.com
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?i\.php\?z=
 /(.*/)?getcode\.jsp\?uid=
 /(.*/)?g\.jsp\?uid=
@@ -13365,6 +13373,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cckke.com/fanhao/v/ad
+.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18070,6 +18080,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?js/cpc_i\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
+.wangdq.com
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?cpm/i\.ashx\?
 /(.*/)?code/popjs\.
 /(.*/)?code/pop_cpf\.
