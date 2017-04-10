@@ -2028,9 +2028,9 @@ TAG:^adfilter-block-dnt$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i2.supfree.net/.*\.js
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .i.syasn.com
-.i.supfree.net/.*\.js
 .i-gamer.net/promo_
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
@@ -8690,9 +8690,9 @@ TAG:^adfilter-block-elem$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i2.supfree.net/.*\.js
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .i.syasn.com
-.i.supfree.net/.*\.js
 .i-gamer.net/promo_
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
@@ -15261,9 +15261,9 @@ TAG:^adfilter-block-request$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i2.supfree.net/.*\.js
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .i.syasn.com
-.i.supfree.net/.*\.js
 .i-gamer.net/promo_
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
