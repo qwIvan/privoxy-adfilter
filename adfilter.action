@@ -52,8 +52,6 @@ TAG:^adfilter-block-dnt$
 /.*\?pss=
 /.*&pcn=
 .zzzyk.com/js/
-.shicimingju.com/Public/js/buttom\.js
-.bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -914,6 +912,7 @@ TAG:^adfilter-block-dnt$
 .shm.com.cn/content/con.*\.js
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
+.shicimingju.com/Public/js/buttom\.js
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -3127,6 +3126,7 @@ TAG:^adfilter-block-dnt$
 .baidu.com/api/wikiui/guesslike\?
 .baidu.com/api/proxyapi\?tag=adv&
 .baidu.com/adver\?
+.bai3.gushiwen.org
 .badmintoncn.com/cbo_gg/
 .backchina.com/banners/
 .babyhome.com.tw/slot_gateway\.php\?
@@ -4232,6 +4232,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xxhrd.com
 .xxad.cc
 .xulizui6.com
+.xul478.com
 .xtxa.net
 .xtgreat.com
 .xsu.cc
@@ -4607,6 +4608,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mycctvmedia.com
 .mxmrt.com
 .mtxsk.com
+.mtty.com
 .mstzym.com
 .msltzer.cn
 .mscimg.com
@@ -4902,6 +4904,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fjmeyer.com
 .fjkst.com
 .ffhtek.com
+.fenggejiaju.com
 .feitian001.com
 .fd7c.com
 .farm-cn.plista.com
@@ -5551,9 +5554,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.mtty.com
-.fenggejiaju.com
-.xul478.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6712,8 +6712,6 @@ TAG:^adfilter-block-elem$
 /.*\?pss=
 /.*&pcn=
 .zzzyk.com/js/
-.shicimingju.com/Public/js/buttom\.js
-.bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -7574,6 +7572,7 @@ TAG:^adfilter-block-elem$
 .shm.com.cn/content/con.*\.js
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
+.shicimingju.com/Public/js/buttom\.js
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -9787,6 +9786,7 @@ TAG:^adfilter-block-elem$
 .baidu.com/api/wikiui/guesslike\?
 .baidu.com/api/proxyapi\?tag=adv&
 .baidu.com/adver\?
+.bai3.gushiwen.org
 .badmintoncn.com/cbo_gg/
 .backchina.com/banners/
 .babyhome.com.tw/slot_gateway\.php\?
@@ -10892,6 +10892,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xxhrd.com
 .xxad.cc
 .xulizui6.com
+.xul478.com
 .xtxa.net
 .xtgreat.com
 .xsu.cc
@@ -11267,6 +11268,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mycctvmedia.com
 .mxmrt.com
 .mtxsk.com
+.mtty.com
 .mstzym.com
 .msltzer.cn
 .mscimg.com
@@ -11562,6 +11564,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fjmeyer.com
 .fjkst.com
 .ffhtek.com
+.fenggejiaju.com
 .feitian001.com
 .fd7c.com
 .farm-cn.plista.com
@@ -12211,9 +12214,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.mtty.com
-.fenggejiaju.com
-.xul478.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13366,8 +13366,6 @@ TAG:^adfilter-block-request$
 /.*\?pss=
 /.*&pcn=
 .zzzyk.com/js/
-.shicimingju.com/Public/js/buttom\.js
-.bai3.gushiwen.org
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -14200,6 +14198,7 @@ TAG:^adfilter-block-request$
 .shm.com.cn/content/con.*\.js
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
+.shicimingju.com/Public/js/buttom\.js
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -16307,6 +16306,7 @@ TAG:^adfilter-block-request$
 .baidu.com/api/wikiui/guesslike\?
 .baidu.com/api/proxyapi\?tag=adv&
 .baidu.com/adver\?
+.bai3.gushiwen.org
 .badmintoncn.com/cbo_gg/
 .backchina.com/banners/
 .babyhome.com.tw/slot_gateway\.php\?
@@ -17315,6 +17315,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xxhrd.com
 .xxad.cc
 .xulizui6.com
+.xul478.com
 .xtxa.net
 .xq199.com
 .xpqfc.com
@@ -17740,6 +17741,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fjmeyer.com
 .fjkst.com
 .ffhtek.com
+.fenggejiaju.com
 .fd7c.com
 .farm-cn.plista.com
 .facebookma.cn
@@ -18080,8 +18082,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.fenggejiaju.com
-.xul478.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18991,6 +18991,7 @@ gg.*.
 .mytanwan.com
 .mycctvmedia.com
 .mtxsk.com
+.mtty.com
 .mosa86.com
 .moogos.com
 .momzs.com
@@ -19330,7 +19331,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.mtty.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
