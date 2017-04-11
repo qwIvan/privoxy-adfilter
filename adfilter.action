@@ -822,8 +822,7 @@ TAG:^adfilter-block-dnt$
 .sjzbus.com.cn/advimg/
 .sju.wang/ps/
 .sitv.com.cn/cookiead\.php
-.sisiww.com/yezicheng_ad/
-.sisiww.com/00\.gif
+.sisiww.com/template/.*/portal/ad/
 .sinolub.com/uploadfile/201.*\.swf
 .sinolub.com/index\.php\?m=poster&
 .sinajs.cn/t6/home/js/pl/guide/bigday/
@@ -7485,8 +7484,7 @@ TAG:^adfilter-block-elem$
 .sjzbus.com.cn/advimg/
 .sju.wang/ps/
 .sitv.com.cn/cookiead\.php
-.sisiww.com/yezicheng_ad/
-.sisiww.com/00\.gif
+.sisiww.com/template/.*/portal/ad/
 .sinolub.com/uploadfile/201.*\.swf
 .sinolub.com/index\.php\?m=poster&
 .sinajs.cn/t6/home/js/pl/guide/bigday/
@@ -14117,8 +14115,7 @@ TAG:^adfilter-block-request$
 .sjzbus.com.cn/advimg/
 .sju.wang/ps/
 .sitv.com.cn/cookiead\.php
-.sisiww.com/yezicheng_ad/
-.sisiww.com/00\.gif
+.sisiww.com/template/.*/portal/ad/
 .sinolub.com/uploadfile/201.*\.swf
 .sinolub.com/index\.php\?m=poster&
 .sinajs.cn/t6/home/js/pl/guide/bigday/
