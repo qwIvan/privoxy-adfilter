@@ -5555,6 +5555,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shanglinli.com
 .kguke.com
 .s400cc.com
 .axiba66.com
@@ -12225,6 +12226,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shanglinli.com
 .kguke.com
 .s400cc.com
 .axiba66.com
@@ -18104,6 +18106,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.shanglinli.com
 .kguke.com
 .s400cc.com
 .axiba66.com
