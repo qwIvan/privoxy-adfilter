@@ -51,8 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cckke.com/fanhao/v/ad
-.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2028,10 +2026,10 @@ TAG:^adfilter-block-dnt$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i*./.*\.supfree\.net[^\w%.-].*\.js
-.i*.supfree.net/.*\.js
 .i.syasn.com
 .i-gamer.net/promo_
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
 .hz.shouyoutv.com
@@ -2871,6 +2869,7 @@ TAG:^adfilter-block-dnt$
 .cctime.com/UpLoadFile/2012/11/7/201211733483705\.gif
 .cctime.com/UpLoadFile/201
 .ccr.yxdown.com
+.cckke.com/fanhao/v/ad
 .ccb.com.cn/V5/images5/right0\.gif
 .ccb.com.cn/V5/images5/left0\.gif
 .ccav5.com/static/js/floatImgAd\.js
@@ -3517,6 +3516,7 @@ TAG:^adfilter-block-dnt$
 .6701.com/galgameads/
 .67.198.197.27
 .67.159.44.187/js/v1\.js
+.66yc.cc/yjs123/
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
@@ -4323,6 +4323,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantfour.com
 .wantaico.com
 .wangsufast.com
+.wangdq.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -4534,6 +4535,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qhaif.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -5499,10 +5501,9 @@ pd2.js*.
 /(.*/)?js/cpv_fm_
 /(.*/)?js/cpv_dl\.js
 /(.*/)?js/cpc_i\.js
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
-.wangdq.com
-/(.*/)?js/cpc2_rp\.js
 /(.*/)?i\.php\?z=
 /(.*/)?getcode\.jsp\?uid=
 /(.*/)?g\.jsp\?uid=
@@ -5555,7 +5556,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qhaif.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6713,8 +6713,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cckke.com/fanhao/v/ad
-.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8690,10 +8688,10 @@ TAG:^adfilter-block-elem$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i*./.*\.supfree\.net[^\w%.-].*\.js
-.i*.supfree.net/.*\.js
 .i.syasn.com
 .i-gamer.net/promo_
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
 .hz.shouyoutv.com
@@ -9533,6 +9531,7 @@ TAG:^adfilter-block-elem$
 .cctime.com/UpLoadFile/2012/11/7/201211733483705\.gif
 .cctime.com/UpLoadFile/201
 .ccr.yxdown.com
+.cckke.com/fanhao/v/ad
 .ccb.com.cn/V5/images5/right0\.gif
 .ccb.com.cn/V5/images5/left0\.gif
 .ccav5.com/static/js/floatImgAd\.js
@@ -10179,6 +10178,7 @@ TAG:^adfilter-block-elem$
 .6701.com/galgameads/
 .67.198.197.27
 .67.159.44.187/js/v1\.js
+.66yc.cc/yjs123/
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
@@ -10985,6 +10985,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantfour.com
 .wantaico.com
 .wangsufast.com
+.wangdq.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -11196,6 +11197,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qhaif.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -12161,10 +12163,9 @@ pd2.js*.
 /(.*/)?js/cpv_fm_
 /(.*/)?js/cpv_dl\.js
 /(.*/)?js/cpc_i\.js
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
-.wangdq.com
-/(.*/)?js/cpc2_rp\.js
 /(.*/)?i\.php\?z=
 /(.*/)?getcode\.jsp\?uid=
 /(.*/)?g\.jsp\?uid=
@@ -12217,7 +12218,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qhaif.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13369,8 +13369,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cckke.com/fanhao/v/ad
-.66yc.cc/yjs123/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15261,10 +15259,10 @@ TAG:^adfilter-block-request$
 .i8.com.cn/images/tiandijie\.jpg
 .i8.com.cn/images/a\.swf
 .i322.com/ad_avshow/
-.i*./.*\.supfree\.net[^\w%.-].*\.js
-.i*.supfree.net/.*\.js
 .i.syasn.com
 .i-gamer.net/promo_
+.i*./.*\.supfree\.net[^\w%.-].*\.js
+.i*.supfree.net/.*\.js
 .hznzcn.com/moban/youxiajiao\.js
 .hzhyhm.com
 .hz.shouyoutv.com
@@ -16063,6 +16061,7 @@ TAG:^adfilter-block-request$
 .cctime.com/UpLoadFile/2014/.*\.gif
 .cctime.com/UpLoadFile/2012/11/7/201211733483705\.gif
 .ccr.yxdown.com
+.cckke.com/fanhao/v/ad
 .ccb.com.cn/V5/images5/right0\.gif
 .ccb.com.cn/V5/images5/left0\.gif
 .ccav5.com/static/js/floatImgAd\.js
@@ -16680,6 +16679,7 @@ TAG:^adfilter-block-request$
 .6701.com/galgameads/
 .67.198.197.27
 .67.159.44.187/js/v1\.js
+.66yc.cc/yjs123/
 .66wz.com/data/attachment/portal/
 .66wz.com/adv2/
 .66rd.cn/pic/.*\.swf
@@ -17386,6 +17386,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wantfour.com
 .wantaico.com
 .wangsufast.com
+.wangdq.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -17513,6 +17514,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiyii.com
 .qiqiww.com
 .qingqu.la
+.qhaif.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -18072,10 +18074,9 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?js/cpv_fm_
 /(.*/)?js/cpv_dl\.js
 /(.*/)?js/cpc_i\.js
+/(.*/)?js/cpc2_rp\.js
 /(.*/)?js/cpc2_i\.js
 /(.*/)?js/cpc2_dl\.js
-.wangdq.com
-/(.*/)?js/cpc2_rp\.js
 /(.*/)?cpm/i\.ashx\?
 /(.*/)?code/popjs\.
 /(.*/)?code/pop_cpf\.
@@ -18088,7 +18089,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.qhaif.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
