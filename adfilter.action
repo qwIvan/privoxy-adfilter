@@ -50,7 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.360doc.com/.*\.html\?t=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -3693,6 +3692,7 @@ TAG:^adfilter-block-dnt$
 .360safego.com
 .360kan.com/swf/ShortVideo_ad_
 .360kan.com/special/
+.360doc.com/.*\.html\?t=
 .360buyimg.com/jzt/temp/js/cpc\.js
 .360.cn/index/showjokes\?callback=
 .360.cn/festival_zone\.html
@@ -4483,6 +4483,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sharrysweb.com
 .sharele.cn
 .sharedaddomain.com
+.shanglinli.com
 .sgbfjs.info
 .sfloushi.com
 .sexy-more.com
@@ -4499,6 +4500,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .saferwet.com
 .s9w.cc
 .s8dj.com
+.s400cc.com
 .s17cnzz.com
 .rwjfs.com
 .ruxianke.com
@@ -4701,6 +4703,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kiees.com
 .kicnse.com
 .khgj.cn
+.kguke.com
 .kgcjgsa8.net
 .kfluoa.com
 .keyyou.net
@@ -5089,6 +5092,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .buzzads.com
 .btyou.com
 .bttyue.com
+.bskchina.cn
 .breezily168.com
 .bosiwangzi.cn
 .books.com.tw/exep/ap/
@@ -5120,6 +5124,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .b9377h.com
 .b7nkd.cn
 .b5h7.com
+.axiba66.com
 .axhxa.com
 .awkjs.com
 .av8d.net
@@ -5555,11 +5560,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shanglinli.com
-.kguke.com
-.s400cc.com
-.axiba66.com
-.bskchina.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6721,7 +6721,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.360doc.com/.*\.html\?t=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -10364,6 +10363,7 @@ TAG:^adfilter-block-elem$
 .360safego.com
 .360kan.com/swf/ShortVideo_ad_
 .360kan.com/special/
+.360doc.com/.*\.html\?t=
 .360buyimg.com/jzt/temp/js/cpc\.js
 .360.cn/index/showjokes\?callback=
 .360.cn/festival_zone\.html
@@ -11154,6 +11154,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sharrysweb.com
 .sharele.cn
 .sharedaddomain.com
+.shanglinli.com
 .sgbfjs.info
 .sfloushi.com
 .sexy-more.com
@@ -11170,6 +11171,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .saferwet.com
 .s9w.cc
 .s8dj.com
+.s400cc.com
 .s17cnzz.com
 .rwjfs.com
 .ruxianke.com
@@ -11372,6 +11374,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kiees.com
 .kicnse.com
 .khgj.cn
+.kguke.com
 .kgcjgsa8.net
 .kfluoa.com
 .keyyou.net
@@ -11760,6 +11763,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .buzzads.com
 .btyou.com
 .bttyue.com
+.bskchina.cn
 .breezily168.com
 .bosiwangzi.cn
 .books.com.tw/exep/ap/
@@ -11791,6 +11795,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .b9377h.com
 .b7nkd.cn
 .b5h7.com
+.axiba66.com
 .axhxa.com
 .awkjs.com
 .av8d.net
@@ -12226,11 +12231,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shanglinli.com
-.kguke.com
-.s400cc.com
-.axiba66.com
-.bskchina.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13386,7 +13386,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.360doc.com/.*\.html\?t=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16870,6 +16869,7 @@ TAG:^adfilter-block-request$
 .360safego.com
 .360kan.com/swf/ShortVideo_ad_
 .360kan.com/special/
+.360doc.com/.*\.html\?t=
 .360buyimg.com/jzt/temp/js/cpc\.js
 .360.cn/index/showjokes\?callback=
 .360.cn/festival_zone\.html
@@ -17497,6 +17497,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .shbywsd.cn
 .sharrysweb.com
 .sharedaddomain.com
+.shanglinli.com
 .sgbfjs.info
 .sfloushi.com
 .sdycd.com
@@ -17508,6 +17509,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sangxi.top
 .saferwet.com
 .s9w.cc
+.s400cc.com
 .rwjfs.com
 .ruxianke.com
 .runiman.com
@@ -17642,6 +17644,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .kjgen.com
 .kingwam.com
 .kicnse.com
+.kguke.com
 .kgcjgsa8.net
 .kfluoa.com
 .keyyou.net
@@ -17890,6 +17893,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .bydonline.com
 .bxjpl.cn
 .bxgmb.com
+.bskchina.cn
 .breezily168.com
 .bosiwangzi.cn
 .biyibia.com
@@ -17908,6 +17912,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .b99u.top
 .b9377h.com
 .b7nkd.cn
+.axiba66.com
 .axhxa.com
 .awkjs.com
 .at98.com
@@ -18106,11 +18111,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.shanglinli.com
-.kguke.com
-.s400cc.com
-.axiba66.com
-.bskchina.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
