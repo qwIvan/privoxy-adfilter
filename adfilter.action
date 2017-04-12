@@ -3349,7 +3349,6 @@ TAG:^adfilter-block-dnt$
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
 .a-m-s.poco.cn
-.a-ash.cdn321.com/block/
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
 .9wcn.com/gcld/500\.gif
@@ -5560,6 +5559,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.jystea.com
+.maisoncherry.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -10020,7 +10021,6 @@ TAG:^adfilter-block-elem$
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
 .a-m-s.poco.cn
-.a-ash.cdn321.com/block/
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
 .9wcn.com/gcld/500\.gif
@@ -12231,6 +12231,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.jystea.com
+.maisoncherry.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -16538,7 +16540,6 @@ TAG:^adfilter-block-request$
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
 .a-m-s.poco.cn
-.a-ash.cdn321.com/block/
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
 .9wcn.com/gcld/500\.gif
@@ -18111,6 +18112,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.jystea.com
+.maisoncherry.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
