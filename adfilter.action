@@ -880,7 +880,7 @@ TAG:^adfilter-block-dnt$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.wang/static/js/default\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
@@ -7563,7 +7563,7 @@ TAG:^adfilter-block-elem$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.wang/static/js/default\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
@@ -14213,7 +14213,7 @@ TAG:^adfilter-block-request$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.wang/static/js/default\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
