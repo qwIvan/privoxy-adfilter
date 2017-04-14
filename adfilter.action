@@ -50,7 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.da.duowan.com/loc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2670,6 +2669,7 @@ TAG:^adfilter-block-dnt$
 .dabin69.com/data/attachment/portal/
 .dabaoku.com
 .da.mgtv.com
+.da.duowan.com/loc/
 .da-fan-shu.cn/images/kuaijie\.jpg
 .d7w.net/static/d7wad/
 .d7ol.com/pics/ad/
@@ -4965,6 +4965,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .duomai.com
 .duiwai.baidu.com
 .dugbvb.com
+.dshrx.com
 .drxrc.com
 .drwzn.com
 .drmcmm.baidu.com
@@ -5563,7 +5564,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.dshrx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6729,7 +6729,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.da.duowan.com/loc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9349,6 +9348,7 @@ TAG:^adfilter-block-elem$
 .dabin69.com/data/attachment/portal/
 .dabaoku.com
 .da.mgtv.com
+.da.duowan.com/loc/
 .da-fan-shu.cn/images/kuaijie\.jpg
 .d7w.net/static/d7wad/
 .d7ol.com/pics/ad/
@@ -11644,6 +11644,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .duomai.com
 .duiwai.baidu.com
 .dugbvb.com
+.dshrx.com
 .drxrc.com
 .drwzn.com
 .drmcmm.baidu.com
@@ -12242,7 +12243,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.dshrx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13402,7 +13402,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.da.duowan.com/loc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15908,6 +15907,7 @@ TAG:^adfilter-block-request$
 .dabin69.com/template/comiis_ydzx/ads/topad01\.jpg
 .dabin69.com/data/attachment/portal/
 .da.mgtv.com
+.da.duowan.com/loc/
 .da-fan-shu.cn/images/kuaijie\.jpg
 .d7w.net/static/d7wad/
 .d7ol.com/pics/ad/
@@ -17822,6 +17822,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .duyihu.net
 .duiwai.baidu.com
 .dugbvb.com
+.dshrx.com
 .drxrc.com
 .drmcmm.baidu.com
 .drlsf.com
@@ -18130,7 +18131,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.dshrx.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20292,6 +20292,8 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
+.youku.com/cms/playlog/get\?
+.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .tajs.qq.com/stats\?
@@ -20308,8 +20310,6 @@ TAG:^adfilter-unblock-dnt$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.youku.com/cms/playlog/get\?
-.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -21316,6 +21316,8 @@ addata.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
+.youku.com/cms/playlog/get\?
+.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .tajs.qq.com/stats\?
@@ -21332,8 +21334,6 @@ TAG:^adfilter-unblock-elem$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.youku.com/cms/playlog/get\?
-.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -22327,6 +22327,8 @@ addata.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
+.youku.com/cms/playlog/get\?
+.youku.com/cms/player/userinfo/
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
@@ -22341,8 +22343,6 @@ TAG:^adfilter-unblock-request$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.youku.com/cms/playlog/get\?
-.youku.com/cms/player/userinfo/
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
