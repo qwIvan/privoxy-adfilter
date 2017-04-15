@@ -50,9 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.c4dsky.com/wp-content/uploads/2016/11/tvart-
-.cbfw.cn/gonggong/chibi/cf_
-.jyfw.cn/gonggong/jiayu/cf_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -883,8 +880,8 @@ TAG:^adfilter-block-dnt$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
@@ -1682,6 +1679,7 @@ TAG:^adfilter-block-dnt$
 .jz5u.com/js/tl
 .jyfw.cn/nav/cf_
 .jyfw.cn/gonggong/js/cf_flash\.js
+.jyfw.cn/gonggong/jiayu/cf_
 .jyacht.com/flash/marina\.swf
 .jxnews.com.cn/jxcn/con_ad_title\.js
 .jxgdw.com/images/jdgg\.jpg
@@ -2880,6 +2878,7 @@ TAG:^adfilter-block-dnt$
 .ccav1.com/wp-content/uploads/an-temp/
 .ccav1.com/wp-content/themes/BYMT/images/mengmengdeguanggao\.jpg
 .cbfw.cn/gonggong/js/cf_flash\.js
+.cbfw.cn/gonggong/chibi/cf_
 .carnoc.com/noticejs/
 .cari.com.my/static/appbanner
 .car.pchome.com.tw/iframe/news_iframe\.
@@ -2896,6 +2895,7 @@ TAG:^adfilter-block-dnt$
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
+.c4dsky.com/wp-content/uploads/2016/11/tvart-
 .c4d.cn/template/iscwo_zcool/iscwo/ad/
 .c4d.cn/api\.php\?mod=ad&adid=
 .c2000.cn/c2000/
@@ -4460,12 +4460,14 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sphwq.net
 .spcode.baidu.com
 .souacode.com
+.sos0easy.com
 .socdm.com
 .so9l.com
 .snyu.com
 .snxyf.com
 .snnnyy.com
 .snmi.cn
+.smxsg.com
 .skatehot.net
 .sitemobia.com
 .sitemaji.com
@@ -4540,7 +4542,9 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qiailm.com
 .qhaif.com
+.qgss8.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -4587,6 +4591,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nord-raum.com
 .nongsalei.com
 .noberlmall.com
+.nngft.com
 .nnedbx.com
 .nmqbg.com
 .nmpcdn.com
@@ -4646,6 +4651,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mamamiyu.com
 .maisoncherry.com
 .mainbx.com
+.maibahe300cc.com
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
@@ -4887,6 +4893,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .geotmt.com
 .ge95.com
 .gdxxb.com
+.gdskywings.com
 .gdbly.com
 .gd.189.cn/.*\.htm\?SP=
 .gclick.cn
@@ -5567,13 +5574,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.smxsg.com
-.maibahe300cc.com
-.sos0easy.com
-.qiailm.com
-.nngft.com
-.gdskywings.com
-.qgss8.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6739,9 +6739,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.c4dsky.com/wp-content/uploads/2016/11/tvart-
-.cbfw.cn/gonggong/chibi/cf_
-.jyfw.cn/gonggong/jiayu/cf_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7572,8 +7569,8 @@ TAG:^adfilter-block-elem$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
@@ -8371,6 +8368,7 @@ TAG:^adfilter-block-elem$
 .jz5u.com/js/tl
 .jyfw.cn/nav/cf_
 .jyfw.cn/gonggong/js/cf_flash\.js
+.jyfw.cn/gonggong/jiayu/cf_
 .jyacht.com/flash/marina\.swf
 .jxnews.com.cn/jxcn/con_ad_title\.js
 .jxgdw.com/images/jdgg\.jpg
@@ -9569,6 +9567,7 @@ TAG:^adfilter-block-elem$
 .ccav1.com/wp-content/uploads/an-temp/
 .ccav1.com/wp-content/themes/BYMT/images/mengmengdeguanggao\.jpg
 .cbfw.cn/gonggong/js/cf_flash\.js
+.cbfw.cn/gonggong/chibi/cf_
 .carnoc.com/noticejs/
 .cari.com.my/static/appbanner
 .car.pchome.com.tw/iframe/news_iframe\.
@@ -9585,6 +9584,7 @@ TAG:^adfilter-block-elem$
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
+.c4dsky.com/wp-content/uploads/2016/11/tvart-
 .c4d.cn/template/iscwo_zcool/iscwo/ad/
 .c4d.cn/api\.php\?mod=ad&adid=
 .c2000.cn/c2000/
@@ -11149,12 +11149,14 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sphwq.net
 .spcode.baidu.com
 .souacode.com
+.sos0easy.com
 .socdm.com
 .so9l.com
 .snyu.com
 .snxyf.com
 .snnnyy.com
 .snmi.cn
+.smxsg.com
 .skatehot.net
 .sitemobia.com
 .sitemaji.com
@@ -11229,7 +11231,9 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiww.com
 .qingqu.la
 .qidou.com
+.qiailm.com
 .qhaif.com
+.qgss8.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -11276,6 +11280,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nord-raum.com
 .nongsalei.com
 .noberlmall.com
+.nngft.com
 .nnedbx.com
 .nmqbg.com
 .nmpcdn.com
@@ -11335,6 +11340,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mamamiyu.com
 .maisoncherry.com
 .mainbx.com
+.maibahe300cc.com
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
@@ -11576,6 +11582,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .geotmt.com
 .ge95.com
 .gdxxb.com
+.gdskywings.com
 .gdbly.com
 .gd.189.cn/.*\.htm\?SP=
 .gclick.cn
@@ -12256,13 +12263,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.smxsg.com
-.maibahe300cc.com
-.sos0easy.com
-.qiailm.com
-.nngft.com
-.gdskywings.com
-.qgss8.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13422,9 +13422,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.c4dsky.com/wp-content/uploads/2016/11/tvart-
-.cbfw.cn/gonggong/chibi/cf_
-.jyfw.cn/gonggong/jiayu/cf_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14228,8 +14225,8 @@ TAG:^adfilter-block-request$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.*./(.*/)?static/js/default\.js
 .simplecd.me/static/js/adcpm\.js
+.simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
@@ -14982,6 +14979,7 @@ TAG:^adfilter-block-request$
 .jz5u.com/new/
 .jyfw.cn/nav/cf_
 .jyfw.cn/gonggong/js/cf_flash\.js
+.jyfw.cn/gonggong/jiayu/cf_
 .jyacht.com/flash/marina\.swf
 .jxnews.com.cn/jxcn/con_ad_title\.js
 .jxgdw.com/images/jdgg\.jpg
@@ -16126,6 +16124,7 @@ TAG:^adfilter-block-request$
 .ccav1.com/wp-content/uploads/an-temp/
 .ccav1.com/wp-content/themes/BYMT/images/mengmengdeguanggao\.jpg
 .cbfw.cn/gonggong/js/cf_flash\.js
+.cbfw.cn/gonggong/chibi/cf_
 .carnoc.com/noticejs/
 .cari.com.my/static/appbanner
 .car.pchome.com.tw/iframe/news_iframe\.
@@ -16141,6 +16140,7 @@ TAG:^adfilter-block-request$
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
+.c4dsky.com/wp-content/uploads/2016/11/tvart-
 .c4d.cn/template/iscwo_zcool/iscwo/ad/
 .c4d.cn/api\.php\?mod=ad&adid=
 .c2000.cn/c2000/
@@ -17519,9 +17519,11 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sscefsol.com
 .sqext.com
 .spcode.baidu.com
+.sos0easy.com
 .socdm.com
 .so9l.com
 .snnnyy.com
+.smxsg.com
 .skatehot.net
 .sitemobia.com
 .sino-seve.com
@@ -17573,7 +17575,9 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqiyii.com
 .qiqiww.com
 .qingqu.la
+.qiailm.com
 .qhaif.com
+.qgss8.com
 .qdchunyu.com
 .pyzkk.com
 .pubbirdf.com
@@ -17609,6 +17613,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .notice.uchome.manyou.com
 .nongsalei.com
 .noberlmall.com
+.nngft.com
 .nnedbx.com
 .nmqbg.com
 .nmpcdn.com
@@ -17644,6 +17649,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .maskbaby.com.cn
 .maisoncherry.com
 .mainbx.com
+.maibahe300cc.com
 .lzmm8.com
 .lyrymy.com
 .lyhdream.com
@@ -17793,6 +17799,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gf108.com
 .geryi.com
 .ge95.com
+.gdskywings.com
 .gdbly.com
 .fytza.cn
 .fydgold132.com
@@ -18154,13 +18161,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.smxsg.com
-.maibahe300cc.com
-.sos0easy.com
-.qiailm.com
-.nngft.com
-.gdskywings.com
-.qgss8.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
