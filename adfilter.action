@@ -50,6 +50,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.163.com/ntes/special/.*_papa\.
 .sax.sina.cn
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -3869,7 +3870,7 @@ TAG:^adfilter-block-dnt$
 .163disk.com/pic/960x90-
 .163.com/special/detail_2016pc_right_frame/
 .163.com/special/.*_taobao\.
-.163.com/special/.*_ad_
+.163.com*./(.*/)?special/.*_ad_
 .163.com/special/.*/ted_vad\.
 .163.com/get\.do\?.*=themeHandler\.
 .162wp.com/ipc/11\.gif
@@ -6740,6 +6741,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.163.com/ntes/special/.*_papa\.
 .sax.sina.cn
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -10559,7 +10561,7 @@ TAG:^adfilter-block-elem$
 .163disk.com/pic/960x90-
 .163.com/special/detail_2016pc_right_frame/
 .163.com/special/.*_taobao\.
-.163.com/special/.*_ad_
+.163.com*./(.*/)?special/.*_ad_
 .163.com/special/.*/ted_vad\.
 .163.com/get\.do\?.*=themeHandler\.
 .162wp.com/ipc/11\.gif
@@ -13424,6 +13426,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.163.com/ntes/special/.*_papa\.
 .sax.sina.cn
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -17077,7 +17080,7 @@ TAG:^adfilter-block-request$
 .163disk.com/pic/960x90-
 .163.com/special/detail_2016pc_right_frame/
 .163.com/special/.*_taobao\.
-.163.com/special/.*_ad_
+.163.com*./(.*/)?special/.*_ad_
 .163.com/special/.*/ted_vad\.
 .163.com/get\.do\?.*=themeHandler\.
 .162wp.com/ipc/11\.gif
