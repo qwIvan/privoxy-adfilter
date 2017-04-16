@@ -806,7 +806,6 @@ TAG:^adfilter-block-dnt$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx.com/m-
 .smzy.com/.*970\.js
 .smzy.com/.*/webtg
 .slooti.com/upload/30/38/1446711674\.gif
@@ -1144,7 +1143,6 @@ TAG:^adfilter-block-dnt$
 .qdmm.com/javascript/NewSNDAPop\.js
 .qdjimo.com/html/js/
 .qd.x4399.com
-.qd.snwx.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
 .qbox.me/ftq_
@@ -3848,7 +3846,6 @@ TAG:^adfilter-block-dnt$
 .17173.com/2013/new/channel-float\.js
 .16sucai.com/images/.*0
 .16sucai.com/ads/
-.16book.com/m-
 .168img.com/aa/
 .168img.com/a/
 .168gamesf.*./.*ads
@@ -5576,6 +5573,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cqftonline.com
 .cqfangduan.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -7498,7 +7496,6 @@ TAG:^adfilter-block-elem$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx.com/m-
 .smzy.com/.*970\.js
 .smzy.com/.*/webtg
 .slooti.com/upload/30/38/1446711674\.gif
@@ -7836,7 +7833,6 @@ TAG:^adfilter-block-elem$
 .qdmm.com/javascript/NewSNDAPop\.js
 .qdjimo.com/html/js/
 .qd.x4399.com
-.qd.snwx.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
 .qbox.me/ftq_
@@ -10540,7 +10536,6 @@ TAG:^adfilter-block-elem$
 .17173.com/2013/new/channel-float\.js
 .16sucai.com/images/.*0
 .16sucai.com/ads/
-.16book.com/m-
 .168img.com/aa/
 .168img.com/a/
 .168gamesf.*./.*ads
@@ -12268,6 +12263,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.cqftonline.com
 .cqfangduan.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -14160,7 +14156,6 @@ TAG:^adfilter-block-request$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx.com/m-
 .smzy.com/.*970\.js
 .smzy.com/.*/webtg
 .slooti.com/upload/30/38/1446711674\.gif
@@ -14481,7 +14476,6 @@ TAG:^adfilter-block-request$
 .qdmm.com/javascript/NewSNDAPop\.js
 .qdjimo.com/html/js/
 .qd.x4399.com
-.qd.snwx.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
 .qbox.me/ftq_
@@ -17061,7 +17055,6 @@ TAG:^adfilter-block-request$
 .17173.com/2013/new/channel-float\.js
 .16sucai.com/images/.*0
 .16sucai.com/ads/
-.16book.com/m-
 .168img.com/aa/
 .168img.com/a/
 .168gamesf.*./.*ads
@@ -18169,6 +18162,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.cqftonline.com
 .cqfangduan.com
 ad.*.
 /(.*/)?js/tc\.js
