@@ -741,7 +741,6 @@ TAG:^adfilter-block-dnt$
 .storetorrent.org/static/best/795X60\.gif
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
-.sto.cn*./(.*/)?temp/adv\.jpg
 .stheadline.com/.*/right_promo\.js
 .stheadline.com/.*banner
 .steelcn.cn/img/bj_.*_146_315\.jpg
@@ -876,12 +875,10 @@ TAG:^adfilter-block-dnt$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.me/static/js/adcpm\.js
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
-.shulink.com/js/pagetop5\.js
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -895,8 +892,6 @@ TAG:^adfilter-block-dnt$
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
-.shouyou.com/2013/new/shouyouQ1-
-.shouyou.com/2013/new/shouyou-duilian\.js
 .shoudian.org/diantong/sunwayman.*\.gif
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -928,11 +923,9 @@ TAG:^adfilter-block-dnt$
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
 .sh.sina.com.cn/iframe/522/
 .sgg.southcn.com
-.sf-express.com/cn/sc/\.galleries/sfbest/.*_right_sc\.
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
 .sesepa.com/topjs/
-.sentsin.qiniudn.com/ad_
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
 .sdzbcg.com/images/sdfhyl
@@ -959,7 +952,6 @@ TAG:^adfilter-block-dnt$
 .script.cmfu.com/ADScript/
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
-.scol.com.cn/js/def_
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
@@ -7431,7 +7423,6 @@ TAG:^adfilter-block-elem$
 .storetorrent.org/static/best/795X60\.gif
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
-.sto.cn*./(.*/)?temp/adv\.jpg
 .stheadline.com/.*/right_promo\.js
 .stheadline.com/.*banner
 .steelcn.cn/img/bj_.*_146_315\.jpg
@@ -7566,12 +7557,10 @@ TAG:^adfilter-block-elem$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.me/static/js/adcpm\.js
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
-.shulink.com/js/pagetop5\.js
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -7585,8 +7574,6 @@ TAG:^adfilter-block-elem$
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
-.shouyou.com/2013/new/shouyouQ1-
-.shouyou.com/2013/new/shouyou-duilian\.js
 .shoudian.org/diantong/sunwayman.*\.gif
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -7618,11 +7605,9 @@ TAG:^adfilter-block-elem$
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
 .sh.sina.com.cn/iframe/522/
 .sgg.southcn.com
-.sf-express.com/cn/sc/\.galleries/sfbest/.*_right_sc\.
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
 .sesepa.com/topjs/
-.sentsin.qiniudn.com/ad_
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
 .sdzbcg.com/images/sdfhyl
@@ -7649,7 +7634,6 @@ TAG:^adfilter-block-elem$
 .script.cmfu.com/ADScript/
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
-.scol.com.cn/js/def_
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
@@ -14092,7 +14076,6 @@ TAG:^adfilter-block-request$
 .storetorrent.org/static/best/795X60\.gif
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
-.sto.cn*./(.*/)?temp/adv\.jpg
 .stheadline.com/.*/right_promo\.js
 .steelcn.cn/img/bj_.*_146_315\.jpg
 .steamcn.com/img/
@@ -14223,12 +14206,10 @@ TAG:^adfilter-block-request$
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
 .sina.cn/adfront/deliver\.php\?
-.simplecd.me/static/js/adcpm\.js
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shumilou.co/style/cq\.jpg
-.shulink.com/js/pagetop5\.js
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -14242,8 +14223,6 @@ TAG:^adfilter-block-request$
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
-.shouyou.com/2013/new/shouyouQ1-
-.shouyou.com/2013/new/shouyou-duilian\.js
 .shoudian.org/diantong/sunwayman.*\.gif
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -14273,11 +14252,9 @@ TAG:^adfilter-block-request$
 .sh.sina.com.cn/js/441/ZwyArticle_commo_23\.js
 .sh.sina.com.cn/iframe/522/
 .sgg.southcn.com
-.sf-express.com/cn/sc/\.galleries/sfbest/.*_right_sc\.
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
 .sesepa.com/topjs/
-.sentsin.qiniudn.com/ad_
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
 .sdzbcg.com/images/sdfhyl
@@ -14304,7 +14281,6 @@ TAG:^adfilter-block-request$
 .script.cmfu.com/ADScript/
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
-.scol.com.cn/js/def_
 .scibook.cn/tuiguang\.
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
@@ -20458,7 +20434,6 @@ TAG:^adfilter-unblock-dnt$
 .sina.com.hk/.*_ads\.cgi
 .sina.com.cn/litong/.*/close
 .simba.taobao.com/\?name=mcad
-.sf-express.com/\.galleries/advertisement/
 .serve.netsh.org
 .selfimg.com.cn/\?\?
 .sdc.pingan.com
@@ -20639,7 +20614,6 @@ TAG:^adfilter-unblock-dnt$
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
-.advertise.shijue.cvidea.cn
 .advert.kf5.com
 .adsense.woso.cn
 .ads.seekjune.com
@@ -21481,7 +21455,6 @@ TAG:^adfilter-unblock-elem$
 .sina.com.hk/.*_ads\.cgi
 .sina.com.cn/litong/.*/close
 .simba.taobao.com/\?name=mcad
-.sf-express.com/\.galleries/advertisement/
 .selfimg.com.cn/\?\?
 .sdc.pingan.com
 .scyts.com
@@ -21656,7 +21629,6 @@ TAG:^adfilter-unblock-elem$
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
-.advertise.shijue.cvidea.cn
 .advert.kf5.com
 .adsense.woso.cn
 .ads.seekjune.com
@@ -22485,7 +22457,6 @@ TAG:^adfilter-unblock-request$
 .sinaimg.cn/ad/adimage/50x50_
 .sina.com.hk/.*_ads\.cgi
 .sina.com.cn/litong/.*/close
-.sf-express.com/\.galleries/advertisement/
 .serve.netsh.org
 .selfimg.com.cn/\?\?
 .scyts.com
@@ -22654,7 +22625,6 @@ TAG:^adfilter-unblock-request$
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
 .airchina.com.cn/dynamicAd/
-.advertise.shijue.cvidea.cn
 .advert.kf5.com
 .addon.discuz.com/resource/.*/ad
 .adcdn.pingan.com
