@@ -50,9 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shhgg.in/shlf1314/
-.shhgg.in/js/shangjia
-.yunbofangbt.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -190,6 +187,7 @@ TAG:^adfilter-block-dnt$
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
 .yundianb.com/hao/
+.yunbofangbt.com
 .yui-nya.com/wp-content/uploads/2016/12/neta370-370\.jpg
 .yui-nya.com/wp-content/uploads/2016/12/37011\.jpg
 .yubei8.com/img/
@@ -906,6 +904,8 @@ TAG:^adfilter-block-dnt$
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
+.shhgg.in/shlf1314/
+.shhgg.in/js/shangjia
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -5036,6 +5036,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cr-nielsen.com
 .cqyhd.com
 .cqhnm.com
+.cqftonline.com
+.cqfangduan.com
 .cpva.cc
 .cpv6.com
 .cpro.baidustatic.com
@@ -5573,8 +5575,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.cqftonline.com
-.cqfangduan.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6740,9 +6740,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shhgg.in/shlf1314/
-.shhgg.in/js/shangjia
-.yunbofangbt.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6880,6 +6877,7 @@ TAG:^adfilter-block-elem$
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
 .yundianb.com/hao/
+.yunbofangbt.com
 .yui-nya.com/wp-content/uploads/2016/12/neta370-370\.jpg
 .yui-nya.com/wp-content/uploads/2016/12/37011\.jpg
 .yubei8.com/img/
@@ -7596,6 +7594,8 @@ TAG:^adfilter-block-elem$
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
+.shhgg.in/shlf1314/
+.shhgg.in/js/shangjia
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -11726,6 +11726,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cr-nielsen.com
 .cqyhd.com
 .cqhnm.com
+.cqftonline.com
+.cqfangduan.com
 .cpva.cc
 .cpv6.com
 .cpro.baidustatic.com
@@ -12263,8 +12265,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.cqftonline.com
-.cqfangduan.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13424,9 +13424,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shhgg.in/shlf1314/
-.shhgg.in/js/shangjia
-.yunbofangbt.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13563,6 +13560,7 @@ TAG:^adfilter-block-request$
 .yunfile.com/ex/pop/
 .yundianb.com/tu/jia\.gif
 .yundianb.com/hao/
+.yunbofangbt.com
 .yui-nya.com/wp-content/uploads/2016/12/neta370-370\.jpg
 .yui-nya.com/wp-content/uploads/2016/12/37011\.jpg
 .yubei8.com/img/
@@ -14253,6 +14251,8 @@ TAG:^adfilter-block-request$
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
+.shhgg.in/shlf1314/
+.shhgg.in/js/shangjia
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
@@ -17893,6 +17893,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .crdrjs.info
 .cqyhd.com
 .cqhnm.com
+.cqftonline.com
+.cqfangduan.com
 .cpva.cc
 .cpv6.com
 .cpro.baidustatic.com
@@ -18162,8 +18164,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.cqftonline.com
-.cqfangduan.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
