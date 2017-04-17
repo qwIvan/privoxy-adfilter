@@ -5569,6 +5569,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xuehi.cn
 .myzk1.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12254,6 +12255,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xuehi.cn
 .myzk1.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18148,6 +18150,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.xuehi.cn
 .myzk1.com
 ad.*.
 /(.*/)?js/tc\.js
