@@ -50,6 +50,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gtimg.com/sports/qingyang/
 .ali213.net/images/bg_lt\.jpg
 .soaspx.com/images/js/dropdown\.js
 .zzzyk.com/js/
@@ -6736,6 +6737,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gtimg.com/sports/qingyang/
 .ali213.net/images/bg_lt\.jpg
 .soaspx.com/images/js/dropdown\.js
 .zzzyk.com/js/
@@ -13416,6 +13418,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gtimg.com/sports/qingyang/
 .ali213.net/images/bg_lt\.jpg
 .soaspx.com/images/js/dropdown\.js
 .zzzyk.com/js/
