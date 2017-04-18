@@ -20340,7 +20340,6 @@ TAG:^adfilter-unblock-dnt$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.changyan.sohu.com
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -21363,7 +21362,6 @@ TAG:^adfilter-unblock-elem$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.changyan.sohu.com
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
@@ -22371,7 +22369,6 @@ TAG:^adfilter-unblock-request$
 .cupid.iqiyi.com/show2\?a=qc_
 .cupid.iqiyi.com/crossdomain\.xml
 .count.video.sina.com.cn/.*\?video_ids=
-.changyan.sohu.com
 .bagehd.com/iplookup\.
 .autohome.com.cn/javascript/fingerprint\.js
 .analytics.163.com/ntes\.js
