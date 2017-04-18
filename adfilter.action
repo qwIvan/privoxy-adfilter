@@ -12,7 +12,7 @@ TAG:^adfilter-block-dnt$
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
 .youbian.com
-.yjbys.org
+.sundxs.com
 .yhzm.cc
 .star-media.cn
 .mipujia.com
@@ -22,7 +22,7 @@ TAG:^adfilter-block-dnt$
 .jsm.9939.com
 .js.syiae.com
 .gzlykj.cn
-.gwy.sdsgwy.com
+.guang.sdsgwy.com
 .fuz.cc
 .fmgoal.com
 .firefang.cn
@@ -36,7 +36,7 @@ TAG:^adfilter-block-dnt$
 .daima.chazidian.com
 .d6.mobaders.com
 .bd1.nxing.cn
-.baidu.greenxf.cn
+.cp.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -6701,7 +6701,7 @@ TAG:^adfilter-block-elem$
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
 .youbian.com
-.yjbys.org
+.sundxs.com
 .yhzm.cc
 .star-media.cn
 .mipujia.com
@@ -6711,7 +6711,7 @@ TAG:^adfilter-block-elem$
 .jsm.9939.com
 .js.syiae.com
 .gzlykj.cn
-.gwy.sdsgwy.com
+.guang.sdsgwy.com
 .fuz.cc
 .fmgoal.com
 .firefang.cn
@@ -6725,7 +6725,7 @@ TAG:^adfilter-block-elem$
 .daima.chazidian.com
 .d6.mobaders.com
 .bd1.nxing.cn
-.baidu.greenxf.cn
+.cp.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -13396,7 +13396,7 @@ TAG:^adfilter-block-request$
 .jsm.9939.com
 .js.syiae.com
 .gzlykj.cn
-.gwy.sdsgwy.com
+.guang.sdsgwy.com
 .fmgoal.com
 .firefang.cn
 .feidalu.com
@@ -13409,7 +13409,7 @@ TAG:^adfilter-block-request$
 .daima.chazidian.com
 .d6.mobaders.com
 .bd1.nxing.cn
-.baidu.greenxf.cn
+.cp.greenxf.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -18899,7 +18899,7 @@ gg.*.
 {+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rt} \
 }
 .youbian.com
-.yjbys.org
+.sundxs.com
 .star-media.cn
 .mipujia.com
 .kuku99.com
