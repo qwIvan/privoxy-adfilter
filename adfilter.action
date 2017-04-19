@@ -12,8 +12,8 @@ TAG:^adfilter-block-dnt$
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
 .youbian.com
-.sundxs.com
 .yhzm.cc
+.sundxs.com
 .star-media.cn
 .mipujia.com
 .milk.yesky.com.cn
@@ -35,8 +35,8 @@ TAG:^adfilter-block-dnt$
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
-.bd1.nxing.cn
 .cp.greenxf.cn
+.bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -50,7 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -880,6 +879,7 @@ TAG:^adfilter-block-dnt$
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
+.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
@@ -5021,6 +5021,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cylinderlongcheng.com
 .cyacc.com
 .cxxtv.com
+.cxd-ailegou.com
 .ctsywy.com
 .csxjys.com
 .cstoa.com
@@ -5573,7 +5574,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.cxd-ailegou.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6701,8 +6701,8 @@ TAG:^adfilter-block-elem$
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
 .youbian.com
-.sundxs.com
 .yhzm.cc
+.sundxs.com
 .star-media.cn
 .mipujia.com
 .milk.yesky.com.cn
@@ -6724,8 +6724,8 @@ TAG:^adfilter-block-elem$
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
-.bd1.nxing.cn
 .cp.greenxf.cn
+.bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -6739,7 +6739,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7569,6 +7568,7 @@ TAG:^adfilter-block-elem$
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
+.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
@@ -11710,6 +11710,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cylinderlongcheng.com
 .cyacc.com
 .cxxtv.com
+.cxd-ailegou.com
 .ctsywy.com
 .csxjys.com
 .cstoa.com
@@ -12262,7 +12263,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.cxd-ailegou.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13408,8 +13408,8 @@ TAG:^adfilter-block-request$
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
-.bd1.nxing.cn
 .cp.greenxf.cn
+.bd1.nxing.cn
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -13422,7 +13422,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14225,6 +14224,7 @@ TAG:^adfilter-block-request$
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
+.shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
 .shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
@@ -17881,6 +17881,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .czdqhyo1.net
 .cylinderlongcheng.com
 .cyacc.com
+.cxd-ailegou.com
 .ctsywy.com
 .csxjys.com
 .cstoa.com
@@ -18160,7 +18161,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.cxd-ailegou.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
