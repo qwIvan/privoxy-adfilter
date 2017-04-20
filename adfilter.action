@@ -50,6 +50,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .t57.cn/cert\.php\?t=p
 .bokon.net:1133/ga/
 .123du.cc:1133/ga/
@@ -5584,6 +5585,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.e7009.com
+.xdcqcyp.com
 .99909988.com
 .025suyu.com
 .211.103.159.32
@@ -6757,6 +6760,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .t57.cn/cert\.php\?t=p
 .bokon.net:1133/ga/
 .123du.cc:1133/ga/
@@ -12291,6 +12295,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.e7009.com
+.xdcqcyp.com
 .99909988.com
 .025suyu.com
 .211.103.159.32
@@ -13458,6 +13464,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .t57.cn/cert\.php\?t=p
 .bokon.net:1133/ga/
 .123du.cc:1133/ga/
@@ -18205,6 +18212,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.e7009.com
+.xdcqcyp.com
 .99909988.com
 .025suyu.com
 .211.103.159.32
