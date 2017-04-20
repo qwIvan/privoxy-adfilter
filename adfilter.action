@@ -50,6 +50,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.81zw.com/.*\.htm
+.xs222.com/.*\.htm
 .bejson.com/submail
 .gavbus*./.*\.com/assets/common/js/admenu\.js
 .gavbus*.com/assets/common/js/admenu\.js
@@ -6749,6 +6751,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.81zw.com/.*\.htm
+.xs222.com/.*\.htm
 .bejson.com/submail
 .gavbus*./.*\.com/assets/common/js/admenu\.js
 .gavbus*.com/assets/common/js/admenu\.js
@@ -18699,6 +18703,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
+.81zw.com/.*\.htm
+.xs222.com/.*\.htm
 .xxbiquge.com/.*\.htm
 .xntk.net
 .sznews.com/css/
