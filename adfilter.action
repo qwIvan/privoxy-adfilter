@@ -50,6 +50,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.bejson.com/submail
 .gavbus*./.*\.com/assets/common/js/admenu\.js
 .gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
@@ -5579,6 +5580,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.99909988.com
+.025suyu.com
 .211.103.159.32
 .szrk3.com
 /.*\.cn/show\?id=
@@ -5940,26 +5943,29 @@ AD2v1.1.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
-.chinaacc.com
 
 {+client-header-tagger{adfilter-block-dnt-R2} \
 }
-.sinaimg.cn
+.chinaacc.com
 
 {+client-header-tagger{adfilter-block-dnt-R3} \
+}
+.sinaimg.cn
+
+{+client-header-tagger{adfilter-block-dnt-R4} \
 }
 /(.*/)?config\.
 config.*.
 
-{+client-header-tagger{adfilter-block-dnt-R4} \
+{+client-header-tagger{adfilter-block-dnt-R5} \
 }
 /(.*/)?Sitefiles/.*
 
-{+client-header-tagger{adfilter-block-dnt-R5} \
+{+client-header-tagger{adfilter-block-dnt-R6} \
 }
 .sohucs.com/.*_gif
 
-{+client-header-tagger{adfilter-block-dnt-R6} \
+{+client-header-tagger{adfilter-block-dnt-R7} \
 }
 /.*\.tk[^\w%.-]
 .*.tk
@@ -5968,52 +5974,52 @@ config.*.
 /(.*/)?\[0-9\]\+\\\.gif/
 /[0-9]+\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R7} \
+{+client-header-tagger{adfilter-block-dnt-R8} \
 }
 /.*\.com/x/
 .*.com/x/
 
-{+client-header-tagger{adfilter-block-dnt-R8} \
+{+client-header-tagger{adfilter-block-dnt-R9} \
 }
 .027cgb.cn
 
-{+client-header-tagger{adfilter-block-dnt-R9} \
+{+client-header-tagger{adfilter-block-dnt-R10} \
 }
 .tinypic.com
 
-{+client-header-tagger{adfilter-block-dnt-R10} \
+{+client-header-tagger{adfilter-block-dnt-R11} \
 }
 /(.*/)?ts\.js
 
-{+client-header-tagger{adfilter-block-dnt-R11} \
+{+client-header-tagger{adfilter-block-dnt-R12} \
 }
 /(.*/)?skin/tb12/.*
 /(.*/)?img/skin/.*_bg\.
 
-{+client-header-tagger{adfilter-block-dnt-R12} \
+{+client-header-tagger{adfilter-block-dnt-R13} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R13} \
+{+client-header-tagger{adfilter-block-dnt-R14} \
 }
 .imgmega.com/i/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R14} \
+{+client-header-tagger{adfilter-block-dnt-R15} \
 }
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
-{+client-header-tagger{adfilter-block-dnt-R15} \
+{+client-header-tagger{adfilter-block-dnt-R16} \
 }
 .ultraimg.com
 .imgur.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R16} \
+{+client-header-tagger{adfilter-block-dnt-R17} \
 }
 .cdndm.com/3/2015/
 .cdndm.com/12/2016/
 
-{+client-header-tagger{adfilter-block-dnt-R17} \
+{+client-header-tagger{adfilter-block-dnt-R18} \
 }
 /(.*/)?wxhfm\.html
 wxhfm.html*.
@@ -6021,18 +6027,15 @@ wxhfm.html*.
 /(.*/)?wxh\.js
 wxh.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R18} \
+{+client-header-tagger{adfilter-block-dnt-R19} \
 }
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R19} \
-}
-.sinaimg.cn
-
 {+client-header-tagger{adfilter-block-dnt-R20} \
 }
+.sinaimg.cn
 
 {+client-header-tagger{adfilter-block-dnt-R21} \
 }
@@ -6746,6 +6749,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.bejson.com/submail
 .gavbus*./.*\.com/assets/common/js/admenu\.js
 .gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
@@ -12275,6 +12279,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.99909988.com
+.025suyu.com
 .211.103.159.32
 .szrk3.com
 /.*\.cn/show\?id=
@@ -12636,26 +12642,29 @@ AD2v1.1.js*.
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
-.chinaacc.com
 
 {+client-header-tagger{adfilter-block-elem-R2} \
 }
-.sinaimg.cn
+.chinaacc.com
 
 {+client-header-tagger{adfilter-block-elem-R3} \
+}
+.sinaimg.cn
+
+{+client-header-tagger{adfilter-block-elem-R4} \
 }
 /(.*/)?config\.
 config.*.
 
-{+client-header-tagger{adfilter-block-elem-R4} \
+{+client-header-tagger{adfilter-block-elem-R5} \
 }
 /(.*/)?Sitefiles/.*
 
-{+client-header-tagger{adfilter-block-elem-R5} \
+{+client-header-tagger{adfilter-block-elem-R6} \
 }
 .sohucs.com/.*_gif
 
-{+client-header-tagger{adfilter-block-elem-R6} \
+{+client-header-tagger{adfilter-block-elem-R7} \
 }
 /.*\.tk[^\w%.-]
 .*.tk
@@ -12664,52 +12673,52 @@ config.*.
 /(.*/)?\[0-9\]\+\\\.gif/
 /[0-9]+\.gif
 
-{+client-header-tagger{adfilter-block-elem-R7} \
+{+client-header-tagger{adfilter-block-elem-R8} \
 }
 /.*\.com/x/
 .*.com/x/
 
-{+client-header-tagger{adfilter-block-elem-R8} \
+{+client-header-tagger{adfilter-block-elem-R9} \
 }
 .027cgb.cn
 
-{+client-header-tagger{adfilter-block-elem-R9} \
+{+client-header-tagger{adfilter-block-elem-R10} \
 }
 .tinypic.com
 
-{+client-header-tagger{adfilter-block-elem-R10} \
+{+client-header-tagger{adfilter-block-elem-R11} \
 }
 /(.*/)?ts\.js
 
-{+client-header-tagger{adfilter-block-elem-R11} \
+{+client-header-tagger{adfilter-block-elem-R12} \
 }
 /(.*/)?skin/tb12/.*
 /(.*/)?img/skin/.*_bg\.
 
-{+client-header-tagger{adfilter-block-elem-R12} \
+{+client-header-tagger{adfilter-block-elem-R13} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R13} \
+{+client-header-tagger{adfilter-block-elem-R14} \
 }
 .imgmega.com/i/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R14} \
+{+client-header-tagger{adfilter-block-elem-R15} \
 }
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
-{+client-header-tagger{adfilter-block-elem-R15} \
+{+client-header-tagger{adfilter-block-elem-R16} \
 }
 .ultraimg.com
 .imgur.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R16} \
+{+client-header-tagger{adfilter-block-elem-R17} \
 }
 .cdndm.com/3/2015/
 .cdndm.com/12/2016/
 
-{+client-header-tagger{adfilter-block-elem-R17} \
+{+client-header-tagger{adfilter-block-elem-R18} \
 }
 /(.*/)?wxhfm\.html
 wxhfm.html*.
@@ -12717,18 +12726,15 @@ wxhfm.html*.
 /(.*/)?wxh\.js
 wxh.js*.
 
-{+client-header-tagger{adfilter-block-elem-R18} \
+{+client-header-tagger{adfilter-block-elem-R19} \
 }
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-elem-R19} \
-}
-.sinaimg.cn
-
 {+client-header-tagger{adfilter-block-elem-R20} \
 }
+.sinaimg.cn
 
 {+client-header-tagger{adfilter-block-elem-R21} \
 }
@@ -13436,6 +13442,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.bejson.com/submail
 .gavbus*./.*\.com/assets/common/js/admenu\.js
 .gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
@@ -18180,6 +18187,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.99909988.com
+.025suyu.com
 .211.103.159.32
 .szrk3.com
 ad.*.
@@ -18638,7 +18647,7 @@ TAG:^adfilter-block-request-Ai-Ci$
 .*mg*./.*\.6park\.com/img/
 .*mg*.6park.com/img/
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R6} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R7} \
 }
 /(.*/)?\[0-9\]\+\\\.gif/
 /[0-9]+\.gif
@@ -18750,12 +18759,12 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R176t} \
 }
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R6} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R7} \
 }
 /(.*/)?\\\?\(\[a-z\]\+=\[0-9\]\+&\)\{3,\}/
 /\?([a-z]+=[0-9]+&){3,}
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R12} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R13} \
 }
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R22} \
@@ -19447,71 +19456,71 @@ pd2.js*.
 .lady8844.com/IMAGE/
 .img.eol.cn/images/ed/
 
-{+client-header-tagger{adfilter-block-request-R1} \
+{+client-header-tagger{adfilter-block-request-R2} \
 }
 .chinaacc.com
 
-{+client-header-tagger{adfilter-block-request-R2} \
+{+client-header-tagger{adfilter-block-request-R3} \
 }
 .sinaimg.cn
 
-{+client-header-tagger{adfilter-block-request-R3} \
+{+client-header-tagger{adfilter-block-request-R4} \
 }
 /(.*/)?config\.
 config.*.
 
-{+client-header-tagger{adfilter-block-request-R5} \
+{+client-header-tagger{adfilter-block-request-R6} \
 }
 .sohucs.com/.*_gif
 
-{+client-header-tagger{adfilter-block-request-R6} \
+{+client-header-tagger{adfilter-block-request-R7} \
 }
 /.*\.tk[^\w%.-]
 .*.tk
 
-{+client-header-tagger{adfilter-block-request-R7} \
+{+client-header-tagger{adfilter-block-request-R8} \
 }
 /.*\.com/x/
 .*.com/x/
 
-{+client-header-tagger{adfilter-block-request-R8} \
+{+client-header-tagger{adfilter-block-request-R9} \
 }
 .027cgb.cn
 
-{+client-header-tagger{adfilter-block-request-R9} \
+{+client-header-tagger{adfilter-block-request-R10} \
 }
 .tinypic.com
 
-{+client-header-tagger{adfilter-block-request-R10} \
+{+client-header-tagger{adfilter-block-request-R11} \
 }
 /(.*/)?ts\.js
 
-{+client-header-tagger{adfilter-block-request-R11} \
+{+client-header-tagger{adfilter-block-request-R12} \
 }
 /(.*/)?skin/tb12/.*
 /(.*/)?img/skin/.*_bg\.
 
-{+client-header-tagger{adfilter-block-request-R13} \
+{+client-header-tagger{adfilter-block-request-R14} \
 }
 .imgmega.com/i/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R14} \
+{+client-header-tagger{adfilter-block-request-R15} \
 }
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
-{+client-header-tagger{adfilter-block-request-R15} \
+{+client-header-tagger{adfilter-block-request-R16} \
 }
 .ultraimg.com
 .imgur.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R16} \
+{+client-header-tagger{adfilter-block-request-R17} \
 }
 .cdndm.com/3/2015/
 .cdndm.com/12/2016/
 
-{+client-header-tagger{adfilter-block-request-R17} \
+{+client-header-tagger{adfilter-block-request-R18} \
 }
 /(.*/)?wxhfm\.html
 wxhfm.html*.
@@ -19519,13 +19528,13 @@ wxhfm.html*.
 /(.*/)?wxh\.js
 wxh.js*.
 
-{+client-header-tagger{adfilter-block-request-R18} \
+{+client-header-tagger{adfilter-block-request-R19} \
 }
 /(.*/)?the_top
 /(.*/)?banner\.js
 banner.js*.
 
-{+client-header-tagger{adfilter-block-request-R19} \
+{+client-header-tagger{adfilter-block-request-R20} \
 }
 .sinaimg.cn
 
@@ -20167,7 +20176,7 @@ TAG:^adfilter-block-xframe$
 .4kt2.com
 /(.*/)?baichuan/.*
 
-{+client-header-tagger{adfilter-block-xframe-R4} \
+{+client-header-tagger{adfilter-block-xframe-R5} \
 }
 /(.*/)?Sitefiles/.*
 
