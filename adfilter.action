@@ -50,6 +50,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6742,6 +6744,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13428,6 +13432,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
