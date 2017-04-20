@@ -50,8 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.haokoo.com/images/ws640\.jpg
-.haokoo.com/plus/rpad/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2173,6 +2171,8 @@ TAG:^adfilter-block-dnt$
 .haoring03.com/ads/
 .haolepic.com/js/
 .haolepic.com/blz/
+.haokoo.com/plus/rpad/
+.haokoo.com/images/ws640\.jpg
 .haokoo.com/images/qchd
 .haokoo.com/images/mld\.jpg
 .haokan5.com/js/haokanjs/youxiajiao\.js
@@ -6741,8 +6741,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.haokoo.com/images/ws640\.jpg
-.haokoo.com/plus/rpad/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8864,6 +8862,8 @@ TAG:^adfilter-block-elem$
 .haoring03.com/ads/
 .haolepic.com/js/
 .haolepic.com/blz/
+.haokoo.com/plus/rpad/
+.haokoo.com/images/ws640\.jpg
 .haokoo.com/images/qchd
 .haokoo.com/images/mld\.jpg
 .haokan5.com/js/haokanjs/youxiajiao\.js
@@ -13426,8 +13426,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.haokoo.com/images/ws640\.jpg
-.haokoo.com/plus/rpad/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15459,6 +15457,8 @@ TAG:^adfilter-block-request$
 .haoring03.com/ads/
 .haolepic.com/js/
 .haolepic.com/blz/
+.haokoo.com/plus/rpad/
+.haokoo.com/images/ws640\.jpg
 .haokoo.com/images/qchd
 .haokoo.com/images/mld\.jpg
 .haokan5.com/js/haokanjs/youxiajiao\.js
