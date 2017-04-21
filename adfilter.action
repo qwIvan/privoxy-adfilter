@@ -2723,7 +2723,7 @@ TAG:^adfilter-block-dnt$
 .cool18.*./(.*/)?.*/.*/.*\.gif
 .cool18.*./(.*/)?.*/.*\.
 .content.xilu.com
-.common.jb51.net/.*\.js
+.jb51.net/js/jbLoader\.js
 .comicbus.com/js/top\.js
 .com.webmasterhome.cn/a1-
 .codezp.org/uploads/
@@ -9435,7 +9435,7 @@ TAG:^adfilter-block-elem$
 .cool18.*./(.*/)?.*/.*/.*\.gif
 .cool18.*./(.*/)?.*/.*\.
 .content.xilu.com
-.common.jb51.net/.*\.js
+.jb51.net/js/jbLoader\.js
 .comicbus.com/js/top\.js
 .com.webmasterhome.cn/a1-
 .codezp.org/uploads/
@@ -16019,7 +16019,7 @@ TAG:^adfilter-block-request$
 .coolaler.com.tw/.*_300x100\.
 .coolaler.com.tw/index_ads/
 .cool18.*./(.*/)?.*/.*/.*\.gif
-.common.jb51.net/.*\.js
+.jb51.net/js/jbLoader\.js
 .comicbus.com/js/top\.js
 .com.webmasterhome.cn/a1-
 .codezp.org/uploads/
