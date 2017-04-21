@@ -5841,7 +5841,6 @@ diantan.js*.
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
 /(.*/)?c/674_rlt\.js
-/(.*/)?btkitty-static\?
 /(.*/)?btba/ad/.*
 /(.*/)?botad\.html
 botad.html*.
@@ -12556,7 +12555,6 @@ diantan.js*.
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
 /(.*/)?c/674_rlt\.js
-/(.*/)?btkitty-static\?
 /(.*/)?btba/ad/.*
 /(.*/)?botad\.html
 botad.html*.
@@ -18469,7 +18467,6 @@ diantan.js*.
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
 /(.*/)?c/674_rlt\.js
-/(.*/)?btkitty-static\?
 /(.*/)?btba/ad/.*
 /(.*/)?botad\.html
 botad.html*.
