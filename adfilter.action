@@ -51,6 +51,9 @@ TAG:^adfilter-block-dnt$
 .fotao9.com
 /.*\?pss=
 /.*&pcn=
+.game.tiexue.net/iframe/
+.guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
+.25tvtv.com/myjs/alljs\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6763,6 +6766,9 @@ TAG:^adfilter-block-elem$
 .fotao9.com
 /.*\?pss=
 /.*&pcn=
+.game.tiexue.net/iframe/
+.guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
+.25tvtv.com/myjs/alljs\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13469,6 +13475,9 @@ TAG:^adfilter-block-request$
 .fotao9.com
 /.*\?pss=
 /.*&pcn=
+.game.tiexue.net/iframe/
+.guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
+.25tvtv.com/myjs/alljs\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
