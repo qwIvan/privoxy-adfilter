@@ -50,16 +50,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.btbtt.*./(.*/)?view/image/QT_9198\.jpg
-.t57.cn/cert\.php\?t=p
-.bokon.net:1133/ga/
-.123du.cc:1133/ga/
-.81zw.com/.*\.htm
-.xs222.com/.*\.htm
-.bejson.com/submail
-.gavbus*./.*\.com/assets/common/js/admenu\.js
-.gavbus*.com/assets/common/js/admenu\.js
-.huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -313,6 +303,7 @@ TAG:^adfilter-block-dnt$
 .xtzgjx.com/images/jiaoyou
 .xskhome.com/pic/20.*/all/
 .xs8.cn/xs8_stat\.js
+.xs222.com/.*\.htm
 .xs.houyi.baofeng.net
 .xpgod.com/statics/skin_js/xpgod/
 .xp85.com/statics/js/all\.js
@@ -718,6 +709,7 @@ TAG:^adfilter-block-dnt$
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
+.t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .sznews.com/css/
 .sznews.com/.*\.files/
@@ -2058,6 +2050,7 @@ TAG:^adfilter-block-dnt$
 .hudong.com/51/15/26100000004661147382156345622\.jpg
 .hudong.com/25/92/26100000000000140262920175968\.jpg
 .hudong.com/11/85/26100000005581147339859649123\.jpg
+.huarenjie.com/attachment/myfiles/
 .huanqiu.com/resource/js/base\.js
 .hualady.com/static/
 .huaiduoduo.info/Runtime/js/
@@ -2326,6 +2319,8 @@ TAG:^adfilter-block-dnt$
 .gd.sina.com.cn/iframe/22/
 .gd.ct10000.com/js/ecssstat\.js
 .gcxa.cn/a/gb\.gif
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .gavbus*./.*\.com/assets/common/js/ad\.js
 .gavbus*.com/assets/common/js/ad\.js
 .gasaq.com/public/flash/
@@ -2604,10 +2599,10 @@ TAG:^adfilter-block-dnt$
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
 .dnwx.com*./(.*/)?ad
-.dnvod.eu/.*/201
-.dnvod.eu/.*\.jpg
-.dnvod.eu/.*\.gif
-.dnvod.eu/upload/gaming/
+.dnvod.tv/.*/201
+.dnvod.tv/.*\.jpg
+.dnvod.tv/.*\.gif
+.dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
@@ -2953,6 +2948,7 @@ TAG:^adfilter-block-dnt$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
@@ -2970,6 +2966,7 @@ TAG:^adfilter-block-dnt$
 .bookgew.com/hz1/tcby\.js
 .bookbao.cc/js/
 .bonbonme.com/js/g1313166/
+.bokon.net:1133/ga/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
 .bmp2.ali213.net/js/
@@ -3024,6 +3021,7 @@ TAG:^adfilter-block-dnt$
 .besc.baidustatic.com
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
+.bejson.com/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -3453,6 +3451,7 @@ TAG:^adfilter-block-dnt$
 .855699.com/.*qq\.js
 .855699.com/piao\.js
 .83133.com/api/
+.81zw.com/.*\.htm
 .80s3gp.com/cdn-cgi/pe/bag2\?.*ad_js\.
 .801.tianyaui.com
 .800j.com.cn/index\.php\?m=poster&
@@ -3903,6 +3902,7 @@ TAG:^adfilter-block-dnt$
 .126.net/house/hangzhou/ad/
 .126.com/get\.do\?.*=themeHandler\.
 .125.46.61.28
+.123du.cc:1133/ga/
 .123du.cc/show/
 .123cha.com/2568
 .1236226.com/html/
@@ -4275,6 +4275,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xhbqczl.com
 .xe2c.com
 .xdwan.com
+.xdcqcyp.com
 .xdbwc.com
 .xcyrc.com
 .xcyjzs.net
@@ -4438,6 +4439,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .t3nlink.com
 .szxpsg.com
 .szvr.com
+.szrk3.com
 .szggdw.com
 .szfaq.com
 .szdzbx.com
@@ -4969,6 +4971,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .e704.net
 .e70123.com
 .e701.net
+.e7009.com
 .e7002.com
 .e7001.com
 .dzsstye.com
@@ -5237,6 +5240,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .9w1an.com
 .9ead.com
 .99lolo.com
+.99909988.com
 .9718.com
 .9665yx.com
 .95558000.com
@@ -5386,6 +5390,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .2155ec.com
 .211.167.105.131
 .211.149.225.23
+.211.103.159.32
 .210.65.10.32
 .2012ui.com
 .201071.com
@@ -5455,6 +5460,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .0451106.com
 .033.com
 .0313413.com
+.025suyu.com
 .022aifang.com
 .012.tw
 .010xk.com
@@ -5585,12 +5591,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.e7009.com
-.xdcqcyp.com
-.99909988.com
-.025suyu.com
-.211.103.159.32
-.szrk3.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6760,16 +6760,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.btbtt.*./(.*/)?view/image/QT_9198\.jpg
-.t57.cn/cert\.php\?t=p
-.bokon.net:1133/ga/
-.123du.cc:1133/ga/
-.81zw.com/.*\.htm
-.xs222.com/.*\.htm
-.bejson.com/submail
-.gavbus*./.*\.com/assets/common/js/admenu\.js
-.gavbus*.com/assets/common/js/admenu\.js
-.huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7023,6 +7013,7 @@ TAG:^adfilter-block-elem$
 .xtzgjx.com/images/jiaoyou
 .xskhome.com/pic/20.*/all/
 .xs8.cn/xs8_stat\.js
+.xs222.com/.*\.htm
 .xs.houyi.baofeng.net
 .xpgod.com/statics/skin_js/xpgod/
 .xp85.com/statics/js/all\.js
@@ -7428,6 +7419,7 @@ TAG:^adfilter-block-elem$
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
+.t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .sznews.com/css/
 .sznews.com/.*\.files/
@@ -8768,6 +8760,7 @@ TAG:^adfilter-block-elem$
 .hudong.com/51/15/26100000004661147382156345622\.jpg
 .hudong.com/25/92/26100000000000140262920175968\.jpg
 .hudong.com/11/85/26100000005581147339859649123\.jpg
+.huarenjie.com/attachment/myfiles/
 .huanqiu.com/resource/js/base\.js
 .hualady.com/static/
 .huaiduoduo.info/Runtime/js/
@@ -9036,6 +9029,8 @@ TAG:^adfilter-block-elem$
 .gd.sina.com.cn/iframe/22/
 .gd.ct10000.com/js/ecssstat\.js
 .gcxa.cn/a/gb\.gif
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .gavbus*./.*\.com/assets/common/js/ad\.js
 .gavbus*.com/assets/common/js/ad\.js
 .gasaq.com/public/flash/
@@ -9314,10 +9309,10 @@ TAG:^adfilter-block-elem$
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
 .dnwx.com*./(.*/)?ad
-.dnvod.eu/.*/201
-.dnvod.eu/.*\.jpg
-.dnvod.eu/.*\.gif
-.dnvod.eu/upload/gaming/
+.dnvod.tv/.*/201
+.dnvod.tv/.*\.jpg
+.dnvod.tv/.*\.gif
+.dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
@@ -9663,6 +9658,7 @@ TAG:^adfilter-block-elem$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
@@ -9680,6 +9676,7 @@ TAG:^adfilter-block-elem$
 .bookgew.com/hz1/tcby\.js
 .bookbao.cc/js/
 .bonbonme.com/js/g1313166/
+.bokon.net:1133/ga/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
 .bmp2.ali213.net/js/
@@ -9734,6 +9731,7 @@ TAG:^adfilter-block-elem$
 .besc.baidustatic.com
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
+.bejson.com/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -10163,6 +10161,7 @@ TAG:^adfilter-block-elem$
 .855699.com/.*qq\.js
 .855699.com/piao\.js
 .83133.com/api/
+.81zw.com/.*\.htm
 .80s3gp.com/cdn-cgi/pe/bag2\?.*ad_js\.
 .801.tianyaui.com
 .800j.com.cn/index\.php\?m=poster&
@@ -10613,6 +10612,7 @@ TAG:^adfilter-block-elem$
 .126.net/house/hangzhou/ad/
 .126.com/get\.do\?.*=themeHandler\.
 .125.46.61.28
+.123du.cc:1133/ga/
 .123du.cc/show/
 .123cha.com/2568
 .1236226.com/html/
@@ -10985,6 +10985,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xhbqczl.com
 .xe2c.com
 .xdwan.com
+.xdcqcyp.com
 .xdbwc.com
 .xcyrc.com
 .xcyjzs.net
@@ -11148,6 +11149,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .t3nlink.com
 .szxpsg.com
 .szvr.com
+.szrk3.com
 .szggdw.com
 .szfaq.com
 .szdzbx.com
@@ -11679,6 +11681,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .e704.net
 .e70123.com
 .e701.net
+.e7009.com
 .e7002.com
 .e7001.com
 .dzsstye.com
@@ -11947,6 +11950,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .9w1an.com
 .9ead.com
 .99lolo.com
+.99909988.com
 .9718.com
 .9665yx.com
 .95558000.com
@@ -12096,6 +12100,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .2155ec.com
 .211.167.105.131
 .211.149.225.23
+.211.103.159.32
 .210.65.10.32
 .2012ui.com
 .201071.com
@@ -12165,6 +12170,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .0451106.com
 .033.com
 .0313413.com
+.025suyu.com
 .022aifang.com
 .012.tw
 .010xk.com
@@ -12295,12 +12301,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.e7009.com
-.xdcqcyp.com
-.99909988.com
-.025suyu.com
-.211.103.159.32
-.szrk3.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13464,14 +13464,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.btbtt.*./(.*/)?view/image/QT_9198\.jpg
-.t57.cn/cert\.php\?t=p
-.bokon.net:1133/ga/
-.123du.cc:1133/ga/
-.bejson.com/submail
-.gavbus*./.*\.com/assets/common/js/admenu\.js
-.gavbus*.com/assets/common/js/admenu\.js
-.huarenjie.com/attachment/myfiles/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14110,6 +14102,7 @@ TAG:^adfilter-block-request$
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
+.t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .szhk.com/include/taobao
 .szhk.com/iframe/
@@ -15384,6 +15377,7 @@ TAG:^adfilter-block-request$
 .hudong.com/51/15/26100000004661147382156345622\.jpg
 .hudong.com/25/92/26100000000000140262920175968\.jpg
 .hudong.com/11/85/26100000005581147339859649123\.jpg
+.huarenjie.com/attachment/myfiles/
 .huanqiu.com/resource/js/base\.js
 .hualady.com/static/
 .huaiduoduo.info/Runtime/js/
@@ -15647,6 +15641,8 @@ TAG:^adfilter-block-request$
 .gd.sina.com.cn/iframe/22/
 .gd.ct10000.com/js/ecssstat\.js
 .gcxa.cn/a/gb\.gif
+.gavbus*./.*\.com/assets/common/js/admenu\.js
+.gavbus*.com/assets/common/js/admenu\.js
 .gavbus*./.*\.com/assets/common/js/ad\.js
 .gavbus*.com/assets/common/js/ad\.js
 .gasaq.com/public/flash/
@@ -15908,7 +15904,7 @@ TAG:^adfilter-block-request$
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
-.dnvod.eu/upload/gaming/
+.dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmfans.net/template/haokandemanhhua/images/g_js/
 .dm530.net/pic/fgr/.*\.js
@@ -16236,6 +16232,7 @@ TAG:^adfilter-block-request$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
@@ -16253,6 +16250,7 @@ TAG:^adfilter-block-request$
 .bookgew.com/hz1/tcby\.js
 .bookbao.cc/js/
 .bonbonme.com/js/g1313166/
+.bokon.net:1133/ga/
 .bnext.com.tw/static/web/images/banners/
 .bnext.com.tw/static/web/all\.js
 .bmp2.ali213.net/js/
@@ -16306,6 +16304,7 @@ TAG:^adfilter-block-request$
 .besc.baidustatic.com
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
+.bejson.com/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -17148,6 +17147,7 @@ TAG:^adfilter-block-request$
 .126.net/house/hangzhou/ad/
 .126.com/get\.do\?.*=themeHandler\.
 .125.46.61.28
+.123du.cc:1133/ga/
 .123du.cc/show/
 .123cha.com/2568
 .1236226.com/html/
@@ -17446,6 +17446,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xhsxgmt.cn
 .xhmrv.com
 .xhbqczl.com
+.xdcqcyp.com
 .xdbwc.com
 .xcyrc.com
 .xcyjzs.net
@@ -17544,6 +17545,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .taat00889.com
 .t70123.com
 .szxpsg.com
+.szrk3.com
 .szggdw.com
 .szfaq.com
 .szdzbx.com
@@ -17890,6 +17892,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .e704.net
 .e70123.com
 .e701.net
+.e7009.com
 .e7002.com
 .e7001.com
 .dzjzg.com
@@ -18057,6 +18060,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .a0b11.com
 .a.youdao.com
 .99lolo.com
+.99909988.com
 .95558000.com
 .95105012.com
 .94lm.com
@@ -18136,6 +18140,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .218.25.246.118
 .211.167.105.131
 .211.149.225.23
+.211.103.159.32
 .2012ui.com
 .201071.com
 .1uandun.com
@@ -18180,6 +18185,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .0531kt.com
 .0451106.com
 .0313413.com
+.025suyu.com
 .022aifang.com
 .010xk.com
 .010teacher.com
@@ -18212,12 +18218,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.e7009.com
-.xdcqcyp.com
-.99909988.com
-.025suyu.com
-.211.103.159.32
-.szrk3.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18613,9 +18613,9 @@ TAG:^adfilter-block-request-Aaov-Caov$
 .letvimg.com*gugwl
 .float.sandai.net
 .douban.com/.*/rda/
-.dnvod.eu/.*/201
-.dnvod.eu/.*\.jpg
-.dnvod.eu/.*\.gif
+.dnvod.tv/.*/201
+.dnvod.tv/.*\.jpg
+.dnvod.tv/.*\.gif
 
 {+client-header-tagger{adfilter-block-request-Aaov-Caov-when-R50} \
 }
@@ -18726,9 +18726,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-.81zw.com/.*\.htm
-.xs222.com/.*\.htm
 .xxbiquge.com/.*\.htm
+.xs222.com/.*\.htm
 .xntk.net
 .sznews.com/css/
 .stheadline.com/.*banner
@@ -18761,6 +18760,7 @@ TAG:^adfilter-block-request-Aj-Cj$
 .ayxz.com/images/
 .962.net/show/cms_
 .962.net/show/all_
+.81zw.com/.*\.htm
 .6park.com/parks/
 .6park.com/news/
 .23sc.cn*./(.*/)?007/js/

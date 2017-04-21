@@ -354,7 +354,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R7
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R70
-s@^referer(?=:[^\n]*[./](?:dnvod\.eu)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:dnvod\.tv)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R71
 s@^referer(?=:[^\n]*[./](?:dolc\.de|dolc\.info|leiphone\.com)):.*@adfilter-block-dnt@Ti
@@ -876,7 +876,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R7
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R70
-s@^referer(?=:[^\n]*[./](?:dnvod\.eu)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:dnvod\.tv)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R71
 s@^referer(?=:[^\n]*[./](?:dolc\.de|dolc\.info|leiphone\.com)):.*@adfilter-block-elem@Ti
@@ -1542,7 +1542,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R7
 s@^referer(?=:[^\n]*[./](?:144\.217\.84\.47|149\.56\.45\.111|a7s7\.com|sex169\.biz|sex169\.info|sex169\.net|sex169\.org|sex169\.pw|sex169\.xyz|vidoe169\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R70
-s@^referer(?=:[^\n]*[./](?:dnvod\.eu)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:dnvod\.tv)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R71
 s@^referer(?=:[^\n]*[./](?:dolc\.de|dolc\.info|leiphone\.com)):.*@adfilter-block-request@Ti
