@@ -3132,8 +3132,8 @@ s@.*\sHTTP\/1.*@$&\r\nX-Frame-Options: DENY@i
 CLIENT-HEADER-TAGGER: adfilter-elemhide-check-debug
 s@^cookie:.*adfilter-elemhide-filter-debug=true(?:;|$).*@adfilter-elemhide-filter-debug@Ti
 FILTER: adfilter-elemhide-filter
-s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://libivan.com:8800/adfilter.global.css"></link><link rel="stylesheet" type="text/css" href="http://libivan.com:8800/$host/adfilter.css"></link>@iUD
+s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://adfilter.libivan.com:8800/adfilter.global.css"></link><link rel="stylesheet" type="text/css" href="http://adfilter.libivan.com:8800/$host/adfilter.css"></link>@iUD
 FILTER: adfilter-elemhide-filter-debug
-s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://libivan.com:8800/debug/adfilter.global.css"></link><link rel="stylesheet" type="text/css" href="http://libivan.com:8800/$host.debug/adfilter.css"></link>@iUD
+s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<link rel="stylesheet" type="text/css" href="http://adfilter.libivan.com:8800/debug/adfilter.global.css"></link><link rel="stylesheet" type="text/css" href="http://adfilter.libivan.com:8800/$host.debug/adfilter.css"></link>@iUD
 FILTER: adfilter-popup-filter
 s@[^'"\s]\s*<head[^>]*>(?=\s*[^'"\s])@$&<script type="text/javascript">parent==window&&opener&&close()</script>@iUD
