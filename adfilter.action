@@ -51,6 +51,9 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.msdn.hk/templets/msdn/js/gg\.js
+.msdn.hk/templets/msdn/css/msdng\.js
+.msdn.hk/templets/msdn/css/index\.js
 .pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6146,56 +6149,56 @@ t.cn
 
 {+client-header-tagger{adfilter-block-dnt-R43} \
 }
-/(.*/)?2015new\.js
-2015new.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R44} \
 }
-/(.*/)?83/
+/(.*/)?2015new\.js
+2015new.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R45} \
 }
-.bp.blogspot.com
+/(.*/)?83/
 
 {+client-header-tagger{adfilter-block-dnt-R46} \
 }
-.img.china.alibaba.com/img/ibank/
+.bp.blogspot.com
 
 {+client-header-tagger{adfilter-block-dnt-R47} \
 }
-rc.sz.zj.cn/.*\.swf
+.img.china.alibaba.com/img/ibank/
 
 {+client-header-tagger{adfilter-block-dnt-R48} \
+}
+rc.sz.zj.cn/.*\.swf
+
+{+client-header-tagger{adfilter-block-dnt-R49} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-dnt-R49} \
+{+client-header-tagger{adfilter-block-dnt-R50} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-dnt-R50} \
+{+client-header-tagger{adfilter-block-dnt-R51} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
 .hdslb.com/bfs/archive/
 .acg.tv
 
-{+client-header-tagger{adfilter-block-dnt-R51} \
+{+client-header-tagger{adfilter-block-dnt-R52} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-dnt-R52} \
+{+client-header-tagger{adfilter-block-dnt-R53} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-dnt-R53} \
-}
-.duapp.com
-
 {+client-header-tagger{adfilter-block-dnt-R54} \
 }
+.duapp.com
 
 {+client-header-tagger{adfilter-block-dnt-R55} \
 }
@@ -6769,6 +6772,9 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.msdn.hk/templets/msdn/js/gg\.js
+.msdn.hk/templets/msdn/css/msdng\.js
+.msdn.hk/templets/msdn/css/index\.js
 .pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -12864,56 +12870,56 @@ t.cn
 
 {+client-header-tagger{adfilter-block-elem-R43} \
 }
-/(.*/)?2015new\.js
-2015new.js*.
 
 {+client-header-tagger{adfilter-block-elem-R44} \
 }
-/(.*/)?83/
+/(.*/)?2015new\.js
+2015new.js*.
 
 {+client-header-tagger{adfilter-block-elem-R45} \
 }
-.bp.blogspot.com
+/(.*/)?83/
 
 {+client-header-tagger{adfilter-block-elem-R46} \
 }
-.img.china.alibaba.com/img/ibank/
+.bp.blogspot.com
 
 {+client-header-tagger{adfilter-block-elem-R47} \
 }
-rc.sz.zj.cn/.*\.swf
+.img.china.alibaba.com/img/ibank/
 
 {+client-header-tagger{adfilter-block-elem-R48} \
+}
+rc.sz.zj.cn/.*\.swf
+
+{+client-header-tagger{adfilter-block-elem-R49} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-elem-R49} \
+{+client-header-tagger{adfilter-block-elem-R50} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-elem-R50} \
+{+client-header-tagger{adfilter-block-elem-R51} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
 .hdslb.com/bfs/archive/
 .acg.tv
 
-{+client-header-tagger{adfilter-block-elem-R51} \
+{+client-header-tagger{adfilter-block-elem-R52} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-elem-R52} \
+{+client-header-tagger{adfilter-block-elem-R53} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-elem-R53} \
-}
-.duapp.com
-
 {+client-header-tagger{adfilter-block-elem-R54} \
 }
+.duapp.com
 
 {+client-header-tagger{adfilter-block-elem-R55} \
 }
@@ -13481,6 +13487,9 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.msdn.hk/templets/msdn/js/gg\.js
+.msdn.hk/templets/msdn/css/msdng\.js
+.msdn.hk/templets/msdn/css/index\.js
 .pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -18595,7 +18604,7 @@ TAG:^adfilter-block-request-Aaisv-Caisv$
 .am.zdnet.com.cn/www/images/
 /(.*/)?common/cf/.*
 
-{+client-header-tagger{adfilter-block-request-Aaisv-Caisv-when-R50} \
+{+client-header-tagger{adfilter-block-request-Aaisv-Caisv-when-R51} \
 }
 .acg.tv
 
@@ -18637,7 +18646,7 @@ TAG:^adfilter-block-request-Aaov-Caov$
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-Aaov-Caov-when-R50} \
+{+client-header-tagger{adfilter-block-request-Aaov-Caov-when-R51} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
@@ -19678,46 +19687,46 @@ gTool.js*.
 }
 t.cn
 
-{+client-header-tagger{adfilter-block-request-R43} \
+{+client-header-tagger{adfilter-block-request-R44} \
 }
 /(.*/)?2015new\.js
 2015new.js*.
 
-{+client-header-tagger{adfilter-block-request-R44} \
+{+client-header-tagger{adfilter-block-request-R45} \
 }
 /(.*/)?83/
 
-{+client-header-tagger{adfilter-block-request-R45} \
+{+client-header-tagger{adfilter-block-request-R46} \
 }
 .bp.blogspot.com
 
-{+client-header-tagger{adfilter-block-request-R46} \
+{+client-header-tagger{adfilter-block-request-R47} \
 }
 .img.china.alibaba.com/img/ibank/
 
-{+client-header-tagger{adfilter-block-request-R47} \
+{+client-header-tagger{adfilter-block-request-R48} \
 }
 rc.sz.zj.cn/.*\.swf
 
-{+client-header-tagger{adfilter-block-request-R48} \
+{+client-header-tagger{adfilter-block-request-R49} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-request-R49} \
+{+client-header-tagger{adfilter-block-request-R50} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-request-R51} \
+{+client-header-tagger{adfilter-block-request-R52} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-request-R52} \
+{+client-header-tagger{adfilter-block-request-R53} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-request-R53} \
+{+client-header-tagger{adfilter-block-request-R54} \
 }
 .duapp.com
 
@@ -20316,7 +20325,7 @@ TAG:^adfilter-block-xpopup$
 }
 .uum6.com
 
-{+client-header-tagger{adfilter-block-xpopup-R51} \
+{+client-header-tagger{adfilter-block-xpopup-R52} \
 }
 .taobao.com
 
