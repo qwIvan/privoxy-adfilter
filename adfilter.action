@@ -51,7 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.pixfs.net/js/mib_falcon--bundle\.
+.pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1189,7 +1189,6 @@ TAG:^adfilter-block-dnt$
 .playad.xjmg.com
 .pjtime.com/js/show_ad
 .pixfs.net/module/fullPage/dist/ad-full-page\.
-.pixfs.net/js/mib_falcon\.
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
@@ -6770,7 +6769,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.pixfs.net/js/mib_falcon--bundle\.
+.pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7908,7 +7907,6 @@ TAG:^adfilter-block-elem$
 .playad.xjmg.com
 .pjtime.com/js/show_ad
 .pixfs.net/module/fullPage/dist/ad-full-page\.
-.pixfs.net/js/mib_falcon\.
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
@@ -13483,7 +13481,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.pixfs.net/js/mib_falcon--bundle\.
+.pixfs.net/js/mib_falcon
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14577,7 +14575,6 @@ TAG:^adfilter-block-request$
 .playad.xjmg.com
 .pjtime.com/js/show_ad
 .pixfs.net/module/fullPage/dist/ad-full-page\.
-.pixfs.net/js/mib_falcon\.
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
