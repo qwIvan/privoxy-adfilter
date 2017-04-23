@@ -5602,6 +5602,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shucaihangjia.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12324,6 +12325,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shucaihangjia.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -18252,6 +18254,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.shucaihangjia.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20811,6 +20814,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.kfcclub.com.tw/web/.*/ad
 
 {+client-header-tagger{adfilter-unblock-dnt-R193} \
 }
@@ -21824,6 +21828,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.kfcclub.com.tw/web/.*/ad
 
 {+client-header-tagger{adfilter-unblock-elem-R193} \
 }
@@ -22812,6 +22817,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.kfcclub.com.tw/web/.*/ad
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
