@@ -51,7 +51,10 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.3dmgame.com/templets/xiazai/g/
+.ali213.net/zpro/2017/04/13/20170413110843516\.png
+.ali213.net/zpro/2017/04/13/20170413110926312\.png
+.ali213.net/zpro/2017/04/13/20170413111010427\.png
+.ali213.net/zpro/2017/04/13/20170413111042995\.png
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -3675,6 +3678,7 @@ TAG:^adfilter-block-dnt$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
+.3dmgame.com/templets/xiazai/g/
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
@@ -4147,6 +4151,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.wy213.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -4496,6 +4501,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .si9377.com
 .shujuwu.com
 .shuihulu.com
+.shucaihangjia.com
 .show.kc.taotaosou.com
 .sho9wbox.com
 .shiftrro.com
@@ -5602,7 +5608,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shucaihangjia.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6774,7 +6779,10 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.3dmgame.com/templets/xiazai/g/
+.ali213.net/zpro/2017/04/13/20170413110843516\.png
+.ali213.net/zpro/2017/04/13/20170413110926312\.png
+.ali213.net/zpro/2017/04/13/20170413111010427\.png
+.ali213.net/zpro/2017/04/13/20170413111042995\.png
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -10398,6 +10406,7 @@ TAG:^adfilter-block-elem$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
+.3dmgame.com/templets/xiazai/g/
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
@@ -10870,6 +10879,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.wy213.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -11219,6 +11229,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .si9377.com
 .shujuwu.com
 .shuihulu.com
+.shucaihangjia.com
 .show.kc.taotaosou.com
 .sho9wbox.com
 .shiftrro.com
@@ -12325,7 +12336,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shucaihangjia.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13491,7 +13501,10 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.3dmgame.com/templets/xiazai/g/
+.ali213.net/zpro/2017/04/13/20170413110843516\.png
+.ali213.net/zpro/2017/04/13/20170413110926312\.png
+.ali213.net/zpro/2017/04/13/20170413111010427\.png
+.ali213.net/zpro/2017/04/13/20170413111042995\.png
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16955,6 +16968,7 @@ TAG:^adfilter-block-request$
 .3g.qq.com/lview\?
 .3g.cn/baidualading/
 .3dst.com/template/img/buy\.gif
+.3dmgame.com/templets/xiazai/g/
 .3dmgame.com/templets/index/gimg/
 .3dmgame.com/templets/common/show_js/show_js\.js
 .3dm.huya.com
@@ -17614,6 +17628,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sigbusa.com
 .sicentlife.com
 .si9377.com
+.shucaihangjia.com
 .show.kc.taotaosou.com
 .shiftrro.com
 .shenyian.net
@@ -18254,7 +18269,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.shucaihangjia.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20178,6 +20192,7 @@ floatad.*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.wy213.com
 
 {+server-header-filter{adfilter-xframe-filter} \
 }
@@ -20396,6 +20411,7 @@ t.cn
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.wy213.com
 
 {-client-header-tagger{adfilter-unblock-dnt-nR} \
 }
@@ -20609,6 +20625,7 @@ TAG:^adfilter-unblock-dnt$
 .landtop.com.tw/images/ad/
 .kukuplay.com/upload/.*\..*\.swf
 .kfcorder.com.tw/.*/Advert
+.kfcclub.com.tw/web/.*/ad
 .kayixin.com/.*/advert
 .jswenhui.com/.*/ad/
 .js.tudouui.com/bin/player2/
@@ -20814,7 +20831,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.kfcclub.com.tw/web/.*/ad
 
 {+client-header-tagger{adfilter-unblock-dnt-R193} \
 }
@@ -21627,6 +21643,7 @@ TAG:^adfilter-unblock-elem$
 .landtop.com.tw/images/ad/
 .kukuplay.com/upload/.*\..*\.swf
 .kfcorder.com.tw/.*/Advert
+.kfcclub.com.tw/web/.*/ad
 .kayixin.com/.*/advert
 .jswenhui.com/.*/ad/
 .js.tudouui.com/bin/player2/
@@ -21828,7 +21845,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.kfcclub.com.tw/web/.*/ad
 
 {+client-header-tagger{adfilter-unblock-elem-R193} \
 }
@@ -22627,6 +22643,7 @@ TAG:^adfilter-unblock-request$
 .landtop.com.tw/images/ad/
 .kukuplay.com/upload/.*\..*\.swf
 .kfcorder.com.tw/.*/Advert
+.kfcclub.com.tw/web/.*/ad
 .kayixin.com/.*/advert
 .jswenhui.com/.*/ad/
 .jrhot.com/data/attachment/.*_300_250_
@@ -22817,7 +22834,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.kfcclub.com.tw/web/.*/ad
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
