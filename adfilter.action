@@ -5609,6 +5609,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.tgjkbx.cn
 .ztidu.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -12342,6 +12343,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.tgjkbx.cn
 .ztidu.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -19537,6 +19539,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.tgjkbx.cn
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
