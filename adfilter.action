@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cutv.com/html/ad_js/
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
@@ -884,7 +885,6 @@ TAG:^adfilter-block-dnt$
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
-.shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -974,7 +974,6 @@ TAG:^adfilter-block-dnt$
 .saibeinews.com/index\.php\?m=poster&c=index&a=show_poster&
 .s8bbs.com/g\.php\?
 .s8bbs.com/ad/
-.s1979.com/html/ad_js/
 .s1.pplive.cn/sta\.js
 .s.yimg.com/uv/dm/scripts/syndication\.js
 .s.yimg.com/ja/ap/tw/js/
@@ -6779,6 +6778,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cutv.com/html/ad_js/
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
@@ -7612,7 +7612,6 @@ TAG:^adfilter-block-elem$
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
-.shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -7702,7 +7701,6 @@ TAG:^adfilter-block-elem$
 .saibeinews.com/index\.php\?m=poster&c=index&a=show_poster&
 .s8bbs.com/g\.php\?
 .s8bbs.com/ad/
-.s1979.com/html/ad_js/
 .s1.pplive.cn/sta\.js
 .s.yimg.com/uv/dm/scripts/syndication\.js
 .s.yimg.com/ja/ap/tw/js/
@@ -13501,6 +13499,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.cutv.com/html/ad_js/
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
@@ -14306,7 +14305,6 @@ TAG:^adfilter-block-request$
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
 .shuowan.com/Public/shuo/20170411/58eca2e5ecfc4\.gif
-.shumilou.co/style/cq\.jpg
 .shulihua.net/js/yegonggao\.js
 .shulihua.net/js/topcen\.js
 .shulihua.net/js/gzlishigoogle\.js
@@ -14392,7 +14390,6 @@ TAG:^adfilter-block-request$
 .saibeinews.com/index\.php\?m=poster&c=index&a=show_poster&
 .s8bbs.com/g\.php\?
 .s8bbs.com/ad/
-.s1979.com/html/ad_js/
 .s1.pplive.cn/sta\.js
 .s.yimg.com/uv/dm/scripts/syndication\.js
 .s.yimg.com/ja/ap/tw/js/
