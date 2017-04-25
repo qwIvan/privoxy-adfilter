@@ -1762,7 +1762,7 @@ TAG:^adfilter-block-dnt$
 .jd-bbs.com/company/gif/topsound-
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/js/jbLoader\.js
+.jb51.net/.*Loader\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javjunkies.com/FL
@@ -8484,7 +8484,7 @@ TAG:^adfilter-block-elem$
 .jd-bbs.com/company/gif/topsound-
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/js/jbLoader\.js
+.jb51.net/.*Loader\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javjunkies.com/FL
@@ -15126,7 +15126,7 @@ TAG:^adfilter-block-request$
 .jd-bbs.com/company/gif/topsound-
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/js/jbLoader\.js
+.jb51.net/.*Loader\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
