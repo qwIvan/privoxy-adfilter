@@ -51,9 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cutv.com/html/ad_js/
-.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
-.urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -550,6 +547,7 @@ TAG:^adfilter-block-dnt$
 .uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
+.urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
 .upantool.com/playing/
 .upantool.com/bay/
@@ -856,6 +854,7 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
@@ -1760,9 +1759,10 @@ TAG:^adfilter-block-dnt$
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
+.jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/.*Loader\.js
+.jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javjunkies.com/FL
@@ -2693,6 +2693,7 @@ TAG:^adfilter-block-dnt$
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
 .cwan.com/templets/shouye/misc/js/suspend\.js
+.cutv.com/html/ad_js/
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
@@ -3893,7 +3894,6 @@ TAG:^adfilter-block-dnt$
 .15w.com/pages/adlive\.
 .15w.com/flash/
 .15hn.net/data/content
-.jb51.net/js/ggtop\.js
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
@@ -4138,8 +4138,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
 /(.*/)?portalwlanad/pages/.*
-/(.*/)?hndxweb/push
 /(.*/)?htmm/2022\.php
+/(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
 /.*\.com/\?Intr=
 .*.com/\?Intr=
@@ -4584,6 +4584,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .pedailyu.com
 .pdsjycm.com
 .pay838.com
+.papajia55.com
 .panel-cn.com
 .pagechoice.net
 .pababy.cn
@@ -4894,6 +4895,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gtmucs.cn
 .gso0.com
 .gs307.com
+.gqswg.com
 .govgift.com
 .gouzhibao.cn
 .gotonav.com
@@ -5605,8 +5607,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.gqswg.com
-.papajia55.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6774,9 +6774,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cutv.com/html/ad_js/
-.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
-.urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7273,6 +7270,7 @@ TAG:^adfilter-block-elem$
 .uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
+.urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
 .upantool.com/playing/
 .upantool.com/bay/
@@ -7579,6 +7577,7 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
@@ -8483,9 +8482,10 @@ TAG:^adfilter-block-elem$
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
+.jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/.*Loader\.js
+.jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javjunkies.com/FL
@@ -9416,6 +9416,7 @@ TAG:^adfilter-block-elem$
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
 .cwan.com/templets/shouye/misc/js/suspend\.js
+.cutv.com/html/ad_js/
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
@@ -10616,7 +10617,6 @@ TAG:^adfilter-block-elem$
 .15w.com/pages/adlive\.
 .15w.com/flash/
 .15hn.net/data/content
-.jb51.net/js/ggtop\.js
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
@@ -10861,8 +10861,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
 /(.*/)?portalwlanad/pages/.*
-/(.*/)?hndxweb/push
 /(.*/)?htmm/2022\.php
+/(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
 /.*\.com/\?Intr=
 .*.com/\?Intr=
@@ -11307,6 +11307,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .pedailyu.com
 .pdsjycm.com
 .pay838.com
+.papajia55.com
 .panel-cn.com
 .pagechoice.net
 .pababy.cn
@@ -11617,6 +11618,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gtmucs.cn
 .gso0.com
 .gs307.com
+.gqswg.com
 .govgift.com
 .gouzhibao.cn
 .gotonav.com
@@ -12328,8 +12330,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.gqswg.com
-.papajia55.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13491,9 +13491,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.cutv.com/html/ad_js/
-.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
-.urlpic.club/2016/upload/image/20170422/4220643630
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13974,6 +13971,7 @@ TAG:^adfilter-block-request$
 .uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
+.urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
 .upantool.com/playing/
 .upantool.com/bay/
@@ -14269,6 +14267,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agw1fbqnzzraosj205l02iaav\.jpg
 .sinaimg.cn/large/5ff1c93agw1fb9yzvko7fj20xc08wjwi\.jpg
+.sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
@@ -15126,9 +15125,10 @@ TAG:^adfilter-block-request$
 .jfrft.com/images/index_
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/company/gif/topsound-
+.jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
-.jb51.net/.*Loader\.js
+.jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
 .javl10.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
@@ -16013,6 +16013,7 @@ TAG:^adfilter-block-request$
 .cww.net.cn/include/show\.asp\?boardID=
 .cwan.com/templets/webgame/misc/js/indextip\.js
 .cwan.com/templets/shouye/misc/js/suspend\.js
+.cutv.com/html/ad_js/
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
@@ -17165,7 +17166,6 @@ TAG:^adfilter-block-request$
 .15w.com/pages/adlive\.
 .15w.com/flash/
 .15hn.net/data/content
-.jb51.net/js/ggtop\.js
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
@@ -17677,6 +17677,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .pedailyu.com
 .pdsjycm.com
 .pay838.com
+.papajia55.com
 .panel-cn.com
 .p3tt.com
 .p0y.cn/.*\.swf
@@ -17872,6 +17873,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .guduopu.com
 .gtmucs.cn
 .gso0.com
+.gqswg.com
 .govgift.com
 .gouzhibao.cn
 .googletakes.com
@@ -18255,8 +18257,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.gqswg.com
-.papajia55.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
