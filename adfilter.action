@@ -51,6 +51,9 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
+.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6774,6 +6777,9 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
+.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13491,6 +13497,9 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
+.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
