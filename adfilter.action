@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
@@ -6781,6 +6782,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
@@ -13505,6 +13507,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
