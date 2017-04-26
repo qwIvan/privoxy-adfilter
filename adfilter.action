@@ -5614,6 +5614,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.inte.sogoucdn.com
+.rrsubway.com
+.tab20.com
+.qiqivv.com
 .yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12345,6 +12349,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.inte.sogoucdn.com
+.rrsubway.com
+.tab20.com
+.qiqivv.com
 .yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18280,6 +18288,9 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.inte.sogoucdn.com
+.rrsubway.com
+.qiqivv.com
 .yxxwyz.com
 ad.*.
 /(.*/)?js/tc\.js
@@ -19532,6 +19543,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.tab20.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
