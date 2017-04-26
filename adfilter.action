@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
 .szonline.net/zhongyuan
@@ -5612,6 +5613,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6779,6 +6781,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
 .szonline.net/zhongyuan
@@ -12340,6 +12343,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13501,6 +13505,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.btbtt.co/imgs\.js
 .ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/js/data/3gcommon\.js
 .szonline.net/zhongyuan
@@ -18272,6 +18277,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.yxxwyz.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
