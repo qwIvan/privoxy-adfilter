@@ -5620,6 +5620,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.fqtra.com
 .47.90.50.177
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12357,6 +12358,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.fqtra.com
 .47.90.50.177
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18297,6 +18299,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.fqtra.com
 .47.90.50.177
 ad.*.
 /(.*/)?js/tc\.js
