@@ -51,13 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
-.btbtt.co/imgs\.js
-.ali213.net/js/common/zpro/zprotxtpicurl\.js
-.ali213.net/js/data/3gcommon\.js
-.szonline.net/zhongyuan
-.szonline.net/banner_top\.jpg
-.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -700,6 +693,7 @@ TAG:^adfilter-block-dnt$
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .tcmap.com.cn/js/b_
 .tcjy66.cc
 .tc.cn/news/images/right\.jpg
@@ -719,6 +713,8 @@ TAG:^adfilter-block-dnt$
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
 .sznews.com/css/
 .sznews.com/.*\.files/
 .szhk.com/include/taobao
@@ -2957,6 +2953,7 @@ TAG:^adfilter-block-dnt$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.co/imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -3247,6 +3244,8 @@ TAG:^adfilter-block-dnt$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
+.ali213.net/js/data/3gcommon\.js
+.ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/images/bg_lt\.jpg
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
@@ -4010,6 +4009,7 @@ TAG:^adfilter-block-dnt$
 .0086crane.com/file/upload/201410/28/09-56-17-58-6723\.swf
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
 sex169.*./(.*/)?.*/.*/.*\.gif
@@ -4191,6 +4191,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yyp17.com
 .yy58ju.com
 .yy32.com
+.yxxwyz.com
 .yxszy.com
 .yxdyk.com
 .ywjxsp168.cn
@@ -4450,6 +4451,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tanwanyx.com
 .tanchuang002.info
 .tad.suning.com
+.tab20.com
 .taat00889.com
 .ta80.com
 .t70123.com
@@ -4538,6 +4540,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .runiman.com
 .ruanwenclub.com
 .rsccs.com
+.rrsubway.com
 .riqu2015.com
 .rhgyg.com
 .rencai56.com
@@ -4566,6 +4569,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiyou.com
 .qiqiyii.com
 .qiqiww.com
+.qiqivv.com
 .qingqu.la
 .qidou.com
 .qiailm.com
@@ -4817,6 +4821,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iprefer.com.tw
 .ipaypay.cn
 .intentarget.com
+.inte.sogoucdn.com
 .instreet.cn
 .index8.cn
 .imneinei.com
@@ -5614,11 +5619,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.inte.sogoucdn.com
-.rrsubway.com
-.tab20.com
-.qiqivv.com
-.yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6786,13 +6786,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
-.btbtt.co/imgs\.js
-.ali213.net/js/common/zpro/zprotxtpicurl\.js
-.ali213.net/js/data/3gcommon\.js
-.szonline.net/zhongyuan
-.szonline.net/banner_top\.jpg
-.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7435,6 +7428,7 @@ TAG:^adfilter-block-elem$
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .tcmap.com.cn/js/b_
 .tcjy66.cc
 .tc.cn/news/images/right\.jpg
@@ -7454,6 +7448,8 @@ TAG:^adfilter-block-elem$
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
 .sznews.com/css/
 .sznews.com/.*\.files/
 .szhk.com/include/taobao
@@ -9692,6 +9688,7 @@ TAG:^adfilter-block-elem$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.co/imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -9982,6 +9979,8 @@ TAG:^adfilter-block-elem$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
+.ali213.net/js/data/3gcommon\.js
+.ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/images/bg_lt\.jpg
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
@@ -10745,6 +10744,7 @@ TAG:^adfilter-block-elem$
 .0086crane.com/file/upload/201410/28/09-56-17-58-6723\.swf
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
 sex169.*./(.*/)?.*/.*/.*\.gif
@@ -10926,6 +10926,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yyp17.com
 .yy58ju.com
 .yy32.com
+.yxxwyz.com
 .yxszy.com
 .yxdyk.com
 .ywjxsp168.cn
@@ -11185,6 +11186,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tanwanyx.com
 .tanchuang002.info
 .tad.suning.com
+.tab20.com
 .taat00889.com
 .ta80.com
 .t70123.com
@@ -11273,6 +11275,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .runiman.com
 .ruanwenclub.com
 .rsccs.com
+.rrsubway.com
 .riqu2015.com
 .rhgyg.com
 .rencai56.com
@@ -11301,6 +11304,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiyou.com
 .qiqiyii.com
 .qiqiww.com
+.qiqivv.com
 .qingqu.la
 .qidou.com
 .qiailm.com
@@ -11552,6 +11556,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iprefer.com.tw
 .ipaypay.cn
 .intentarget.com
+.inte.sogoucdn.com
 .instreet.cn
 .index8.cn
 .imneinei.com
@@ -12349,11 +12354,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.inte.sogoucdn.com
-.rrsubway.com
-.tab20.com
-.qiqivv.com
-.yxxwyz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13515,13 +13515,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
-.btbtt.co/imgs\.js
-.ali213.net/js/common/zpro/zprotxtpicurl\.js
-.ali213.net/js/data/3gcommon\.js
-.szonline.net/zhongyuan
-.szonline.net/banner_top\.jpg
-.000b.info/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14143,6 +14136,7 @@ TAG:^adfilter-block-request$
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
+.technews.tw/wp-content/plugins/obox-mobile/themes/default/scripts/jquery\.blockUI\.js
 .tcmap.com.cn/js/b_
 .tcjy66.cc
 .tc.cn/news/images/right\.jpg
@@ -14162,6 +14156,8 @@ TAG:^adfilter-block-request$
 .tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
+.szonline.net/zhongyuan
+.szonline.net/banner_top\.jpg
 .szhk.com/include/taobao
 .szhk.com/iframe/
 .szhk.com/ads/
@@ -16291,6 +16287,7 @@ TAG:^adfilter-block-request$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
+.btbtt.co/imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -16574,6 +16571,8 @@ TAG:^adfilter-block-request$
 .ali213.net/static/js/kktv
 .ali213.net/static/js/.*_ali213tv\.js
 .ali213.net/pubjs/SetScreen
+.ali213.net/js/data/3gcommon\.js
+.ali213.net/js/common/zpro/zprotxtpicurl\.js
 .ali213.net/images/bg_lt\.jpg
 .ali213.net/css/data/promotion\.css
 .alexa.cn/upfile/images/
@@ -17300,6 +17299,7 @@ TAG:^adfilter-block-request$
 .0086crane.com/file/upload/201410/28/09-56-17-58-6723\.swf
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
 sex169.*./(.*/)?.*/.*/.*\.gif
@@ -17444,6 +17444,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yzh360.com
 .yyp17.com
 .yy58ju.com
+.yxxwyz.com
 .yxszy.com
 .ywjxsp168.cn
 .yule8.net
@@ -17668,6 +17669,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .rwjfs.com
 .ruxianke.com
 .runiman.com
+.rrsubway.com
 .riqu2015.com
 .rhgyg.com
 .rencai56.com
@@ -17688,6 +17690,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qmkdy.com
 .qiqiyii.com
 .qiqiww.com
+.qiqivv.com
 .qingqu.la
 .qiailm.com
 .qhaif.com
@@ -17848,6 +17851,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iuuff.com
 .ishowbg.com
 .iroby.com
+.inte.sogoucdn.com
 .imneinei.com
 .img80.net
 .ihualun.com
@@ -18288,10 +18292,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.inte.sogoucdn.com
-.rrsubway.com
-.qiqivv.com
-.yxxwyz.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19146,6 +19146,7 @@ gg.*.
 .taojingu.cn
 .tanwanyx.com
 .tanchuang002.info
+.tab20.com
 .ta80.com
 .t3nlink.com
 .szvr.com
@@ -19543,7 +19544,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.tab20.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
