@@ -725,7 +725,6 @@ TAG:^adfilter-block-dnt$
 .synacast.com
 .syd.com.cn/pic_index/lalian
 .syd.com.cn/pic_index/duilian
-.sxtv.com.cn/sx/img/201608081\.gif
 .sxrb.com/upload/js/xww_
 .suv.cn/data/js/86\.js
 .suv.cn/data/js/64\.js
@@ -965,7 +964,8 @@ TAG:^adfilter-block-dnt$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same.stockstar.com
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .same*./.*\.jrj\.com\.cn[^\w%.-]
@@ -7460,7 +7460,6 @@ TAG:^adfilter-block-elem$
 .synacast.com
 .syd.com.cn/pic_index/lalian
 .syd.com.cn/pic_index/duilian
-.sxtv.com.cn/sx/img/201608081\.gif
 .sxrb.com/upload/js/xww_
 .suv.cn/data/js/86\.js
 .suv.cn/data/js/64\.js
@@ -7700,7 +7699,8 @@ TAG:^adfilter-block-elem$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same.stockstar.com
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .same*./.*\.jrj\.com\.cn[^\w%.-]
@@ -14166,7 +14166,6 @@ TAG:^adfilter-block-request$
 .synacast.com
 .syd.com.cn/pic_index/lalian
 .syd.com.cn/pic_index/duilian
-.sxtv.com.cn/sx/img/201608081\.gif
 .sxrb.com/upload/js/xww_
 .suv.cn/data/js/86\.js
 .suv.cn/data/js/64\.js
@@ -14399,7 +14398,8 @@ TAG:^adfilter-block-request$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same.stockstar.com
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .sam*./.*\.baby-kingdom\.com[^\w%.-]
