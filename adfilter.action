@@ -51,7 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.mydrivers.com/common/20170426193905\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -965,10 +964,10 @@ TAG:^adfilter-block-dnt$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same*./.*\.stockstar\.com[^\w%.-]
-.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .same*./.*\.jrj\.com\.cn[^\w%.-]
 .same*.jrj.com.cn
 .sam*./.*\.baby-kingdom\.com[^\w%.-]
@@ -1378,6 +1377,7 @@ TAG:^adfilter-block-dnt$
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
 .mydrivers.com/images/huawei360V60P10\.gif
+.mydrivers.com/common/20170426193905\.jpg
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mycodes.net/js/
@@ -4949,6 +4949,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fu68.com
 .fthcz.com
 .fst360.com
+.fqtra.com
 .founseezb.cn
 .fnkjj.com
 .fmad.cc
@@ -5366,6 +5367,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .4ggww.com
 .49ko.com
 .4936.cn
+.47.90.50.177
 .456juhd.com
 .44pv.com
 .3ygww.com
@@ -5620,8 +5622,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.fqtra.com
-.47.90.50.177
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6789,7 +6789,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.mydrivers.com/common/20170426193905\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7703,10 +7702,10 @@ TAG:^adfilter-block-elem$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same*./.*\.stockstar\.com[^\w%.-]
-.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .same*./.*\.jrj\.com\.cn[^\w%.-]
 .same*.jrj.com.cn
 .sam*./.*\.baby-kingdom\.com[^\w%.-]
@@ -8116,6 +8115,7 @@ TAG:^adfilter-block-elem$
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
 .mydrivers.com/images/huawei360V60P10\.gif
+.mydrivers.com/common/20170426193905\.jpg
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mycodes.net/js/
@@ -11687,6 +11687,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fu68.com
 .fthcz.com
 .fst360.com
+.fqtra.com
 .founseezb.cn
 .fnkjj.com
 .fmad.cc
@@ -12104,6 +12105,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .4ggww.com
 .49ko.com
 .4936.cn
+.47.90.50.177
 .456juhd.com
 .44pv.com
 .3ygww.com
@@ -12358,8 +12360,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.fqtra.com
-.47.90.50.177
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13521,7 +13521,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.mydrivers.com/common/20170426193905\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14405,10 +14404,10 @@ TAG:^adfilter-block-request$
 .sbo8.com/static/theme/js/bottom\.
 .sax.sina.com.cn/crossdomain\.xml
 .sax.sina.cn
-.same*./.*\.stockstar\.com[^\w%.-]
-.same*.stockstar.com
 .same.eastmoney.com
 .same.chinadaily.com.cn
+.same*./.*\.stockstar\.com[^\w%.-]
+.same*.stockstar.com
 .sam*./.*\.baby-kingdom\.com[^\w%.-]
 .sam*.baby-kingdom.com
 .saibeinews.com/index\.php\?m=poster&c=index&a=show_poster&
@@ -14797,6 +14796,7 @@ TAG:^adfilter-block-request$
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
 .mydrivers.com/images/huawei360V60P10\.gif
+.mydrivers.com/common/20170426193905\.jpg
 .mycodes.net/js/hf_txt\.js
 .mycodes.net/js/down_txt\.js
 .mybjx.net/theme/default/js/common/mtibjx\.js
@@ -17940,6 +17940,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fu68.com
 .fthcz.com
 .fst360.com
+.fqtra.com
 .founseezb.cn
 .fnkjj.com
 .flowcodeapp.com
@@ -18195,6 +18196,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .51jumintong.com
 .517m.cn
 .4ggww.com
+.47.90.50.177
 .456juhd.com
 .3ygww.com
 .3qmh.com
@@ -18299,8 +18301,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.fqtra.com
-.47.90.50.177
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
