@@ -5623,6 +5623,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.qoiusky.com
+.jossuer.net
 .hslyqs.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12363,6 +12365,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.qoiusky.com
+.jossuer.net
 .hslyqs.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18306,6 +18310,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.qoiusky.com
+.jossuer.net
 .hslyqs.com
 ad.*.
 /(.*/)?js/tc\.js
