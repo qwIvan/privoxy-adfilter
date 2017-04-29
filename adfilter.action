@@ -51,6 +51,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.banyungong.org/Scripts/tc\.js
+.buimg.com/562723/f54344b0cbbdff87\.png
 .stoneip.info/wp-content/uploads/2017/01/travelsim_
 .stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
@@ -5975,6 +5977,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6796,6 +6799,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.banyungong.org/Scripts/tc\.js
+.buimg.com/562723/f54344b0cbbdff87\.png
 .stoneip.info/wp-content/uploads/2017/01/travelsim_
 .stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
@@ -12720,6 +12725,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13535,6 +13541,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.banyungong.org/Scripts/tc\.js
+.buimg.com/562723/f54344b0cbbdff87\.png
 .stoneip.info/wp-content/uploads/2017/01/travelsim_
 .stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
@@ -18655,6 +18663,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
