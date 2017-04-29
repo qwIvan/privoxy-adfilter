@@ -2959,7 +2959,7 @@ TAG:^adfilter-block-dnt$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.co/imgs\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -9707,7 +9707,7 @@ TAG:^adfilter-block-elem$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.co/imgs\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -16319,7 +16319,7 @@ TAG:^adfilter-block-request$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.co/imgs\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
