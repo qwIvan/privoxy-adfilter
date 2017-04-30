@@ -51,12 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sogou.*./(.*/)?js7/forAppDown\.js
-.sogoucdn.com/imgu/.*\.swf
-.banyungong.org/Scripts/tc\.js
-.buimg.com/562723/f54344b0cbbdff87\.png
-.stoneip.info/wp-content/uploads/2017/01/travelsim_
-.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -750,6 +744,8 @@ TAG:^adfilter-block-dnt$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
+.stoneip.info/wp-content/uploads/2017/01/travelsim_
+.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
@@ -802,8 +798,10 @@ TAG:^adfilter-block-dnt$
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
+.sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
 .soft711.com/2013/
 .soft.mumayi.net/js/
@@ -2949,6 +2947,7 @@ TAG:^adfilter-block-dnt$
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btrenren.com/js/index960_
@@ -2961,13 +2960,13 @@ TAG:^adfilter-block-dnt$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
 .btbtt.*./(.*/)?jstb\.js
 .btbtt.*./(.*/)?jslb\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
 .btago.com/static/banner/
@@ -3094,6 +3093,7 @@ TAG:^adfilter-block-dnt$
 .bb.tuku.cc
 .baxue.me/ad2016/
 .baoliny.com/js/jing\.js
+.banyungong.org/Scripts/tc\.js
 .banma.com/statics/scripts/common/dialogAdJs\.js
 .banma.com/js/adi\.js
 .banma.com/get_ad/
@@ -5922,6 +5922,7 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?562723/7082094ff7346f23\.gif
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -5979,7 +5980,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6801,12 +6801,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sogou.*./(.*/)?js7/forAppDown\.js
-.sogoucdn.com/imgu/.*\.swf
-.banyungong.org/Scripts/tc\.js
-.buimg.com/562723/f54344b0cbbdff87\.png
-.stoneip.info/wp-content/uploads/2017/01/travelsim_
-.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7500,6 +7494,8 @@ TAG:^adfilter-block-elem$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
+.stoneip.info/wp-content/uploads/2017/01/travelsim_
+.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
@@ -7552,8 +7548,10 @@ TAG:^adfilter-block-elem$
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
+.sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
 .soft711.com/2013/
 .soft.mumayi.net/js/
@@ -9699,6 +9697,7 @@ TAG:^adfilter-block-elem$
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btrenren.com/js/index960_
@@ -9711,13 +9710,13 @@ TAG:^adfilter-block-elem$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
 .btbtt.*./(.*/)?jstb\.js
 .btbtt.*./(.*/)?jslb\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
 .btago.com/static/banner/
@@ -9844,6 +9843,7 @@ TAG:^adfilter-block-elem$
 .bb.tuku.cc
 .baxue.me/ad2016/
 .baoliny.com/js/jing\.js
+.banyungong.org/Scripts/tc\.js
 .banma.com/statics/scripts/common/dialogAdJs\.js
 .banma.com/js/adi\.js
 .banma.com/get_ad/
@@ -12672,6 +12672,7 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?562723/7082094ff7346f23\.gif
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -12729,7 +12730,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13545,12 +13545,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.sogou.*./(.*/)?js7/forAppDown\.js
-.sogoucdn.com/imgu/.*\.swf
-.banyungong.org/Scripts/tc\.js
-.buimg.com/562723/f54344b0cbbdff87\.png
-.stoneip.info/wp-content/uploads/2017/01/travelsim_
-.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14220,6 +14214,8 @@ TAG:^adfilter-block-request$
 .storm.mg/ad\?
 .storetorrent.org/static/js/best
 .storetorrent.org/static/best/795X60\.gif
+.stoneip.info/wp-content/uploads/2017/01/travelsim_
+.stoneip.info/wp-content/uploads/2016/12/web-banner\.jpg
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
@@ -14271,8 +14267,10 @@ TAG:^adfilter-block-request$
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
+.sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
 .soft711.com/2013/
 .soft.mumayi.net/js/
@@ -16313,6 +16311,7 @@ TAG:^adfilter-block-request$
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btrenren.com/js/index960_
@@ -16325,13 +16324,13 @@ TAG:^adfilter-block-request$
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.org/adm\.js
-.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?view/image/QT_9198\.jpg
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
 .btbtt.*./(.*/)?upload/400x75_
 .btbtt.*./(.*/)?jstb\.js
 .btbtt.*./(.*/)?jslb\.js
+.btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
 .btago.com/static/banner/
@@ -16456,6 +16455,7 @@ TAG:^adfilter-block-request$
 .bb.tuku.cc
 .baxue.me/ad2016/
 .baoliny.com/js/jing\.js
+.banyungong.org/Scripts/tc\.js
 .banma.com/statics/scripts/common/dialogAdJs\.js
 .banma.com/js/adi\.js
 .banma.com/get_ad/
@@ -18614,6 +18614,7 @@ AD2v1.1.js*.
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
+/(.*/)?562723/7082094ff7346f23\.gif
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -18669,7 +18670,6 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
-/(.*/)?562723/7082094ff7346f23\.gif
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
