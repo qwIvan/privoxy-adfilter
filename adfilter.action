@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2689,7 +2690,6 @@ TAG:^adfilter-block-dnt$
 .d3.sina.com.cn
 .d2.sina.com.cn
 .d1.sina.com.cn
-.d1.shenchuang.com/a\.htm
 .d0.xcar.com.cn
 .d.taomato.com
 .d.pixiv.org/show\?zone_id=
@@ -6801,6 +6801,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9439,7 +9440,6 @@ TAG:^adfilter-block-elem$
 .d3.sina.com.cn
 .d2.sina.com.cn
 .d1.sina.com.cn
-.d1.shenchuang.com/a\.htm
 .d0.xcar.com.cn
 .d.taomato.com
 .d.pixiv.org/show\?zone_id=
@@ -13545,6 +13545,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16063,7 +16064,6 @@ TAG:^adfilter-block-request$
 .da-fan-shu.cn/images/kuaijie\.jpg
 .d7w.net/static/d7wad/
 .d7ol.com/pics/ad/
-.d1.shenchuang.com/a\.htm
 .d0.xcar.com.cn
 .d.taomato.com
 .d.pixiv.org/show\?zone_id=
