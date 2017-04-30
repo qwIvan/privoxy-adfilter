@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6782,6 +6783,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13507,6 +13509,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
