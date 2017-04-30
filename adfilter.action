@@ -518,7 +518,6 @@ TAG:^adfilter-block-dnt$
 .videowood.me/assets/js/popup\.js
 .videospeedy.com/Res/images/wuy0u\.jpg
 .videojj.com/api/v1/adsTags\?
-.video.sdo.com/index\.php\?m=poster&c=index&a=show_poster&id=
 .verypsp.com:8081/sy\.jpg
 .veryhuo.com/plus/js/
 .vdisk.cn/img/.*\.gif
@@ -592,7 +591,7 @@ TAG:^adfilter-block-dnt$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.txt99.com/js/common\.js
+.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -684,7 +683,7 @@ TAG:^adfilter-block-dnt$
 .thztv.net/tool/
 .thisav.com/index\.js
 .thisav.com/0.*\.js
-.thinksaas.cn/images/submail\.jpg
+.thinksaas.cn/images/upyun_
 .tgbus.com/sf/taobao/
 .tgbus.com/search/article_endcontent_google\.htm
 .tfg2.com/images/upfile/AD/
@@ -711,7 +710,6 @@ TAG:^adfilter-block-dnt$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
@@ -1211,7 +1209,6 @@ TAG:^adfilter-block-dnt$
 .piaohua.com/js/wlfloat\.js
 .piaodown.com/other/.*\.js
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
-.phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
 .photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
@@ -7250,7 +7247,6 @@ TAG:^adfilter-block-elem$
 .videowood.me/assets/js/popup\.js
 .videospeedy.com/Res/images/wuy0u\.jpg
 .videojj.com/api/v1/adsTags\?
-.video.sdo.com/index\.php\?m=poster&c=index&a=show_poster&id=
 .verypsp.com:8081/sy\.jpg
 .veryhuo.com/plus/js/
 .vdisk.cn/img/.*\.gif
@@ -7324,7 +7320,7 @@ TAG:^adfilter-block-elem$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.txt99.com/js/common\.js
+.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -7416,7 +7412,7 @@ TAG:^adfilter-block-elem$
 .thztv.net/tool/
 .thisav.com/index\.js
 .thisav.com/0.*\.js
-.thinksaas.cn/images/submail\.jpg
+.thinksaas.cn/images/upyun_
 .tgbus.com/sf/taobao/
 .tgbus.com/search/article_endcontent_google\.htm
 .tfg2.com/images/upfile/AD/
@@ -7443,7 +7439,6 @@ TAG:^adfilter-block-elem$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
@@ -7943,7 +7938,6 @@ TAG:^adfilter-block-elem$
 .piaohua.com/js/wlfloat\.js
 .piaodown.com/other/.*\.js
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
-.phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
 .photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
@@ -13962,7 +13956,6 @@ TAG:^adfilter-block-request$
 .videowood.me/assets/js/popup\.js
 .videospeedy.com/Res/images/wuy0u\.jpg
 .videojj.com/api/v1/adsTags\?
-.video.sdo.com/index\.php\?m=poster&c=index&a=show_poster&id=
 .verypsp.com:8081/sy\.jpg
 .veryhuo.com/plus/js/
 .vdisk.cn/img/.*\.gif
@@ -14032,7 +14025,7 @@ TAG:^adfilter-block-request$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.txt99.com/js/common\.js
+.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -14121,7 +14114,7 @@ TAG:^adfilter-block-request$
 .thztv.net/tool/
 .thisav.com/index\.js
 .thisav.com/0.*\.js
-.thinksaas.cn/images/submail\.jpg
+.thinksaas.cn/images/upyun_
 .tgbus.com/sf/taobao/
 .tgbus.com/search/article_endcontent_google\.htm
 .tfg2.com/images/upfile/AD/
@@ -14148,7 +14141,6 @@ TAG:^adfilter-block-request$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.tahua.net/data/attachment/portal/201703/21/233755lz041e6dp6eegl1p\.jpg
 .t57.cn/cert\.php\?t=p
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
@@ -14624,7 +14616,6 @@ TAG:^adfilter-block-request$
 .piaohua.com/js/wlfloat\.js
 .piaodown.com/other/.*\.js
 .piao.com.cn/Flash/Scripts/FloatLeftRight_
-.phpcms.cn/statics/images/video/ad
 .phpad.cqnews.net
 .photofans.cn*./(.*/)?banner/
 .photobucket.com/albums/a493/wcxu21/AD_
