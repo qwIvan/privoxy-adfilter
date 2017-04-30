@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.yxdm.tv/js/gad\.js
 .trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
@@ -5619,6 +5620,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 .njfsk.com
 .joyfuldoors.com
+.ugg66.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6783,6 +6785,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.yxdm.tv/js/gad\.js
 .trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
@@ -12351,6 +12354,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 .njfsk.com
 .joyfuldoors.com
+.ugg66.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13509,6 +13513,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.yxdm.tv/js/gad\.js
 .trendmicro.com.tw/wp-content/uploads/.*Banner
 .zczj.com/special/
 .zzzyk.com/js/
@@ -18286,6 +18291,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adposid/.*
 .njfsk.com
 .joyfuldoors.com
+.ugg66.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
