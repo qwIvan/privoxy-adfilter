@@ -51,9 +51,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.yxdm.tv/js/gad\.js
-.trendmicro.com.tw/wp-content/uploads/.*Banner
-.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -149,6 +146,7 @@ TAG:^adfilter-block-dnt$
 .zdfans.com/Picture/2345
 .zdfans.com/ex\?i=
 .zdfans.com/adsens/kiees\.jpg
+.zczj.com/special/
 .zchot.com/images/jiaoyou
 .zc173.com/pp/
 .zc173.com/173fee/
@@ -177,6 +175,7 @@ TAG:^adfilter-block-dnt$
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
+.yxdm.tv/js/gad\.js
 .yxdd.com
 .yxad.com/yxad/
 .yxad.com/sg/
@@ -593,7 +592,6 @@ TAG:^adfilter-block-dnt$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -623,6 +621,7 @@ TAG:^adfilter-block-dnt$
 .tt1069.com/bbs/zgg_
 .tt.biquge.la
 .ts.cn/.*/site1/
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
@@ -1716,6 +1715,7 @@ TAG:^adfilter-block-dnt$
 .jmbbs.cn/sjgg/
 .jlpcn.net/upload/vod/2016-02-25/201602251456391344\.jpg
 .jkforum.net/template/default/common/attachAD
+.jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
@@ -4381,6 +4381,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ujikdd041o.cn
 .ujian.cc
 .ugoooo.com
+.ugg66.com
 .ufstone.com
 .ueadlian.com
 .ucxxii.com
@@ -4626,6 +4627,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nlrsq.com/.*\.js
 .nkeo.top
 .njq.net
+.njfsk.com
 .njdijiani.com
 .niwota.com
 .niuza.com
@@ -4774,6 +4776,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jsjxhd.com
 .jsinfo.net
 .jsadt.com
+.joyfuldoors.com
 .jossuer.net
 .jointreport-switch.com
 .johtzj.com
@@ -5618,9 +5621,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.njfsk.com
-.joyfuldoors.com
-.ugg66.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6785,9 +6785,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.yxdm.tv/js/gad\.js
-.trendmicro.com.tw/wp-content/uploads/.*Banner
-.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6883,6 +6880,7 @@ TAG:^adfilter-block-elem$
 .zdfans.com/Picture/2345
 .zdfans.com/ex\?i=
 .zdfans.com/adsens/kiees\.jpg
+.zczj.com/special/
 .zchot.com/images/jiaoyou
 .zc173.com/pp/
 .zc173.com/173fee/
@@ -6911,6 +6909,7 @@ TAG:^adfilter-block-elem$
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
+.yxdm.tv/js/gad\.js
 .yxdd.com
 .yxad.com/yxad/
 .yxad.com/sg/
@@ -7327,7 +7326,6 @@ TAG:^adfilter-block-elem$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -7357,6 +7355,7 @@ TAG:^adfilter-block-elem$
 .tt1069.com/bbs/zgg_
 .tt.biquge.la
 .ts.cn/.*/site1/
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
@@ -8450,6 +8449,7 @@ TAG:^adfilter-block-elem$
 .jmbbs.cn/sjgg/
 .jlpcn.net/upload/vod/2016-02-25/201602251456391344\.jpg
 .jkforum.net/template/default/common/attachAD
+.jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
@@ -11115,6 +11115,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ujikdd041o.cn
 .ujian.cc
 .ugoooo.com
+.ugg66.com
 .ufstone.com
 .ueadlian.com
 .ucxxii.com
@@ -11360,6 +11361,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nlrsq.com/.*\.js
 .nkeo.top
 .njq.net
+.njfsk.com
 .njdijiani.com
 .niwota.com
 .niuza.com
@@ -11508,6 +11510,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jsjxhd.com
 .jsinfo.net
 .jsadt.com
+.joyfuldoors.com
 .jossuer.net
 .jointreport-switch.com
 .johtzj.com
@@ -12352,9 +12355,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.njfsk.com
-.joyfuldoors.com
-.ugg66.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13513,9 +13513,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.yxdm.tv/js/gad\.js
-.trendmicro.com.tw/wp-content/uploads/.*Banner
-.zczj.com/special/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13611,6 +13608,7 @@ TAG:^adfilter-block-request$
 .zdfans.com/Picture/2345
 .zdfans.com/ex\?i=
 .zdfans.com/adsens/kiees\.jpg
+.zczj.com/special/
 .zchot.com/images/jiaoyou
 .zc173.com/pp/
 .zc173.com/173fee/
@@ -13639,6 +13637,7 @@ TAG:^adfilter-block-request$
 .yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
+.yxdm.tv/js/gad\.js
 .yxad.com/yxad/
 .yxad.com/sg/
 .yxad.com/js/lady\.gif
@@ -14037,7 +14036,6 @@ TAG:^adfilter-block-request$
 .txtshu365.com/statics/js/tuku
 .txtshu365.com/img/
 .txtbbs.com/data/txtbbs/
-.jjxsw.com/js/common\.js
 .txahz.com/static/image/tp/
 .twunbbs.com/images/
 .twavtv.com/js/jquery\.colorbox
@@ -14065,6 +14063,7 @@ TAG:^adfilter-block-request$
 .tt1069.com/or_pu_0604\.js
 .tt1069.com/bbs/zgg_
 .tt.biquge.la
+.trendmicro.com.tw/wp-content/uploads/.*Banner
 .trafficjam.cn
 .tq121.com.cn/j/ad/
 .tp.sgcn.com
@@ -15105,6 +15104,7 @@ TAG:^adfilter-block-request$
 .jmbbs.cn/sjgg/
 .jlpcn.net/upload/vod/2016-02-25/201602251456391344\.jpg
 .jkforum.net/template/default/common/attachAD
+.jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
@@ -17565,6 +17565,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .uoyrsd.com
 .ukeiae.com
 .ujikdd041o.cn
+.ugg66.com
 .ucxxii.com
 .ucrzgcs.cn
 .ucaliyun.cn
@@ -17733,6 +17734,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nlrsq.com/.*\.js
 .nkeo.top
 .njq.net
+.njfsk.com
 .njdijiani.com
 .niuxgame77.com
 .nextcps.com
@@ -17820,6 +17822,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .junfull.com
 .jsmwd.com
 .jsadt.com
+.joyfuldoors.com
 .jossuer.net
 .johtzj.com
 .jnyngg.cn
@@ -18289,9 +18292,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.njfsk.com
-.joyfuldoors.com
-.ugg66.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
