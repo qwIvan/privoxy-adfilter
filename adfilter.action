@@ -668,8 +668,8 @@ TAG:^adfilter-block-dnt$
 .tianyaui.com/global/broadcast/js/router\.jsonp
 .tianyaui.com/global/broadcast/.*/bc_
 .tianyaui.com/gamify/broadcast/js/
-.tiantian.tv/sda/
-.tiantian.tv/js/banner\.js
+.tiantianzhibo.com/sda/
+.tiantianzhibo.com/js/banner\.js
 .tianshui.com.cn/yb\.html
 .tianshui.com.cn/Scripts/AC_
 .tianshui.com.cn/newimages/xhglj\.swf
@@ -7406,8 +7406,8 @@ TAG:^adfilter-block-elem$
 .tianyaui.com/global/broadcast/js/router\.jsonp
 .tianyaui.com/global/broadcast/.*/bc_
 .tianyaui.com/gamify/broadcast/js/
-.tiantian.tv/sda/
-.tiantian.tv/js/banner\.js
+.tiantianzhibo.com/sda/
+.tiantianzhibo.com/js/banner\.js
 .tianshui.com.cn/yb\.html
 .tianshui.com.cn/Scripts/AC_
 .tianshui.com.cn/newimages/xhglj\.swf
@@ -14118,7 +14118,7 @@ TAG:^adfilter-block-request$
 .tianyaui.com/global/broadcast/js/router\.jsonp
 .tianyaui.com/global/broadcast/.*/bc_
 .tianyaui.com/gamify/broadcast/js/
-.tiantian.tv/js/banner\.js
+.tiantianzhibo.com/js/banner\.js
 .tianshui.com.cn/yb\.html
 .tianshui.com.cn/Scripts/AC_
 .tianshui.com.cn/newimages/xhglj\.swf
@@ -18731,7 +18731,7 @@ TAG:^adfilter-block-request-Aasv-Casv$
 TAG:^adfilter-block-request-Ai-Ci$
 .yjhas.net
 .webkaka.com*./(.*/)?click/
-.tiantian.tv/sda/
+.tiantianzhibo.com/sda/
 .share.dmhy.*./(.*/)?.*\?
 .ruanjianxiaozi.qiniudn.com
 .mycodes.net/js/
