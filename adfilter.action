@@ -48,9 +48,11 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.dm.92to.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.dmzj.com/js/m_BtmApp\.js
 .5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6037,13 +6039,15 @@ config.*.
 
 {+client-header-tagger{adfilter-block-dnt-R15} \
 }
+.sinaimg.cn
+.ultraimg.com
+.33img.com
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
 {+client-header-tagger{adfilter-block-dnt-R16} \
 }
-.ultraimg.com
 .imgur.com/.*\.gif
 
 {+client-header-tagger{adfilter-block-dnt-R17} \
@@ -6786,9 +6790,11 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.dm.92to.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.dmzj.com/js/m_BtmApp\.js
 .5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -12775,13 +12781,15 @@ config.*.
 
 {+client-header-tagger{adfilter-block-elem-R15} \
 }
+.sinaimg.cn
+.ultraimg.com
+.33img.com
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
 {+client-header-tagger{adfilter-block-elem-R16} \
 }
-.ultraimg.com
 .imgur.com/.*\.gif
 
 {+client-header-tagger{adfilter-block-elem-R17} \
@@ -13518,9 +13526,11 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.dm.92to.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.dmzj.com/js/m_BtmApp\.js
 .5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -19618,13 +19628,15 @@ config.*.
 
 {+client-header-tagger{adfilter-block-request-R15} \
 }
+.sinaimg.cn
+.ultraimg.com
+.33img.com
 .xoimg.com
 .showhaotu.*.
 .diopic.net
 
 {+client-header-tagger{adfilter-block-request-R16} \
 }
-.ultraimg.com
 .imgur.com/.*\.gif
 
 {+client-header-tagger{adfilter-block-request-R17} \
