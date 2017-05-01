@@ -51,6 +51,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5965,6 +5966,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -6786,6 +6788,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12700,6 +12703,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -13515,6 +13519,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18625,6 +18630,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
