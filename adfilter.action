@@ -648,7 +648,6 @@ TAG:^adfilter-block-dnt$
 .tingvoa.com/images/.*img\.js
 .tingroom.com/tingroom/ad/
 .tingroom.com/skin/dy/images/enread\.jpg
-.tingroom.com/skin/dy/images/2400200
 .tingroom.com/skin/.*/js/ad_
 .tingroom.com/js/sp\.js
 .tingroom.com/images/z923\.js
@@ -678,7 +677,7 @@ TAG:^adfilter-block-dnt$
 .tianshui.com.cn/newimages/xhglj\.swf
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
-.tianshi.info/zeis/ts\.gif
+.tianshit.com/zeis/ts\.gif
 .tianqi.com/templates/huoche/js/hcgg\.js
 .tianqi.com/static/tqgg/
 .tianqi.com/js/gg\.js
@@ -7392,7 +7391,6 @@ TAG:^adfilter-block-elem$
 .tingvoa.com/images/.*img\.js
 .tingroom.com/tingroom/ad/
 .tingroom.com/skin/dy/images/enread\.jpg
-.tingroom.com/skin/dy/images/2400200
 .tingroom.com/skin/.*/js/ad_
 .tingroom.com/js/sp\.js
 .tingroom.com/images/z923\.js
@@ -7422,7 +7420,7 @@ TAG:^adfilter-block-elem$
 .tianshui.com.cn/newimages/xhglj\.swf
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
-.tianshi.info/zeis/ts\.gif
+.tianshit.com/zeis/ts\.gif
 .tianqi.com/templates/huoche/js/hcgg\.js
 .tianqi.com/static/tqgg/
 .tianqi.com/js/gg\.js
@@ -14109,7 +14107,6 @@ TAG:^adfilter-block-request$
 .tingvoa.com/images/.*img\.js
 .tingroom.com/tingroom/ad/
 .tingroom.com/skin/dy/images/enread\.jpg
-.tingroom.com/skin/dy/images/2400200
 .tingroom.com/skin/.*/js/ad_
 .tingroom.com/js/sp\.js
 .tingroom.com/images/z923\.js
@@ -14138,7 +14135,7 @@ TAG:^adfilter-block-request$
 .tianshui.com.cn/newimages/xhglj\.swf
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
-.tianshi.info/zeis/ts\.gif
+.tianshit.com/zeis/ts\.gif
 .tianqi.com/templates/huoche/js/hcgg\.js
 .tianqi.com/static/tqgg/
 .tianqi.com/js/gg\.js
