@@ -21,7 +21,9 @@ TAG:^adfilter-block-dnt$
 .lele999.com
 .kuku99.com
 .jsm.9939.com
-.js.syiae.com
+.2.rengshu.com
+.lixiangmo.com
+.7car.com.cn
 .gzlykj.cn
 .guang.sdsgwy.com
 .fuz.cc
@@ -49,6 +51,7 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.chicken18.com
 .1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
@@ -5628,6 +5631,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.njwxh.com
+.lu.sogoucdn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6764,7 +6769,9 @@ TAG:^adfilter-block-elem$
 .lele999.com
 .kuku99.com
 .jsm.9939.com
-.js.syiae.com
+.2.rengshu.com
+.lixiangmo.com
+.7car.com.cn
 .gzlykj.cn
 .guang.sdsgwy.com
 .fuz.cc
@@ -6792,6 +6799,7 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.chicken18.com
 .1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
@@ -12371,6 +12379,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.njwxh.com
+.lu.sogoucdn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13503,7 +13513,9 @@ TAG:^adfilter-block-request$
 .milk.yesky.com.cn
 .lele999.com
 .jsm.9939.com
-.js.syiae.com
+.2.rengshu.com
+.lixiangmo.com
+.7car.com.cn
 .gzlykj.cn
 .guang.sdsgwy.com
 .fotao9.com
@@ -13529,6 +13541,7 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
+.chicken18.com
 .1.1010pic.com
 /.*&uc=
 /.*\?pss=
@@ -18315,6 +18328,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.njwxh.com
+.lu.sogoucdn.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
