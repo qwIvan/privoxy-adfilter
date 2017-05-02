@@ -1226,10 +1226,6 @@ TAG:^adfilter-block-dnt$
 .pg.udn.com/BT/.*\.swf
 .pfp.sina.com.cn
 .pfizer.com.tw
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -3378,7 +3374,6 @@ TAG:^adfilter-block-dnt$
 .9upk.com/js/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -5631,6 +5626,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.kooyum.com
 .njwxh.com
 .lu.sogoucdn.com
 /.*\.cn/show\?id=
@@ -7974,10 +7970,6 @@ TAG:^adfilter-block-elem$
 .pg.udn.com/BT/.*\.swf
 .pfp.sina.com.cn
 .pfizer.com.tw
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -10126,7 +10118,6 @@ TAG:^adfilter-block-elem$
 .9upk.com/js/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -12379,6 +12370,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.kooyum.com
 .njwxh.com
 .lu.sogoucdn.com
 /.*\.cn/show\?id=
@@ -14668,10 +14660,6 @@ TAG:^adfilter-block-request$
 .ph66.com/bbsgg/
 .pgzhibo.com/uploads/image/20.*\.gif
 .pg.udn.com/BT/.*\.swf
-.peryi.net/js/imp/SysCon\.js
-.peryi.net/js/imp/Finc\.js
-.peryi.com/templets/xunbodm/images/js/sys\.js
-.peryi.com/GetGame/
 .perlmaven.com/img/linode
 .perlmaven.com/img/.*0x2
 .people.com.cn/img/gjt/
@@ -16719,7 +16707,6 @@ TAG:^adfilter-block-request$
 .9w1an.com/special/
 .9upk.com/images/95050\.gif
 .9tour.cn/x2/images/czmf\.jpg
-.9tcn.com/getgame/
 .9sky.com/_gg/
 .9ku.com/aaa/
 .9kjj.com/images/.*\.gif
@@ -18328,6 +18315,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.kooyum.com
 .njwxh.com
 .lu.sogoucdn.com
 ad.*.
