@@ -15,6 +15,7 @@ TAG:^adfilter-block-dnt$
 .yhzm.cc
 .sundxs.com
 .star-media.cn
+.s1.hiapk.com
 .mipujia.com
 .milk.yesky.com.cn
 .lele999.com
@@ -33,6 +34,7 @@ TAG:^adfilter-block-dnt$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -48,14 +50,10 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-.dm.92to.com
-.s1.hiapk.com
 /.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.dmzj.com/js/m_BtmApp\.js
-.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2607,6 +2605,7 @@ TAG:^adfilter-block-dnt$
 .dnvod.tv/.*\.gif
 .dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
+.dmzj.com/js/m_BtmApp\.js
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
 .dmfans.net/template/haokandemanhhua/images/g_js/
@@ -3642,6 +3641,7 @@ TAG:^adfilter-block-dnt$
 .51credit.com/credit/images/201505/ggchedai\.jpg
 .51bczx.com/js/float\.js
 .51ape.com/d/js/
+.5188yy.com/ziyuanduilian/
 .5184.com/container/html/news_view_gg
 .516qq.cn/theme/dd/
 .51688.cc/ya/
@@ -4215,6 +4215,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ymcqb.com
 .ykjmy.com
 .yk0712.com
+.yixige.com
 .yiwuds.com
 .yiwad.com
 .yiranxian.cn
@@ -5059,6 +5060,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dalianhengtai.com
 .daima123.cc
 .d8360.com
+.d3qk9u6c2k2cid.cloudfront.net
 .d1ad.com
 .czpwm.com
 .czpush.com
@@ -5626,8 +5628,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.d3qk9u6c2k2cid.cloudfront.net
-.yixige.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5726,6 +5726,7 @@ sogouAD.*.
 /(.*/)?scripts/youthad\.js
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
+/(.*/)?Runtime/js/banner_
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -5971,7 +5972,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -6041,12 +6041,11 @@ config.*.
 
 {+client-header-tagger{adfilter-block-dnt-R15} \
 }
-.sinaimg.cn
-.ultraimg.com
-.33img.com
 .xoimg.com
+.ultraimg.com
 .showhaotu.*.
 .diopic.net
+.33img.com
 
 {+client-header-tagger{adfilter-block-dnt-R16} \
 }
@@ -6759,6 +6758,7 @@ TAG:^adfilter-block-elem$
 .yhzm.cc
 .sundxs.com
 .star-media.cn
+.s1.hiapk.com
 .mipujia.com
 .milk.yesky.com.cn
 .lele999.com
@@ -6777,6 +6777,7 @@ TAG:^adfilter-block-elem$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -6792,14 +6793,10 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-.dm.92to.com
-.s1.hiapk.com
 /.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.dmzj.com/js/m_BtmApp\.js
-.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9351,6 +9348,7 @@ TAG:^adfilter-block-elem$
 .dnvod.tv/.*\.gif
 .dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
+.dmzj.com/js/m_BtmApp\.js
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
 .dmhy*.aewb.cn/.*\?
 .dmfans.net/template/haokandemanhhua/images/g_js/
@@ -10386,6 +10384,7 @@ TAG:^adfilter-block-elem$
 .51credit.com/credit/images/201505/ggchedai\.jpg
 .51bczx.com/js/float\.js
 .51ape.com/d/js/
+.5188yy.com/ziyuanduilian/
 .5184.com/container/html/news_view_gg
 .516qq.cn/theme/dd/
 .51688.cc/ya/
@@ -10959,6 +10958,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ymcqb.com
 .ykjmy.com
 .yk0712.com
+.yixige.com
 .yiwuds.com
 .yiwad.com
 .yiranxian.cn
@@ -11803,6 +11803,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dalianhengtai.com
 .daima123.cc
 .d8360.com
+.d3qk9u6c2k2cid.cloudfront.net
 .d1ad.com
 .czpwm.com
 .czpush.com
@@ -12370,8 +12371,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.d3qk9u6c2k2cid.cloudfront.net
-.yixige.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12470,6 +12469,7 @@ sogouAD.*.
 /(.*/)?scripts/youthad\.js
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
+/(.*/)?Runtime/js/banner_
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -12715,7 +12715,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -12785,12 +12784,11 @@ config.*.
 
 {+client-header-tagger{adfilter-block-elem-R15} \
 }
-.sinaimg.cn
-.ultraimg.com
-.33img.com
 .xoimg.com
+.ultraimg.com
 .showhaotu.*.
 .diopic.net
+.33img.com
 
 {+client-header-tagger{adfilter-block-elem-R16} \
 }
@@ -13501,6 +13499,7 @@ TAG:^adfilter-block-request$
 .146.148.85.61
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
+.s1.hiapk.com
 .milk.yesky.com.cn
 .lele999.com
 .jsm.9939.com
@@ -13516,6 +13515,7 @@ TAG:^adfilter-block-request$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
 .d6.mobaders.com
@@ -13530,13 +13530,9 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-.dm.92to.com
-.s1.hiapk.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.dmzj.com/js/m_BtmApp\.js
-.5188yy.com/ziyuanduilian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15977,6 +15973,7 @@ TAG:^adfilter-block-request$
 .dnwx.com/pic/.*_978x60\.
 .dnvod.tv/upload/gaming/
 .dn-geekpark-new.qbox.me/uploads/ad/
+.dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
 .dm530.net/pic/fgr/.*\.js
 .dm530.net/js/newjs/
@@ -16965,6 +16962,7 @@ TAG:^adfilter-block-request$
 .51credit.com/credit/images/201505/ggchedai\.jpg
 .51bczx.com/js/float\.js
 .51ape.com/d/js/
+.5188yy.com/ziyuanduilian/
 .5184.com/container/html/news_view_gg
 .516qq.cn/theme/dd/
 .51688.cc/ya/
@@ -18026,6 +18024,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dandan15.top
 .dalianhengtai.com
 .daima123.cc
+.d3qk9u6c2k2cid.cloudfront.net
 .czpwm.com
 .czpush.com
 .czjiuding.cn
@@ -18316,7 +18315,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.d3qk9u6c2k2cid.cloudfront.net
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18412,6 +18410,7 @@ sogouAD.*.
 /(.*/)?scripts/youthad\.js
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
+/(.*/)?Runtime/js/banner_
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -18648,7 +18647,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?Runtime/js/banner_
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -19089,6 +19087,7 @@ gg.*.
 .youle55.com
 .youbet8.com
 .yongv.com
+.yixige.com
 .yiwad.com
 .yiqiv.com
 .yiqifa.com/.*\.js
@@ -19571,7 +19570,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.yixige.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -19633,12 +19631,11 @@ config.*.
 
 {+client-header-tagger{adfilter-block-request-R15} \
 }
-.sinaimg.cn
-.ultraimg.com
-.33img.com
 .xoimg.com
+.ultraimg.com
 .showhaotu.*.
 .diopic.net
+.33img.com
 
 {+client-header-tagger{adfilter-block-request-R16} \
 }
