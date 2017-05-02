@@ -50,7 +50,7 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -6793,7 +6793,7 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -20241,7 +20241,7 @@ floatad.*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/.*\?.*=.*%.*%.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
