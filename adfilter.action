@@ -15475,6 +15475,7 @@ TAG:^adfilter-block-request$
 .hoopchina.com.cn/web/widget/partner/.*/promote\.js
 .hoopchina.com.cn/web/channel/voice/.*/beforelogin/beforelogin\.js
 .hoopchina.com.cn/web/ad/
+.hoopchina.com.cn/topn
 .hoopchina.com.cn/static/www/.*340x230\.
 .hoopchina.com.cn/static/www/.*340-230\.
 .hoopchina.com.cn/common/lazyLoadAd\.js
@@ -20273,7 +20274,6 @@ TAG:^adfilter-block-xframe$
 .img*./.*\.hc360\.com[^\w%.-]
 .img*.hc360.com
 .images.china.cn/.*first/
-.hoopchina.com.cn/topn
 .gq.com.tw/event/
 .gaoqingkong.com
 .games.ifeng.com
