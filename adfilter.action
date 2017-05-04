@@ -53,6 +53,7 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.1.feihua.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
@@ -3785,7 +3786,6 @@ TAG:^adfilter-block-dnt$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
@@ -6797,6 +6797,7 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.1.feihua.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
@@ -10529,7 +10530,6 @@ TAG:^adfilter-block-elem$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
@@ -13535,6 +13535,7 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 .1.panduoduo.net
 .1.1010pic.com
+.1.feihua.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -17103,7 +17104,6 @@ TAG:^adfilter-block-request$
 .2324av.com/zz/
 .2300sjz.com/liv_loadfile/folder81/fold
 .2233777.com/bak/ad/
-.222.82.218.6:81/asset/video/2016/07/20/1469004836473\.swf
 .222.47.26.21/m\.js
 .222.45.224.77/.*\.js
 .221.5.69.52/.*\.js
