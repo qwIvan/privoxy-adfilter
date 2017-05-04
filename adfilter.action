@@ -57,7 +57,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1196,6 +1195,7 @@ TAG:^adfilter-block-dnt$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -2389,6 +2389,7 @@ TAG:^adfilter-block-dnt$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -2589,7 +2590,6 @@ TAG:^adfilter-block-dnt$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -5628,6 +5628,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.ynmbz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6800,7 +6801,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7939,6 +7939,7 @@ TAG:^adfilter-block-elem$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -9132,6 +9133,7 @@ TAG:^adfilter-block-elem$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -9332,7 +9334,6 @@ TAG:^adfilter-block-elem$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .dodo8.com/inc/
 .docin.com/jsp_cn/ad/
@@ -12371,6 +12372,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.ynmbz.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13536,7 +13538,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.piimg.com/588755/ba9d370dfd134a36\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14632,6 +14633,7 @@ TAG:^adfilter-block-request$
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
 .pingpang.info/banner/
 .pimg.tw/ifans/1399368662-4247048381\.png
+.piimg.com/588755/ba9d370dfd134a36\.jpg
 .piimg.com/562723/92bbcd8f9e965644\.jpg
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
@@ -15771,6 +15773,7 @@ TAG:^adfilter-block-request$
 .fububu.com/zb_users/THEME/LuSongSong/style/ads/
 .fububu.com/zb_users/.*/ttz
 .ftxs.org/images/86dg980x100\.jpg
+.ftimg.net/s\?z=
 .ftchinese.com/m/marketing/
 .fsehome.com/images/ad_tan\.js
 .free9.net/myc/myc\.js
@@ -15963,7 +15966,6 @@ TAG:^adfilter-block-request$
 .dongfangtai.com/js/duil\.js
 .domeng.cn/js/index_
 .domecross.com/ad/
-.ftimg.net/s\?z=
 .dol.tianya.cn/s\?z=tianya&
 .docin.com/jsp_cn/ad/
 .docin.com/docin_adv/
@@ -18316,6 +18318,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.ynmbz.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
