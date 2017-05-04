@@ -58,6 +58,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/fw\.html
+.miaobige.com/native\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5629,6 +5631,7 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 .ynmbz.com
+.ndtzx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6802,6 +6805,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/fw\.html
+.miaobige.com/native\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12373,6 +12378,7 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 .ynmbz.com
+.ndtzx.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13539,6 +13545,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.miaobige.com/fw\.html
+.miaobige.com/native\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18319,6 +18327,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .ynmbz.com
+.ndtzx.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
