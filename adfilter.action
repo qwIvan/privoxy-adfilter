@@ -58,6 +58,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.erebor.douban.com
 .weipaima.com/img/jc\.png
 .btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
@@ -6808,6 +6809,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.erebor.douban.com
 .weipaima.com/img/jc\.png
 .btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
@@ -13551,6 +13553,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.erebor.douban.com
 .weipaima.com/img/jc\.png
 .btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
