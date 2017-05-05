@@ -58,6 +58,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.snwx8.com/xiaoyi/.*0_
 .hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .erebor.douban.com
 .weipaima.com/img/jc\.png
@@ -5638,6 +5639,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.nchte.com
 .118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -6812,6 +6814,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.snwx8.com/xiaoyi/.*0_
 .hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .erebor.douban.com
 .weipaima.com/img/jc\.png
@@ -12392,6 +12395,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.nchte.com
 .118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -13559,6 +13563,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.snwx8.com/xiaoyi/.*0_
 .hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .erebor.douban.com
 .weipaima.com/img/jc\.png
@@ -18346,6 +18351,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.nchte.com
 .118.144.88.216
 ad.*.
 /(.*/)?js/tc\.js
