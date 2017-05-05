@@ -52,14 +52,14 @@ TAG:^adfilter-block-dnt$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-.1.1010pic.com
 .1.feihua.com
+.1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.miaobige.com/fw\.html
-.miaobige.com/native\?
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1452,6 +1452,8 @@ TAG:^adfilter-block-dnt$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -4210,6 +4212,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .youbet8.com
 .yongv.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -4643,6 +4646,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nextcps.com
 .news.tagtoo.co
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -5630,8 +5634,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.ynmbz.com
-.ndtzx.com
+.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6799,14 +6802,14 @@ TAG:^adfilter-block-elem$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-.1.1010pic.com
 .1.feihua.com
+.1.1010pic.com
 /.*\?.*=.*%.*&.*=1.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.miaobige.com/fw\.html
-.miaobige.com/native\?
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8199,6 +8202,8 @@ TAG:^adfilter-block-elem$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -10957,6 +10962,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .youbet8.com
 .yongv.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -11390,6 +11396,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nextcps.com
 .news.tagtoo.co
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -12377,8 +12384,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.ynmbz.com
-.ndtzx.com
+.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13540,13 +13546,13 @@ TAG:^adfilter-block-request$
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
-.1.1010pic.com
 .1.feihua.com
+.1.1010pic.com
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.miaobige.com/fw\.html
-.miaobige.com/native\?
+.weipaima.com/img/jc\.png
+.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14886,6 +14892,8 @@ TAG:^adfilter-block-request$
 .microcontrol.cn/bbs/images/AD755_150\.swf
 .miaobige.com/wap/wap_xia
 .miaobige.com/react\.js\?id=
+.miaobige.com/native\?
+.miaobige.com/fw\.html
 .mianbao99.com/bd/
 .mianbao99.com/a/mianbao/
 .mhhf.net/fserFiles/711x90\.jpg
@@ -17476,6 +17484,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yousee.com
 .youfumei.com
 .yongkang6.com
+.ynmbz.com
 .yndianju.com
 .ymcqb.com
 .ykjmy.com
@@ -17770,6 +17779,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .niuxgame77.com
 .nextcps.com
 .ne9377.com
+.ndtzx.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -18326,8 +18336,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ynmbz.com
-.ndtzx.com
+.118.144.88.216
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
