@@ -58,11 +58,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.snwx8.com/xiaoyi/.*0_
-.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
-.erebor.douban.com
-.weipaima.com/img/jc\.png
-.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -467,6 +462,7 @@ TAG:^adfilter-block-dnt$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
+.weipaima.com/img/jc\.png
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -816,6 +812,7 @@ TAG:^adfilter-block-dnt$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
+.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -2089,6 +2086,7 @@ TAG:^adfilter-block-dnt$
 .hot.580k.com/share/Ad_
 .hoopchina.com.cn/web/widget/partner/.*/promote\.js
 .hoopchina.com.cn/web/channel/voice/.*/beforelogin/beforelogin\.js
+.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .hoopchina.com.cn/web/ad/
 .hoopchina.com.cn/topn
 .hoopchina.com.cn/static/www/.*340x230\.
@@ -2468,6 +2466,7 @@ TAG:^adfilter-block-dnt$
 .etf88.com/swf/
 .etf88.com/jjb/.*_ad
 .etest8.com/js/158/infojs/
+.erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
@@ -2947,6 +2946,7 @@ TAG:^adfilter-block-dnt$
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
+.btsou.net/static/image/.*\.gif
 .btrenren.com/js/index960_
 .btn.pchome.net
 .btn.onlylady.com
@@ -4143,6 +4143,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
+/(.*/)?tanchuan\.htm
+tanchuan.htm*.
 /(.*/)?pushstart\.html\?
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
@@ -4150,8 +4152,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?htmm/2022\.php
 /(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
-/(.*/)?tanchuan\.htm
-tanchuan.htm*.
 /.*\.com/\?Intr=
 .*.com/\?Intr=
 /.*\.com/\?aff=
@@ -4652,6 +4652,7 @@ tanchuan.htm*.
 .news.tagtoo.co
 .ne9377.com
 .ndtzx.com
+.nchte.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -5477,6 +5478,7 @@ tanchuan.htm*.
 .119.4.249.166
 .1188.com
 .118114.cn
+.118.144.88.216
 .117.25.133.209
 .116b.com
 .116.55.227.242
@@ -5639,8 +5641,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.nchte.com
-.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6814,11 +6814,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.snwx8.com/xiaoyi/.*0_
-.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
-.erebor.douban.com
-.weipaima.com/img/jc\.png
-.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7223,6 +7218,7 @@ TAG:^adfilter-block-elem$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
+.weipaima.com/img/jc\.png
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -7572,6 +7568,7 @@ TAG:^adfilter-block-elem$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
+.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -8845,6 +8842,7 @@ TAG:^adfilter-block-elem$
 .hot.580k.com/share/Ad_
 .hoopchina.com.cn/web/widget/partner/.*/promote\.js
 .hoopchina.com.cn/web/channel/voice/.*/beforelogin/beforelogin\.js
+.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .hoopchina.com.cn/web/ad/
 .hoopchina.com.cn/topn
 .hoopchina.com.cn/static/www/.*340x230\.
@@ -9224,6 +9222,7 @@ TAG:^adfilter-block-elem$
 .etf88.com/swf/
 .etf88.com/jjb/.*_ad
 .etest8.com/js/158/infojs/
+.erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
@@ -9703,6 +9702,7 @@ TAG:^adfilter-block-elem$
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
+.btsou.net/static/image/.*\.gif
 .btrenren.com/js/index960_
 .btn.pchome.net
 .btn.onlylady.com
@@ -10899,6 +10899,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
+/(.*/)?tanchuan\.htm
+tanchuan.htm*.
 /(.*/)?pushstart\.html\?
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
@@ -10906,8 +10908,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 /(.*/)?htmm/2022\.php
 /(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
-/(.*/)?tanchuan\.htm
-tanchuan.htm*.
 /.*\.com/\?Intr=
 .*.com/\?Intr=
 /.*\.com/\?aff=
@@ -11408,6 +11408,7 @@ tanchuan.htm*.
 .news.tagtoo.co
 .ne9377.com
 .ndtzx.com
+.nchte.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -12233,6 +12234,7 @@ tanchuan.htm*.
 .119.4.249.166
 .1188.com
 .118114.cn
+.118.144.88.216
 .117.25.133.209
 .116b.com
 .116.55.227.242
@@ -12395,8 +12397,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.nchte.com
-.118.144.88.216
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13563,11 +13563,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.snwx8.com/xiaoyi/.*0_
-.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
-.erebor.douban.com
-.weipaima.com/img/jc\.png
-.btsou.net/static/image/.*\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13962,6 +13957,7 @@ TAG:^adfilter-block-request$
 .wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
+.weipaima.com/img/jc\.png
 .weike22.com/images/
 .weibo.com/static/ali\.html
 .wei2008.com/js/jump
@@ -14297,6 +14293,7 @@ TAG:^adfilter-block-request$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
+.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -15508,6 +15505,7 @@ TAG:^adfilter-block-request$
 .hot.580k.com/share/Ad_
 .hoopchina.com.cn/web/widget/partner/.*/promote\.js
 .hoopchina.com.cn/web/channel/voice/.*/beforelogin/beforelogin\.js
+.hoopchina.com.cn/web/channel/nba/index/nbaposter/index\.js
 .hoopchina.com.cn/web/ad/
 .hoopchina.com.cn/topn
 .hoopchina.com.cn/static/www/.*340x230\.
@@ -15873,6 +15871,7 @@ TAG:^adfilter-block-request$
 .etidol.com/include/getProd\.php
 .etf88.com/swf/
 .etest8.com/js/158/infojs/
+.erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
@@ -16324,6 +16323,7 @@ TAG:^adfilter-block-request$
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
+.btsou.net/static/image/.*\.gif
 .btrenren.com/js/index960_
 .btn.pchome.net
 .btn.onlylady.com
@@ -17795,6 +17795,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .nextcps.com
 .ne9377.com
 .ndtzx.com
+.nchte.com
 .ncachear.com
 .nbjjd.com
 .namemek.com
@@ -18299,6 +18300,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .12306media.com
 .122.227.254.195
 .119.4.249.166
+.118.144.88.216
 .117.25.133.209
 .116.55.227.242
 .112.74.95.46
@@ -18351,8 +18353,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.nchte.com
-.118.144.88.216
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20264,13 +20264,13 @@ floatad.*.
 .gd.189.cn/gz/promotion/
 .gd.189.cn/ad/
 .189.cn/actpush/
+/(.*/)?tanchuan\.htm
+tanchuan.htm*.
 /(.*/)?pushstart\.html\?
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
 /(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
-/(.*/)?tanchuan\.htm
-tanchuan.htm*.
 /.*\.com/\?Intr=
 .*.com/\?Intr=
 /.*\.com/\?aff=
@@ -20485,13 +20485,13 @@ t.cn
 .gd.189.cn/gz/promotion/
 .gd.189.cn/ad/
 .189.cn/actpush/
+/(.*/)?tanchuan\.htm
+tanchuan.htm*.
 /(.*/)?pushstart\.html\?
 /(.*/)?pushstart\.aspx\?
 /(.*/)?pushportal/PushPortalServer
 /(.*/)?hndxweb/push
 /(.*/)?BadwebRemindPage\.aspx\?param=
-/(.*/)?tanchuan\.htm
-tanchuan.htm*.
 /.*\.com/\?Intr=
 .*.com/\?Intr=
 /.*\.com/\?aff=
