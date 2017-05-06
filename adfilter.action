@@ -719,7 +719,7 @@ TAG:^adfilter-block-dnt$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.t57.cn/cert\.php\?t=p
+.t57.cn/cert\.php
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
 .szonline.net/banner_top\.jpg
@@ -7479,7 +7479,7 @@ TAG:^adfilter-block-elem$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.t57.cn/cert\.php\?t=p
+.t57.cn/cert\.php
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
 .szonline.net/banner_top\.jpg
@@ -14211,7 +14211,7 @@ TAG:^adfilter-block-request$
 .taizhou.com.cn/.*/3890\.files/xchad\.jpg
 .taizhou.com.cn/52\.files/c120151010\.swf
 .taizhou.com.cn/52\.files/a.*20
-.t57.cn/cert\.php\?t=p
+.t57.cn/cert\.php
 .t.58xs.com/hot/
 .szonline.net/zhongyuan
 .szonline.net/banner_top\.jpg
