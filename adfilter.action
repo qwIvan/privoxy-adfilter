@@ -58,6 +58,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.205.209.138.102
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -3489,7 +3490,6 @@ TAG:^adfilter-block-dnt$
 .7k7k.com/ad-.*\.htm
 .7hcn.com/attachments/20.*\.swf
 .7edown.com/greensoft/js/
-.7dsw.com/web8/js/
 .7c.com/7c_
 .7abpchina.*./(.*/)?.*/.*\.gif
 .7abpchina.*./(.*/)?.*/.*\.
@@ -5641,6 +5641,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.resetgey.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5987,6 +5988,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?web8/ad/.*
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
@@ -6816,6 +6818,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.205.209.138.102
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -10247,7 +10250,6 @@ TAG:^adfilter-block-elem$
 .7k7k.com/ad-.*\.htm
 .7hcn.com/attachments/20.*\.swf
 .7edown.com/greensoft/js/
-.7dsw.com/web8/js/
 .7c.com/7c_
 .7abpchina.*./(.*/)?.*/.*\.gif
 .7abpchina.*./(.*/)?.*/.*\.
@@ -12399,6 +12401,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.resetgey.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12745,6 +12748,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?web8/ad/.*
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
@@ -13567,6 +13571,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.205.209.138.102
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -16847,7 +16852,6 @@ TAG:^adfilter-block-request$
 .7k7k.com/ad-.*\.htm
 .7hcn.com/attachments/20.*\.swf
 .7edown.com/greensoft/js/
-.7dsw.com/web8/js/
 .7c.com/7c_
 .7abpchina.*./(.*/)?.*/.*\.gif
 .78land.com/js/fumeiti\.js
@@ -18357,6 +18361,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.resetgey.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18691,6 +18696,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?web8/ad/.*
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
