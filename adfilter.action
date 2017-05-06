@@ -812,7 +812,6 @@ TAG:^adfilter-block-dnt$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -963,8 +962,8 @@ TAG:^adfilter-block-dnt$
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
-.sax.sina.com.cn/crossdomain\.xml
-.sax.sina.cn
+.sax*./.*\.sina\.
+.sax*.sina.*.
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .same*./.*\.stockstar\.com[^\w%.-]
@@ -5987,6 +5986,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -7568,7 +7569,6 @@ TAG:^adfilter-block-elem$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -7719,8 +7719,8 @@ TAG:^adfilter-block-elem$
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
-.sax.sina.com.cn/crossdomain\.xml
-.sax.sina.cn
+.sax*./.*\.sina\.
+.sax*.sina.*.
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .same*./.*\.stockstar\.com[^\w%.-]
@@ -12743,6 +12743,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -14293,7 +14295,6 @@ TAG:^adfilter-block-request$
 .so100.cn/images/newshead\.htm
 .so100.cn/images/a.*\.js
 .so.open.163.com/v/list\.htm\?pid=
-.snwx8.com/xiaoyi/.*0_
 .slooti.com/upload/30/38/1446711674\.gif
 .slit.cn/slimages/
 .slit.cn/d/js/images/thea
@@ -14439,8 +14440,8 @@ TAG:^adfilter-block-request$
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
-.sax.sina.com.cn/crossdomain\.xml
-.sax.sina.cn
+.sax*./.*\.sina\.
+.sax*.sina.*.
 .same.eastmoney.com
 .same.chinadaily.com.cn
 .same*./.*\.stockstar\.com[^\w%.-]
@@ -18687,6 +18688,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
