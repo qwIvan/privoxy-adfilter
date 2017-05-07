@@ -58,8 +58,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.205.209.138.102
-.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -843,6 +841,7 @@ TAG:^adfilter-block-dnt$
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
@@ -3806,6 +3805,7 @@ TAG:^adfilter-block-dnt$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
@@ -4550,6 +4550,7 @@ tanchuan.htm*.
 .rrsubway.com
 .riqu2015.com
 .rhgyg.com
+.resetgey.com
 .rencai56.com
 .remotedu.cn
 .reliancevalve.com
@@ -5641,7 +5642,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.resetgey.com
+.focusprolight.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5690,10 +5691,13 @@ ad.*.
 /(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiazai_downloaderAD\.
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /(.*/)?xiaobaiAD\.gif
 xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
+/(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -5988,9 +5992,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?web8/ad/.*
-/(.*/)?xiaoyi/960_
-/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -6818,8 +6819,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.205.209.138.102
-.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7603,6 +7602,7 @@ TAG:^adfilter-block-elem$
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
@@ -10566,6 +10566,7 @@ TAG:^adfilter-block-elem$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
@@ -11310,6 +11311,7 @@ tanchuan.htm*.
 .rrsubway.com
 .riqu2015.com
 .rhgyg.com
+.resetgey.com
 .rencai56.com
 .remotedu.cn
 .reliancevalve.com
@@ -12401,7 +12403,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.resetgey.com
+.focusprolight.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12450,10 +12452,13 @@ ad.*.
 /(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiazai_downloaderAD\.
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /(.*/)?xiaobaiAD\.gif
 xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
+/(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -12748,9 +12753,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?web8/ad/.*
-/(.*/)?xiaoyi/960_
-/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13571,8 +13573,6 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
-.205.209.138.102
-.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14330,6 +14330,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
@@ -17156,6 +17157,7 @@ TAG:^adfilter-block-request$
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
 .211600.com/data/attachment/portal/
+.205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
 .20150930.cf
 .201*./.*\.myhard\.com[^\w%.-]
@@ -17727,6 +17729,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .rrsubway.com
 .riqu2015.com
 .rhgyg.com
+.resetgey.com
 .rencai56.com
 .remotedu.cn
 .reliancevalve.com
@@ -18361,7 +18364,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.resetgey.com
+.focusprolight.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18407,10 +18410,13 @@ ad.*.
 /(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiazai_downloaderAD\.
+/(.*/)?xiaoyi/960_
+/(.*/)?xiaoyi/360_
 /(.*/)?xiaobaiAD\.gif
 xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
+/(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -18696,9 +18702,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?web8/ad/.*
-/(.*/)?xiaoyi/960_
-/(.*/)?xiaoyi/360_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
