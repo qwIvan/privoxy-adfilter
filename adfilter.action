@@ -5642,6 +5642,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.aishang.bid
 .cayanfang.com
 .8521448.com
 .focusprolight.com
@@ -12406,6 +12407,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.aishang.bid
 .cayanfang.com
 .8521448.com
 .focusprolight.com
@@ -18370,6 +18372,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.aishang.bid
 .cayanfang.com
 .8521448.com
 .focusprolight.com
