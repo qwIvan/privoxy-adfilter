@@ -6377,6 +6377,7 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-dnt-R87} \
 }
+.sinaimg.cn/large/.*\.gif
 .xldytt.com
 
 {+client-header-tagger{adfilter-block-dnt-R88} \
@@ -13138,6 +13139,7 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-elem-R87} \
 }
+.sinaimg.cn/large/.*\.gif
 .xldytt.com
 
 {+client-header-tagger{adfilter-block-elem-R88} \
@@ -19959,6 +19961,7 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-request-R87} \
 }
+.sinaimg.cn/large/.*\.gif
 .xldytt.com
 
 {+client-header-tagger{adfilter-block-request-R89} \
