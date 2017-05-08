@@ -58,6 +58,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.7jiu.com.hk/hotsearch_box\.php
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5647,6 +5648,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.e7015.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6823,6 +6825,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.7jiu.com.hk/hotsearch_box\.php
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12412,6 +12415,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.e7015.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13581,6 +13585,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.7jiu.com.hk/hotsearch_box\.php
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18377,6 +18382,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.e7015.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
