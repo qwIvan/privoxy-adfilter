@@ -54,13 +54,14 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-/.*\..*\..*\?.*=1.*=1.*=1.*\.
-.*.*./.*\..*\?.*=1.*=1.*=1.*\.
-.*.*.*./.*\?.*=1.*=1.*=1.*\.
+/.*=1.*=1.*=1.*=1.*%
+/.*%.*=1.*=1.*=1.*=1
 /.*&uc=
 /.*\?pss=
-/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js\$/
-/^http://[^/]+\/[0-9a-z]{40,}\.js$
+/(.*/)?cpro\.
+cpro.*.
+/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^http://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
 .99kk*./.*\.com/img/.*\.gif
 .99kk*.com/img/.*\.gif
@@ -6825,13 +6826,14 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-/.*\..*\..*\?.*=1.*=1.*=1.*\.
-.*.*./.*\..*\?.*=1.*=1.*=1.*\.
-.*.*.*./.*\?.*=1.*=1.*=1.*\.
+/.*=1.*=1.*=1.*=1.*%
+/.*%.*=1.*=1.*=1.*=1
 /.*&uc=
 /.*\?pss=
-/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js\$/
-/^http://[^/]+\/[0-9a-z]{40,}\.js$
+/(.*/)?cpro\.
+cpro.*.
+/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^http://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
 .99kk*./.*\.com/img/.*\.gif
 .99kk*.com/img/.*\.gif
@@ -18900,8 +18902,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js\$/
-/^http://[^/]+\/[0-9a-z]{40,}\.js$
+/(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^http://[^/]+\/[0-9a-z]{40,}\.js
 .xxbiquge.com/.*\.htm
 .xs222.com/.*\.htm
 .xntk.net
@@ -20297,6 +20299,8 @@ floatad.*.
 
 {+client-header-tagger{adfilter-block-request-Rt} \
 }
+/(.*/)?cpro\.
+cpro.*.
 .xiyouhope.com
 .wy213.com
 .vnet.cn/.*\.html\?
@@ -20324,9 +20328,8 @@ tanchuan.htm*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/.*\..*\..*\?.*=1.*=1.*=1.*\.
-.*.*./.*\..*\?.*=1.*=1.*=1.*\.
-.*.*.*./.*\?.*=1.*=1.*=1.*\.
+/.*=1.*=1.*=1.*=1.*%
+/.*%.*=1.*=1.*=1.*=1
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
@@ -20520,6 +20523,8 @@ t.cn
 
 {+client-header-tagger{adfilter-block-xpopup-Rt} \
 }
+/(.*/)?cpro\.
+cpro.*.
 .xiyouhope.com
 .wy213.com
 .vnet.cn/.*\.html\?
