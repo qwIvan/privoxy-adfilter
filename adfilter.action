@@ -54,7 +54,7 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*%.*=___.*&.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -6822,7 +6822,7 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*%.*=___.*&.*=1.*=1.*%
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
@@ -20317,7 +20317,7 @@ tanchuan.htm*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/.*\?.*=.*%.*&.*=1.*=1.*=1.*%
+/.*\?.*%.*=___.*&.*=1.*=1.*%
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
