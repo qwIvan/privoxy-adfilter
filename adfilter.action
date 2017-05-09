@@ -58,6 +58,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.baidu.com/xpage/interface/getthirdad\?
+.tui22.com/b/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6826,6 +6828,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.baidu.com/xpage/interface/getthirdad\?
+.tui22.com/b/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13587,6 +13591,8 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.baidu.com/xpage/interface/getthirdad\?
+.tui22.com/b/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
