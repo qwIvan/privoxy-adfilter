@@ -64,6 +64,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
@@ -6017,6 +6018,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?wapifengas\?
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6843,6 +6845,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
@@ -12796,6 +12799,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?wapifengas\?
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13610,6 +13614,7 @@ TAG:^adfilter-block-request$
 .bdjs.120askimages.com
 /.*\?pss=
 /.*&pcn=
+.ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
@@ -18758,6 +18763,7 @@ AD2v1.1.js*.
 .*.cn/ads/
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/(.*/)?wapifengas\?
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
