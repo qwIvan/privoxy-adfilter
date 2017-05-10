@@ -64,6 +64,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
@@ -6845,6 +6846,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
@@ -13614,6 +13616,7 @@ TAG:^adfilter-block-request$
 .bdjs.120askimages.com
 /.*\?pss=
 /.*&pcn=
+.sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .ifengimg.com/p/ax_
 .toutiao.com/api/web_stars/\?
 .289.com/cqws/images/cqws-img\.jpg
