@@ -63,6 +63,9 @@ cpro.*.
 /(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^http://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.bdstatic.com/.*/mip-ad\.js
+.bdstatic.com/.*/mip-.*-ad-plus\.js
+.cnblogs.com/units/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6835,6 +6838,9 @@ cpro.*.
 /(.*/)?[^\w%.-]http://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^http://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.bdstatic.com/.*/mip-ad\.js
+.bdstatic.com/.*/mip-.*-ad-plus\.js
+.cnblogs.com/units/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13595,6 +13601,9 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.bdstatic.com/.*/mip-ad\.js
+.bdstatic.com/.*/mip-.*-ad-plus\.js
+.cnblogs.com/units/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
