@@ -64,6 +64,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
 .cnblogs.com/units/
 .zzzyk.com/js/
@@ -6840,6 +6841,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
 .cnblogs.com/units/
 .zzzyk.com/js/
@@ -13604,6 +13606,7 @@ TAG:^adfilter-block-request$
 .bdjs.120askimages.com
 /.*\?pss=
 /.*&pcn=
+.289.com/cqws/images/cqws-img\.jpg
 .bdstatic.com/.*/mip-.*ad
 .cnblogs.com/units/
 .zzzyk.com/js/
