@@ -1776,7 +1776,7 @@ cpro.*.
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
-.javl10.com/js/bnr_
+.j12lib.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -5662,6 +5662,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.mtburn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -8551,7 +8552,7 @@ cpro.*.
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
-.javl10.com/js/bnr_
+.j12lib.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -12437,6 +12438,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.mtburn.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -15242,7 +15244,7 @@ TAG:^adfilter-block-request$
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .javlibrary.com/js/bnr_
-.javl10.com/js/bnr_
+.j12lib.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
 .jandan.net/static/gg
@@ -19662,6 +19664,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.mtburn.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
