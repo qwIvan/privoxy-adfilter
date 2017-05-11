@@ -64,6 +64,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.youth.cn/include/adtop/
 .yinyuetai.com/others/admin/.*_1200x100\.
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .baihei.net/data/attachment/album/
@@ -6850,6 +6851,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
 /.*&pcn=
+.youth.cn/include/adtop/
 .yinyuetai.com/others/admin/.*_1200x100\.
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .baihei.net/data/attachment/album/
@@ -13624,6 +13626,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 /.*\?pss=
 /.*&pcn=
+.youth.cn/include/adtop/
 .yinyuetai.com/others/admin/.*_1200x100\.
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .baihei.net/data/attachment/album/
