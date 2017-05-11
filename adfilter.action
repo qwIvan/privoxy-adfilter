@@ -20799,6 +20799,7 @@ TAG:^adfilter-unblock-dnt$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .letv.com/tuiguang/
 .lefile.cn/\?\?.*,
@@ -21609,17 +21610,13 @@ addata.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R324} \
 }
-.libs.baidu.com/jquery/
+/(.*/)?pic/ad/.*
 
 {+client-header-tagger{adfilter-unblock-dnt-R325} \
 }
-/(.*/)?pic/ad/.*
-
-{+client-header-tagger{adfilter-unblock-dnt-R326} \
-}
 /.*_adview_pic_
 
-{+client-header-tagger{adfilter-unblock-dnt-R327} \
+{+client-header-tagger{adfilter-unblock-dnt-R326} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -21807,6 +21804,7 @@ TAG:^adfilter-unblock-elem$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .letv.com/tuiguang/
 .lefile.cn/\?\?.*,
@@ -22605,17 +22603,13 @@ addata.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R324} \
 }
-.libs.baidu.com/jquery/
+/(.*/)?pic/ad/.*
 
 {+client-header-tagger{adfilter-unblock-elem-R325} \
 }
-/(.*/)?pic/ad/.*
-
-{+client-header-tagger{adfilter-unblock-elem-R326} \
-}
 /.*_adview_pic_
 
-{+client-header-tagger{adfilter-unblock-elem-R327} \
+{+client-header-tagger{adfilter-unblock-elem-R326} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -22798,6 +22792,7 @@ TAG:^adfilter-unblock-request$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .lefile.cn/\?\?.*,
 .landtop.com.tw/images/ad/
@@ -23789,20 +23784,15 @@ addata.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R324} \
 }
-.libs.baidu.com/jquery/
+/(.*/)?pic/ad/.*
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R325} \
 }
-/(.*/)?pic/ad/.*
-
-{-block \
- +client-header-tagger{adfilter-unblock-request-R326} \
-}
 /.*_adview_pic_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R327} \
+ +client-header-tagger{adfilter-unblock-request-R326} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
