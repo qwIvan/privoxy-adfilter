@@ -61,6 +61,8 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.bqg5.cc/images/960-90\.jpg
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
 .guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
@@ -1379,7 +1381,7 @@ cpro.*.
 .myhack58.com/.*0
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/.*_677_210\.
-.mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*_580
 .mydrivers.com/news/2017/.*-260\.
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
@@ -6857,6 +6859,8 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.bqg5.cc/images/960-90\.jpg
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
 .guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
@@ -8175,7 +8179,7 @@ cpro.*.
 .myhack58.com/.*0
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/.*_677_210\.
-.mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*_580
 .mydrivers.com/news/2017/.*-260\.
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
@@ -13643,6 +13647,8 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .dm.gzpinda.com
 /.*&uc=
+.bqg5.cc/images/960-90\.jpg
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
 .guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
@@ -14911,7 +14917,7 @@ TAG:^adfilter-block-request$
 .myhard.com/s\?z=
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/.*_677_210\.
-.mydrivers.com/news/2017/.*-580\.
+.mydrivers.com/news/2017/.*_580
 .mydrivers.com/news/2017/.*-260\.
 .mydrivers.com/m/apptuijian\.
 .mydrivers.com/images/mi140V90\.gif
