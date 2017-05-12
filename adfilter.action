@@ -61,6 +61,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6855,6 +6856,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13639,6 +13641,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .dm.gzpinda.com
 /.*&uc=
+.guancha.cn/images/weiweibook\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
