@@ -55,15 +55,12 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.dm.gzpinda.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.youth.cn/include/adtop/
-.yinyuetai.com/others/admin/.*_1200x100\.
-.buimg.com/588755/360bfd3735e94b25\.jpg
-.baihei.net/data/attachment/album/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -216,6 +213,7 @@ cpro.*.
 .youthwant.com.tw/dodo\.php\?adjs=
 .youth.cn
 .youth.cn/qwtf2015/
+.youth.cn/include/adtop/
 .youth.cn/images/public_
 .youth.cn/images/m\.js
 .youth.cn/images/c\.js
@@ -243,6 +241,7 @@ cpro.*.
 .yinyuetai.com/proment/get-play-medias\?.*&position=pauseroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
 .yinyuetai.com/partner/
+.yinyuetai.com/others/admin/.*_1200x100\.
 .yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
@@ -2954,6 +2953,7 @@ cpro.*.
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
@@ -3114,6 +3114,7 @@ cpro.*.
 .baishuku.com/news/
 .baike.com/iframeheightforad\.
 .baike.com/3g/ads/
+.baihei.net/data/attachment/album/
 .baifen.music.baidu.com
 .baiduyunpan.net/t/
 .baidud.cn/aoao/down_
@@ -4312,6 +4313,7 @@ tanchuan.htm*.
 .xiaoyang.mobi
 .xiaobiaoucai.cn
 .xhydrs.cn
+.xhxnkyy.com
 .xhsxgmt.cn
 .xhmrv.com
 .xhbqczl.com
@@ -4699,6 +4701,7 @@ tanchuan.htm*.
 .moodoocrv.com.cn
 .momzs.com
 .mobads.baidu.com
+.mnxtu.com
 .mlt01.com
 .mingysh.com
 .mingxianshanghang.cn
@@ -4841,6 +4844,7 @@ tanchuan.htm*.
 .jianbaimei.com
 .jiajv.net
 .jhzl001.com
+.jhtcdj.com
 .jhakie.com
 .jghcy.com
 .jgchq.com
@@ -4849,6 +4853,7 @@ tanchuan.htm*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jackaow.com
 .ja9377.com
 .j8j9.com
 .iuuff.com
@@ -5070,6 +5075,7 @@ tanchuan.htm*.
 .dmtrck.com
 .dm1080p.com
 .dlzjdesign.com
+.dlrijiaele.com
 .dleke.com
 .dlads.cn
 .displink.com
@@ -5315,6 +5321,7 @@ tanchuan.htm*.
 .99lolo.com
 .99909988.com
 .9718.com
+.9669.com
 .9665yx.com
 .95558000.com
 .9519.net
@@ -5669,12 +5676,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.jhtcdj.com
-.dlrijiaele.com
-.xhxnkyy.com
-.jackaow.com
-.mnxtu.com
-.9669.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6844,15 +6845,12 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.dm.gzpinda.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.youth.cn/include/adtop/
-.yinyuetai.com/others/admin/.*_1200x100\.
-.buimg.com/588755/360bfd3735e94b25\.jpg
-.baihei.net/data/attachment/album/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7005,6 +7003,7 @@ cpro.*.
 .youthwant.com.tw/dodo\.php\?adjs=
 .youth.cn
 .youth.cn/qwtf2015/
+.youth.cn/include/adtop/
 .youth.cn/images/public_
 .youth.cn/images/m\.js
 .youth.cn/images/c\.js
@@ -7032,6 +7031,7 @@ cpro.*.
 .yinyuetai.com/proment/get-play-medias\?.*&position=pauseroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
 .yinyuetai.com/partner/
+.yinyuetai.com/others/admin/.*_1200x100\.
 .yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
@@ -9743,6 +9743,7 @@ cpro.*.
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
@@ -9903,6 +9904,7 @@ cpro.*.
 .baishuku.com/news/
 .baike.com/iframeheightforad\.
 .baike.com/3g/ads/
+.baihei.net/data/attachment/album/
 .baifen.music.baidu.com
 .baiduyunpan.net/t/
 .baidud.cn/aoao/down_
@@ -11101,6 +11103,7 @@ tanchuan.htm*.
 .xiaoyang.mobi
 .xiaobiaoucai.cn
 .xhydrs.cn
+.xhxnkyy.com
 .xhsxgmt.cn
 .xhmrv.com
 .xhbqczl.com
@@ -11488,6 +11491,7 @@ tanchuan.htm*.
 .moodoocrv.com.cn
 .momzs.com
 .mobads.baidu.com
+.mnxtu.com
 .mlt01.com
 .mingysh.com
 .mingxianshanghang.cn
@@ -11630,6 +11634,7 @@ tanchuan.htm*.
 .jianbaimei.com
 .jiajv.net
 .jhzl001.com
+.jhtcdj.com
 .jhakie.com
 .jghcy.com
 .jgchq.com
@@ -11638,6 +11643,7 @@ tanchuan.htm*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jackaow.com
 .ja9377.com
 .j8j9.com
 .iuuff.com
@@ -11859,6 +11865,7 @@ tanchuan.htm*.
 .dmtrck.com
 .dm1080p.com
 .dlzjdesign.com
+.dlrijiaele.com
 .dleke.com
 .dlads.cn
 .displink.com
@@ -12104,6 +12111,7 @@ tanchuan.htm*.
 .99lolo.com
 .99909988.com
 .9718.com
+.9669.com
 .9665yx.com
 .95558000.com
 .9519.net
@@ -12458,12 +12466,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.jhtcdj.com
-.dlrijiaele.com
-.xhxnkyy.com
-.jackaow.com
-.mnxtu.com
-.9669.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13627,11 +13629,8 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.dm.gzpinda.com
 /.*&uc=
-.youth.cn/include/adtop/
-.yinyuetai.com/others/admin/.*_1200x100\.
-.buimg.com/588755/360bfd3735e94b25\.jpg
-.baihei.net/data/attachment/album/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13782,6 +13781,7 @@ TAG:^adfilter-block-request$
 .youxi.baidu.com/tips/bdtips_min\.js
 .youthwant.com.tw/dodo\.php\?adjs=
 .youth.cn/qwtf2015/
+.youth.cn/include/adtop/
 .youth.cn/images/public_
 .youth.cn/images/m\.js
 .youth.cn/images/c\.js
@@ -13806,6 +13806,7 @@ TAG:^adfilter-block-request$
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=pauseroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
+.yinyuetai.com/others/admin/.*_1200x100\.
 .yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
@@ -16395,6 +16396,7 @@ TAG:^adfilter-block-request$
 .bukade.com/js/tj2\.js
 .bukade.com/js/b_
 .bukade.com/js/.*_p_
+.buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
@@ -16552,6 +16554,7 @@ TAG:^adfilter-block-request$
 .baishulou.net/html/
 .baike.com/iframeheightforad\.
 .baike.com/3g/ads/
+.baihei.net/data/attachment/album/
 .baifen.music.baidu.com
 .baiduyunpan.net/t/
 .baidud.cn/aoao/down_
@@ -17638,6 +17641,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xiaoyang.mobi
 .xiaobiaoucai.cn
 .xhydrs.cn
+.xhxnkyy.com
 .xhsxgmt.cn
 .xhmrv.com
 .xhbqczl.com
@@ -17895,6 +17899,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .motohelpr.com
 .moonwish.com.cn
 .moodoocrv.com.cn
+.mnxtu.com
 .mlt01.com
 .mingysh.com
 .mingxianshanghang.cn
@@ -17981,6 +17986,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jianbaimei.com
 .jiajv.net
 .jhzl001.com
+.jhtcdj.com
 .jhakie.com
 .jghcy.com
 .jgchq.com
@@ -17989,6 +17995,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jackaow.com
 .ja9377.com
 .iuuff.com
 .ishowbg.com
@@ -18132,6 +18139,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dou777.com
 .dnvus.com
 .dlzjdesign.com
+.dlrijiaele.com
 .dleke.com
 .diaojiaoji168.com
 .dhxyzx.cn
@@ -18444,11 +18452,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jhtcdj.com
-.dlrijiaele.com
-.xhxnkyy.com
-.jackaow.com
-.mnxtu.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19057,6 +19060,7 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 .888god.*./(.*/)?.*\.
 .7abpchina.*./(.*/)?.*/.*\.
 .yxdyk.com
+.9669.com
 .685wo.com
 r.*./.*\.com/view\.php\?uid=
 r.*.com/view\.php\?uid=
@@ -19135,7 +19139,6 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.9669.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
@@ -20805,7 +20808,6 @@ TAG:^adfilter-unblock-dnt$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
-.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .letv.com/tuiguang/
 .lefile.cn/\?\?.*,
@@ -20924,6 +20926,7 @@ TAG:^adfilter-unblock-dnt$
 .bbs.muzhiwan.com/.*300.*250
 .banma.com/statics/js/\?\?
 .baidustatic.com/cpro/ui/baiduPatch\.swf
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .bahamut.com.tw/JS/ad/mobileBigBanner\.js
 .avso.pw
 .avmo.pw
@@ -21810,7 +21813,6 @@ TAG:^adfilter-unblock-elem$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
-.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .letv.com/tuiguang/
 .lefile.cn/\?\?.*,
@@ -21926,6 +21928,7 @@ TAG:^adfilter-unblock-elem$
 .bbs.muzhiwan.com/.*300.*250
 .banma.com/statics/js/\?\?
 .baidustatic.com/cpro/ui/baiduPatch\.swf
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .bahamut.com.tw/JS/ad/mobileBigBanner\.js
 .avso.pw
 .avmo.pw
@@ -22798,7 +22801,6 @@ TAG:^adfilter-unblock-request$
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
-.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .letvcloud.com/.*&showAd=
 .lefile.cn/\?\?.*,
 .landtop.com.tw/images/ad/
@@ -22911,6 +22913,7 @@ TAG:^adfilter-unblock-request$
 .bbs.muzhiwan.com/.*300.*250
 .banma.com/statics/js/\?\?
 .baidustatic.com/cpro/ui/baiduPatch\.swf
+.baidu.com/jquery/1\.4\.2/jquery\.min\.js
 .bahamut.com.tw/JS/ad/mobileBigBanner\.js
 .avso.pw
 .avmo.pw
