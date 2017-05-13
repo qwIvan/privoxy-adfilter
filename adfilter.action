@@ -61,6 +61,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.cyi.m.muyuge.com
 .bqg5.cc/images/960-90\.jpg
 .kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
@@ -5680,6 +5681,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shxinjie.cn
+.lflili.com
+.rpaulfrank.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6129,21 +6133,18 @@ banner.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R20} \
 }
+.sinaimg.cn/large/
 
 {+client-header-tagger{adfilter-block-dnt-R21} \
 }
-.sinaimg.cn/large/
-
-{+client-header-tagger{adfilter-block-dnt-R22} \
-}
 .gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-dnt-R23} \
+{+client-header-tagger{adfilter-block-dnt-R22} \
 }
 /(.*/)?mydisplay\.
 mydisplay.*.
 
-{+client-header-tagger{adfilter-block-dnt-R24} \
+{+client-header-tagger{adfilter-block-dnt-R23} \
 }
 /(.*/)?images/888\.gif
 /(.*/)?images/.*gamble
@@ -6151,341 +6152,344 @@ mydisplay.*.
 /(.*/)?adnow\.js
 adnow.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R25} \
+{+client-header-tagger{adfilter-block-dnt-R24} \
 }
 /(.*/)?gTool\.js
 gTool.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R26} \
+{+client-header-tagger{adfilter-block-dnt-R25} \
 }
 .picasion.com
 
-{+client-header-tagger{adfilter-block-dnt-R27} \
+{+client-header-tagger{adfilter-block-dnt-R26} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R28} \
+{+client-header-tagger{adfilter-block-dnt-R27} \
 }
 .tietuku.*.
 
-{+client-header-tagger{adfilter-block-dnt-R29} \
+{+client-header-tagger{adfilter-block-dnt-R28} \
 }
 .uploads.duapp.com/images/
 
-{+client-header-tagger{adfilter-block-dnt-R30} \
+{+client-header-tagger{adfilter-block-dnt-R29} \
 }
 .media.*./.*\.gif
 .media.*.gif*.
 
-{+client-header-tagger{adfilter-block-dnt-R31} \
+{+client-header-tagger{adfilter-block-dnt-R30} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R32} \
+{+client-header-tagger{adfilter-block-dnt-R31} \
 }
 .uum6.com
 
-{+client-header-tagger{adfilter-block-dnt-R33} \
+{+client-header-tagger{adfilter-block-dnt-R32} \
 }
 .imgbus.com
 
-{+client-header-tagger{adfilter-block-dnt-R34} \
+{+client-header-tagger{adfilter-block-dnt-R33} \
 }
 .bdimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R35} \
+{+client-header-tagger{adfilter-block-dnt-R34} \
 }
 .bootcss.com
 
-{+client-header-tagger{adfilter-block-dnt-R36} \
+{+client-header-tagger{adfilter-block-dnt-R35} \
 }
 /(.*/)?aServ_header\.
 /(.*/)?aServ_channl\.
 
-{+client-header-tagger{adfilter-block-dnt-R37} \
+{+client-header-tagger{adfilter-block-dnt-R36} \
 }
 .imagehost.click
 
-{+client-header-tagger{adfilter-block-dnt-R38} \
+{+client-header-tagger{adfilter-block-dnt-R37} \
 }
 .alicdn.com
 
-{+client-header-tagger{adfilter-block-dnt-R39} \
+{+client-header-tagger{adfilter-block-dnt-R38} \
 }
 .piimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R40} \
+{+client-header-tagger{adfilter-block-dnt-R39} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R41} \
+{+client-header-tagger{adfilter-block-dnt-R40} \
 }
 t.cn
 
-{+client-header-tagger{adfilter-block-dnt-R42} \
+{+client-header-tagger{adfilter-block-dnt-R41} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R43} \
+{+client-header-tagger{adfilter-block-dnt-R42} \
 }
 /(.*/)?2015new\.js
 2015new.js*.
 
-{+client-header-tagger{adfilter-block-dnt-R44} \
+{+client-header-tagger{adfilter-block-dnt-R43} \
 }
 /(.*/)?83/
 
-{+client-header-tagger{adfilter-block-dnt-R45} \
+{+client-header-tagger{adfilter-block-dnt-R44} \
 }
 .bp.blogspot.com
 
-{+client-header-tagger{adfilter-block-dnt-R46} \
+{+client-header-tagger{adfilter-block-dnt-R45} \
 }
 .img.china.alibaba.com/img/ibank/
 
-{+client-header-tagger{adfilter-block-dnt-R47} \
+{+client-header-tagger{adfilter-block-dnt-R46} \
 }
 rc.sz.zj.cn/.*\.swf
 
-{+client-header-tagger{adfilter-block-dnt-R48} \
+{+client-header-tagger{adfilter-block-dnt-R47} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-dnt-R49} \
+{+client-header-tagger{adfilter-block-dnt-R48} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-dnt-R50} \
+{+client-header-tagger{adfilter-block-dnt-R49} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
 .hdslb.com/bfs/archive/
 .acg.tv
 
-{+client-header-tagger{adfilter-block-dnt-R51} \
+{+client-header-tagger{adfilter-block-dnt-R50} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-dnt-R52} \
+{+client-header-tagger{adfilter-block-dnt-R51} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-dnt-R53} \
+{+client-header-tagger{adfilter-block-dnt-R52} \
 }
 .duapp.com
 
-{+client-header-tagger{adfilter-block-dnt-R54} \
+{+client-header-tagger{adfilter-block-dnt-R53} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R55} \
+{+client-header-tagger{adfilter-block-dnt-R54} \
 }
 .sinaimg.cn/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R56} \
+{+client-header-tagger{adfilter-block-dnt-R55} \
 }
 .iecer.de
 
-{+client-header-tagger{adfilter-block-dnt-R57} \
+{+client-header-tagger{adfilter-block-dnt-R56} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-dnt-R58} \
+{+client-header-tagger{adfilter-block-dnt-R57} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-dnt-R59} \
+{+client-header-tagger{adfilter-block-dnt-R58} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-dnt-R60} \
+{+client-header-tagger{adfilter-block-dnt-R59} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-dnt-R61} \
+{+client-header-tagger{adfilter-block-dnt-R60} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-dnt-R62} \
+{+client-header-tagger{adfilter-block-dnt-R61} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-dnt-R63} \
+{+client-header-tagger{adfilter-block-dnt-R62} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-dnt-R64} \
+{+client-header-tagger{adfilter-block-dnt-R63} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-dnt-R65} \
+{+client-header-tagger{adfilter-block-dnt-R64} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-dnt-R66} \
+{+client-header-tagger{adfilter-block-dnt-R65} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-dnt-R67} \
+{+client-header-tagger{adfilter-block-dnt-R66} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-dnt-R68} \
+{+client-header-tagger{adfilter-block-dnt-R67} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-dnt-R69} \
+{+client-header-tagger{adfilter-block-dnt-R68} \
 }
 .s.pacn.ws/.*\?
 
-{+client-header-tagger{adfilter-block-dnt-R70} \
+{+client-header-tagger{adfilter-block-dnt-R69} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-dnt-R71} \
+{+client-header-tagger{adfilter-block-dnt-R70} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-dnt-R72} \
+{+client-header-tagger{adfilter-block-dnt-R71} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-dnt-R73} \
+{+client-header-tagger{adfilter-block-dnt-R72} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R74} \
+{+client-header-tagger{adfilter-block-dnt-R73} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-dnt-R75} \
+{+client-header-tagger{adfilter-block-dnt-R74} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-dnt-R76} \
+{+client-header-tagger{adfilter-block-dnt-R75} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-dnt-R77} \
+{+client-header-tagger{adfilter-block-dnt-R76} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-dnt-R78} \
+{+client-header-tagger{adfilter-block-dnt-R77} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-dnt-R79} \
+{+client-header-tagger{adfilter-block-dnt-R78} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-dnt-R80} \
+{+client-header-tagger{adfilter-block-dnt-R79} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-dnt-R81} \
+{+client-header-tagger{adfilter-block-dnt-R80} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-dnt-R82} \
+{+client-header-tagger{adfilter-block-dnt-R81} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-dnt-R83} \
+{+client-header-tagger{adfilter-block-dnt-R82} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-dnt-R84} \
+{+client-header-tagger{adfilter-block-dnt-R83} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-dnt-R85} \
+{+client-header-tagger{adfilter-block-dnt-R84} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-dnt-R86} \
+{+client-header-tagger{adfilter-block-dnt-R85} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R87} \
+{+client-header-tagger{adfilter-block-dnt-R86} \
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-dnt-R88} \
+{+client-header-tagger{adfilter-block-dnt-R87} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-dnt-R89} \
+{+client-header-tagger{adfilter-block-dnt-R88} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R90} \
+{+client-header-tagger{adfilter-block-dnt-R89} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-dnt-R91} \
+{+client-header-tagger{adfilter-block-dnt-R90} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R92} \
+{+client-header-tagger{adfilter-block-dnt-R91} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-dnt-R93} \
+{+client-header-tagger{adfilter-block-dnt-R92} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-dnt-R94} \
+{+client-header-tagger{adfilter-block-dnt-R93} \
 }
 .imgchr.com
 
-{+client-header-tagger{adfilter-block-dnt-R95} \
+{+client-header-tagger{adfilter-block-dnt-R94} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R96} \
+{+client-header-tagger{adfilter-block-dnt-R95} \
 }
 .riju.com/pr/
 
-{+client-header-tagger{adfilter-block-dnt-R97} \
+{+client-header-tagger{adfilter-block-dnt-R96} \
 }
 .loli.io
 
-{+client-header-tagger{adfilter-block-dnt-R98} \
+{+client-header-tagger{adfilter-block-dnt-R97} \
 }
 /(.*/)?\?
 
-{+client-header-tagger{adfilter-block-dnt-R99} \
+{+client-header-tagger{adfilter-block-dnt-R98} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-dnt-R100} \
+{+client-header-tagger{adfilter-block-dnt-R99} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-dnt-R101} \
+{+client-header-tagger{adfilter-block-dnt-R100} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R102} \
+{+client-header-tagger{adfilter-block-dnt-R101} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-dnt-R103} \
+{+client-header-tagger{adfilter-block-dnt-R102} \
 }
 .55.la/anonymous/banner/
+
+{+client-header-tagger{adfilter-block-dnt-R103} \
+}
 
 {+client-header-tagger{adfilter-block-dnt-R104} \
 }
@@ -6856,6 +6860,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.cyi.m.muyuge.com
 .bqg5.cc/images/960-90\.jpg
 .kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
@@ -12475,6 +12480,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.shxinjie.cn
+.lflili.com
+.rpaulfrank.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12924,21 +12932,18 @@ banner.js*.
 
 {+client-header-tagger{adfilter-block-elem-R20} \
 }
+.sinaimg.cn/large/
 
 {+client-header-tagger{adfilter-block-elem-R21} \
 }
-.sinaimg.cn/large/
-
-{+client-header-tagger{adfilter-block-elem-R22} \
-}
 .gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-elem-R23} \
+{+client-header-tagger{adfilter-block-elem-R22} \
 }
 /(.*/)?mydisplay\.
 mydisplay.*.
 
-{+client-header-tagger{adfilter-block-elem-R24} \
+{+client-header-tagger{adfilter-block-elem-R23} \
 }
 /(.*/)?images/888\.gif
 /(.*/)?images/.*gamble
@@ -12946,341 +12951,344 @@ mydisplay.*.
 /(.*/)?adnow\.js
 adnow.js*.
 
-{+client-header-tagger{adfilter-block-elem-R25} \
+{+client-header-tagger{adfilter-block-elem-R24} \
 }
 /(.*/)?gTool\.js
 gTool.js*.
 
-{+client-header-tagger{adfilter-block-elem-R26} \
+{+client-header-tagger{adfilter-block-elem-R25} \
 }
 .picasion.com
 
-{+client-header-tagger{adfilter-block-elem-R27} \
+{+client-header-tagger{adfilter-block-elem-R26} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R28} \
+{+client-header-tagger{adfilter-block-elem-R27} \
 }
 .tietuku.*.
 
-{+client-header-tagger{adfilter-block-elem-R29} \
+{+client-header-tagger{adfilter-block-elem-R28} \
 }
 .uploads.duapp.com/images/
 
-{+client-header-tagger{adfilter-block-elem-R30} \
+{+client-header-tagger{adfilter-block-elem-R29} \
 }
 .media.*./.*\.gif
 .media.*.gif*.
 
-{+client-header-tagger{adfilter-block-elem-R31} \
+{+client-header-tagger{adfilter-block-elem-R30} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R32} \
+{+client-header-tagger{adfilter-block-elem-R31} \
 }
 .uum6.com
 
-{+client-header-tagger{adfilter-block-elem-R33} \
+{+client-header-tagger{adfilter-block-elem-R32} \
 }
 .imgbus.com
 
-{+client-header-tagger{adfilter-block-elem-R34} \
+{+client-header-tagger{adfilter-block-elem-R33} \
 }
 .bdimg.com
 
-{+client-header-tagger{adfilter-block-elem-R35} \
+{+client-header-tagger{adfilter-block-elem-R34} \
 }
 .bootcss.com
 
-{+client-header-tagger{adfilter-block-elem-R36} \
+{+client-header-tagger{adfilter-block-elem-R35} \
 }
 /(.*/)?aServ_header\.
 /(.*/)?aServ_channl\.
 
-{+client-header-tagger{adfilter-block-elem-R37} \
+{+client-header-tagger{adfilter-block-elem-R36} \
 }
 .imagehost.click
 
-{+client-header-tagger{adfilter-block-elem-R38} \
+{+client-header-tagger{adfilter-block-elem-R37} \
 }
 .alicdn.com
 
-{+client-header-tagger{adfilter-block-elem-R39} \
+{+client-header-tagger{adfilter-block-elem-R38} \
 }
 .piimg.com
 
-{+client-header-tagger{adfilter-block-elem-R40} \
+{+client-header-tagger{adfilter-block-elem-R39} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R41} \
+{+client-header-tagger{adfilter-block-elem-R40} \
 }
 t.cn
 
-{+client-header-tagger{adfilter-block-elem-R42} \
+{+client-header-tagger{adfilter-block-elem-R41} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R43} \
+{+client-header-tagger{adfilter-block-elem-R42} \
 }
 /(.*/)?2015new\.js
 2015new.js*.
 
-{+client-header-tagger{adfilter-block-elem-R44} \
+{+client-header-tagger{adfilter-block-elem-R43} \
 }
 /(.*/)?83/
 
-{+client-header-tagger{adfilter-block-elem-R45} \
+{+client-header-tagger{adfilter-block-elem-R44} \
 }
 .bp.blogspot.com
 
-{+client-header-tagger{adfilter-block-elem-R46} \
+{+client-header-tagger{adfilter-block-elem-R45} \
 }
 .img.china.alibaba.com/img/ibank/
 
-{+client-header-tagger{adfilter-block-elem-R47} \
+{+client-header-tagger{adfilter-block-elem-R46} \
 }
 rc.sz.zj.cn/.*\.swf
 
-{+client-header-tagger{adfilter-block-elem-R48} \
+{+client-header-tagger{adfilter-block-elem-R47} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-elem-R49} \
+{+client-header-tagger{adfilter-block-elem-R48} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-elem-R50} \
+{+client-header-tagger{adfilter-block-elem-R49} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
 .hdslb.com/bfs/archive/
 .acg.tv
 
-{+client-header-tagger{adfilter-block-elem-R51} \
+{+client-header-tagger{adfilter-block-elem-R50} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-elem-R52} \
+{+client-header-tagger{adfilter-block-elem-R51} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-elem-R53} \
+{+client-header-tagger{adfilter-block-elem-R52} \
 }
 .duapp.com
 
-{+client-header-tagger{adfilter-block-elem-R54} \
+{+client-header-tagger{adfilter-block-elem-R53} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R55} \
+{+client-header-tagger{adfilter-block-elem-R54} \
 }
 .sinaimg.cn/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R56} \
+{+client-header-tagger{adfilter-block-elem-R55} \
 }
 .iecer.de
 
-{+client-header-tagger{adfilter-block-elem-R57} \
+{+client-header-tagger{adfilter-block-elem-R56} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-elem-R58} \
+{+client-header-tagger{adfilter-block-elem-R57} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-elem-R59} \
+{+client-header-tagger{adfilter-block-elem-R58} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-elem-R60} \
+{+client-header-tagger{adfilter-block-elem-R59} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-elem-R61} \
+{+client-header-tagger{adfilter-block-elem-R60} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-elem-R62} \
+{+client-header-tagger{adfilter-block-elem-R61} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-elem-R63} \
+{+client-header-tagger{adfilter-block-elem-R62} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-elem-R64} \
+{+client-header-tagger{adfilter-block-elem-R63} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-elem-R65} \
+{+client-header-tagger{adfilter-block-elem-R64} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-elem-R66} \
+{+client-header-tagger{adfilter-block-elem-R65} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-elem-R67} \
+{+client-header-tagger{adfilter-block-elem-R66} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-elem-R68} \
+{+client-header-tagger{adfilter-block-elem-R67} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-elem-R69} \
+{+client-header-tagger{adfilter-block-elem-R68} \
 }
 .s.pacn.ws/.*\?
 
-{+client-header-tagger{adfilter-block-elem-R70} \
+{+client-header-tagger{adfilter-block-elem-R69} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-elem-R71} \
+{+client-header-tagger{adfilter-block-elem-R70} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-elem-R72} \
+{+client-header-tagger{adfilter-block-elem-R71} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-elem-R73} \
+{+client-header-tagger{adfilter-block-elem-R72} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-elem-R74} \
+{+client-header-tagger{adfilter-block-elem-R73} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-elem-R75} \
+{+client-header-tagger{adfilter-block-elem-R74} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-elem-R76} \
+{+client-header-tagger{adfilter-block-elem-R75} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-elem-R77} \
+{+client-header-tagger{adfilter-block-elem-R76} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-elem-R78} \
+{+client-header-tagger{adfilter-block-elem-R77} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-elem-R79} \
+{+client-header-tagger{adfilter-block-elem-R78} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-elem-R80} \
+{+client-header-tagger{adfilter-block-elem-R79} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-elem-R81} \
+{+client-header-tagger{adfilter-block-elem-R80} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-elem-R82} \
+{+client-header-tagger{adfilter-block-elem-R81} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-elem-R83} \
+{+client-header-tagger{adfilter-block-elem-R82} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-elem-R84} \
+{+client-header-tagger{adfilter-block-elem-R83} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-elem-R85} \
+{+client-header-tagger{adfilter-block-elem-R84} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-elem-R86} \
+{+client-header-tagger{adfilter-block-elem-R85} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R87} \
+{+client-header-tagger{adfilter-block-elem-R86} \
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-elem-R88} \
+{+client-header-tagger{adfilter-block-elem-R87} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-elem-R89} \
+{+client-header-tagger{adfilter-block-elem-R88} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R90} \
+{+client-header-tagger{adfilter-block-elem-R89} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-elem-R91} \
+{+client-header-tagger{adfilter-block-elem-R90} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-elem-R92} \
+{+client-header-tagger{adfilter-block-elem-R91} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-elem-R93} \
+{+client-header-tagger{adfilter-block-elem-R92} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-elem-R94} \
+{+client-header-tagger{adfilter-block-elem-R93} \
 }
 .imgchr.com
 
-{+client-header-tagger{adfilter-block-elem-R95} \
+{+client-header-tagger{adfilter-block-elem-R94} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R96} \
+{+client-header-tagger{adfilter-block-elem-R95} \
 }
 .riju.com/pr/
 
-{+client-header-tagger{adfilter-block-elem-R97} \
+{+client-header-tagger{adfilter-block-elem-R96} \
 }
 .loli.io
 
-{+client-header-tagger{adfilter-block-elem-R98} \
+{+client-header-tagger{adfilter-block-elem-R97} \
 }
 /(.*/)?\?
 
-{+client-header-tagger{adfilter-block-elem-R99} \
+{+client-header-tagger{adfilter-block-elem-R98} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-elem-R100} \
+{+client-header-tagger{adfilter-block-elem-R99} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-elem-R101} \
+{+client-header-tagger{adfilter-block-elem-R100} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-elem-R102} \
+{+client-header-tagger{adfilter-block-elem-R101} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-elem-R103} \
+{+client-header-tagger{adfilter-block-elem-R102} \
 }
 .55.la/anonymous/banner/
+
+{+client-header-tagger{adfilter-block-elem-R103} \
+}
 
 {+client-header-tagger{adfilter-block-elem-R104} \
 }
@@ -13641,6 +13649,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .dm.gzpinda.com
 /.*&uc=
+.cyi.m.muyuge.com
 .bqg5.cc/images/960-90\.jpg
 .kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .douyu.com/member/gamegift/gameList/
@@ -18466,6 +18475,9 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.shxinjie.cn
+.lflili.com
+.rpaulfrank.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18819,7 +18831,7 @@ TAG:^adfilter-block-request-Aaisv-Caisv$
 .am.zdnet.com.cn/www/images/
 /(.*/)?common/cf/.*
 
-{+client-header-tagger{adfilter-block-request-Aaisv-Caisv-when-R50} \
+{+client-header-tagger{adfilter-block-request-Aaisv-Caisv-when-R49} \
 }
 .acg.tv
 
@@ -18861,7 +18873,7 @@ TAG:^adfilter-block-request-Aaov-Caov$
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-Aaov-Caov-when-R50} \
+{+client-header-tagger{adfilter-block-request-Aaov-Caov-when-R49} \
 }
 .hdslb.com/u_user/
 .hdslb.com/group1/
@@ -18923,11 +18935,11 @@ TAG:^adfilter-block-request-Ai-Ci$
 /(.*/)?\[0-9\]\+\\\.gif/
 /[0-9]+\.gif
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R60} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R59} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R69} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R68} \
 }
 .s.pacn.ws/.*\?
 
@@ -19040,11 +19052,11 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R12} \
 }
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R76} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R75} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R87} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R86} \
 }
 .s.yimg.com/ja/ap/
 
@@ -19814,20 +19826,20 @@ banner.js*.
 }
 .sinaimg.cn
 
-{+client-header-tagger{adfilter-block-request-R21} \
+{+client-header-tagger{adfilter-block-request-R20} \
 }
 .sinaimg.cn/large/
 
-{+client-header-tagger{adfilter-block-request-R22} \
+{+client-header-tagger{adfilter-block-request-R21} \
 }
 .gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-request-R23} \
+{+client-header-tagger{adfilter-block-request-R22} \
 }
 /(.*/)?mydisplay\.
 mydisplay.*.
 
-{+client-header-tagger{adfilter-block-request-R24} \
+{+client-header-tagger{adfilter-block-request-R23} \
 }
 /(.*/)?images/888\.gif
 /(.*/)?images/.*gamble
@@ -19835,300 +19847,300 @@ mydisplay.*.
 /(.*/)?adnow\.js
 adnow.js*.
 
-{+client-header-tagger{adfilter-block-request-R25} \
+{+client-header-tagger{adfilter-block-request-R24} \
 }
 /(.*/)?gTool\.js
 gTool.js*.
 
-{+client-header-tagger{adfilter-block-request-R26} \
+{+client-header-tagger{adfilter-block-request-R25} \
 }
 .picasion.com
 
 {+client-header-tagger{adfilter-block-request-R187t} \
 }
 
-{+client-header-tagger{adfilter-block-request-R28} \
+{+client-header-tagger{adfilter-block-request-R27} \
 }
 .tietuku.*.
 
-{+client-header-tagger{adfilter-block-request-R29} \
+{+client-header-tagger{adfilter-block-request-R28} \
 }
 .uploads.duapp.com/images/
 
-{+client-header-tagger{adfilter-block-request-R30} \
+{+client-header-tagger{adfilter-block-request-R29} \
 }
 .media.*./.*\.gif
 .media.*.gif*.
 
-{+client-header-tagger{adfilter-block-request-R31} \
+{+client-header-tagger{adfilter-block-request-R30} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R32} \
+{+client-header-tagger{adfilter-block-request-R31} \
 }
 .uum6.com
 
-{+client-header-tagger{adfilter-block-request-R33} \
+{+client-header-tagger{adfilter-block-request-R32} \
 }
 .imgbus.com
 
-{+client-header-tagger{adfilter-block-request-R34} \
+{+client-header-tagger{adfilter-block-request-R33} \
 }
 .bdimg.com
 
-{+client-header-tagger{adfilter-block-request-R35} \
+{+client-header-tagger{adfilter-block-request-R34} \
 }
 .bootcss.com
 
-{+client-header-tagger{adfilter-block-request-R36} \
+{+client-header-tagger{adfilter-block-request-R35} \
 }
 /(.*/)?aServ_header\.
 /(.*/)?aServ_channl\.
 
-{+client-header-tagger{adfilter-block-request-R37} \
+{+client-header-tagger{adfilter-block-request-R36} \
 }
 .imagehost.click
 
-{+client-header-tagger{adfilter-block-request-R38} \
+{+client-header-tagger{adfilter-block-request-R37} \
 }
 .alicdn.com
 
-{+client-header-tagger{adfilter-block-request-R39} \
+{+client-header-tagger{adfilter-block-request-R38} \
 }
 .piimg.com
 
-{+client-header-tagger{adfilter-block-request-R40} \
+{+client-header-tagger{adfilter-block-request-R39} \
 }
 /(.*/)?images/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R41} \
+{+client-header-tagger{adfilter-block-request-R40} \
 }
 t.cn
 
-{+client-header-tagger{adfilter-block-request-R43} \
+{+client-header-tagger{adfilter-block-request-R42} \
 }
 /(.*/)?2015new\.js
 2015new.js*.
 
-{+client-header-tagger{adfilter-block-request-R44} \
+{+client-header-tagger{adfilter-block-request-R43} \
 }
 /(.*/)?83/
 
-{+client-header-tagger{adfilter-block-request-R45} \
+{+client-header-tagger{adfilter-block-request-R44} \
 }
 .bp.blogspot.com
 
-{+client-header-tagger{adfilter-block-request-R46} \
+{+client-header-tagger{adfilter-block-request-R45} \
 }
 .img.china.alibaba.com/img/ibank/
 
-{+client-header-tagger{adfilter-block-request-R47} \
+{+client-header-tagger{adfilter-block-request-R46} \
 }
 rc.sz.zj.cn/.*\.swf
 
-{+client-header-tagger{adfilter-block-request-R48} \
+{+client-header-tagger{adfilter-block-request-R47} \
 }
 .yahoo.com/gdsale/gdsale\.asp
 .momoshop.com.tw/league/
 
-{+client-header-tagger{adfilter-block-request-R49} \
+{+client-header-tagger{adfilter-block-request-R48} \
 }
 .qq24h.com
 
-{+client-header-tagger{adfilter-block-request-R51} \
+{+client-header-tagger{adfilter-block-request-R50} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-request-R52} \
+{+client-header-tagger{adfilter-block-request-R51} \
 }
 /(.*/)?merchant\.php
 merchant.php*.
 
-{+client-header-tagger{adfilter-block-request-R53} \
+{+client-header-tagger{adfilter-block-request-R52} \
 }
 .duapp.com
 
-{+client-header-tagger{adfilter-block-request-R55} \
+{+client-header-tagger{adfilter-block-request-R54} \
 }
 .sinaimg.cn/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R56} \
+{+client-header-tagger{adfilter-block-request-R55} \
 }
 .iecer.de
 
-{+client-header-tagger{adfilter-block-request-R57} \
+{+client-header-tagger{adfilter-block-request-R56} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-request-R58} \
+{+client-header-tagger{adfilter-block-request-R57} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-request-R59} \
+{+client-header-tagger{adfilter-block-request-R58} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-request-R61} \
+{+client-header-tagger{adfilter-block-request-R60} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-request-R62} \
+{+client-header-tagger{adfilter-block-request-R61} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-request-R63} \
+{+client-header-tagger{adfilter-block-request-R62} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-request-R64} \
+{+client-header-tagger{adfilter-block-request-R63} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-request-R65} \
+{+client-header-tagger{adfilter-block-request-R64} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-request-R66} \
+{+client-header-tagger{adfilter-block-request-R65} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-request-R67} \
+{+client-header-tagger{adfilter-block-request-R66} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-request-R70} \
+{+client-header-tagger{adfilter-block-request-R69} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-request-R71} \
+{+client-header-tagger{adfilter-block-request-R70} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-request-R72} \
+{+client-header-tagger{adfilter-block-request-R71} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-request-R73} \
+{+client-header-tagger{adfilter-block-request-R72} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-request-R74} \
+{+client-header-tagger{adfilter-block-request-R73} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-request-R75} \
+{+client-header-tagger{adfilter-block-request-R74} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-request-R77} \
+{+client-header-tagger{adfilter-block-request-R76} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-request-R78} \
+{+client-header-tagger{adfilter-block-request-R77} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-request-R79} \
+{+client-header-tagger{adfilter-block-request-R78} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-request-R80} \
+{+client-header-tagger{adfilter-block-request-R79} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 
-{+client-header-tagger{adfilter-block-request-R82} \
+{+client-header-tagger{adfilter-block-request-R81} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-request-R83} \
+{+client-header-tagger{adfilter-block-request-R82} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-request-R84} \
+{+client-header-tagger{adfilter-block-request-R83} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-request-R85} \
+{+client-header-tagger{adfilter-block-request-R84} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-request-R86} \
+{+client-header-tagger{adfilter-block-request-R85} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R88} \
+{+client-header-tagger{adfilter-block-request-R87} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-request-R89} \
+{+client-header-tagger{adfilter-block-request-R88} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R90} \
+{+client-header-tagger{adfilter-block-request-R89} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-request-R91} \
+{+client-header-tagger{adfilter-block-request-R90} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-request-R92} \
+{+client-header-tagger{adfilter-block-request-R91} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-request-R93} \
+{+client-header-tagger{adfilter-block-request-R92} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-request-R94} \
+{+client-header-tagger{adfilter-block-request-R93} \
 }
 .imgchr.com
 
 {+client-header-tagger{adfilter-block-request-R188t} \
 }
 
-{+client-header-tagger{adfilter-block-request-R96} \
+{+client-header-tagger{adfilter-block-request-R95} \
 }
 .riju.com/pr/
 
-{+client-header-tagger{adfilter-block-request-R97} \
+{+client-header-tagger{adfilter-block-request-R96} \
 }
 .loli.io
 
-{+client-header-tagger{adfilter-block-request-R98} \
+{+client-header-tagger{adfilter-block-request-R97} \
 }
 /(.*/)?\?
 
-{+client-header-tagger{adfilter-block-request-R99} \
+{+client-header-tagger{adfilter-block-request-R98} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-request-R100} \
+{+client-header-tagger{adfilter-block-request-R99} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-request-R101} \
+{+client-header-tagger{adfilter-block-request-R100} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-request-R102} \
+{+client-header-tagger{adfilter-block-request-R101} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-request-R103} \
+{+client-header-tagger{adfilter-block-request-R102} \
 }
 .55.la/anonymous/banner/
 
@@ -20468,24 +20480,24 @@ TAG:^adfilter-block-xframe$
 }
 /(.*/)?Sitefiles/.*
 
-{+client-header-tagger{adfilter-block-xframe-R68} \
+{+client-header-tagger{adfilter-block-xframe-R67} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-xframe-R76} \
+{+client-header-tagger{adfilter-block-xframe-R75} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-xframe-R80} \
+{+client-header-tagger{adfilter-block-xframe-R79} \
 }
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-xframe-R81} \
+{+client-header-tagger{adfilter-block-xframe-R80} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-xframe-R87} \
+{+client-header-tagger{adfilter-block-xframe-R86} \
 }
 .s.yimg.com/ja/ap/
 
@@ -20543,26 +20555,26 @@ TAG:^adfilter-block-xpopup$
 {+client-header-tagger{adfilter-block-xpopup-R187t} \
 }
 
-{+client-header-tagger{adfilter-block-xpopup-R32} \
+{+client-header-tagger{adfilter-block-xpopup-R31} \
 }
 .uum6.com
 
-{+client-header-tagger{adfilter-block-xpopup-R51} \
+{+client-header-tagger{adfilter-block-xpopup-R50} \
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-xpopup-R85} \
+{+client-header-tagger{adfilter-block-xpopup-R84} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-xpopup-R93} \
+{+client-header-tagger{adfilter-block-xpopup-R92} \
 }
 .miaozhen.com
 
 {+client-header-tagger{adfilter-block-xpopup-R188t} \
 }
 
-{+client-header-tagger{adfilter-block-xpopup-R98} \
+{+client-header-tagger{adfilter-block-xpopup-R97} \
 }
 /(.*/)?\?
 
@@ -21116,7 +21128,7 @@ pop.js
 }
 /(.*/)?common/cf/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R31} \
+{+client-header-tagger{adfilter-unblock-dnt-R30} \
 }
 /(.*/)?images/.*/.*\.gif
 
@@ -21256,7 +21268,7 @@ dfp.js*.
 }
 /(.*/)?adimage/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R69} \
+{+client-header-tagger{adfilter-unblock-dnt-R68} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -21302,7 +21314,7 @@ dfp.js*.
 }
 /(.*/)?ima/.*ad\.
 
-{+client-header-tagger{adfilter-unblock-dnt-R75} \
+{+client-header-tagger{adfilter-unblock-dnt-R74} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
@@ -22112,7 +22124,7 @@ pop.js
 }
 /(.*/)?common/cf/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R31} \
+{+client-header-tagger{adfilter-unblock-elem-R30} \
 }
 /(.*/)?images/.*/.*\.gif
 
@@ -22248,7 +22260,7 @@ dfp.js*.
 }
 /(.*/)?adimage/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R69} \
+{+client-header-tagger{adfilter-unblock-elem-R68} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -22294,7 +22306,7 @@ dfp.js*.
 }
 /(.*/)?ima/.*ad\.
 
-{+client-header-tagger{adfilter-unblock-elem-R75} \
+{+client-header-tagger{adfilter-unblock-elem-R74} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
@@ -23205,7 +23217,7 @@ pop.js
 /(.*/)?common/cf/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R31} \
+ +client-header-tagger{adfilter-unblock-request-R30} \
 }
 /(.*/)?images/.*/.*\.gif
 
@@ -23358,7 +23370,7 @@ dfp.js*.
 /(.*/)?adimage/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R69} \
+ +client-header-tagger{adfilter-unblock-request-R68} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -23414,7 +23426,7 @@ dfp.js*.
 /(.*/)?ima/.*ad\.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R75} \
+ +client-header-tagger{adfilter-unblock-request-R74} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
