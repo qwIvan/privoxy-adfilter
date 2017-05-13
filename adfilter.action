@@ -34,6 +34,7 @@ TAG:^adfilter-block-dnt$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
@@ -55,17 +56,12 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-.dm.gzpinda.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.cyi.m.muyuge.com
-.bqg5.cc/images/960-90\.jpg
-.kxgtbk.oss-cn-hangzhou.aliyuncs.com
-.douyu.com/member/gamegift/gameList/
-.guancha.cn/images/weiweibook\.jpg
+.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1638,6 +1634,7 @@ cpro.*.
 .l.qq.com/lview\?
 .kyocdn.com/forum/201312/20/151925t52ey4l34ck0lkgv\.jpg
 .kyocdn.com/addons/banner/
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .kwflvcdn.000dn.com/.*\.flv
 .kviso.com/js/top\.js
 .kviso.com/ddnew/kviso
@@ -2246,6 +2243,7 @@ cpro.*.
 .guangsuss.com/tpl/html/
 .guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
 .guang.lesports.com
+.guancha.cn/images/weiweibook\.jpg
 .gtv.com.cn/public/images/2014-06/15/110_89471402801935\.jpg
 .gtv.com.cn/public/images/2014-03/20/71_12931395286234\.jpg
 .gtv.com.cn/public/images/2014-01/26/97_76841390730340\.jpg
@@ -2598,6 +2596,7 @@ cpro.*.
 .down.admin5.com/z/
 .douyutv.com/upload/signs/.*\.swf
 .douyucdn.cn/upload/signs/.*\.swf
+.douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -2706,6 +2705,7 @@ cpro.*.
 .d.39.net/a\.htm\?
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
+.cyi.m.muyuge.com
 .cye.com.cn/JS/AdsJS/
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
@@ -2985,6 +2985,7 @@ cpro.*.
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
+.bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
@@ -4539,6 +4540,7 @@ tanchuan.htm*.
 .sigbusa.com
 .sicentlife.com
 .si9377.com
+.shxinjie.cn
 .shujuwu.com
 .shuihulu.com
 .shucaihangjia.com
@@ -4575,6 +4577,7 @@ tanchuan.htm*.
 .ruanwenclub.com
 .rsccs.com
 .rrsubway.com
+.rpaulfrank.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -4755,6 +4758,7 @@ tanchuan.htm*.
 .lhzly.com
 .lhusy.com
 .lhengilin.com
+.lflili.com
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
@@ -5681,9 +5685,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shxinjie.cn
-.lflili.com
-.rpaulfrank.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6833,6 +6834,7 @@ TAG:^adfilter-block-elem$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
@@ -6854,17 +6856,12 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-.dm.gzpinda.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.cyi.m.muyuge.com
-.bqg5.cc/images/960-90\.jpg
-.kxgtbk.oss-cn-hangzhou.aliyuncs.com
-.douyu.com/member/gamegift/gameList/
-.guancha.cn/images/weiweibook\.jpg
+.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8437,6 +8434,7 @@ cpro.*.
 .l.qq.com/lview\?
 .kyocdn.com/forum/201312/20/151925t52ey4l34ck0lkgv\.jpg
 .kyocdn.com/addons/banner/
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .kwflvcdn.000dn.com/.*\.flv
 .kviso.com/js/top\.js
 .kviso.com/ddnew/kviso
@@ -9045,6 +9043,7 @@ cpro.*.
 .guangsuss.com/tpl/html/
 .guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
 .guang.lesports.com
+.guancha.cn/images/weiweibook\.jpg
 .gtv.com.cn/public/images/2014-06/15/110_89471402801935\.jpg
 .gtv.com.cn/public/images/2014-03/20/71_12931395286234\.jpg
 .gtv.com.cn/public/images/2014-01/26/97_76841390730340\.jpg
@@ -9397,6 +9396,7 @@ cpro.*.
 .down.admin5.com/z/
 .douyutv.com/upload/signs/.*\.swf
 .douyucdn.cn/upload/signs/.*\.swf
+.douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -9505,6 +9505,7 @@ cpro.*.
 .d.39.net/a\.htm\?
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
+.cyi.m.muyuge.com
 .cye.com.cn/JS/AdsJS/
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
@@ -9784,6 +9785,7 @@ cpro.*.
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
+.bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
@@ -11338,6 +11340,7 @@ tanchuan.htm*.
 .sigbusa.com
 .sicentlife.com
 .si9377.com
+.shxinjie.cn
 .shujuwu.com
 .shuihulu.com
 .shucaihangjia.com
@@ -11374,6 +11377,7 @@ tanchuan.htm*.
 .ruanwenclub.com
 .rsccs.com
 .rrsubway.com
+.rpaulfrank.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -11554,6 +11558,7 @@ tanchuan.htm*.
 .lhzly.com
 .lhusy.com
 .lhengilin.com
+.lflili.com
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
@@ -12480,9 +12485,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.shxinjie.cn
-.lflili.com
-.rpaulfrank.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13627,6 +13629,7 @@ TAG:^adfilter-block-request$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
+.dm.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.chazidian.com
@@ -13647,13 +13650,8 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
-.dm.gzpinda.com
 /.*&uc=
-.cyi.m.muyuge.com
-.bqg5.cc/images/960-90\.jpg
-.kxgtbk.oss-cn-hangzhou.aliyuncs.com
-.douyu.com/member/gamegift/gameList/
-.guancha.cn/images/weiweibook\.jpg
+.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15160,6 +15158,7 @@ TAG:^adfilter-block-request$
 .l.qq.com/lview\?
 .kyocdn.com/forum/201312/20/151925t52ey4l34ck0lkgv\.jpg
 .kyocdn.com/addons/banner/
+.kxgtbk.oss-cn-hangzhou.aliyuncs.com
 .kviso.com/js/top\.js
 .kviso.com/ddnew/kviso
 .kuxun.cn/Partner/
@@ -15746,6 +15745,7 @@ TAG:^adfilter-block-request$
 .guangsuss.com/tpl/html/
 .guanggaolianmeng.net/plushuan/ad_js\.php\?aid=
 .guang.lesports.com
+.guancha.cn/images/weiweibook\.jpg
 .gtv.com.cn/public/images/2014-06/15/110_89471402801935\.jpg
 .gtv.com.cn/public/images/2014-03/20/71_12931395286234\.jpg
 .gtv.com.cn/public/images/2014-01/26/97_76841390730340\.jpg
@@ -16084,6 +16084,7 @@ TAG:^adfilter-block-request$
 .down.admin5.com/z/
 .douyutv.com/upload/signs/.*\.swf
 .douyucdn.cn/upload/signs/.*\.swf
+.douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -16177,6 +16178,7 @@ TAG:^adfilter-block-request$
 .d.39.net/a\.htm\?
 .d.107788.com
 .cztv.com/201506/02/124d35111e8f180c96f99acbcbdf5de6\.jpg
+.cyi.m.muyuge.com
 .cye.com.cn/JS/AdsJS/
 .cww.net.cn/UpLoadFile/.*\.swf
 .cww.net.cn/include/show\.asp\?boardID=
@@ -16446,6 +16448,7 @@ TAG:^adfilter-block-request$
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
+.bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
@@ -17804,6 +17807,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sigbusa.com
 .sicentlife.com
 .si9377.com
+.shxinjie.cn
 .shucaihangjia.com
 .show.kc.taotaosou.com
 .shiftrro.com
@@ -17828,6 +17832,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ruxianke.com
 .runiman.com
 .rrsubway.com
+.rpaulfrank.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -17954,6 +17959,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .liangziweixg.com
 .lhusy.com
 .lhengilin.com
+.lflili.com
 .leeyuoxs.com
 .le4le.com
 .lashou1000.com
@@ -18475,9 +18481,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.shxinjie.cn
-.lflili.com
-.rpaulfrank.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
