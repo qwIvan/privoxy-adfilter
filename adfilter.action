@@ -61,6 +61,9 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
+.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6864,6 +6867,9 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
+.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13657,6 +13663,9 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
+.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
