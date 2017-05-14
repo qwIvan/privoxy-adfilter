@@ -61,8 +61,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.dilidili.wang/ad/
-.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1572,6 +1570,7 @@ cpro.*.
 .links.cn/mmshow
 .linkhelper.cn/mmshow
 .link.fobshanghai.com/bbsimage/
+.lingdianshuwu.com/js/content
 .lingdian98.com
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
@@ -2655,6 +2654,7 @@ cpro.*.
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -4924,6 +4924,7 @@ tanchuan.htm*.
 .hnctsm.com
 .hn163fck.com
 .hmp33.com
+.hkfuy.com
 .hivecn.cn
 .hiad.myweb.hinet.net
 .hi760.com
@@ -5686,7 +5687,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.hkfuy.com
+.kuwoyy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6863,8 +6864,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.dilidili.wang/ad/
-.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8374,6 +8373,7 @@ cpro.*.
 .links.cn/mmshow
 .linkhelper.cn/mmshow
 .link.fobshanghai.com/bbsimage/
+.lingdianshuwu.com/js/content
 .lingdian98.com
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
@@ -9457,6 +9457,7 @@ cpro.*.
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -11726,6 +11727,7 @@ tanchuan.htm*.
 .hnctsm.com
 .hn163fck.com
 .hmp33.com
+.hkfuy.com
 .hivecn.cn
 .hiad.myweb.hinet.net
 .hi760.com
@@ -12488,7 +12490,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.hkfuy.com
+.kuwoyy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13655,8 +13657,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.dilidili.wang/ad/
-.lingdianshuwu.com/js/content
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15107,6 +15107,7 @@ TAG:^adfilter-block-request$
 .links.cn/mmshow
 .linkhelper.cn/mmshow
 .link.fobshanghai.com/bbsimage/
+.lingdianshuwu.com/js/content
 .lingdian98.com
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
@@ -16138,6 +16139,7 @@ TAG:^adfilter-block-request$
 .dio99.com/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
@@ -18066,6 +18068,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hnyny.com
 .hnctsm.com
 .hmp33.com
+.hkfuy.com
 .hivecn.cn
 .hiad.myweb.hinet.net
 .hi760.com
@@ -18486,7 +18489,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.hkfuy.com
+.kuwoyy.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
