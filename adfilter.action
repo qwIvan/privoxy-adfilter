@@ -62,8 +62,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://[^/]+\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://[^\/]+\/[0-9a-z]{40,}\.js
 .520xs.la/js/xf\.js
 .76fengyun.com/jsa/
 .zzzyk.com/js/
@@ -6880,8 +6880,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://[^/]+\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://[^\/]+\/[0-9a-z]{40,}\.js
 .520xs.la/js/xf\.js
 .76fengyun.com/jsa/
 .zzzyk.com/js/
@@ -19035,8 +19035,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-/(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://[^/]+\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://[^\/]+\/[0-9a-z]{40,}\.js
 .xxbiquge.com/.*\.htm
 .xs222.com/.*\.htm
 .xntk.net
