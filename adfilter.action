@@ -61,9 +61,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.mwrf.net/images/mrf/
-.mwrf.net/images/js/.*mrf\.js
-.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1224,6 +1221,7 @@ cpro.*.
 .pic.2u.com.cn
 .pic.111cn.net
 .pic.0597kk.com
+.piaotian.com/scripts/read/style
 .piaoliang.com/js/gg\.js
 .piaohua.com/js/yzz/
 .piaohua.com/js/wlfloat\.js
@@ -1398,6 +1396,8 @@ cpro.*.
 .my0538.com/.*/thumb_1000_70_
 .my0511.com/.*/ad_
 .mwsl.qiniudn.com/250x250-
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
@@ -4469,6 +4469,7 @@ tanchuan.htm*.
 .tianqi777.com
 .tiangu99.com
 .thyvjboy.com
+.thxnr.com
 .thescenseproject.com
 .th21333.com
 .tgjkbx.cn
@@ -4774,6 +4775,7 @@ tanchuan.htm*.
 .langchars.com
 .lajizhan.org
 .kxrxh.com
+.kuwoyy.com
 .kuqi.com
 .kuaizitech.com
 .kuaiwan.com
@@ -5690,8 +5692,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.thxnr.com
-.kuwoyy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6868,9 +6868,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
-.mwrf.net/images/mrf/
-.mwrf.net/images/js/.*mrf\.js
-.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8031,6 +8028,7 @@ cpro.*.
 .pic.2u.com.cn
 .pic.111cn.net
 .pic.0597kk.com
+.piaotian.com/scripts/read/style
 .piaoliang.com/js/gg\.js
 .piaohua.com/js/yzz/
 .piaohua.com/js/wlfloat\.js
@@ -8205,6 +8203,8 @@ cpro.*.
 .my0538.com/.*/thumb_1000_70_
 .my0511.com/.*/ad_
 .mwsl.qiniudn.com/250x250-
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
@@ -11276,6 +11276,7 @@ tanchuan.htm*.
 .tianqi777.com
 .tiangu99.com
 .thyvjboy.com
+.thxnr.com
 .thescenseproject.com
 .th21333.com
 .tgjkbx.cn
@@ -11581,6 +11582,7 @@ tanchuan.htm*.
 .langchars.com
 .lajizhan.org
 .kxrxh.com
+.kuwoyy.com
 .kuqi.com
 .kuaizitech.com
 .kuaiwan.com
@@ -12497,8 +12499,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.thxnr.com
-.kuwoyy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13665,9 +13665,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.mwrf.net/images/mrf/
-.mwrf.net/images/js/.*mrf\.js
-.piaotian.com/scripts/read/style
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14784,6 +14781,7 @@ TAG:^adfilter-block-request$
 .pic.2u.com.cn
 .pic.111cn.net
 .pic.0597kk.com
+.piaotian.com/scripts/read/style
 .piaoliang.com/js/gg\.js
 .piaohua.com/js/wlfloat\.js
 .piaodown.com/other/.*\.js
@@ -14951,6 +14949,8 @@ TAG:^adfilter-block-request$
 .my0538.com/.*/thumb_1000_70_
 .my0511.com/.*/ad_
 .mwsl.qiniudn.com/250x250-
+.mwrf.net/images/mrf/
+.mwrf.net/images/js/.*mrf\.js
 .mw6.me/images/.*\.gif
 .muyutian.*./(.*/)?db\.js
 .muyuge.com/js/bb/
@@ -17774,6 +17774,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .tianqi777.com
 .tiangu99.com
 .thyvjboy.com
+.thxnr.com
 .thescenseproject.com
 .th21333.com
 .tg.52digua.com
@@ -17985,6 +17986,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .langchars.com
 .lajizhan.org
 .kxrxh.com
+.kuwoyy.com
 .ku9377.com
 .ktv0311.com
 .ktunions.com
@@ -18500,8 +18502,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.thxnr.com
-.kuwoyy.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
