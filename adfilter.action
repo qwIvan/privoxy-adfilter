@@ -56,6 +56,7 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.becode.qiushibaike.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -5691,6 +5692,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.k3851.com
+.9dtiny.cn
+.qxjdlf.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6862,6 +6866,7 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.becode.qiushibaike.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -12497,6 +12502,9 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.k3851.com
+.9dtiny.cn
+.qxjdlf.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13662,6 +13670,7 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.becode.qiushibaike.com
 /.*&uc=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -18499,6 +18508,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.9dtiny.cn
+.qxjdlf.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19753,6 +19764,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.k3851.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
