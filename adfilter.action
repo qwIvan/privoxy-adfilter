@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -63,6 +64,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.520xs.la/js/xf\.js
 .76fengyun.com/jsa/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6826,6 +6828,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -6879,6 +6882,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^/]+\/[0-9a-z]{40,}\.js
+.520xs.la/js/xf\.js
 .76fengyun.com/jsa/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13643,6 +13647,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
 .s1.hiapk.com
@@ -13685,6 +13690,7 @@ TAG:^adfilter-block-request$
 .becode.qiushibaike.com
 .uniondm.cz88.net
 /.*&uc=
+.520xs.la/js/xf\.js
 .76fengyun.com/jsa/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
