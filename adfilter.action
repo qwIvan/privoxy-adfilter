@@ -64,6 +64,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^\/]+\/[0-9a-z]{40,}\.js
+.365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5700,6 +5701,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.9ads.net
+.fxmacd.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6879,6 +6882,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^\/]+\/[0-9a-z]{40,}\.js
+.365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12515,6 +12519,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.9ads.net
+.fxmacd.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13684,6 +13690,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18525,6 +18532,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.fxmacd.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19780,6 +19788,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.9ads.net
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
