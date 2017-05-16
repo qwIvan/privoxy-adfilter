@@ -65,6 +65,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^\/]+\/[0-9a-z]{40,}\.js
+.bdsola.com/img/20170508\.jpg
 .365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6877,6 +6878,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?://\[[^\w%.-]\\/\]\+\\/\[0-9a-z\]\{40,\}\\\.js/
 /^https?://[^\/]+\/[0-9a-z]{40,}\.js
+.bdsola.com/img/20170508\.jpg
 .365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13679,6 +13681,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .daima.dsxdn.com
 /.*&uc=
+.bdsola.com/img/20170508\.jpg
 .365kl.net/data/attachment/portal/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
