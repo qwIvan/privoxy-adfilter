@@ -59,6 +59,7 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.daima.dsxdn.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -619,7 +620,6 @@ cpro.*.
 .tv6080.com/qqt/
 .tuwan.com/myad/
 .tumb8r.com/zb_users/upload/20.*\.gif
-.tuku.cc/extra/.*\.js
 .tuicool.com/images/upload/aliyun
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
@@ -692,9 +692,6 @@ cpro.*.
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
 .tianshit.com/zeis/ts\.gif
-.tianqi.com/templates/huoche/js/hcgg\.js
-.tianqi.com/static/tqgg/
-.tianqi.com/js/gg\.js
 .tianmu.com/DA201
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
@@ -707,7 +704,6 @@ cpro.*.
 .tfg2.com/images/upfile/AD/
 .tf.360.cn
 .techweb.com.cn/.*aliyun
-.techweb.com.cn/static/img/aly
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
@@ -5786,7 +5782,6 @@ tanad.js*.
 tan1.js*.
 /(.*/)?tan\.js
 tan.js*.
-/(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?static/common/js/djlib_
@@ -6877,6 +6872,7 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.daima.dsxdn.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -7437,7 +7433,6 @@ cpro.*.
 .tv6080.com/qqt/
 .tuwan.com/myad/
 .tumb8r.com/zb_users/upload/20.*\.gif
-.tuku.cc/extra/.*\.js
 .tuicool.com/images/upload/aliyun
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
@@ -7510,9 +7505,6 @@ cpro.*.
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
 .tianshit.com/zeis/ts\.gif
-.tianqi.com/templates/huoche/js/hcgg\.js
-.tianqi.com/static/tqgg/
-.tianqi.com/js/gg\.js
 .tianmu.com/DA201
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
@@ -7525,7 +7517,6 @@ cpro.*.
 .tfg2.com/images/upfile/AD/
 .tf.360.cn
 .techweb.com.cn/.*aliyun
-.techweb.com.cn/static/img/aly
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
@@ -12604,7 +12595,6 @@ tanad.js*.
 tan1.js*.
 /(.*/)?tan\.js
 tan.js*.
-/(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?static/common/js/djlib_
@@ -13689,6 +13679,7 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.daima.dsxdn.com
 /.*&uc=
 .365kl.net/data/attachment/portal/
 .zzzyk.com/js/
@@ -14226,7 +14217,6 @@ TAG:^adfilter-block-request$
 .tv6080.com/qqt/
 .tuwan.com/myad/
 .tumb8r.com/zb_users/upload/20.*\.gif
-.tuku.cc/extra/.*\.js
 .tuicool.com/images/upload/aliyun
 .tuicool.com/images/upload/.*320\.
 .tuicool.com/images/upload/.*120\.jpg
@@ -14297,9 +14287,6 @@ TAG:^adfilter-block-request$
 .tianshui.com.cn/newbg\.jpg
 .tianshui.com.cn/datugg/
 .tianshit.com/zeis/ts\.gif
-.tianqi.com/templates/huoche/js/hcgg\.js
-.tianqi.com/static/tqgg/
-.tianqi.com/js/gg\.js
 .tianmu.com/DA201
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
@@ -14312,7 +14299,6 @@ TAG:^adfilter-block-request$
 .tfg2.com/images/upfile/AD/
 .tf.360.cn
 .techweb.com.cn/.*aliyun
-.techweb.com.cn/static/img/aly
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
 .techug.com/erwqre\.jpg
@@ -18613,7 +18599,6 @@ tanad.js*.
 tan1.js*.
 /(.*/)?tan\.js
 tan.js*.
-/(.*/)?taihai/v2014/images/index/aa_10\.
 /(.*/)?sxgg/13
 /(.*/)?sxgg/12\.js
 /(.*/)?static/common/js/djlib_
