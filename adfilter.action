@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.tuadong.com
 .gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
@@ -6825,6 +6826,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.tuadong.com
 .gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
@@ -13641,6 +13643,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.tuadong.com
 .gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
