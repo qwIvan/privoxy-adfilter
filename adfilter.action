@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -60,11 +61,12 @@ TAG:^adfilter-block-dnt$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.1.mgff.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6823,6 +6825,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -6873,11 +6876,12 @@ TAG:^adfilter-block-elem$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.1.mgff.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13637,6 +13641,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.gyrtg.com
 .sonomoyo.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
@@ -13680,6 +13685,7 @@ TAG:^adfilter-block-request$
 .1.panduoduo.net
 .1.feihua.com
 .1.1010pic.com
+.1.mgff.com
 /.*&uc=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -19022,8 +19028,8 @@ TAG:^adfilter-block-request-Ai-Ci$
  +server-header-tagger{adfilter-block-request-Cj} \
 }
 TAG:^adfilter-block-request-Aj-Cj$
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 .xxbiquge.com/.*\.htm
 .xs222.com/.*\.htm
 .xntk.net
