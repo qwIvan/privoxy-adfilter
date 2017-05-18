@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.feifish66.com
 .tuadong.com
 .sonomoyo.com
 .gyrtg.com
@@ -6834,6 +6835,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.feifish66.com
 .tuadong.com
 .sonomoyo.com
 .gyrtg.com
@@ -13659,6 +13661,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.feifish66.com
 .tuadong.com
 .sonomoyo.com
 .gyrtg.com
