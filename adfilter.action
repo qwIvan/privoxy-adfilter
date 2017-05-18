@@ -66,6 +66,9 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.pcgames.com.cn*./(.*/)?index\.js
+.bbsbaba.com/js/2\.js
+.bbsbaba.com/js/1\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6887,6 +6890,9 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.pcgames.com.cn*./(.*/)?index\.js
+.bbsbaba.com/js/2\.js
+.bbsbaba.com/js/1\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13700,6 +13706,9 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.pcgames.com.cn*./(.*/)?index\.js
+.bbsbaba.com/js/2\.js
+.bbsbaba.com/js/1\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
