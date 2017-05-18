@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.axkxy.com
 .feifish66.com
 .tuadong.com
 .sonomoyo.com
@@ -67,6 +68,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
+.qiyue.com/statics/js/3g\.js
 .pcgames.com.cn*./(.*/)?index\.js
 .bbsbaba.com/js/2\.js
 .bbsbaba.com/js/1\.js
@@ -6835,6 +6838,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.axkxy.com
 .feifish66.com
 .tuadong.com
 .sonomoyo.com
@@ -6892,6 +6896,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
+.qiyue.com/statics/js/3g\.js
 .pcgames.com.cn*./(.*/)?index\.js
 .bbsbaba.com/js/2\.js
 .bbsbaba.com/js/1\.js
@@ -13661,6 +13667,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.axkxy.com
 .feifish66.com
 .tuadong.com
 .sonomoyo.com
@@ -13709,6 +13716,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
+.qiyue.com/statics/js/3g\.js
 .pcgames.com.cn*./(.*/)?index\.js
 .bbsbaba.com/js/2\.js
 .bbsbaba.com/js/1\.js
