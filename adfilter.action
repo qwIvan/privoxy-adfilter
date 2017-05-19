@@ -68,6 +68,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
 .nba98.com/res/js\.js
 .zzzyk.com/js/
@@ -6901,6 +6902,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
 .nba98.com/res/js\.js
 .zzzyk.com/js/
@@ -13726,6 +13728,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
 .nba98.com/res/js\.js
 .zzzyk.com/js/
