@@ -68,6 +68,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6896,6 +6897,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13716,6 +13718,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
