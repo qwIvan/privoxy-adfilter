@@ -68,6 +68,7 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.kankanwu.com/le/
 .jb51.net/js/beitou\.js
 .sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
@@ -6903,6 +6904,7 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.kankanwu.com/le/
 .jb51.net/js/beitou\.js
 .sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
@@ -13730,6 +13732,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.kankanwu.com/le/
 .jb51.net/js/beitou\.js
 .sogoucdn.com/wap/js/
 .bjcathay.com/s\?z=
