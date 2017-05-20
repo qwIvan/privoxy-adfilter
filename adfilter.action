@@ -68,11 +68,6 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.kankanwu.com/le/
-.jb51.net/js/beitou\.js
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -810,6 +805,7 @@ cpro.*.
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -1368,6 +1364,7 @@ cpro.*.
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/v/
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
@@ -1681,6 +1678,7 @@ cpro.*.
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -1786,6 +1784,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -3031,6 +3030,7 @@ cpro.*.
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
@@ -6904,11 +6904,6 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.kankanwu.com/le/
-.jb51.net/js/beitou\.js
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7646,6 +7641,7 @@ cpro.*.
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -8204,6 +8200,7 @@ cpro.*.
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/v/
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
@@ -8517,6 +8514,7 @@ cpro.*.
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -8622,6 +8620,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -9867,6 +9866,7 @@ cpro.*.
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
@@ -13732,11 +13732,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.kankanwu.com/le/
-.jb51.net/js/beitou\.js
-.sogoucdn.com/wap/js/
-.bjcathay.com/s\?z=
-.nba98.com/res/js\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14450,6 +14445,7 @@ TAG:^adfilter-block-request$
 .sohu.com/interaction/get/
 .sohu.com/adgtr/
 .sohu.com.cn/ppp/bms/bms\.popup\.
+.sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
 .sogou.com/acquireAdvertise\.
@@ -14984,6 +14980,7 @@ TAG:^adfilter-block-request$
 .neihanshe.cn/upload/2014-09-24/46d6992067f9ad73daffac4cd519e11b\.jpg
 .ncdiy.com/webindex/300-250AD\.swf
 .nbyayu.cn/player\.swf
+.nba98.com/res/js\.js
 .narutom.com/v2/js/ca\.js
 .nanrenshu.com/rmb/st_dh\.js
 .nanren400.com/goto/
@@ -15276,6 +15273,7 @@ TAG:^adfilter-block-request$
 .kcwiki.moe/commons/4/4f/DMMprepaidcard\.jpg
 .kaoyan1v1.com/IAA/
 .kanpp.net/Uploads/ad/
+.kankanwu.com/le/
 .kankantv.cc/330-50\.gif
 .kankanmi.com/js/zjgg
 .kanguba.com/file/js/ifr\.asp
@@ -15378,6 +15376,7 @@ TAG:^adfilter-block-request$
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
+.jb51.net/js/beitou\.js
 .javlibrary.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -16567,6 +16566,7 @@ TAG:^adfilter-block-request$
 .bjmxw.net/bd/
 .bjmama.net/s/
 .bjmama.net/a/spc_
+.bjcathay.com/s\?z=
 .biz37.net/.*\.swf\?uid=
 .biz.weibo.com
 .biz.lyd.com.cn/20
