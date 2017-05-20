@@ -14,6 +14,8 @@ TAG:^adfilter-block-dnt$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
+.23txt.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -564,7 +566,6 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -6854,6 +6855,8 @@ TAG:^adfilter-block-elem$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
+.23txt.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
@@ -7404,7 +7407,6 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -13695,6 +13697,7 @@ TAG:^adfilter-block-request$
 .sonomoyo.com
 .gyrtg.com
 .feifish66.com
+.jundazulin.com
 .axkxy.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
@@ -14220,7 +14223,6 @@ TAG:^adfilter-block-request$
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
-.uschinapress.com/2016/0608/1465408047836\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -19330,6 +19332,7 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rt} \
 }
+.23txt.com
 .youbian.com
 .sundxs.com
 .star-media.cn
