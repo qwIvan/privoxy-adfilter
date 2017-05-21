@@ -67,6 +67,7 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.wda.ydt.com.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -6910,6 +6911,7 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.wda.ydt.com.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -13746,6 +13748,7 @@ TAG:^adfilter-block-request$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.wda.ydt.com.cn
 /.*&uc=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
