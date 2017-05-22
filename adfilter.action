@@ -2011,7 +2011,6 @@ cpro.*.
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
 .ifeng.com/.*&ADUNITID=
-.ifeng.com/wapifengas\?
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
 .ifeng.com/ssi-incs/
@@ -2030,7 +2029,8 @@ cpro.*.
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.iclient.ifeng.com
+.ifeng.com/client_share_bottom_
+.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -5776,6 +5776,7 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
+/(.*/)?wapifengbs\?
 /(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
@@ -8854,7 +8855,6 @@ cpro.*.
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
 .ifeng.com/.*&ADUNITID=
-.ifeng.com/wapifengas\?
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
 .ifeng.com/ssi-incs/
@@ -8873,7 +8873,8 @@ cpro.*.
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.iclient.ifeng.com
+.ifeng.com/client_share_bottom_
+.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -12619,6 +12620,7 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
+/(.*/)?wapifengbs\?
 /(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
@@ -15604,7 +15606,6 @@ TAG:^adfilter-block-request$
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
 .ifeng.com/.*&ADUNITID=
-.ifeng.com/wapifengas\?
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
 .ifeng.com/ssi-incs/
@@ -15623,7 +15624,8 @@ TAG:^adfilter-block-request$
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.iclient.ifeng.com
+.ifeng.com/client_share_bottom_
+.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -18652,6 +18654,7 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
+/(.*/)?wapifengbs\?
 /(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
