@@ -5721,6 +5721,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.bdpuaw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6069,6 +6070,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -12565,6 +12567,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.bdpuaw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12913,6 +12916,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -18602,6 +18606,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.bdpuaw.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18938,6 +18943,7 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
+/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
