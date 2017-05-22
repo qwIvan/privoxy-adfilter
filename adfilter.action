@@ -596,7 +596,6 @@ cpro.*.
 .udn.com.tw/upf/.*_banners/BD/
 .ucbug.com/js/
 .ucbug.com/gaibian/js/tlys\.js
-.uc8.cc/_style/2013/js/all\.js
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
@@ -7440,7 +7439,6 @@ cpro.*.
 .udn.com.tw/upf/.*_banners/BD/
 .ucbug.com/js/
 .ucbug.com/gaibian/js/tlys\.js
-.uc8.cc/_style/2013/js/all\.js
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
@@ -14257,7 +14255,6 @@ TAG:^adfilter-block-request$
 .udn.com.tw/upf/.*_banners/BD/
 .ucbug.com/js/
 .ucbug.com/gaibian/js/tlys\.js
-.uc8.cc/_style/2013/js/all\.js
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
