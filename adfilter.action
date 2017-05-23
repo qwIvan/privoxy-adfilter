@@ -2006,6 +2006,7 @@ cpro.*.
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/.*_w300_h250\.
 .ifengimg.com/a/.*/yemei
+.ifengimg.com/a/.*/openclient\.js
 .ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
@@ -2017,6 +2018,7 @@ cpro.*.
 .ifeng.com/showjs\?.*apids=
 .ifeng.com/iframe/toquickbet
 .ifeng.com/iframe/quickbet
+.ifeng.com/client_share_bottom_
 .ifeng.com/bbsfile/js/ifeng_tip\.js
 .ifeng.com/a_if/
 .ifanr.cn/wp-content/uploads/.*/mina_
@@ -2029,8 +2031,6 @@ cpro.*.
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.ifeng.com/client_share_bottom_
-.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -5261,6 +5261,7 @@ tanchuan.htm*.
 .beeho.site
 .bebelait.com
 .bdtongfei.cn
+.bdpuaw.com
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
@@ -5721,7 +5722,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.bdpuaw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5935,6 +5935,7 @@ gg4.*.
 /(.*/)?getAliyunAdv\.
 getAliyunAdv.*.
 /(.*/)?gaog/.*
+/(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
 /(.*/)?float_r\.js
@@ -6070,7 +6071,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -8852,6 +8852,7 @@ cpro.*.
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/.*_w300_h250\.
 .ifengimg.com/a/.*/yemei
+.ifengimg.com/a/.*/openclient\.js
 .ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
@@ -8863,6 +8864,7 @@ cpro.*.
 .ifeng.com/showjs\?.*apids=
 .ifeng.com/iframe/toquickbet
 .ifeng.com/iframe/quickbet
+.ifeng.com/client_share_bottom_
 .ifeng.com/bbsfile/js/ifeng_tip\.js
 .ifeng.com/a_if/
 .ifanr.cn/wp-content/uploads/.*/mina_
@@ -8875,8 +8877,6 @@ cpro.*.
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.ifeng.com/client_share_bottom_
-.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -12107,6 +12107,7 @@ tanchuan.htm*.
 .beeho.site
 .bebelait.com
 .bdtongfei.cn
+.bdpuaw.com
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
@@ -12567,7 +12568,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.bdpuaw.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12781,6 +12781,7 @@ gg4.*.
 /(.*/)?getAliyunAdv\.
 getAliyunAdv.*.
 /(.*/)?gaog/.*
+/(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
 /(.*/)?float_r\.js
@@ -12916,7 +12917,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
@@ -15605,6 +15605,7 @@ TAG:^adfilter-block-request$
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/.*_w300_h250\.
 .ifengimg.com/a/.*/yemei
+.ifengimg.com/a/.*/openclient\.js
 .ifengimg.com/6e0e559e19f25e8b/2013/1226/shoucheng
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
@@ -15616,6 +15617,7 @@ TAG:^adfilter-block-request$
 .ifeng.com/showjs\?.*apids=
 .ifeng.com/iframe/toquickbet
 .ifeng.com/iframe/quickbet
+.ifeng.com/client_share_bottom_
 .ifeng.com/bbsfile/js/ifeng_tip\.js
 .ifeng.com/a_if/
 .ifanr.cn/wp-content/uploads/.*/mina_
@@ -15628,8 +15630,6 @@ TAG:^adfilter-block-request$
 .idcot.com
 .icnkr.com/data/attachment/portal/
 .icnkr.com/cnkradv/
-.ifeng.com/client_share_bottom_
-.ifengimg.com/a/.*/openclient\.js
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
 .ibtibt.com/js/
@@ -18392,6 +18392,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .beeho.site
 .bebelait.com
 .bdtongfei.cn
+.bdpuaw.com
 .bccyyc.com
 .baidulao.com
 .baiduace.com
@@ -18606,7 +18607,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.bdpuaw.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18812,6 +18812,7 @@ gg4.*.
 /(.*/)?getAliyunAdv\.
 getAliyunAdv.*.
 /(.*/)?gaog/.*
+/(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
 /(.*/)?float_r\.js
@@ -18943,7 +18944,6 @@ AD2v1.1.js*.
 .*.co/js/ads/
 /.*\.cn/js/ads/
 .*.cn/js/ads/
-/(.*/)?frm_adv\.aspx
 /.*\.cn/ads/
 .*.cn/ads/
 /.*\.cc/js/ads/
