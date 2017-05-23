@@ -68,9 +68,12 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.1122.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .meipuw.com/js/.*bu\.js
 .meipuw.com/js/360
 .zzzyk.com/js/
@@ -5724,6 +5727,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.com/title/
+.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6916,9 +6921,12 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.1122.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .meipuw.com/js/.*bu\.js
 .meipuw.com/js/360
 .zzzyk.com/js/
@@ -12572,6 +12580,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.com/title/
+.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13758,6 +13768,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .meipuw.com/js/.*bu\.js
 .meipuw.com/js/360
 .zzzyk.com/js/
@@ -19301,6 +19313,8 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+/.*\.com/title/
+.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
@@ -19360,6 +19374,7 @@ gg.*.
 .kuku99.com
 .fuz.cc
 .200218.com
+.1122.com
 .xxx169.org
 .kokojia.com
 .k99.cc
