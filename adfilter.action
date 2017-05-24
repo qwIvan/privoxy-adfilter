@@ -73,6 +73,9 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.xywy.com/zhixing/
+.xywy.com/gk\?a=
+.a.xywy.com
 .sohu.com/api/labs/mp/load\?
 .sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
@@ -6930,6 +6933,9 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.xywy.com/zhixing/
+.xywy.com/gk\?a=
+.a.xywy.com
 .sohu.com/api/labs/mp/load\?
 .sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
@@ -13777,6 +13783,9 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.xywy.com/zhixing/
+.xywy.com/gk\?a=
+.a.xywy.com
 .sohu.com/api/labs/mp/load\?
 .sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
