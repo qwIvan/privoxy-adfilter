@@ -73,6 +73,8 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.sohu.com/api/labs/mp/load\?
+.sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6928,6 +6930,8 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
+.sohu.com/api/labs/mp/load\?
+.sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13773,6 +13777,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.sohu.com/api/labs/mp/load\?
+.sohu.com/api/labs/hotnews/c/load\?
 .xzking.com/static/images/detail/soft_1168x90\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
