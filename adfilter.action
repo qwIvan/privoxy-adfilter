@@ -70,6 +70,7 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.gunmi.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -876,7 +877,6 @@ cpro.*.
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
-.sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
 .sinaimg.cn/jslib/kuozhanad\.js
 .sinaimg.cn/finance/zwy/sidead_
@@ -6927,6 +6927,7 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.gunmi.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -7733,7 +7734,6 @@ cpro.*.
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
-.sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
 .sinaimg.cn/jslib/kuozhanad\.js
 .sinaimg.cn/finance/zwy/sidead_
@@ -14554,7 +14554,6 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
-.sinaimg.cn/large/005SEx68jw1eu85tbdd2rg30d001oaa0\.jpg
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
 .sinaimg.cn/jslib/kuozhanad\.js
 .sinaimg.cn/finance/zwy/sidead_
@@ -19387,6 +19386,7 @@ gg.*.
 .fuz.cc
 .200218.com
 .1122.com
+.gunmi.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
