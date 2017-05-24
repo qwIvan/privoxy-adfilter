@@ -62,20 +62,16 @@ TAG:^adfilter-block-dnt$
 .3.guidaye.com
 .200218.com
 .2.rengshu.com
+.1122.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.1122.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.img.0594.com/20.*\.swf
-.img.0594.com/20.*\.gif
-.meipuw.com/js/.*bu\.js
-.meipuw.com/js/360
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1486,6 +1482,8 @@ cpro.*.
 .meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
+.meipuw.com/js/360
+.meipuw.com/js/.*bu\.js
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
@@ -1935,6 +1933,8 @@ cpro.*.
 .img.90bfw.com/.*\.gif
 .img.86wan.com/img2/top\.jpg
 .img.3sjt.com
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
 .img*./.*\.titan007\.com/image/.*\.gif
@@ -5701,6 +5701,8 @@ pd2.js*.
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
 .*.com/vs\.php\?id=
+/.*\.com/title/
+.*.com/title/
 /.*\.com/ssss\.asp\?u=
 .*.com/ssss\.asp\?u=
 /.*\.com/showpage\.asp\?u=
@@ -5727,8 +5729,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.com/title/
-.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6915,20 +6915,16 @@ TAG:^adfilter-block-elem$
 .3.guidaye.com
 .200218.com
 .2.rengshu.com
+.1122.com
 .1.win7china.com
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.1122.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-.img.0594.com/20.*\.swf
-.img.0594.com/20.*\.gif
-.meipuw.com/js/.*bu\.js
-.meipuw.com/js/360
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8339,6 +8335,8 @@ cpro.*.
 .meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
+.meipuw.com/js/360
+.meipuw.com/js/.*bu\.js
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
@@ -8788,6 +8786,8 @@ cpro.*.
 .img.90bfw.com/.*\.gif
 .img.86wan.com/img2/top\.jpg
 .img.3sjt.com
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
 .img*./.*\.titan007\.com/image/.*\.gif
@@ -12554,6 +12554,8 @@ pd2.js*.
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
 .*.com/vs\.php\?id=
+/.*\.com/title/
+.*.com/title/
 /.*\.com/ssss\.asp\?u=
 .*.com/ssss\.asp\?u=
 /.*\.com/showpage\.asp\?u=
@@ -12580,8 +12582,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.com/title/
-.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13768,10 +13768,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.img.0594.com/20.*\.swf
-.img.0594.com/20.*\.gif
-.meipuw.com/js/.*bu\.js
-.meipuw.com/js/360
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15129,6 +15125,8 @@ TAG:^adfilter-block-request$
 .meitui.org/.*\.js
 .meitu.com/js/floatxiuxiu\.js
 .meishichina.com/v3/
+.meipuw.com/js/360
+.meipuw.com/js/.*bu\.js
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
@@ -15554,6 +15552,8 @@ TAG:^adfilter-block-request$
 .img.90bfw.com/.*\.gif
 .img.86wan.com/img2/top\.jpg
 .img.3sjt.com
+.img.0594.com/20.*\.swf
+.img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
 .img*./.*\.titan007\.com/image/.*\.gif
@@ -19291,6 +19291,8 @@ js*./(.*/)?i\.js\?
 .*.net/showpage\.asp\?u=
 /.*\.com/vs\.php\?id=
 .*.com/vs\.php\?id=
+/.*\.com/title/
+.*.com/title/
 /.*\.com/ssss\.asp\?u=
 .*.com/ssss\.asp\?u=
 /.*\.com/showpage\.asp\?u=
@@ -19313,8 +19315,6 @@ js*./(.*/)?i\.js\?
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-/.*\.com/title/
-.*.com/title/
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 
