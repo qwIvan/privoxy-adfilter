@@ -77,6 +77,8 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.peryi.com/s/\?t=
+.tsdmw.net/img01/MP3/480-90\.gif
 .mydrivers.com/news/2017/pc_dangbei\.gif
 .vansky.com/agdg/homegg/
 .v5bjq.com/Images/ggImg/
@@ -6939,6 +6941,8 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.peryi.com/s/\?t=
+.tsdmw.net/img01/MP3/480-90\.gif
 .mydrivers.com/news/2017/pc_dangbei\.gif
 .vansky.com/agdg/homegg/
 .v5bjq.com/Images/ggImg/
@@ -13787,6 +13791,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.peryi.com/s/\?t=
+.tsdmw.net/img01/MP3/480-90\.gif
 .mydrivers.com/news/2017/pc_dangbei\.gif
 .vansky.com/agdg/homegg/
 .v5bjq.com/Images/ggImg/
