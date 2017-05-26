@@ -81,6 +81,8 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.etfunhome.com/images/kk\.gif
+.u.cnzol.com
 .qdfuns.com/promotion/
 .veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
@@ -5995,9 +5997,9 @@ diantan.js*.
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?cola3/newdown/join\.png
 /(.*/)?clicktotal/ClickTotal\.js
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.overture\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.humanding\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.adm\.cnzz\.
+/(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
 /(.*/)?caiguu_gg_
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
@@ -6823,7 +6825,7 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn164} \
 }
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*p\.tanx\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
 {+client-header-tagger{adfilter-block-dnt-Rn165} \
 }
@@ -6953,6 +6955,8 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.etfunhome.com/images/kk\.gif
+.u.cnzol.com
 .qdfuns.com/promotion/
 .veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
@@ -12867,9 +12871,9 @@ diantan.js*.
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?cola3/newdown/join\.png
 /(.*/)?clicktotal/ClickTotal\.js
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.overture\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.humanding\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.adm\.cnzz\.
+/(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
 /(.*/)?caiguu_gg_
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
@@ -13695,7 +13699,7 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn164} \
 }
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*p\.tanx\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
 {+client-header-tagger{adfilter-block-elem-Rn165} \
 }
@@ -13811,6 +13815,8 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .cp.jfcdns.com
 /.*&uc=
+.etfunhome.com/images/kk\.gif
+.u.cnzol.com
 .qdfuns.com/promotion/
 .veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
@@ -18920,9 +18926,9 @@ diantan.js*.
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?cola3/newdown/join\.png
 /(.*/)?clicktotal/ClickTotal\.js
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.overture\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.humanding\.com
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*\.adm\.cnzz\.
+/(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
 /(.*/)?caiguu_gg_
 /(.*/)?caches/poster_js/.*
 /(.*/)?cache/ad_js/.*
@@ -20563,7 +20569,7 @@ floatad.*.
 
 {+client-header-tagger{adfilter-block-request-Rn164} \
 }
-/(.*/)?cdn-cgi/pe/bag2\?r\[\]=.*p\.tanx\.com
+/(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
 {+client-header-tagger{adfilter-block-request-Rn166} \
 }
