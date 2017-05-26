@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.dezfu.com
 .xacqp.com
 .tuadong.com
 .sonomoyo.com
@@ -5744,6 +5745,9 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /(.*/)?o\.php\?u=.*\|.*
+.compass-fit.jp
+.popin.cc
+.fastable.com
 .tkd777.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -6875,6 +6879,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.dezfu.com
 .xacqp.com
 .tuadong.com
 .sonomoyo.com
@@ -12609,6 +12614,9 @@ pd2.js*.
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /(.*/)?o\.php\?u=.*\|.*
+.compass-fit.jp
+.popin.cc
+.fastable.com
 .tkd777.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -13741,6 +13749,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.dezfu.com
 .xacqp.com
 .tuadong.com
 .sonomoyo.com
@@ -18665,6 +18674,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.compass-fit.jp
+.fastable.com
 .tkd777.cn
 ad.*.
 /(.*/)?js/tc\.js
@@ -19933,6 +19944,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.popin.cc
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
