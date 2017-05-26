@@ -26,8 +26,8 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
 .23txt.com
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -88,6 +88,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.ifeng.com/.*/wapifeng
 .bookben.com/js/m/wap\.js
 .etfunhome.com/images/kk\.gif
 .u.cnzol.com
@@ -5817,8 +5818,6 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
-/(.*/)?wapifengbs\?
-/(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -6807,8 +6806,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
@@ -6908,8 +6907,8 @@ TAG:^adfilter-block-elem$
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
 .23txt.com
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -6970,6 +6969,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.ifeng.com/.*/wapifeng
 .bookben.com/js/m/wap\.js
 .etfunhome.com/images/kk\.gif
 .u.cnzol.com
@@ -12699,8 +12699,6 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
-/(.*/)?wapifengbs\?
-/(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -13689,8 +13687,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-elem-Rn159} \
 }
@@ -13836,6 +13834,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .cp.jfcdns.com
 /.*&uc=
+.ifeng.com/.*/wapifeng
 .bookben.com/js/m/wap\.js
 .etfunhome.com/images/kk\.gif
 .u.cnzol.com
@@ -18766,8 +18765,6 @@ xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
-/(.*/)?wapifengbs\?
-/(.*/)?wapifengas\?
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
 /(.*/)?View/img/b72890\.jpg
@@ -19276,8 +19273,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-Rt} \
 }
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R6} \
 }
@@ -19305,8 +19302,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?://\(\?:\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\)\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?://(?:(?!www[0-9]?)[0-9a-z-]+)\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rt} \
 }
