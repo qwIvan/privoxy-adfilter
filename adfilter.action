@@ -78,6 +78,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -460,7 +461,6 @@ cpro.*.
 .wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
-.wolepan.com/images/d1\.jpg
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -497,7 +497,7 @@ cpro.*.
 .webkaka.com/script/duilian_
 .webkaka.com*./(.*/)?click/
 .webjx.com/zanzhushang/
-.webhek.com/1478937898\.jpg
+.webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
 .weathercn.com/images/ford\.jpg
@@ -6943,6 +6943,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7325,7 +7326,6 @@ cpro.*.
 .wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
-.wolepan.com/images/d1\.jpg
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -7362,7 +7362,7 @@ cpro.*.
 .webkaka.com/script/duilian_
 .webkaka.com*./(.*/)?click/
 .webjx.com/zanzhushang/
-.webhek.com/1478937898\.jpg
+.webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
 .weathercn.com/images/ford\.jpg
@@ -13794,6 +13794,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 .cp.jfcdns.com
 /.*&uc=
+.veryhuo.com/images/soft/js/download
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14169,7 +14170,6 @@ TAG:^adfilter-block-request$
 .wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
-.wolepan.com/images/d1\.jpg
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -14204,7 +14204,7 @@ TAG:^adfilter-block-request$
 .weeiy.com/wp-content/uploads/2013/12/2345ie\.jpg
 .webkaka.com/script/duilian_
 .webjx.com/zanzhushang/
-.webhek.com/1478937898\.jpg
+.webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
 .weathercn.com/images/ford\.jpg
