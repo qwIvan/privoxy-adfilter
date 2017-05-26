@@ -19,8 +19,12 @@ TAG:^adfilter-block-dnt$
 .feifish66.com
 .axkxy.com
 .yunanfuwuqi.com
+.hk9600.com
+.24haitao.net
 .umyai.com
 .23txt.com
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -6799,8 +6803,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
@@ -6893,8 +6897,12 @@ TAG:^adfilter-block-elem$
 .feifish66.com
 .axkxy.com
 .yunanfuwuqi.com
+.hk9600.com
+.24haitao.net
 .umyai.com
 .23txt.com
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -13673,8 +13681,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-elem-Rn159} \
 }
@@ -13768,6 +13776,8 @@ TAG:^adfilter-block-request$
 .feifish66.com
 .axkxy.com
 .yunanfuwuqi.com
+.hk9600.com
+.24haitao.net
 .umyai.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
@@ -19252,6 +19262,11 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R178t} \
 }
 
+{+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-Rt} \
+}
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\+\)\{1,4\}\(\?:\\\.html\)\?/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|cn|cc|net)(?:\/[0-9]+){1,4}(?:\.html)?
+
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R6} \
 }
 /(.*/)?\\\?\(\[a-z\]\+=\[0-9\]\+&\)\{3,\}/
@@ -19278,8 +19293,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn158} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?://\(\?!www\[0-9\]\?\\\.\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
+/^https?://(?!www[0-9]?\.)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rt} \
 }
