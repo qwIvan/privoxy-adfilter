@@ -5765,6 +5765,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.33shangyou.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -6112,6 +6113,18 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/.*\.com/ads/p2\.js
+.*.com/ads/p2\.js
+/.*\.com/ads/p1\.js
+.*.com/ads/p1\.js
+/.*\.com/ads/dui\.js
+.*.com/ads/dui\.js
+/.*\.com/ads/add\.js
+.*.com/ads/add\.js
+/.*\.com/ads/adb\.js
+.*.com/ads/adb\.js
+/.*\.com/ads/ada\.js
+.*.com/ads/ada\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -12646,6 +12659,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.33shangyou.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -12993,6 +13007,18 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/.*\.com/ads/p2\.js
+.*.com/ads/p2\.js
+/.*\.com/ads/p1\.js
+.*.com/ads/p1\.js
+/.*\.com/ads/dui\.js
+.*.com/ads/dui\.js
+/.*\.com/ads/add\.js
+.*.com/ads/add\.js
+/.*\.com/ads/adb\.js
+.*.com/ads/adb\.js
+/.*\.com/ads/ada\.js
+.*.com/ads/ada\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -18713,6 +18739,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.33shangyou.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19050,6 +19077,18 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/.*\.com/ads/p2\.js
+.*.com/ads/p2\.js
+/.*\.com/ads/p1\.js
+.*.com/ads/p1\.js
+/.*\.com/ads/dui\.js
+.*.com/ads/dui\.js
+/.*\.com/ads/add\.js
+.*.com/ads/add\.js
+/.*\.com/ads/adb\.js
+.*.com/ads/adb\.js
+/.*\.com/ads/ada\.js
+.*.com/ads/ada\.js
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
