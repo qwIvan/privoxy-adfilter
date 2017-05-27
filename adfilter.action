@@ -24,8 +24,6 @@ TAG:^adfilter-block-dnt$
 .axkxy.com
 .24haitao.net
 .23txt.com
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\{5,\}\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\{1,7\}\)\{1,4\}\(\?:\\\.html\|\\\.html\\\?ts=\[0-9\]\+\)\?\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.html\?ts=[0-9]+)?$
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
 /.*\.m\.zwdu\.com[^\w%.-]
@@ -6920,8 +6918,6 @@ TAG:^adfilter-block-elem$
 .axkxy.com
 .24haitao.net
 .23txt.com
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\{5,\}\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\{1,7\}\)\{1,4\}\(\?:\\\.html\|\\\.html\\\?ts=\[0-9\]\+\)\?\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.html\?ts=[0-9]+)?$
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
 /.*\.m\.zwdu\.com[^\w%.-]
@@ -19315,11 +19311,6 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R178t} \
 }
-
-{+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-Rt} \
-}
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\{5,\}\\\.\(\?:com\|cn\|cc\|net\)\(\?:\\/\[0-9\]\{1,7\}\)\{1,4\}\(\?:\\\.html\|\\\.html\\\?ts=\[0-9\]\+\)\?\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.html\?ts=[0-9]+)?$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R6} \
 }
