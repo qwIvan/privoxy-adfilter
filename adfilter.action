@@ -5759,6 +5759,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.cnpinzhuo.com
 .jiexiyong.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -6109,6 +6110,8 @@ AD2v1.1.js*.
 .*.com/ads/adb\.js
 /.*\.com/ads/ada\.js
 .*.com/ads/ada\.js
+/.*\.com/Ads/95060_
+.*.com/Ads/95060_
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.com/\?ss=
@@ -12655,6 +12658,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.cnpinzhuo.com
 .jiexiyong.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -13005,6 +13009,8 @@ AD2v1.1.js*.
 .*.com/ads/adb\.js
 /.*\.com/ads/ada\.js
 .*.com/ads/ada\.js
+/.*\.com/Ads/95060_
+.*.com/Ads/95060_
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.com/\?ss=
@@ -18739,6 +18745,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.cnpinzhuo.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19080,6 +19087,8 @@ AD2v1.1.js*.
 .*.com/ads/adb\.js
 /.*\.com/ads/ada\.js
 .*.com/ads/ada\.js
+/.*\.com/Ads/95060_
+.*.com/Ads/95060_
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.co/js/ads/
