@@ -94,6 +94,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.wpdaxue.com/2017/05/fc\.jpg
 .texnet.com.cn/images/cnbanner/
 .99ll1.com/img/.*\.gif
 .zzzyk.com/js/
@@ -468,9 +469,7 @@ cpro.*.
 .wuhan.net.cn/guanggaojs/
 .wpjam.qiniudn.com/wpjam/banner/.*g$
 .wpfl8.com/wp-content/themes/yunkl/ifphone\.js
-.wpdaxue.com/2016/09/20160904210313\.png
 .wpdaxue.com/2015/03/wx0329\.jpg
-.wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
 .wo256.com/256_gg/.*\.gif
@@ -480,7 +479,6 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
-.windowszj.com/.*/xiaoyu
 .windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
@@ -488,7 +486,6 @@ cpro.*.
 .winba.me/wp-content/uploads/.*/300x300\.
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
-.whqyw.com/file/upload/201408/01/09-41-45-92-1\.jpg
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
@@ -2239,7 +2236,6 @@ cpro.*.
 .haokan5.com/js/haokanjs/2014_
 .haoju55.com/js/bbb/
 .haofs.com/haofs/ggapi\.asp
-.haodai.com/src/i/lianmeng/ad/
 .haochi123.com/Js/Fun_Effects_HT9\.js
 .haochi123.com/J_Box/Inc_
 .hao6666.info/.*\.js
@@ -2664,7 +2660,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/upload/gaming/
+.dnvod.tv/upload/upload/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
@@ -6994,6 +6990,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.wpdaxue.com/2017/05/fc\.jpg
 .texnet.com.cn/images/cnbanner/
 .99ll1.com/img/.*\.gif
 .zzzyk.com/js/
@@ -7368,9 +7365,7 @@ cpro.*.
 .wuhan.net.cn/guanggaojs/
 .wpjam.qiniudn.com/wpjam/banner/.*g$
 .wpfl8.com/wp-content/themes/yunkl/ifphone\.js
-.wpdaxue.com/2016/09/20160904210313\.png
 .wpdaxue.com/2015/03/wx0329\.jpg
-.wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
 .wo256.com/256_gg/.*\.gif
@@ -7380,7 +7375,6 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
-.windowszj.com/.*/xiaoyu
 .windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
@@ -7388,7 +7382,6 @@ cpro.*.
 .winba.me/wp-content/uploads/.*/300x300\.
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
-.whqyw.com/file/upload/201408/01/09-41-45-92-1\.jpg
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
@@ -9139,7 +9132,6 @@ cpro.*.
 .haokan5.com/js/haokanjs/2014_
 .haoju55.com/js/bbb/
 .haofs.com/haofs/ggapi\.asp
-.haodai.com/src/i/lianmeng/ad/
 .haochi123.com/Js/Fun_Effects_HT9\.js
 .haochi123.com/J_Box/Inc_
 .hao6666.info/.*\.js
@@ -9564,7 +9556,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/upload/gaming/
+.dnvod.tv/upload/upload/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy*./.*\.aewb\.cn[^\w%.-].*\?
@@ -13880,6 +13872,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.wpdaxue.com/2017/05/fc\.jpg
 .texnet.com.cn/images/cnbanner/
 .99ll1.com/img/.*\.gif
 .zzzyk.com/js/
@@ -14247,9 +14240,7 @@ TAG:^adfilter-block-request$
 .wuhan.net.cn/guanggaojs/
 .wpjam.qiniudn.com/wpjam/banner/.*g$
 .wpfl8.com/wp-content/themes/yunkl/ifphone\.js
-.wpdaxue.com/2016/09/20160904210313\.png
 .wpdaxue.com/2015/03/wx0329\.jpg
-.wpdaxue.com/2015/02/lx1\.png
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
 .wo256.com/256_gg/.*\.gif
@@ -14258,7 +14249,6 @@ TAG:^adfilter-block-request$
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
-.windowszj.com/.*/xiaoyu
 .windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
@@ -14266,7 +14256,6 @@ TAG:^adfilter-block-request$
 .winba.me/wp-content/uploads/.*/300x300\.
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
-.whqyw.com/file/upload/201408/01/09-41-45-92-1\.jpg
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
@@ -15942,7 +15931,6 @@ TAG:^adfilter-block-request$
 .haokan5.com/js/haokanjs/2014_
 .haoju55.com/js/bbb/
 .haofs.com/haofs/ggapi\.asp
-.haodai.com/src/i/lianmeng/ad/
 .haochi123.com/Js/Fun_Effects_HT9\.js
 .haochi123.com/J_Box/Inc_
 .hao6666.info/.*\.js
@@ -16346,7 +16334,7 @@ TAG:^adfilter-block-request$
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
-.dnvod.tv/upload/gaming/
+.dnvod.tv/upload/upload/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
