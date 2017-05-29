@@ -62,7 +62,7 @@ TAG:^adfilter-block-dnt$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
-.dm.gzpinda.com
+.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.dsxdn.com
@@ -6821,8 +6821,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-dnt-Rn160} \
 }
@@ -6958,7 +6958,7 @@ TAG:^adfilter-block-elem$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
-.dm.gzpinda.com
+.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.dsxdn.com
@@ -13717,8 +13717,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-elem-Rn160} \
 }
@@ -13846,7 +13846,6 @@ TAG:^adfilter-block-request$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
-.dm.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.dsxdn.com
@@ -19339,8 +19338,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rt} \
 }
@@ -19499,6 +19498,7 @@ gg.*.
 .kuku99.com
 .gunmi.cn
 .fuz.cc
+.gzpinda.com
 .200218.com
 .1122.com
 .xxx169.org
