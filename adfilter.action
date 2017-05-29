@@ -5759,6 +5759,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.lhafy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12654,6 +12655,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.lhafy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -18738,6 +18740,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.lhafy.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -21334,7 +21337,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*gonativeIndex\?new=
+.ifeng.com/.*\?new=.*\?new=
 
 {+client-header-tagger{adfilter-unblock-dnt-R194} \
 }
@@ -22342,7 +22345,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*gonativeIndex\?new=
+.ifeng.com/.*\?new=.*\?new=
 
 {+client-header-tagger{adfilter-unblock-elem-R194} \
 }
@@ -23325,7 +23328,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*gonativeIndex\?new=
+.ifeng.com/.*\?new=.*\?new=
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
