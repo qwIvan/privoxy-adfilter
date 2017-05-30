@@ -49,6 +49,8 @@ TAG:^adfilter-block-dnt$
 .lele999.com
 .kuku99.com
 .jsm.9939.com
+.ikuailian.com
+.gzpinda.com
 .gzlykj.cn
 .gunmi.cn
 .guang.sdsgwy.com
@@ -62,7 +64,6 @@ TAG:^adfilter-block-dnt$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
-.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.dsxdn.com
@@ -87,7 +88,6 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
-.ikuailian.com
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
@@ -95,8 +95,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.fd173.cn
-.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2465,6 +2463,7 @@ cpro.*.
 .flash8.net/flash8_a_d_s/
 .flash.mycar168.com/data/js/
 .fjlyfdc.com.cn/hxhad/
+.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .fj007.com/money/
 .fj.sina.com.cn/iframe/63/
 .firefoxchina.cn/.*_topbanner
@@ -2485,6 +2484,7 @@ cpro.*.
 .fdc.com.cn/cms/js/home_js/.*_move_
 .fdc.com.cn/cms/js/bbs/dl\.js
 .fdc.com.cn/cms/js/bbs/bbstonglan\.js
+.fd173.cn
 .fcai.com/ifengIndex\.html
 .faxingw.cn/js/wenba\.js
 .faxingw.cn/js/jiafa
@@ -4817,6 +4817,7 @@ tanchuan.htm*.
 .lhzly.com
 .lhusy.com
 .lhengilin.com
+.lhafy.com
 .lflili.com
 .leturich.org
 .leturich.org
@@ -5762,7 +5763,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.lhafy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6948,6 +6948,8 @@ TAG:^adfilter-block-elem$
 .lele999.com
 .kuku99.com
 .jsm.9939.com
+.ikuailian.com
+.gzpinda.com
 .gzlykj.cn
 .gunmi.cn
 .guang.sdsgwy.com
@@ -6961,7 +6963,6 @@ TAG:^adfilter-block-elem$
 .dm.ws8.org
 .dm.sanwen.net
 .dm.jb51.net
-.gzpinda.com
 .dm.92to.com
 .daima.huoche.net
 .daima.dsxdn.com
@@ -6986,7 +6987,6 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
-.ikuailian.com
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
@@ -6994,8 +6994,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.fd173.cn
-.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9364,6 +9362,7 @@ cpro.*.
 .flash8.net/flash8_a_d_s/
 .flash.mycar168.com/data/js/
 .fjlyfdc.com.cn/hxhad/
+.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .fj007.com/money/
 .fj.sina.com.cn/iframe/63/
 .firefoxchina.cn/.*_topbanner
@@ -9384,6 +9383,7 @@ cpro.*.
 .fdc.com.cn/cms/js/home_js/.*_move_
 .fdc.com.cn/cms/js/bbs/dl\.js
 .fdc.com.cn/cms/js/bbs/bbstonglan\.js
+.fd173.cn
 .fcai.com/ifengIndex\.html
 .faxingw.cn/js/wenba\.js
 .faxingw.cn/js/jiafa
@@ -11716,6 +11716,7 @@ tanchuan.htm*.
 .lhzly.com
 .lhusy.com
 .lhengilin.com
+.lhafy.com
 .lflili.com
 .leturich.org
 .leturich.org
@@ -12661,7 +12662,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.lhafy.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13877,7 +13877,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16154,6 +16153,7 @@ TAG:^adfilter-block-request$
 .flash8.net/flash8_a_d_s/
 .flash.mycar168.com/data/js/
 .fjlyfdc.com.cn/hxhad/
+.fj30.cn/o_1bgv6b7s72rbh3msi6ij6qcne\.jpg
 .fj007.com/money/
 .fj.sina.com.cn/iframe/63/
 .firefoxchina.cn/.*_topbanner
@@ -18213,6 +18213,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .liangziweixg.com
 .lhusy.com
 .lhengilin.com
+.lhafy.com
 .lflili.com
 .leeyuoxs.com
 .le4le.com
@@ -18746,7 +18747,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.lhafy.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19503,18 +19503,18 @@ gg.*.
 .mn586.com
 .mipujia.com
 .kuku99.com
+.ikuailian.com
+.gzpinda.com
 .gunmi.cn
 .fuz.cc
-.gzpinda.com
 .200218.com
 .1122.com
-.ikuailian.com
-.fd173.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
 .henghost.com
 .game.466.com
+.fd173.cn
 .eat-travel.com.tw
 .265g.com
 .2345.com/jifenimg/img/common/logo\.png
@@ -21153,6 +21153,7 @@ TAG:^adfilter-unblock-dnt$
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
+.ifeng.com/.*\?new=.*\?new=
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
 .icbc.com.cn/ICBC_ADJS/
@@ -21346,7 +21347,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*\?new=.*\?new=
 
 {+client-header-tagger{adfilter-unblock-dnt-R194} \
 }
@@ -22165,6 +22165,7 @@ TAG:^adfilter-unblock-elem$
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
+.ifeng.com/.*\?new=.*\?new=
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
 .icbc.com.cn/ICBC_ADJS/
@@ -22354,7 +22355,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*\?new=.*\?new=
 
 {+client-header-tagger{adfilter-unblock-elem-R194} \
 }
@@ -23158,6 +23158,7 @@ TAG:^adfilter-unblock-request$
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
 .img.ybbbs.com/2014/.*app
+.ifeng.com/.*\?new=.*\?new=
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
 .icbc.com.cn/ICBC_ADJS/
@@ -23337,7 +23338,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ifeng.com/.*\?new=.*\?new=
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
