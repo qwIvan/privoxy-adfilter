@@ -21347,6 +21347,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.papalah.com/ads\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R194} \
 }
@@ -22355,6 +22356,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.papalah.com/ads\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R194} \
 }
@@ -23338,6 +23340,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.papalah.com/ads\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
