@@ -95,6 +95,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.windows7en.com/images/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -478,7 +479,6 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
-.windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -492,7 +492,6 @@ cpro.*.
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .wenxuecity.com/service/ad/
-.wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
 .weipaima.com/img/jc\.png
@@ -520,8 +519,6 @@ cpro.*.
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
-.wangpanwu.com/images/.*ad
-.wangpanwu.com/images/.*%E5%B9%BF%E5%91%8A\.jpg
 .wangpange.com/img/.*_960x60\.jpg
 .wangjing.cn/upload/ftp/ad/
 .wangjing.cn/images/js/YlFloat\.js
@@ -1982,7 +1979,6 @@ cpro.*.
 .images.jurong.cn/bbs/
 .images.gxsky.com
 .images.china.cn/.*first/
-.image.wenweipo.com/.*/ad_
 .image.hh010.com
 .image.9duw.com
 .image-shop.baidu.com/n/imageproduct\?
@@ -6994,6 +6990,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.windows7en.com/images/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7377,7 +7374,6 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
-.windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -7391,7 +7387,6 @@ cpro.*.
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .wenxuecity.com/service/ad/
-.wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
 .weipaima.com/img/jc\.png
@@ -7419,8 +7414,6 @@ cpro.*.
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
-.wangpanwu.com/images/.*ad
-.wangpanwu.com/images/.*%E5%B9%BF%E5%91%8A\.jpg
 .wangpange.com/img/.*_960x60\.jpg
 .wangjing.cn/upload/ftp/ad/
 .wangjing.cn/images/js/YlFloat\.js
@@ -8881,7 +8874,6 @@ cpro.*.
 .images.jurong.cn/bbs/
 .images.gxsky.com
 .images.china.cn/.*first/
-.image.wenweipo.com/.*/ad_
 .image.hh010.com
 .image.9duw.com
 .image-shop.baidu.com/n/imageproduct\?
@@ -13877,6 +13869,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.windows7en.com/images/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14252,7 +14245,6 @@ TAG:^adfilter-block-request$
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
-.windows7en.com/160805/31-160P5005615128\.jpg
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -14266,7 +14258,6 @@ TAG:^adfilter-block-request$
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .wenxuecity.com/service/ad/
-.wenweipo.com/img/banner/2016/20161101huishangbank\.jpg
 .wendu.cn/templates/wzdsb/js/yanue\.pop\.js
 .wendellyu.com/banner/
 .weipaima.com/img/jc\.png
@@ -14293,8 +14284,6 @@ TAG:^adfilter-block-request$
 .wanyx.com/Public/js/cqby\.swf
 .wanwan.sina.com.cn/third_party/
 .wanmcy.com/toolsda/
-.wangpanwu.com/images/.*ad
-.wangpanwu.com/images/.*%E5%B9%BF%E5%91%8A\.jpg
 .wangpange.com/img/.*_960x60\.jpg
 .wangjing.cn/upload/ftp/ad/
 .wangjing.cn/images/js/YlFloat\.js
@@ -15687,7 +15676,6 @@ TAG:^adfilter-block-request$
 .images.sohu.com/bill/
 .images.jurong.cn/bbs/
 .images.gxsky.com
-.image.wenweipo.com/.*/ad_
 .image.hh010.com
 .image.9duw.com
 .image-shop.baidu.com/n/imageproduct\?
