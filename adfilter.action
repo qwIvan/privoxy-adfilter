@@ -95,6 +95,9 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.chdbits.co/pic/A5banner\.gif
+.chdbits.co/pic/dune\.gif
+.chdbits.co/pic/hdsc\.gif
 .steamcn.com/data/attachment/common/.*\.gif
 .windows7en.com/images/
 .zzzyk.com/js/
@@ -1009,7 +1012,6 @@ cpro.*.
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
-.s.video.sina.com.cn/video/play\?video_id=249750205&
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -6991,6 +6993,9 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.chdbits.co/pic/A5banner\.gif
+.chdbits.co/pic/dune\.gif
+.chdbits.co/pic/hdsc\.gif
 .steamcn.com/data/attachment/common/.*\.gif
 .windows7en.com/images/
 .zzzyk.com/js/
@@ -7905,7 +7910,6 @@ cpro.*.
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
-.s.video.sina.com.cn/video/play\?video_id=249750205&
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -13871,6 +13875,9 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.chdbits.co/pic/A5banner\.gif
+.chdbits.co/pic/dune\.gif
+.chdbits.co/pic/hdsc\.gif
 .steamcn.com/data/attachment/common/.*\.gif
 .windows7en.com/images/
 .zzzyk.com/js/
@@ -14756,7 +14763,6 @@ TAG:^adfilter-block-request$
 .s.yimg.com/uv/dm/scripts/syndication\.js
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
-.s.video.sina.com.cn/video/play\?video_id=249750205&
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
