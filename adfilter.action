@@ -5766,6 +5766,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.istcg.com
+.111.73.45.147
 .xyimg.net
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -12667,6 +12669,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.istcg.com
+.111.73.45.147
 .xyimg.net
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
@@ -18752,6 +18756,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.111.73.45.147
 .xyimg.net
 ad.*.
 /(.*/)?js/tc\.js
@@ -20037,6 +20042,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.istcg.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
