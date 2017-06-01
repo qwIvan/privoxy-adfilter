@@ -5764,6 +5764,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.g1c5.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6091,6 +6092,7 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
@@ -12662,6 +12664,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.g1c5.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12989,6 +12992,7 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
@@ -18745,6 +18749,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.g1c5.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19062,6 +19067,7 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
