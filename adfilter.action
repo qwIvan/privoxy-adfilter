@@ -97,6 +97,8 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/160805/31-160P5004509403\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -911,7 +913,6 @@ cpro.*.
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
-.sina.cn/adfront/deliver\.php\?
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
@@ -3236,7 +3237,6 @@ cpro.*.
 .autoimg.cn/admdfs/Adhtmlnet/
 .autoimg.cn/admdfs/.*\.swf
 .autoimg.cn/ad\.js
-.autohome.com.cn/adfront/deliver\?
 .autofan.com.cn/zhaoning/GG-
 .autofan.com.cn/zhaoning/20.*\.jpg
 .autofan.com.cn/zhaoning/.*\.gif
@@ -5817,8 +5817,6 @@ ad.*.
 /(.*/)?xiazai_downloaderAD\.
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
-/(.*/)?xiaobaiAD\.gif
-xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
@@ -7000,6 +6998,8 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/160805/31-160P5004509403\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7814,7 +7814,6 @@ cpro.*.
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
-.sina.cn/adfront/deliver\.php\?
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
@@ -10139,7 +10138,6 @@ cpro.*.
 .autoimg.cn/admdfs/Adhtmlnet/
 .autoimg.cn/admdfs/.*\.swf
 .autoimg.cn/ad\.js
-.autohome.com.cn/adfront/deliver\?
 .autofan.com.cn/zhaoning/GG-
 .autofan.com.cn/zhaoning/20.*\.jpg
 .autofan.com.cn/zhaoning/.*\.gif
@@ -12720,8 +12718,6 @@ ad.*.
 /(.*/)?xiazai_downloaderAD\.
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
-/(.*/)?xiaobaiAD\.gif
-xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
@@ -13887,6 +13883,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/160805/31-160P5004509403\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14677,7 +14675,6 @@ TAG:^adfilter-block-request$
 .sina.com.cn/131/20150515/266\.js
 .sina.cn/cm/sinaads_
 .sina.cn/api/article/news_banner\?
-.sina.cn/adfront/deliver\.php\?
 .simplecd.*./(.*/)?static/js/default\.js
 .shxd.net/img/myad\.gif
 .shuqi6.com/static/jquery/gg\.js
@@ -16898,7 +16895,6 @@ TAG:^adfilter-block-request$
 .autoimg.cn/admdfs/Adhtmlnet/
 .autoimg.cn/admdfs/.*\.swf
 .autoimg.cn/ad\.js
-.autohome.com.cn/adfront/deliver\?
 .autofan.com.cn/zhaoning/GG-
 .autofan.com.cn/zhaoning/20.*\.jpg
 .autofan.com.cn/zhaoning/.*\.gif
@@ -18805,8 +18801,6 @@ ad.*.
 /(.*/)?xiazai_downloaderAD\.
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
-/(.*/)?xiaobaiAD\.gif
-xiaobaiAD.gif*.
 /(.*/)?wy96ad/.*
 /(.*/)?wp-content/themes/iMovies/js/tc_
 /(.*/)?web8/ad/.*
