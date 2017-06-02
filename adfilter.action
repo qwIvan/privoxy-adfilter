@@ -95,13 +95,10 @@ TAG:^adfilter-block-dnt$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
-/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[asw\]\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
-.cnbeta.com/js/pages/inteladv\.js
-.windows7en.com/templets/default/images/logo/xtzj\.gif
-.windows7en.com/160805/31-160P5004509403\.gif
+/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
+/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -485,7 +482,9 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
+.windows7en.com/templets/default/images/logo/xtzj\.gif
 .windows7en.com/images/
+.windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -2823,6 +2822,7 @@ cpro.*.
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
+.cnbeta.com/js/pages/inteladv\.js
 .cnbeta.com/assets/images/.*_670_90\.
 .cna5.cc/skins/js/
 .cmsjs.eastmoney.com
@@ -5059,6 +5059,7 @@ tanchuan.htm*.
 .gamecps.com
 .game3737.com
 .g35.cc
+.g1c5.com
 .fytza.cn
 .fydgold132.com
 .fxxgw.com
@@ -5767,7 +5768,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.g1c5.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -5952,6 +5952,7 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -6095,7 +6096,6 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
-/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
@@ -6998,13 +6998,10 @@ TAG:^adfilter-block-elem$
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
-/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
-/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[asw\]\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
-.cnbeta.com/js/pages/inteladv\.js
-.windows7en.com/templets/default/images/logo/xtzj\.gif
-.windows7en.com/160805/31-160P5004509403\.gif
+/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
+/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7388,7 +7385,9 @@ cpro.*.
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .winvvv.com
+.windows7en.com/templets/default/images/logo/xtzj\.gif
 .windows7en.com/images/
+.windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -9726,6 +9725,7 @@ cpro.*.
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
+.cnbeta.com/js/pages/inteladv\.js
 .cnbeta.com/assets/images/.*_670_90\.
 .cna5.cc/skins/js/
 .cmsjs.eastmoney.com
@@ -11962,6 +11962,7 @@ tanchuan.htm*.
 .gamecps.com
 .game3737.com
 .g35.cc
+.g1c5.com
 .fytza.cn
 .fydgold132.com
 .fxxgw.com
@@ -12670,7 +12671,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.g1c5.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12855,6 +12855,7 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
 /(.*/)?guanggao2\.
 guanggao2.*.
@@ -12998,7 +12999,6 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
-/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
@@ -13887,9 +13887,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.cnbeta.com/js/pages/inteladv\.js
-.windows7en.com/templets/default/images/logo/xtzj\.gif
-.windows7en.com/160805/31-160P5004509403\.gif
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14265,7 +14262,9 @@ TAG:^adfilter-block-request$
 .wlnews.zjol.com.cn/wlrb/bbs/
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
+.windows7en.com/templets/default/images/logo/xtzj\.gif
 .windows7en.com/images/
+.windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
@@ -16496,6 +16495,7 @@ TAG:^adfilter-block-request$
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
+.cnbeta.com/js/pages/inteladv\.js
 .cnbeta.com/assets/images/.*_670_90\.
 .cna5.cc/skins/js/
 .cloudfront.net/images/K10/adv/
@@ -18368,6 +18368,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ge95.com
 .gdskywings.com
 .gdbly.com
+.g1c5.com
 .fytza.cn
 .fydgold132.com
 .fxtducb.cn
@@ -18756,7 +18757,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.g1c5.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -18934,6 +18934,7 @@ iscar.svc/getadvert\?
 /(.*/)?huya_promotion_content_
 /(.*/)?hiring/hexieshe\.jpg
 /(.*/)?hao123_api/api/cpc/.*
+/(.*/)?hao123/template/erji/video_news/data/list\.json
 /(.*/)?guanggao2\.
 guanggao2.*.
 /(.*/)?guanggao/.*
@@ -19074,7 +19075,6 @@ AD2v1.1.js*.
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
 .*.com/js/alls_foot\.js
-/(.*/)?hao123/template/erji/video_news/data/list\.json
 /.*\.com/js/ad_
 .*.com/js/ad_
 /.*\.com/java/zuoxia\.js
@@ -20720,10 +20720,10 @@ tanchuan.htm*.
 {+server-header-filter{adfilter-xframe-filter} \
 }
 TAG:^adfilter-block-xframe$
-/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
-/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[asw\]\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
+/(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
+/=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
 .yxdd.com
 .youth.cn
 .ylnet.com.cn/inc/ad
