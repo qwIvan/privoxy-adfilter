@@ -26,6 +26,7 @@ TAG:^adfilter-block-dnt$
 .axkxy.com
 .24haitao.net
 .23txt.com
+.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -6929,6 +6930,7 @@ TAG:^adfilter-block-elem$
 .axkxy.com
 .24haitao.net
 .23txt.com
+.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -13832,6 +13834,7 @@ TAG:^adfilter-block-request$
 .ddanq.com
 .axkxy.com
 .24haitao.net
+.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
