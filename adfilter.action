@@ -16,6 +16,7 @@ TAG:^adfilter-block-dnt$
 .umyai.com
 .tuadong.com
 .sonomoyo.com
+.sdkdm.com
 .pomhz.com
 .jundazulin.com
 .hk9600.com
@@ -26,7 +27,6 @@ TAG:^adfilter-block-dnt$
 .axkxy.com
 .24haitao.net
 .23txt.com
-.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -78,6 +78,8 @@ TAG:^adfilter-block-dnt$
 .becode.qiushibaike.com
 .bdjs.120askimages.com
 .bd1.nxing.cn
+.baidu*./.*\.hntvchina\.com[^\w%.-]
+.baidu*.hntvchina.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -93,8 +95,6 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.baidu*./.*\.hntvchina\.com[^\w%.-]
-.baidu*.hntvchina.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -102,8 +102,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.js.hkslg520.com
-.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1743,6 +1741,7 @@ cpro.*.
 .js.shiwt.com/110\.js
 .js.mumayi.net/jiujiang
 .js.mumayi.net/9495\.gif
+.js.hkslg520.com
 .js.duotegame.com
 .js.bxwns.com
 .js.bju888.com
@@ -2634,6 +2633,7 @@ cpro.*.
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
+.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .doubanio.com/.*/js/ad\.
 .douban.com/.*/rda/
 .douban.com/.*/fm_bgad\.js
@@ -4741,6 +4741,7 @@ tanchuan.htm*.
 .ndtzx.com
 .nchte.com
 .ncachear.com
+.nbzq.net
 .nbjjd.com
 .namemek.com
 .mzy2014.com
@@ -5762,7 +5763,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.nbzq.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6919,6 +6919,7 @@ TAG:^adfilter-block-elem$
 .umyai.com
 .tuadong.com
 .sonomoyo.com
+.sdkdm.com
 .pomhz.com
 .jundazulin.com
 .hk9600.com
@@ -6929,7 +6930,6 @@ TAG:^adfilter-block-elem$
 .axkxy.com
 .24haitao.net
 .23txt.com
-.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -6981,6 +6981,8 @@ TAG:^adfilter-block-elem$
 .becode.qiushibaike.com
 .bdjs.120askimages.com
 .bd1.nxing.cn
+.baidu*./.*\.hntvchina\.com[^\w%.-]
+.baidu*.hntvchina.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -6996,8 +6998,6 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.baidu*./.*\.hntvchina\.com[^\w%.-]
-.baidu*.hntvchina.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -7005,8 +7005,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.js.hkslg520.com
-.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8646,6 +8644,7 @@ cpro.*.
 .js.shiwt.com/110\.js
 .js.mumayi.net/jiujiang
 .js.mumayi.net/9495\.gif
+.js.hkslg520.com
 .js.duotegame.com
 .js.bxwns.com
 .js.bju888.com
@@ -9537,6 +9536,7 @@ cpro.*.
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
+.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .doubanio.com/.*/js/ad\.
 .douban.com/.*/rda/
 .douban.com/.*/fm_bgad\.js
@@ -11644,6 +11644,7 @@ tanchuan.htm*.
 .ndtzx.com
 .nchte.com
 .ncachear.com
+.nbzq.net
 .nbjjd.com
 .namemek.com
 .mzy2014.com
@@ -12665,7 +12666,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.nbzq.net
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13823,6 +13823,7 @@ TAG:^adfilter-block-request$
 .umyai.com
 .tuadong.com
 .sonomoyo.com
+.sdkdm.com
 .pomhz.com
 .jundazulin.com
 .hk9600.com
@@ -13832,7 +13833,6 @@ TAG:^adfilter-block-request$
 .ddanq.com
 .axkxy.com
 .24haitao.net
-.sdkdm.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -13874,6 +13874,8 @@ TAG:^adfilter-block-request$
 .becode.qiushibaike.com
 .bdjs.120askimages.com
 .bd1.nxing.cn
+.baidu*./.*\.hntvchina\.com[^\w%.-]
+.baidu*.hntvchina.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .a.fengyx.com
@@ -13887,11 +13889,7 @@ TAG:^adfilter-block-request$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.baidu*./.*\.hntvchina\.com[^\w%.-]
-.baidu*.hntvchina.com
 /.*&uc=
-.js.hkslg520.com
-.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15464,6 +15462,7 @@ TAG:^adfilter-block-request$
 .js.shiwt.com/110\.js
 .js.mumayi.net/jiujiang
 .js.mumayi.net/9495\.gif
+.js.hkslg520.com
 .js.duotegame.com
 .js.bxwns.com
 .js.bju888.com
@@ -16324,6 +16323,7 @@ TAG:^adfilter-block-request$
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
+.doubimei.com/wp-content/uploads/2017/03/ad\.jpg
 .doubanio.com/.*/js/ad\.
 .douban.com/.*/fm_bgad\.js
 .douban.com/view/dale-online/dale_ad
@@ -18171,6 +18171,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ndtzx.com
 .nchte.com
 .ncachear.com
+.nbzq.net
 .nbjjd.com
 .namemek.com
 .myzk1.com
@@ -18751,7 +18752,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.nbzq.net
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
