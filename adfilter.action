@@ -6125,6 +6125,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?jdbanner2017618\.jpg
+jdbanner2017618.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13028,6 +13030,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?jdbanner2017618\.jpg
+jdbanner2017618.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -19102,6 +19106,8 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?jdbanner2017618\.jpg
+jdbanner2017618.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
