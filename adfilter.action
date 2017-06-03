@@ -455,8 +455,8 @@ cpro.*.
 .xav*./.*\.com/ad1/
 .xav*.com/ad1/
 .x4399.com/.*-.*-
-.x.jd.com/static/js/cpc\.js
-.x.jd.com/static/js/auto\.js
+.jd.com/static/js/cpc\.js
+.jd.com/static/js/auto\.js
 .wyzu.cn/js/3\.js
 .wyh.tv/image/upload/ad/
 .wxrb.com/g/js/baidu\.cbjs\.m\.js
@@ -7366,8 +7366,8 @@ cpro.*.
 .xav*./.*\.com/ad1/
 .xav*.com/ad1/
 .x4399.com/.*-.*-
-.x.jd.com/static/js/cpc\.js
-.x.jd.com/static/js/auto\.js
+.jd.com/static/js/cpc\.js
+.jd.com/static/js/auto\.js
 .wyzu.cn/js/3\.js
 .wyh.tv/image/upload/ad/
 .wxrb.com/g/js/baidu\.cbjs\.m\.js
@@ -14252,8 +14252,8 @@ TAG:^adfilter-block-request$
 .xav*./.*\.com/ad1/
 .xav*.com/ad1/
 .x4399.com/.*-.*-
-.x.jd.com/static/js/cpc\.js
-.x.jd.com/static/js/auto\.js
+.jd.com/static/js/cpc\.js
+.jd.com/static/js/auto\.js
 .wyzu.cn/js/3\.js
 .wyh.tv/image/upload/ad/
 .wxrb.com/g/js/baidu\.cbjs\.m\.js
