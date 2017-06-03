@@ -95,6 +95,7 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.home520.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -102,6 +103,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.57tvtv.com/zhong\.js
+.57tvtv.com/k\.js
+.57tvtv.com/js/iso2\.js
 .dongfangtai.com/images/zbs\.gif
 .dongfangtai.com/images/28770\.gif
 .zzzyk.com/js/
@@ -4833,7 +4837,6 @@ tanchuan.htm*.
 .kuwoyy.com
 .kuqi.com
 .kuaizitech.com
-.kuaiwan.com
 .ku9377.com
 .ku63.com
 .ktv0311.com
@@ -7003,6 +7006,7 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.home520.com
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
@@ -7010,6 +7014,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.57tvtv.com/zhong\.js
+.57tvtv.com/k\.js
+.57tvtv.com/js/iso2\.js
 .dongfangtai.com/images/zbs\.gif
 .dongfangtai.com/images/28770\.gif
 .zzzyk.com/js/
@@ -11741,7 +11748,6 @@ tanchuan.htm*.
 .kuwoyy.com
 .kuqi.com
 .kuaizitech.com
-.kuaiwan.com
 .ku9377.com
 .ku63.com
 .ktv0311.com
@@ -13899,7 +13905,11 @@ TAG:^adfilter-block-request$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
+.home520.com
 /.*&uc=
+.57tvtv.com/zhong\.js
+.57tvtv.com/k\.js
+.57tvtv.com/js/iso2\.js
 .dongfangtai.com/images/zbs\.gif
 .dongfangtai.com/images/28770\.gif
 .zzzyk.com/js/
@@ -19732,7 +19742,6 @@ gg.*.
 .le123.cn
 .kuqi.com
 .kuaizitech.com
-.kuaiwan.com
 .ku63.com
 .koopei.com
 .kiwihk.net
