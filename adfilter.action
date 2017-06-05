@@ -37,6 +37,7 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -6953,6 +6954,7 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -13869,6 +13871,7 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
 .wda.ydt.com.cn
