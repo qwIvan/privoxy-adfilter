@@ -5771,6 +5771,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xyqptm.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6136,6 +6137,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -12685,6 +12687,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.xyqptm.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13050,6 +13053,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -18783,6 +18787,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.xyqptm.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19136,6 +19141,7 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
+/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
