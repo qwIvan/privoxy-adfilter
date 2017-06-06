@@ -18,6 +18,7 @@ TAG:^adfilter-block-dnt$
 .sonomoyo.com
 .sdkdm.com
 .pomhz.com
+.mobiorg8.com
 .jundazulin.com
 .hk9600.com
 .gyrtg.com
@@ -37,7 +38,6 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -4340,6 +4340,7 @@ tanchuan.htm*.
 .xyssp.com
 .xyrhd.com
 .xyqxr.com
+.xyqptm.com
 .xyimg.net
 .xycnz.com
 .xxyzwtsylw.com
@@ -5064,6 +5065,7 @@ tanchuan.htm*.
 .gamecps.com
 .game3737.com
 .g35.cc
+.g1f5.com
 .g1c5.com
 .fytza.cn
 .fydgold132.com
@@ -5772,8 +5774,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.g1f5.com
-.xyqptm.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6065,6 +6065,7 @@ AD2v1.1.js*.
 /(.*/)?acmsd/.*
 /(.*/)?aadd123/.*
 /(.*/)?a/p\?adid=
+/(.*/)?91ad_
 /(.*/)?9115gg/.*
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
@@ -6139,7 +6140,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -6936,6 +6936,7 @@ TAG:^adfilter-block-elem$
 .sonomoyo.com
 .sdkdm.com
 .pomhz.com
+.mobiorg8.com
 .jundazulin.com
 .hk9600.com
 .gyrtg.com
@@ -6955,7 +6956,6 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .youbian.com
 .yhzm.cc
@@ -11258,6 +11258,7 @@ tanchuan.htm*.
 .xyssp.com
 .xyrhd.com
 .xyqxr.com
+.xyqptm.com
 .xyimg.net
 .xycnz.com
 .xxyzwtsylw.com
@@ -11982,6 +11983,7 @@ tanchuan.htm*.
 .gamecps.com
 .game3737.com
 .g35.cc
+.g1f5.com
 .g1c5.com
 .fytza.cn
 .fydgold132.com
@@ -12690,8 +12692,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.g1f5.com
-.xyqptm.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -12983,6 +12983,7 @@ AD2v1.1.js*.
 /(.*/)?acmsd/.*
 /(.*/)?aadd123/.*
 /(.*/)?a/p\?adid=
+/(.*/)?91ad_
 /(.*/)?9115gg/.*
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
@@ -13057,7 +13058,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
@@ -13855,6 +13855,7 @@ TAG:^adfilter-block-request$
 .sonomoyo.com
 .sdkdm.com
 .pomhz.com
+.mobiorg8.com
 .jundazulin.com
 .hk9600.com
 .gyrtg.com
@@ -13873,7 +13874,6 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.mobiorg8.com
 .caoimgs.com/images/.*\.gif
 .yhzm.cc
 .wda.ydt.com.cn
@@ -17930,6 +17930,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xyssp.com
 .xyrhd.com
 .xyqxr.com
+.xyqptm.com
 .xyimg.net
 .xycnz.com
 .xxyzwtsylw.com
@@ -18404,6 +18405,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ge95.com
 .gdskywings.com
 .gdbly.com
+.g1f5.com
 .g1c5.com
 .fytza.cn
 .fydgold132.com
@@ -18792,8 +18794,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.g1f5.com
-.xyqptm.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19075,6 +19075,7 @@ AD2v1.1.js*.
 /(.*/)?acmsd/.*
 /(.*/)?aadd123/.*
 /(.*/)?a/p\?adid=
+/(.*/)?91ad_
 /(.*/)?9115gg/.*
 /(.*/)?8w5QL8HJF0vknl8Z/.*
 /(.*/)?8drama_yahoo/.*
@@ -19147,7 +19148,6 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/(.*/)?91ad_
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 
