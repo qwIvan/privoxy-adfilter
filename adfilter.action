@@ -104,8 +104,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
-.xianzhenyuan.cn/data/attachment/common/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -421,6 +419,8 @@ cpro.*.
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
+.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
+.xianzhenyuan.cn/data/attachment/common/
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -4613,6 +4613,7 @@ tanchuan.htm*.
 .sfloushi.com
 .sexy-more.com
 .sdycd.com
+.sdqoi2d.com
 .sdhzstone.net
 .scw0.com
 .scriptcc.cc
@@ -4663,6 +4664,7 @@ tanchuan.htm*.
 .qmkdy.com
 .qling.com
 .qkkjd.com
+.qjjtc.com
 .qiyou.com
 .qiqiyii.com
 .qiqiww.com
@@ -5767,8 +5769,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qjjtc.com
-.sdqoi2d.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -7008,8 +7008,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
-.xianzhenyuan.cn/data/attachment/common/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7325,6 +7323,8 @@ cpro.*.
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
+.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
+.xianzhenyuan.cn/data/attachment/common/
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -11517,6 +11517,7 @@ tanchuan.htm*.
 .sfloushi.com
 .sexy-more.com
 .sdycd.com
+.sdqoi2d.com
 .sdhzstone.net
 .scw0.com
 .scriptcc.cc
@@ -11567,6 +11568,7 @@ tanchuan.htm*.
 .qmkdy.com
 .qling.com
 .qkkjd.com
+.qjjtc.com
 .qiyou.com
 .qiqiyii.com
 .qiqiww.com
@@ -12671,8 +12673,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qjjtc.com
-.sdqoi2d.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13894,8 +13894,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
-.xianzhenyuan.cn/data/attachment/common/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14204,6 +14202,8 @@ TAG:^adfilter-block-request$
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
+.xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
+.xianzhenyuan.cn/data/attachment/common/
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -18080,6 +18080,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sgbfjs.info
 .sfloushi.com
 .sdycd.com
+.sdqoi2d.com
 .sdhzstone.net
 .scw0.com
 .scriptcc.cc
@@ -18116,6 +18117,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qq2.co
 .qoiusky.com
 .qmkdy.com
+.qjjtc.com
 .qiqiyii.com
 .qiqiww.com
 .qiqivv.com
@@ -18759,8 +18761,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.qjjtc.com
-.sdqoi2d.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -21975,6 +21975,7 @@ addata.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
+.mmstat.com/eg\.js
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
@@ -22978,6 +22979,7 @@ addata.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R330} \
 }
+.mmstat.com/eg\.js
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
@@ -24173,6 +24175,7 @@ addata.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R330} \
 }
+.mmstat.com/eg\.js
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
