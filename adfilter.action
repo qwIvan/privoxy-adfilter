@@ -104,6 +104,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.funtude.com/include/inc/ad_data\.
+.netded.com/images/xianshua\.png
 .toutiao.com/.*&web_positions=
 .dio889.net/images/.*\.gif
 .voc.com.cn/js/xc/
@@ -7012,6 +7014,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
+.funtude.com/include/inc/ad_data\.
+.netded.com/images/xianshua\.png
 .toutiao.com/.*&web_positions=
 .dio889.net/images/.*\.gif
 .voc.com.cn/js/xc/
@@ -13902,6 +13906,8 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.funtude.com/include/inc/ad_data\.
+.netded.com/images/xianshua\.png
 .toutiao.com/.*&web_positions=
 .dio889.net/images/.*\.gif
 .voc.com.cn/js/xc/
@@ -21368,6 +21374,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.netded.com/plus/ad_js\.php\?aid=3$
 
 {+client-header-tagger{adfilter-unblock-dnt-R193} \
 }
@@ -22383,6 +22390,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.netded.com/plus/ad_js\.php\?aid=3$
 
 {+client-header-tagger{adfilter-unblock-elem-R193} \
 }
@@ -23373,6 +23381,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.netded.com/plus/ad_js\.php\?aid=3$
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
