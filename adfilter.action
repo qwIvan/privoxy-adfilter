@@ -5780,6 +5780,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.qytyf.com
 .acasys88.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -12706,6 +12707,7 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.qytyf.com
 .acasys88.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
@@ -18816,6 +18818,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.qytyf.com
 .acasys88.cn
 ad.*.
 /(.*/)?js/tc\.js
