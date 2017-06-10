@@ -104,9 +104,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
-.jb51.net/good/soft\.js
-.pstatp.com/toutiao/pic_putting/dist/pic\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -874,6 +871,7 @@ cpro.*.
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
+.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
@@ -1190,6 +1188,7 @@ cpro.*.
 .ptfish.com/.*/ad
 .ptbus.com/s\.js
 .pt80.net/source/plugin/fysq_ad/
+.pstatp.com/toutiao/pic_putting/dist/pic\.
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
 .property.hk/js/adside\.js
@@ -1812,6 +1811,7 @@ cpro.*.
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/good/soft\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -4660,6 +4660,7 @@ tanchuan.htm*.
 .rayli.com.cn
 .qzkxt.com
 .qzdfc.com
+.qytyf.com
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
@@ -5086,6 +5087,7 @@ tanchuan.htm*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fsyzcs.com
 .fst360.com
 .fqtra.com
 .founseezb.cn
@@ -5405,6 +5407,7 @@ tanchuan.htm*.
 .acwgf.com
 .acs86.com
 .acgbase.com
+.acasys88.cn
 .a9377j.com
 .a907907.com
 .a7shun.com
@@ -5783,9 +5786,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.fsyzcs.com
-.qytyf.com
-.acasys88.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6152,10 +6152,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/.*-880-80-4\.jpg
-.*-880-80-4.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/.*-880-80-4\.jpg
+.*-880-80-4.jpg*.
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -7035,9 +7035,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
-.jb51.net/good/soft\.js
-.pstatp.com/toutiao/pic_putting/dist/pic\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7805,6 +7802,7 @@ cpro.*.
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
+.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
@@ -8121,6 +8119,7 @@ cpro.*.
 .ptfish.com/.*/ad
 .ptbus.com/s\.js
 .pt80.net/source/plugin/fysq_ad/
+.pstatp.com/toutiao/pic_putting/dist/pic\.
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
 .property.hk/js/adside\.js
@@ -8743,6 +8742,7 @@ cpro.*.
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/good/soft\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -11591,6 +11591,7 @@ tanchuan.htm*.
 .rayli.com.cn
 .qzkxt.com
 .qzdfc.com
+.qytyf.com
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
@@ -12017,6 +12018,7 @@ tanchuan.htm*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fsyzcs.com
 .fst360.com
 .fqtra.com
 .founseezb.cn
@@ -12336,6 +12338,7 @@ tanchuan.htm*.
 .acwgf.com
 .acs86.com
 .acgbase.com
+.acasys88.cn
 .a9377j.com
 .a907907.com
 .a7shun.com
@@ -12714,9 +12717,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.fsyzcs.com
-.qytyf.com
-.acasys88.cn
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13083,10 +13083,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/.*-880-80-4\.jpg
-.*-880-80-4.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/.*-880-80-4\.jpg
+.*-880-80-4.jpg*.
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -13948,9 +13948,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
-.jb51.net/good/soft\.js
-.pstatp.com/toutiao/pic_putting/dist/pic\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14695,6 +14692,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
+.sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/ed5e6a1dly1fdl3orv4u9j20r808cq6o\.jpg
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
@@ -14994,6 +14992,7 @@ TAG:^adfilter-block-request$
 .ptfish.com/08html/
 .ptbus.com/s\.js
 .pt80.net/source/plugin/fysq_ad/
+.pstatp.com/toutiao/pic_putting/dist/pic\.
 .pstatp.com/site/reads-sdk/.*\.js
 .ps123.net/MyFile/
 .property.hk/js/adside\.js
@@ -15589,6 +15588,7 @@ TAG:^adfilter-block-request$
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/good/soft\.js
 .javlibrary.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -18172,6 +18172,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .re.taotaosou.com
 .qzkxt.com
 .qzdfc.com
+.qytyf.com
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
@@ -18451,6 +18452,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fujianryt.com
 .fu68.com
 .fthcz.com
+.fsyzcs.com
 .fst360.com
 .fqtra.com
 .founseezb.cn
@@ -18656,6 +18658,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .ad9377.com
 .ad000000.com
 .acwgf.com
+.acasys88.cn
 .a9377j.com
 .a907907.com
 .a3p4.net
@@ -18829,9 +18832,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.fsyzcs.com
-.qytyf.com
-.acasys88.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -19186,10 +19186,10 @@ AD2v1.1.js*.
 .*.cn/js/ads/
 /.*\.cn/ads/
 .*.cn/ads/
-/.*-880-80-4\.jpg
-.*-880-80-4.jpg*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
+/.*-880-80-4\.jpg
+.*-880-80-4.jpg*.
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
@@ -21442,6 +21442,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.media.jd.com/static/.*/ad
 
 {+client-header-tagger{adfilter-unblock-dnt-R195} \
 }
@@ -22458,6 +22459,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.media.jd.com/static/.*/ad
 
 {+client-header-tagger{adfilter-unblock-elem-R195} \
 }
@@ -23449,6 +23451,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.media.jd.com/static/.*/ad
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
