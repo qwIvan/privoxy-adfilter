@@ -1312,7 +1312,6 @@ cpro.*.
 .p.37youyou.com/.*\.jpg
 .oyksoft.com/show/b\.
 .overseaschinesemedia.com/img/.*\.gif
-.ouyaoxiazai.com
 .ousns.net/daohang/
 .oupeng.com/ezine/res/js/advcontrol\.js
 .oschina.net/uploads/cooperation/
@@ -8243,7 +8242,6 @@ cpro.*.
 .p.37youyou.com/.*\.jpg
 .oyksoft.com/show/b\.
 .overseaschinesemedia.com/img/.*\.gif
-.ouyaoxiazai.com
 .ousns.net/daohang/
 .oupeng.com/ezine/res/js/advcontrol\.js
 .oschina.net/uploads/cooperation/
@@ -19363,7 +19361,6 @@ TAG:^adfilter-block-request-Aj-Cj$
 .qqread.com/.*js/
 .piaohua.com/js/yzz/
 .pfp.sina.com.cn
-.ouyaoxiazai.com
 .myhack58.com/.*0
 .medsci.cn/aimgs/
 .linuxidc.com/linuxfile/linux
@@ -20830,7 +20827,6 @@ TAG:^adfilter-block-xframe$
 .puudeng.com.tw
 .pfp.sina.com.cn
 .pfizer.com.tw
-.ouyaoxiazai.com
 .narutom.com/v2/v/
 .momoshop.com.tw/goods/GoodsDetail\.jsp\?
 .mahua.com/api/
@@ -21229,6 +21225,7 @@ TAG:^adfilter-unblock-dnt$
 .mm.maxthon.cn/ad/
 .miaozhen.com/.*/m\.suning\.
 .meizu.com/fileserver/ad/img/
+.media.jd.com/static/.*/ad
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
@@ -21442,7 +21439,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.media.jd.com/static/.*/ad
 
 {+client-header-tagger{adfilter-unblock-dnt-R195} \
 }
@@ -22250,6 +22246,7 @@ TAG:^adfilter-unblock-elem$
 .mm.maxthon.cn/ad/
 .miaozhen.com/.*/m\.suning\.
 .meizu.com/fileserver/ad/img/
+.media.jd.com/static/.*/ad
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
@@ -22459,7 +22456,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.media.jd.com/static/.*/ad
 
 {+client-header-tagger{adfilter-unblock-elem-R195} \
 }
@@ -23254,6 +23250,7 @@ TAG:^adfilter-unblock-request$
 .mm.maxthon.cn/ad/
 .miaozhen.com/.*/m\.suning\.
 .meizu.com/fileserver/ad/img/
+.media.jd.com/static/.*/ad
 .masterkong.com.cn/adimages/
 .manhua.weibo.com/adv/
 .mail.wo.cn/ad/
@@ -23451,7 +23448,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.media.jd.com/static/.*/ad
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
