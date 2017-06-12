@@ -38,7 +38,9 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
+.aaaimg.com/images.*\.gif
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
@@ -104,16 +106,12 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.cao0002.com/vip/js/
-.aaaimg.com/images.*\.gif
-.ganimgs.com/images/.*\.gif
-.wobuka2.com/js/
-.zzidc.com/uploads/tuoguan
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
+.zzidc.com/uploads/tuoguan
 .zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
@@ -473,6 +471,7 @@ cpro.*.
 .wpdaxue.com/2015/03/wx0329\.jpg
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
+.wobuka2.com/js/
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -2966,6 +2965,7 @@ cpro.*.
 .caoimg.com/images/
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
+.cao0002.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -5935,6 +5935,7 @@ lfAD2v1.1.js*.
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
+/(.*/)?kuaiyuncn/ad/.*
 /(.*/)?kisssub/ads/.*
 /(.*/)?keke_winad/template/.*layerModel\.
 /(.*/)?kan/js/dian\.js
@@ -6146,7 +6147,6 @@ AD2v1.1.js*.
 .*.com/ads/ada\.js
 /.*\.com/Ads/95060_
 .*.com/Ads/95060_
-/(.*/)?kuaiyuncn/ad/.*
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.com/\?ss=
@@ -6974,7 +6974,9 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
+.aaaimg.com/images.*\.gif
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
@@ -7040,16 +7042,12 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[asw]\?.*?%[0-9A-Z]{2}%
 /(.*/)?=\(\?:2560\|1920\|1776\|1680\|1600\|1440\|1366\|1360\|1280\|1184\|1182\|1152\|1080\|1024\|960\|854\|800\|720\|640\|540\|480\|320\|240\)\[a-z\]\[0-9\]\{3,4\}&/
 /=(?:2560|1920|1776|1680|1600|1440|1366|1360|1280|1184|1182|1152|1080|1024|960|854|800|720|640|540|480|320|240)[a-z][0-9]{3,4}&
-.cao0002.com/vip/js/
-.aaaimg.com/images.*\.gif
-.ganimgs.com/images/.*\.gif
-.wobuka2.com/js/
-.zzidc.com/uploads/tuoguan
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
+.zzidc.com/uploads/tuoguan
 .zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
@@ -7409,6 +7407,7 @@ cpro.*.
 .wpdaxue.com/2015/03/wx0329\.jpg
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
+.wobuka2.com/js/
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -9902,6 +9901,7 @@ cpro.*.
 .caoimg.com/images/
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
+.cao0002.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -12871,6 +12871,7 @@ lfAD2v1.1.js*.
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
+/(.*/)?kuaiyuncn/ad/.*
 /(.*/)?kisssub/ads/.*
 /(.*/)?keke_winad/template/.*layerModel\.
 /(.*/)?kan/js/dian\.js
@@ -13082,7 +13083,6 @@ AD2v1.1.js*.
 .*.com/ads/ada\.js
 /.*\.com/Ads/95060_
 .*.com/Ads/95060_
-/(.*/)?kuaiyuncn/ad/.*
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.com/\?ss=
@@ -13910,7 +13910,9 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
+.aaaimg.com/images.*\.gif
 .yhzm.cc
 .wda.ydt.com.cn
 .uniondm.cz88.net
@@ -13958,16 +13960,12 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.cao0002.com/vip/js/
-.aaaimg.com/images.*\.gif
-.ganimgs.com/images/.*\.gif
-.wobuka2.com/js/
-.zzidc.com/uploads/tuoguan
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
 .zzidc.com/.*0\.gif
+.zzidc.com/uploads/tuoguan
 .zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
@@ -14320,6 +14318,7 @@ TAG:^adfilter-block-request$
 .wpdaxue.com/2015/03/wx0329\.jpg
 .woxiu.com/xapi/offsite_swf_more\.php\?
 .woxiu.com/xapi/get_pre_config\.php
+.wobuka2.com/js/
 .wo256.com/256_gg/.*\.gif
 .wmzhe.com/contents/8d/94/8d94744f4da06d2d58371f9623499e9d\.gif
 .wmzhe.com/contents/37/86/3786322c8c0b7e32151d0dd63c1496d6\.gif
@@ -16700,6 +16699,7 @@ TAG:^adfilter-block-request$
 .caoimg.com/images/
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
+.cao0002.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -18986,6 +18986,7 @@ lfAD2v1.1.js*.
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
+/(.*/)?kuaiyuncn/ad/.*
 /(.*/)?kisssub/ads/.*
 /(.*/)?keke_winad/template/.*layerModel\.
 /(.*/)?kan/js/dian\.js
@@ -19193,7 +19194,6 @@ AD2v1.1.js*.
 .*.com/ads/ada\.js
 /.*\.com/Ads/95060_
 .*.com/Ads/95060_
-/(.*/)?kuaiyuncn/ad/.*
 /.*\.com/a_d/
 .*.com/a_d/
 /.*\.co/js/ads/
