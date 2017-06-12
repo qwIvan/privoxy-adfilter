@@ -38,6 +38,8 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.xmcxz.com
+.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -5789,7 +5791,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qlonglong.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6975,6 +6976,8 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.xmcxz.com
+.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -12726,7 +12729,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.qlonglong.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13912,6 +13914,8 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.xmcxz.com
+.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -18850,7 +18854,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.qlonglong.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
