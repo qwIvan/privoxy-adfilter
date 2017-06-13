@@ -11,12 +11,14 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .yunanfuwuqi.com
+.xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qlonglong.com
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
@@ -38,8 +40,6 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.xmcxz.com
-.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -106,7 +106,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.cnbetacdn.com/frontend/vipics/yijian
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2831,6 +2830,7 @@ cpro.*.
 .cnblogs.com/units/
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian_
+.cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
@@ -6949,12 +6949,14 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .yunanfuwuqi.com
+.xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qlonglong.com
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
@@ -6976,8 +6978,6 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.xmcxz.com
-.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -7044,7 +7044,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.cnbetacdn.com/frontend/vipics/yijian
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9769,6 +9768,7 @@ cpro.*.
 .cnblogs.com/units/
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian_
+.cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
@@ -13888,12 +13888,14 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .yunanfuwuqi.com
+.xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qlonglong.com
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
@@ -13914,8 +13916,6 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.xmcxz.com
-.qlonglong.com
 .ganimgs.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
@@ -13966,7 +13966,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.cnbetacdn.com/frontend/vipics/yijian
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16577,6 +16576,7 @@ TAG:^adfilter-block-request$
 .cnblogs.com/units/
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian_
+.cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
