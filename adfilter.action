@@ -1383,7 +1383,6 @@ cpro.*.
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
-.news.cn/news/ad/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
 .newasp.net/apps/misc\.php\?action=advert&
@@ -8331,7 +8330,6 @@ cpro.*.
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
-.news.cn/news/ad/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
 .newasp.net/apps/misc\.php\?action=advert&
@@ -15219,7 +15217,6 @@ TAG:^adfilter-block-request$
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
-.news.cn/news/ad/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
 .newasp.net/apps/misc\.php\?action=advert&
