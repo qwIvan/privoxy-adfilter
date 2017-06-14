@@ -18,6 +18,7 @@ TAG:^adfilter-block-dnt$
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qzdag.com
 .qlonglong.com
 .pomhz.com
 .mobiorg8.com
@@ -40,11 +41,10 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.qzdag.com
 .ganimgs.com/images/.*\.gif
+.ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
-.ganimg.com/images/.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 .youbian.com
 .yhzm.cc
@@ -109,7 +109,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.cao0001.com/vip/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2060,6 +2059,7 @@ cpro.*.
 .ifanr.cn/wp-content/uploads/.*/mina_
 .ietv.cc/Runtime/Js/web_bug\.js
 .ietv.cc/Runtime/Js/vod
+.ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
 .idcxr.com/images/ad
@@ -2971,6 +2971,7 @@ cpro.*.
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
 .cao0002.com/vip/js/
+.cao0001.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -6428,8 +6429,6 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-dnt-R58} \
 }
-.sinaimg.cn
-/(.*/)?images/.*\.gif
 /(.*/)?media/player/xmlroll\.php
 
 {+client-header-tagger{adfilter-block-dnt-R59} \
@@ -6966,6 +6965,7 @@ TAG:^adfilter-block-elem$
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qzdag.com
 .qlonglong.com
 .pomhz.com
 .mobiorg8.com
@@ -6988,11 +6988,10 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.qzdag.com
 .ganimgs.com/images/.*\.gif
+.ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
-.ganimg.com/images/.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 .youbian.com
 .yhzm.cc
@@ -7057,7 +7056,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.cao0001.com/vip/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9008,6 +9006,7 @@ cpro.*.
 .ifanr.cn/wp-content/uploads/.*/mina_
 .ietv.cc/Runtime/Js/web_bug\.js
 .ietv.cc/Runtime/Js/vod
+.ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
 .idcxr.com/images/ad
@@ -9919,6 +9918,7 @@ cpro.*.
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
 .cao0002.com/vip/js/
+.cao0001.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -13376,8 +13376,6 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-elem-R58} \
 }
-.sinaimg.cn
-/(.*/)?images/.*\.gif
 /(.*/)?media/player/xmlroll\.php
 
 {+client-header-tagger{adfilter-block-elem-R59} \
@@ -13915,6 +13913,7 @@ TAG:^adfilter-block-request$
 .tuadong.com
 .sonomoyo.com
 .sdkdm.com
+.qzdag.com
 .qlonglong.com
 .pomhz.com
 .mobiorg8.com
@@ -13936,11 +13935,10 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.qzdag.com
 .ganimgs.com/images/.*\.gif
+.ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
-.ganimg.com/images/.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 .yhzm.cc
 .wda.ydt.com.cn
@@ -13989,7 +13987,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.cao0001.com/vip/js/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15862,6 +15859,7 @@ TAG:^adfilter-block-request$
 .ifanr.cn/wp-content/uploads/.*/mina_
 .ietv.cc/Runtime/Js/web_bug\.js
 .ietv.cc/Runtime/Js/vod
+.ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
 .idcxr.com/images/ad
@@ -16731,6 +16729,7 @@ TAG:^adfilter-block-request$
 .cao688.net/images//uploads/index_banner/
 .cao688.net/images//uploads/ad/
 .cao0002.com/vip/js/
+.cao0001.com/vip/js/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -20415,8 +20414,6 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-request-R58} \
 }
-.sinaimg.cn
-/(.*/)?images/.*\.gif
 /(.*/)?media/player/xmlroll\.php
 
 {+client-header-tagger{adfilter-block-request-R59} \
@@ -21374,6 +21371,7 @@ TAG:^adfilter-unblock-dnt$
 .cntv.cn/.*_ad\.js
 .cntv.cn/include/video/js/cntv_Advertise\.js
 .cnr.cn/gg/
+.cnprint.org
 .cmechina.net
 .cmbchina.com/ads/
 .cmbc.com.cn/.*ads/
@@ -22394,6 +22392,7 @@ TAG:^adfilter-unblock-elem$
 .cntv.cn/.*_ad\.js
 .cntv.cn/include/video/js/cntv_Advertise\.js
 .cnr.cn/gg/
+.cnprint.org
 .cmechina.net
 .cmbchina.com/ads/
 .cmbc.com.cn/.*ads/
@@ -23394,6 +23393,7 @@ TAG:^adfilter-unblock-request$
 .cntv.cn/.*_ad\.js
 .cntv.cn/include/video/js/cntv_Advertise\.js
 .cnr.cn/gg/
+.cnprint.org
 .cmechina.net
 .cmbchina.com/ads/
 .cmbc.com.cn/.*ads/
