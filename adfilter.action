@@ -25,6 +25,7 @@ TAG:^adfilter-block-dnt$
 .jundazulin.com
 .inccnd.com
 .hk9600.com
+.huayi65.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
@@ -32,6 +33,8 @@ TAG:^adfilter-block-dnt$
 .axkxy.com
 .24haitao.net
 .23txt.com
+.shumilou.co/style/html5\.js
+.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -6634,10 +6637,10 @@ da.aspx
 
 {+client-header-tagger{adfilter-block-dnt-R105} \
 }
-.55.la/anonymous/banner/
 
 {+client-header-tagger{adfilter-block-dnt-R106} \
 }
+.55.la/anonymous/banner/
 
 {+client-header-tagger{adfilter-block-dnt-R107} \
 }
@@ -6972,6 +6975,7 @@ TAG:^adfilter-block-elem$
 .jundazulin.com
 .inccnd.com
 .hk9600.com
+.huayi65.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
@@ -6979,6 +6983,8 @@ TAG:^adfilter-block-elem$
 .axkxy.com
 .24haitao.net
 .23txt.com
+.shumilou.co/style/html5\.js
+.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -13581,10 +13587,10 @@ da.aspx
 
 {+client-header-tagger{adfilter-block-elem-R105} \
 }
-.55.la/anonymous/banner/
 
 {+client-header-tagger{adfilter-block-elem-R106} \
 }
+.55.la/anonymous/banner/
 
 {+client-header-tagger{adfilter-block-elem-R107} \
 }
@@ -13920,12 +13926,15 @@ TAG:^adfilter-block-request$
 .jundazulin.com
 .inccnd.com
 .hk9600.com
+.huayi65.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
 .ddanq.com
 .axkxy.com
 .24haitao.net
+.shumilou.co/style/html5\.js
+.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -20588,7 +20597,7 @@ da.aspx
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-request-R105} \
+{+client-header-tagger{adfilter-block-request-R106} \
 }
 .55.la/anonymous/banner/
 
