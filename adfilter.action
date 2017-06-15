@@ -115,6 +115,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
@@ -5807,6 +5808,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.rnfrfxqztlno.com
+.mwlucuvbyrff.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -7069,6 +7072,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
@@ -12761,6 +12765,8 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
+.rnfrfxqztlno.com
+.mwlucuvbyrff.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -14007,6 +14013,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
@@ -18900,6 +18907,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.rnfrfxqztlno.com
+.mwlucuvbyrff.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
