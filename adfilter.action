@@ -45,6 +45,7 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -114,6 +115,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -4264,6 +4266,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.u26u.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -6996,6 +6999,7 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7065,6 +7069,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -11215,6 +11220,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.u26u.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -13947,6 +13953,7 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14000,6 +14007,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.139file.com/jsa/
 .dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -20862,6 +20870,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.u26u.com
 
 {+server-header-filter{adfilter-xframe-filter} \
 }
@@ -21084,6 +21093,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.u26u.com
 
 {-client-header-tagger{adfilter-unblock-dnt-nR} \
 }
