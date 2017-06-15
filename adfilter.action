@@ -23,6 +23,7 @@ TAG:^adfilter-block-dnt$
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
+.inccnd.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -41,7 +42,6 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.inccnd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -111,7 +111,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.ifengimg.com/static/js/.*Adv\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2033,6 +2032,7 @@ cpro.*.
 .ifengimg.com/w702_h371/
 .ifengimg.com/tres/js/.*/idemin_noif\.js
 .ifengimg.com/static/news/js/advtrack
+.ifengimg.com/static/js/.*Adv\.
 .ifengimg.com/p/ax_
 .ifengimg.com/neiqian/.*/embed\.js
 .ifengimg.com/md/.*/v_responsive
@@ -4956,6 +4956,7 @@ tanchuan.htm*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jbyy010.com
 .jackaow.com
 .ja9377.com
 .j8j9.com
@@ -5347,6 +5348,7 @@ tanchuan.htm*.
 .axiba66.com
 .axhxa.com
 .awkjs.com
+.awifi.cn
 .av8d.net
 .at98.com
 .at918.com
@@ -5798,8 +5800,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.awifi.cn
-.jbyy010.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -6970,6 +6970,7 @@ TAG:^adfilter-block-elem$
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
+.inccnd.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -6988,7 +6989,6 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.inccnd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7058,7 +7058,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.ifengimg.com/static/js/.*Adv\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8980,6 +8979,7 @@ cpro.*.
 .ifengimg.com/w702_h371/
 .ifengimg.com/tres/js/.*/idemin_noif\.js
 .ifengimg.com/static/news/js/advtrack
+.ifengimg.com/static/js/.*Adv\.
 .ifengimg.com/p/ax_
 .ifengimg.com/neiqian/.*/embed\.js
 .ifengimg.com/md/.*/v_responsive
@@ -11903,6 +11903,7 @@ tanchuan.htm*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jbyy010.com
 .jackaow.com
 .ja9377.com
 .j8j9.com
@@ -12294,6 +12295,7 @@ tanchuan.htm*.
 .axiba66.com
 .axhxa.com
 .awkjs.com
+.awifi.cn
 .av8d.net
 .at98.com
 .at918.com
@@ -12745,8 +12747,6 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.awifi.cn
-.jbyy010.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 ad.*.
@@ -13918,6 +13918,7 @@ TAG:^adfilter-block-request$
 .pomhz.com
 .mobiorg8.com
 .jundazulin.com
+.inccnd.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -13935,7 +13936,6 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.inccnd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -13989,7 +13989,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.ifengimg.com/static/js/.*Adv\.
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15833,6 +15832,7 @@ TAG:^adfilter-block-request$
 .ifengimg.com/w702_h371/
 .ifengimg.com/tres/js/.*/idemin_noif\.js
 .ifengimg.com/static/news/js/advtrack
+.ifengimg.com/static/js/.*Adv\.
 .ifengimg.com/p/ax_
 .ifengimg.com/neiqian/.*/embed\.js
 .ifengimg.com/md/.*/v_responsive
@@ -18409,6 +18409,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jdlhg.com
 .jdlcg.cn
 .jczzjx.com
+.jbyy010.com
 .jackaow.com
 .ja9377.com
 .iuuff.com
@@ -18879,7 +18880,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jbyy010.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20012,6 +20012,7 @@ gg.*.
 .baitaiad.com
 .baidu360haosou.info
 .b5h7.com
+.awifi.cn
 .av8d.net
 .at918.com
 .aoparking.com
@@ -20170,7 +20171,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.awifi.cn
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
