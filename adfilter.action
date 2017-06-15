@@ -115,6 +115,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.happyhongkong.com/images/client/
 .etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
@@ -5470,7 +5471,8 @@ tanchuan.htm*.
 .9158918.com
 .913h6.cn
 .911.cc
-.8ox.cn
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
@@ -7072,6 +7074,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.happyhongkong.com/images/client/
 .etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
@@ -12427,7 +12430,8 @@ tanchuan.htm*.
 .9158918.com
 .913h6.cn
 .911.cc
-.8ox.cn
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
@@ -14013,6 +14017,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.happyhongkong.com/images/client/
 .etadult.com*./(.*/)?images/20
 .139file.com/jsa/
 .dilidili.wang/shouye/
@@ -18760,6 +18765,8 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .91zgm.com
 .91ysa.com
 .91xry.com
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 .8mfty.com
 .8hykthze.cricket
 .892155.com
@@ -20094,7 +20101,6 @@ gg.*.
 .9158918.com
 .913h6.cn
 .911.cc
-.8ox.cn
 .8le8le.com
 .8910ad.com
 .88ysg.com
