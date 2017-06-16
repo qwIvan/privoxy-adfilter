@@ -3191,7 +3191,8 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baiy.net:88/a/
+.b.baiy.net
+.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -10150,7 +10151,8 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baiy.net:88/a/
+.b.baiy.net
+.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -16969,7 +16971,8 @@ TAG:^adfilter-block-request$
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baiy.net:88/a/
+.b.baiy.net
+.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
