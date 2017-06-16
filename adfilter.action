@@ -115,6 +115,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -407,12 +408,9 @@ cpro.*.
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/v/script/coupletAd\.js
-.xinhuanet.com/titlepic/111243292_title1n\.jpg
 .xinhuanet.com/statics/imags/zgyd_
-.xinhuanet.com/plugs/szzc630x80\.jpg
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
-.xinhuanet.com/images/ggdl\.jpg
 .xinhuanet.com/classad/
 .xinhuanet.com/ce/pcimage/mt\.swf
 .xinhuanet.com/adxl/
@@ -7075,6 +7073,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7367,12 +7366,9 @@ cpro.*.
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/v/script/coupletAd\.js
-.xinhuanet.com/titlepic/111243292_title1n\.jpg
 .xinhuanet.com/statics/imags/zgyd_
-.xinhuanet.com/plugs/szzc630x80\.jpg
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
-.xinhuanet.com/images/ggdl\.jpg
 .xinhuanet.com/classad/
 .xinhuanet.com/ce/pcimage/mt\.swf
 .xinhuanet.com/adxl/
@@ -14019,6 +14015,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14304,12 +14301,9 @@ TAG:^adfilter-block-request$
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/v/script/coupletAd\.js
-.xinhuanet.com/titlepic/111243292_title1n\.jpg
 .xinhuanet.com/statics/imags/zgyd_
-.xinhuanet.com/plugs/szzc630x80\.jpg
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
-.xinhuanet.com/images/ggdl\.jpg
 .xinhuanet.com/classad/
 .xinhuanet.com/ce/pcimage/mt\.swf
 .xinhuanet.com/adxl/
