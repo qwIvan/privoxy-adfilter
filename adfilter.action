@@ -10,13 +10,16 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.ztxbd.com
 .yunanfuwuqi.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
+.tsrc8.com
 .sonomoyo.com
+.shumilou.co/style/html5\.js
 .sdkdm.com
 .qzdag.com
 .qlonglong.com
@@ -24,8 +27,8 @@ TAG:^adfilter-block-dnt$
 .mobiorg8.com
 .jundazulin.com
 .inccnd.com
-.hk9600.com
 .huayi65.com
+.hk9600.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
@@ -33,8 +36,6 @@ TAG:^adfilter-block-dnt$
 .axkxy.com
 .24haitao.net
 .23txt.com
-.shumilou.co/style/html5\.js
-.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -45,7 +46,6 @@ TAG:^adfilter-block-dnt$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -115,10 +115,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.happyhongkong.com/images/client/
-.etadult.com*./(.*/)?images/20
-.139file.com/jsa/
-.dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2240,6 +2236,7 @@ cpro.*.
 .hc360.com/images/14826/289x90\.jpg
 .hc360.cn/js/module/info/info_liuliangbao\.js
 .haxiu.com/data/cache/myadn-
+.happyhongkong.com/images/client/
 .haoxxoo.com/player/ad\.html
 .haoring03.com/ads/
 .haolepic.com/js/
@@ -2537,6 +2534,7 @@ cpro.*.
 .etf88.com/swf/
 .etf88.com/jjb/.*_ad
 .etest8.com/js/158/infojs/
+.etadult.com*./(.*/)?images/20
 .es3984.review/02_cn_ad/
 .erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
@@ -2718,6 +2716,7 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
@@ -4014,6 +4013,7 @@ cpro.*.
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
+.139file.com/jsa/
 .131458.com/union/
 .131.com/js/131InsideAD
 .131.com/home/resouces/js/
@@ -4222,6 +4222,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xingshenfang.cn
 .wy213.com
 .vnet.cn/.*\.html\?
+.u26u.com
 .todayapp.tv
 .son999.com
 .sohu.com/i/\?pvid=
@@ -4268,7 +4269,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.u26u.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -4670,6 +4670,7 @@ tanchuan.htm*.
 .rsccs.com
 .rrsubway.com
 .rpaulfrank.com
+.rnfrfxqztlno.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -4794,6 +4795,7 @@ tanchuan.htm*.
 .mytanwan.com
 .mycctvmedia.com
 .mxmrt.com
+.mwlucuvbyrff.com
 .mtxsk.com
 .mtty.com
 .mtburn.com
@@ -5471,8 +5473,6 @@ tanchuan.htm*.
 .9158918.com
 .913h6.cn
 .911.cc
-/.*\.8ox\.cn[^\w%.-]
-.*.8ox.cn
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
@@ -5810,10 +5810,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.rnfrfxqztlno.com
-.mwlucuvbyrff.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -6969,13 +6969,16 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.ztxbd.com
 .yunanfuwuqi.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
+.tsrc8.com
 .sonomoyo.com
+.shumilou.co/style/html5\.js
 .sdkdm.com
 .qzdag.com
 .qlonglong.com
@@ -6983,8 +6986,8 @@ TAG:^adfilter-block-elem$
 .mobiorg8.com
 .jundazulin.com
 .inccnd.com
-.hk9600.com
 .huayi65.com
+.hk9600.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
@@ -6992,8 +6995,6 @@ TAG:^adfilter-block-elem$
 .axkxy.com
 .24haitao.net
 .23txt.com
-.shumilou.co/style/html5\.js
-.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -7004,7 +7005,6 @@ TAG:^adfilter-block-elem$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7074,10 +7074,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.happyhongkong.com/images/client/
-.etadult.com*./(.*/)?images/20
-.139file.com/jsa/
-.dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9199,6 +9195,7 @@ cpro.*.
 .hc360.com/images/14826/289x90\.jpg
 .hc360.cn/js/module/info/info_liuliangbao\.js
 .haxiu.com/data/cache/myadn-
+.happyhongkong.com/images/client/
 .haoxxoo.com/player/ad\.html
 .haoring03.com/ads/
 .haolepic.com/js/
@@ -9496,6 +9493,7 @@ cpro.*.
 .etf88.com/swf/
 .etf88.com/jjb/.*_ad
 .etest8.com/js/158/infojs/
+.etadult.com*./(.*/)?images/20
 .es3984.review/02_cn_ad/
 .erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
@@ -9677,6 +9675,7 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
@@ -10973,6 +10972,7 @@ cpro.*.
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
+.139file.com/jsa/
 .131458.com/union/
 .131.com/js/131InsideAD
 .131.com/home/resouces/js/
@@ -11181,6 +11181,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xingshenfang.cn
 .wy213.com
 .vnet.cn/.*\.html\?
+.u26u.com
 .todayapp.tv
 .son999.com
 .sohu.com/i/\?pvid=
@@ -11227,7 +11228,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.u26u.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -11629,6 +11629,7 @@ tanchuan.htm*.
 .rsccs.com
 .rrsubway.com
 .rpaulfrank.com
+.rnfrfxqztlno.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -11753,6 +11754,7 @@ tanchuan.htm*.
 .mytanwan.com
 .mycctvmedia.com
 .mxmrt.com
+.mwlucuvbyrff.com
 .mtxsk.com
 .mtty.com
 .mtburn.com
@@ -12430,8 +12432,6 @@ tanchuan.htm*.
 .9158918.com
 .913h6.cn
 .911.cc
-/.*\.8ox\.cn[^\w%.-]
-.*.8ox.cn
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
@@ -12769,10 +12769,10 @@ pd2.js*.
 .*.cn/vs\.php\?id=
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
-.rnfrfxqztlno.com
-.mwlucuvbyrff.com
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -13929,13 +13929,16 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.ztxbd.com
 .yunanfuwuqi.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
 .umyai.com
 .tuadong.com
+.tsrc8.com
 .sonomoyo.com
+.shumilou.co/style/html5\.js
 .sdkdm.com
 .qzdag.com
 .qlonglong.com
@@ -13943,16 +13946,14 @@ TAG:^adfilter-block-request$
 .mobiorg8.com
 .jundazulin.com
 .inccnd.com
-.hk9600.com
 .huayi65.com
+.hk9600.com
 .gyrtg.com
 .feifish66.com
 .dezfu.com
 .ddanq.com
 .axkxy.com
 .24haitao.net
-.shumilou.co/style/html5\.js
-.tsrc8.com
 /.*\.m\.zwdu\.com[^\w%.-]
 .*.m.zwdu.com
 /.*\.m\.xs222\.com[^\w%.-]
@@ -13963,7 +13964,6 @@ TAG:^adfilter-block-request$
 .*.m.liewen.cc
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
-.ztxbd.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14017,10 +14017,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.happyhongkong.com/images/client/
-.etadult.com*./(.*/)?images/20
-.139file.com/jsa/
-.dilidili.wang/shouye/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16060,6 +16056,7 @@ TAG:^adfilter-block-request$
 .hc360.com/images/14826/289x90\.jpg
 .hc360.cn/js/module/info/info_liuliangbao\.js
 .haxiu.com/data/cache/myadn-
+.happyhongkong.com/images/client/
 .haoxxoo.com/player/ad\.html
 .haoring03.com/ads/
 .haolepic.com/js/
@@ -16345,6 +16342,7 @@ TAG:^adfilter-block-request$
 .etfunhome.com/images/kk\.gif
 .etf88.com/swf/
 .etest8.com/js/158/infojs/
+.etadult.com*./(.*/)?images/20
 .es3984.review/02_cn_ad/
 .erebor.douban.com
 .eprice.com.tw/js/swfobject-2\.3\.js
@@ -16514,6 +16512,7 @@ TAG:^adfilter-block-request$
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
 .diediao.com/js/loading\.html
@@ -17757,6 +17756,7 @@ TAG:^adfilter-block-request$
 .1518.com/ss/
 .14bobo.com/js/
 .141h.com/data/attachment/noblock/cf/
+.139file.com/jsa/
 .131458.com/union/
 .131.com/home/resouces/js/
 .131.com/common/alertwindow\.html
@@ -18242,6 +18242,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .runiman.com
 .rrsubway.com
 .rpaulfrank.com
+.rnfrfxqztlno.com
 .riqu2015.com
 .rhgyg.com
 .resetgey.com
@@ -18334,6 +18335,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .myzk1.com
 .mytzdhz.cn
 .mxmrt.com
+.mwlucuvbyrff.com
 .mstzym.com
 .msltzer.cn
 .mscimg.com
@@ -18765,8 +18767,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .91zgm.com
 .91ysa.com
 .91xry.com
-/.*\.8ox\.cn[^\w%.-]
-.*.8ox.cn
 .8mfty.com
 .8hykthze.cricket
 .892155.com
@@ -18914,8 +18914,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.rnfrfxqztlno.com
-.mwlucuvbyrff.com
+/.*\.8ox\.cn[^\w%.-]
+.*.8ox.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20865,6 +20865,7 @@ cpro.*.
 .xiyouhope.com
 .wy213.com
 .vnet.cn/.*\.html\?
+.u26u.com
 .todayapp.tv
 .son999.com
 .gd.ct10000.com/.*/push/
@@ -20885,7 +20886,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.u26u.com
 
 {+server-header-filter{adfilter-xframe-filter} \
 }
@@ -21088,6 +21088,7 @@ cpro.*.
 .xiyouhope.com
 .wy213.com
 .vnet.cn/.*\.html\?
+.u26u.com
 .todayapp.tv
 .son999.com
 .gd.ct10000.com/.*/push/
@@ -21108,7 +21109,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.u26u.com
 
 {-client-header-tagger{adfilter-unblock-dnt-nR} \
 }
