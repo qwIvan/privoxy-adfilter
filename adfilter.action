@@ -115,7 +115,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -405,6 +404,7 @@ cpro.*.
 .xinmin.cn/framepage/foot1\.htm
 .xinjs.cn/2010/yf
 .xinji.org/js/float\.js
+.xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/jjimages/jc/js/fla\.js
@@ -3029,7 +3029,7 @@ cpro.*.
 .btks.me/js/ac
 .btks.me/ac/
 .btexe.cc/static/js/
-.btcherry.org/adm\.js
+.btcherry.*./(.*/)?adm\.js
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -3176,8 +3176,6 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.b.baiy.net
-.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -3234,6 +3232,7 @@ cpro.*.
 .b8yy.com/.*/proxy\.swf
 .b8yy.com/stlye/vnsr\.gif
 .b7yy.com/ad/
+.b.baiy.net
 .b.77vcd.com
 .ayxz.com/images/enkj_small\.gif
 .ayxz.com/images/
@@ -3459,6 +3458,7 @@ cpro.*.
 .a.game.qidian.com/material/xs\.js
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
+.a.baiy.net
 .a-m-s.poco.cn
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
@@ -7060,7 +7060,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
-.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7350,6 +7349,7 @@ cpro.*.
 .xinmin.cn/framepage/foot1\.htm
 .xinjs.cn/2010/yf
 .xinji.org/js/float\.js
+.xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/jjimages/jc/js/fla\.js
@@ -9974,7 +9974,7 @@ cpro.*.
 .btks.me/js/ac
 .btks.me/ac/
 .btexe.cc/static/js/
-.btcherry.org/adm\.js
+.btcherry.*./(.*/)?adm\.js
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -10121,8 +10121,6 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.b.baiy.net
-.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -10179,6 +10177,7 @@ cpro.*.
 .b8yy.com/.*/proxy\.swf
 .b8yy.com/stlye/vnsr\.gif
 .b7yy.com/ad/
+.b.baiy.net
 .b.77vcd.com
 .ayxz.com/images/enkj_small\.gif
 .ayxz.com/images/
@@ -10404,6 +10403,7 @@ cpro.*.
 .a.game.qidian.com/material/xs\.js
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
+.a.baiy.net
 .a-m-s.poco.cn
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
@@ -13989,7 +13989,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.xinhuanet.com/.*/adv
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14272,6 +14271,7 @@ TAG:^adfilter-block-request$
 .xinmin.cn/framepage/foot1\.htm
 .xinjs.cn/2010/yf
 .xinji.org/js/float\.js
+.xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
 .xinhuanet.com/jjimages/jc/js/fla\.js
@@ -16781,7 +16781,7 @@ TAG:^adfilter-block-request$
 .btks.me/js/ac
 .btks.me/ac/
 .btexe.cc/static/js/
-.btcherry.org/adm\.js
+.btcherry.*./(.*/)?adm\.js
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -16926,8 +16926,6 @@ TAG:^adfilter-block-request$
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.b.baiy.net
-.a.baiy.net
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -16982,6 +16980,7 @@ TAG:^adfilter-block-request$
 .b8yy.com/.*/proxy\.swf
 .b8yy.com/stlye/vnsr\.gif
 .b7yy.com/ad/
+.b.baiy.net
 .b.77vcd.com
 .ayxz.com/images/enkj_small\.gif
 .awaker.cn/Uploads/Bew/c\.js
@@ -17193,6 +17192,7 @@ TAG:^adfilter-block-request$
 .a.game.qidian.com/material/xs\.js
 .a.game.qidian.com/Layout\.aspx\?
 .a.baomihua.com
+.a.baiy.net
 .a-m-s.poco.cn
 .9zvip.net/hi5asd/
 .9ye.com/Files/Editor/ad/
