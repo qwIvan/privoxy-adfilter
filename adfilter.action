@@ -115,6 +115,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -376,7 +377,6 @@ cpro.*.
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
 .xntk.net
-.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/chanel/www/cpm\.html
@@ -3894,6 +3894,7 @@ cpro.*.
 .219.238.159.181/.*\.html
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
+.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .211600.com/data/attachment/portal/
 .205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
@@ -5022,6 +5023,7 @@ tanchuan.htm*.
 .hfjuki.com
 .hesxz.com
 .heima8.com
+.heib10.top
 .hcreditx.com
 .hbsimg.com
 .hbalx.cn
@@ -5620,6 +5622,7 @@ tanchuan.htm*.
 .12l22.net
 .124.232.160.178
 .123hala.com
+.12365chia.com
 .12306media.com
 .12291.com
 .122.227.254.195
@@ -5795,8 +5798,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.12365chia.com
-.heib10.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7059,6 +7060,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
+.piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7320,7 +7322,6 @@ cpro.*.
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
 .xntk.net
-.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/chanel/www/cpm\.html
@@ -10838,6 +10839,7 @@ cpro.*.
 .219.238.159.181/.*\.html
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
+.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .211600.com/data/attachment/portal/
 .205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
@@ -11966,6 +11968,7 @@ tanchuan.htm*.
 .hfjuki.com
 .hesxz.com
 .heima8.com
+.heib10.top
 .hcreditx.com
 .hbsimg.com
 .hbalx.cn
@@ -12564,6 +12567,7 @@ tanchuan.htm*.
 .12l22.net
 .124.232.160.178
 .123hala.com
+.12365chia.com
 .12306media.com
 .12291.com
 .122.227.254.195
@@ -12739,8 +12743,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.12365chia.com
-.heib10.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13987,6 +13989,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14241,7 +14244,6 @@ TAG:^adfilter-block-request$
 .xp811.com/img/xitong\.gif
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
-.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/chanel/www/cpm\.html
@@ -17610,6 +17612,7 @@ TAG:^adfilter-block-request$
 .219.238.159.181/.*\.html
 .219.153.41.175/.*\.js
 .219.153.41.154/v1/
+.219.138.173.204:8080/jiekou/api/kqzl\.ashx
 .211600.com/data/attachment/portal/
 .205.209.138.102
 .202.102.26.253:8182/files/7/lhzs1k\.jpg
@@ -18442,6 +18445,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hfsteel.net
 .hfjuki.com
 .hesxz.com
+.heib10.top
 .hcreditx.com
 .hbalx.cn
 .haolew.com
@@ -18810,6 +18814,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .138138138.top
 .124.232.160.178
 .123hala.com
+.12365chia.com
 .12306media.com
 .122.227.254.195
 .119.4.249.166
@@ -18867,8 +18872,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.12365chia.com
-.heib10.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
