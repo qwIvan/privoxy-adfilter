@@ -117,6 +117,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
 .1.xilu.com
+.bdjs.ixiumei.com
 .piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -351,7 +352,6 @@ cpro.*.
 .xywy.com/gk\?a=
 .xyfdcw.com.cn/userfiles/flash/
 .xxx169.org
-.xxsy.net/js/xxsypop
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
 .xxbiquge.com/js/xbiquge\.js
@@ -364,7 +364,6 @@ cpro.*.
 .xunying.com/.*/ww
 .xunleiyy.com/du/
 .xunleipu.com/a-d-j-s/
-.xunleihd.com/image/.*maose
 .xunleihao.tv/a-d-j-s/
 .xunleige.com/js/functionx\.js
 .xun9u.com/css/js/text_link\.js
@@ -401,7 +400,6 @@ cpro.*.
 .xinmin.cn/framepage/top
 .xinmin.cn/framepage/left1\.htm
 .xinmin.cn/framepage/foot1\.htm
-.xinjs.cn/2010/yf
 .xinji.org/js/float\.js
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
@@ -2707,7 +2705,6 @@ cpro.*.
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
-.diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
 .dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
@@ -5885,8 +5882,6 @@ tan.js*.
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
-/(.*/)?ssdxad\.swf
-ssdxad.swf*.
 /(.*/)?source/plugin/mama_tips/.*
 /(.*/)?sogouAD\.
 sogouAD.*.
@@ -7068,6 +7063,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\)\\\?\..*\?%\[0-9A-Z\]\{2\}%/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns)\?.*?%[0-9A-Z]{2}%
 .1.xilu.com
+.bdjs.ixiumei.com
 .piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7302,7 +7298,6 @@ cpro.*.
 .xywy.com/gk\?a=
 .xyfdcw.com.cn/userfiles/flash/
 .xxx169.org
-.xxsy.net/js/xxsypop
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
 .xxbiquge.com/js/xbiquge\.js
@@ -7315,7 +7310,6 @@ cpro.*.
 .xunying.com/.*/ww
 .xunleiyy.com/du/
 .xunleipu.com/a-d-j-s/
-.xunleihd.com/image/.*maose
 .xunleihao.tv/a-d-j-s/
 .xunleige.com/js/functionx\.js
 .xun9u.com/css/js/text_link\.js
@@ -7352,7 +7346,6 @@ cpro.*.
 .xinmin.cn/framepage/top
 .xinmin.cn/framepage/left1\.htm
 .xinmin.cn/framepage/foot1\.htm
-.xinjs.cn/2010/yf
 .xinji.org/js/float\.js
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
@@ -9658,7 +9651,6 @@ cpro.*.
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
-.diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
 .dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
@@ -12836,8 +12828,6 @@ tan.js*.
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
-/(.*/)?ssdxad\.swf
-ssdxad.swf*.
 /(.*/)?source/plugin/mama_tips/.*
 /(.*/)?sogouAD\.
 sogouAD.*.
@@ -14003,6 +13993,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 /.*&uc=
 .1.xilu.com
+.bdjs.ixiumei.com
 .piimg.com/588755/38850da69a92f2bb\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14231,7 +14222,6 @@ TAG:^adfilter-block-request$
 .xywy.com/zhixing/
 .xywy.com/gk\?a=
 .xyfdcw.com.cn/userfiles/flash/
-.xxsy.net/js/xxsypop
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
 .xxbiquge.com/js/xbiquge\.js
@@ -14244,7 +14234,6 @@ TAG:^adfilter-block-request$
 .xunying.com/.*/ww
 .xunleiyy.com/du/
 .xunleipu.com/a-d-j-s/
-.xunleihd.com/image/.*maose
 .xunleihao.tv/a-d-j-s/
 .xunleige.com/js/functionx\.js
 .xun9u.com/css/js/text_link\.js
@@ -14280,7 +14269,6 @@ TAG:^adfilter-block-request$
 .xinmin.cn/framepage/top
 .xinmin.cn/framepage/left1\.htm
 .xinmin.cn/framepage/foot1\.htm
-.xinjs.cn/2010/yf
 .xinji.org/js/float\.js
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
@@ -16487,7 +16475,6 @@ TAG:^adfilter-block-request$
 .diediao.com/js/loading\.html
 .didown.com/rili-down\.gif
 .dichan.com.au/newhouse/pinnacle/images/bcastr3\.swf
-.diaobao.xici.net
 .dianxinnews.com/dpc01\.jpg
 .dhzw.org/m-
 .dhtdig.xyz/static/jsaa/
@@ -18970,8 +18957,6 @@ tan.js*.
 /(.*/)?static/adsview/.*
 /(.*/)?sta2rt\.js
 sta2rt.js*.
-/(.*/)?ssdxad\.swf
-ssdxad.swf*.
 /(.*/)?source/plugin/mama_tips/.*
 /(.*/)?sogouAD\.
 sogouAD.*.
