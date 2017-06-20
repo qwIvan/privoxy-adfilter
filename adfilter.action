@@ -122,7 +122,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.z.nowscore.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -228,6 +227,7 @@ cpro.*.
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
 .z4bbs.com/adst/
+.z.nowscore.com
 .yzz.cn/home/theme/popwin/
 .yzz.cn/global_gg/
 .yzwb.com/js/ppaa\.js
@@ -7069,7 +7069,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.z.nowscore.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7175,6 +7174,7 @@ cpro.*.
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
 .z4bbs.com/adst/
+.z.nowscore.com
 .yzz.cn/home/theme/popwin/
 .yzz.cn/global_gg/
 .yzwb.com/js/ppaa\.js
@@ -14000,7 +14000,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.z.nowscore.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14106,6 +14105,7 @@ TAG:^adfilter-block-request$
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
 .z4bbs.com/adst/
+.z.nowscore.com
 .yzz.cn/home/theme/popwin/
 .yzz.cn/global_gg/
 .yzwb.com/js/ppaa\.js
