@@ -123,6 +123,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
+.nz04com.com/aabdd/
 .gt.duowan.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7075,6 +7076,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
+.nz04com.com/aabdd/
 .gt.duowan.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14011,6 +14013,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.nz04com.com/aabdd/
 .gt.duowan.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
