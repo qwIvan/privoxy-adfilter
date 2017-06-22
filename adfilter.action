@@ -19,6 +19,7 @@ TAG:^adfilter-block-dnt$
 .tuadong.com
 .tsrc8.com
 .sonomoyo.com
+.smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
 .rbywg.com
@@ -51,7 +52,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.smxay.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -123,9 +123,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.xianliao.me/etoron/get\?
-.kajila.cn/ad\.html
-.idyjy.com/js/content/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -429,6 +426,7 @@ cpro.*.
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
+.xianliao.me/etoron/get\?
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -1714,6 +1712,7 @@ cpro.*.
 .kan98.com/index\.php\?m=content&c=index&a=.*ad
 .kan84.net/js/bdgg/
 .kan300.com/js/union/
+.kajila.cn/ad\.html
 .kaixin001.com.cn/js/cpm-
 .kaikaimao.net/static/zx\.jpg
 .k99.cc
@@ -2061,6 +2060,7 @@ cpro.*.
 .ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
+.idyjy.com/js/content/
 .idcxr.com/images/ad
 .idcquan.com/linux/cio_new\.html
 .idcot.com
@@ -3623,12 +3623,12 @@ cpro.*.
 .69shuba.com/js/judfgdm\.js
 .69shuba.com/js/aadgty\.js
 .6949.com/ggs_
+.69.28.57.245
 .68mtv.com/js/gg\.js
 .68design.net/inc/news\.
 .688900.net/js/ok/
 .6789.com/media/images/jiao\.swf
 .6701.com/galgameads/
-.69.28.57.245
 .67.159.44.187/js/v1\.js
 .66ys.tv/d/
 .66yc.cc/yjs123/
@@ -6966,6 +6966,7 @@ TAG:^adfilter-block-elem$
 .tuadong.com
 .tsrc8.com
 .sonomoyo.com
+.smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
 .rbywg.com
@@ -6998,7 +6999,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.smxay.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7070,9 +7070,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.xianliao.me/etoron/get\?
-.kajila.cn/ad\.html
-.idyjy.com/js/content/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7376,6 +7373,7 @@ cpro.*.
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
+.xianliao.me/etoron/get\?
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -8661,6 +8659,7 @@ cpro.*.
 .kan98.com/index\.php\?m=content&c=index&a=.*ad
 .kan84.net/js/bdgg/
 .kan300.com/js/union/
+.kajila.cn/ad\.html
 .kaixin001.com.cn/js/cpm-
 .kaikaimao.net/static/zx\.jpg
 .k99.cc
@@ -9008,6 +9007,7 @@ cpro.*.
 .ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
+.idyjy.com/js/content/
 .idcxr.com/images/ad
 .idcquan.com/linux/cio_new\.html
 .idcot.com
@@ -10570,12 +10570,12 @@ cpro.*.
 .69shuba.com/js/judfgdm\.js
 .69shuba.com/js/aadgty\.js
 .6949.com/ggs_
+.69.28.57.245
 .68mtv.com/js/gg\.js
 .68design.net/inc/news\.
 .688900.net/js/ok/
 .6789.com/media/images/jiao\.swf
 .6701.com/galgameads/
-.69.28.57.245
 .67.159.44.187/js/v1\.js
 .66ys.tv/d/
 .66yc.cc/yjs123/
@@ -13914,6 +13914,7 @@ TAG:^adfilter-block-request$
 .tuadong.com
 .tsrc8.com
 .sonomoyo.com
+.smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
 .rbywg.com
@@ -13945,7 +13946,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.smxay.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14001,9 +14001,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.xianliao.me/etoron/get\?
-.kajila.cn/ad\.html
-.idyjy.com/js/content/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14300,6 +14297,7 @@ TAG:^adfilter-block-request$
 .xiaomengku.com/static/template/cms/v3/js/activity\.js
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
+.xianliao.me/etoron/get\?
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -15529,6 +15527,7 @@ TAG:^adfilter-block-request$
 .kan98.com/index\.php\?m=content&c=index&a=.*ad
 .kan84.net/js/bdgg/
 .kan300.com/js/union/
+.kajila.cn/ad\.html
 .kaixin001.com.cn/js/cpm-
 .kaikaimao.net/static/zx\.jpg
 .k618.cn/tlgg/
@@ -15861,6 +15860,7 @@ TAG:^adfilter-block-request$
 .ieforex.com/r/cms/www/red/red2/images/.*0\.
 .ieche.com/InAds/
 .ieche.com/global/.*/ad/
+.idyjy.com/js/content/
 .idcxr.com/images/ad
 .idcquan.com/linux/cio_new\.html
 .idcot.com
@@ -17353,12 +17353,12 @@ TAG:^adfilter-block-request$
 .69shuba.com/js/judfgdm\.js
 .69shuba.com/js/aadgty\.js
 .6949.com/ggs_
+.69.28.57.245
 .68mtv.com/js/gg\.js
 .68design.net/inc/news\.
 .688900.net/js/ok/
 .6789.com/media/images/jiao\.swf
 .6701.com/galgameads/
-.69.28.57.245
 .67.159.44.187/js/v1\.js
 .66ys.tv/d/
 .66yc.cc/yjs123/
