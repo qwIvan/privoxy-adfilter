@@ -22129,7 +22129,7 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R329} \
 }
-/.*_adview_pic_
+/(.*/)?adview_pic_
 
 {+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
@@ -23128,7 +23128,7 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R329} \
 }
-/.*_adview_pic_
+/(.*/)?adview_pic_
 
 {+client-header-tagger{adfilter-unblock-elem-R330} \
 }
@@ -24317,7 +24317,7 @@ Loadads.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R329} \
 }
-/.*_adview_pic_
+/(.*/)?adview_pic_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R330} \
