@@ -127,6 +127,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
 .fanpingbi*./.*\.gaokao\.com[^\w%.-]
 .fanpingbi*.gaokao.com
+.netease.com/tie/2017/5/ent_ceremony_
 .shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7084,6 +7085,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
 .fanpingbi*./.*\.gaokao\.com[^\w%.-]
 .fanpingbi*.gaokao.com
+.netease.com/tie/2017/5/ent_ceremony_
 .shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14024,6 +14026,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 .fanpingbi*./.*\.gaokao\.com[^\w%.-]
 .fanpingbi*.gaokao.com
+.netease.com/tie/2017/5/ent_ceremony_
 .shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
