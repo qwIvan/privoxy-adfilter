@@ -2115,7 +2115,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R308
 s@^referer(?=:[^\n]*[./](?:tianpeng\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R309
-s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw|yy960\.com)):.*@adfilter-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R310
 s@^referer(?=:[^\n]*[./](?:toutiao\.com)):.*@adfilter-unblock-dnt@Ti
@@ -2539,7 +2539,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R308
 s@^referer(?=:[^\n]*[./](?:tianpeng\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R309
-s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw|yy960\.com)):.*@adfilter-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R310
 s@^referer(?=:[^\n]*[./](?:toutiao\.com)):.*@adfilter-unblock-elem@Ti
@@ -3022,7 +3022,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-request-R308
 s@^referer(?=:[^\n]*[./](?:tianpeng\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R309
-s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw|yy960\.com)):.*@adfilter-unblock-request@Ti
+s@^referer(?=:[^\n]*[./](?:tkec\.com\.tw)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R310
 s@^referer(?=:[^\n]*[./](?:toutiao\.com)):.*@adfilter-unblock-request@Ti
