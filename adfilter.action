@@ -12,6 +12,7 @@ TAG:^adfilter-block-dnt$
 .146.148.85.61
 .ztxbd.com
 .yunanfuwuqi.com
+.xztms.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
@@ -52,7 +53,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.xztms.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -65,6 +65,7 @@ TAG:^adfilter-block-dnt$
 .uniondm.cz88.net
 .sundxs.com
 .star-media.cn
+.s11.cn
 .s1.hiapk.com
 .mn586.com
 .mipujia.com
@@ -119,13 +120,11 @@ TAG:^adfilter-block-dnt$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.s11.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -895,6 +894,7 @@ cpro.*.
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
+.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
@@ -4949,6 +4949,7 @@ tanchuan.htm*.
 .jiuku.cc
 .jiudianhudong.com
 .jisucn.com
+.jindu179.com
 .jiexiyong.com
 .jianmei123.com
 .jiankang13.com
@@ -4985,6 +4986,7 @@ tanchuan.htm*.
 .img80.net
 .image.qndown.com
 .ilepai.com
+.il8r.com
 .ihualun.com
 .iguang.tw
 .ifocus.cn
@@ -5210,6 +5212,7 @@ tanchuan.htm*.
 .dftoutiao.com
 .df9377.com
 .df77.com
+.df3n43m.com
 .detuns.com
 .ddomm.com
 .ddhtek.com
@@ -5812,9 +5815,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jindu179.com
-.il8r.com
-.df3n43m.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6967,6 +6967,7 @@ TAG:^adfilter-block-elem$
 .146.148.85.61
 .ztxbd.com
 .yunanfuwuqi.com
+.xztms.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
@@ -7007,7 +7008,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.xztms.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7020,6 +7020,7 @@ TAG:^adfilter-block-elem$
 .uniondm.cz88.net
 .sundxs.com
 .star-media.cn
+.s11.cn
 .s1.hiapk.com
 .mn586.com
 .mipujia.com
@@ -7074,13 +7075,11 @@ TAG:^adfilter-block-elem$
 .1.mgff.com
 .1.feihua.com
 .1.1010pic.com
-.s11.cn
 /.*&uc=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7850,6 +7849,7 @@ cpro.*.
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
+.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
@@ -11904,6 +11904,7 @@ tanchuan.htm*.
 .jiuku.cc
 .jiudianhudong.com
 .jisucn.com
+.jindu179.com
 .jiexiyong.com
 .jianmei123.com
 .jiankang13.com
@@ -11940,6 +11941,7 @@ tanchuan.htm*.
 .img80.net
 .image.qndown.com
 .ilepai.com
+.il8r.com
 .ihualun.com
 .iguang.tw
 .ifocus.cn
@@ -12165,6 +12167,7 @@ tanchuan.htm*.
 .dftoutiao.com
 .df9377.com
 .df77.com
+.df3n43m.com
 .detuns.com
 .ddomm.com
 .ddhtek.com
@@ -12767,9 +12770,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jindu179.com
-.il8r.com
-.df3n43m.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13923,6 +13923,7 @@ TAG:^adfilter-block-request$
 .146.148.85.61
 .ztxbd.com
 .yunanfuwuqi.com
+.xztms.com
 .xmcxz.com
 .xacqp.com
 .vichc.com
@@ -13962,7 +13963,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.xztms.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14018,7 +14018,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14765,6 +14764,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
+.sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
@@ -18419,6 +18419,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jk939.com
 .jiyou2014.com
 .jiuku.cc
+.jindu179.com
 .jianmei123.com
 .jianbaimei.com
 .jiajv.net
@@ -18440,6 +18441,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iroby.com
 .imneinei.com
 .img80.net
+.il8r.com
 .ihualun.com
 .if1512.com
 .idcqi.com
@@ -18590,6 +18592,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dhxyzx.cn
 .dgpzx.com
 .df77.com
+.df3n43m.com
 .detuns.com
 .ddomm.com
 .ddhtek.com
@@ -18905,9 +18908,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jindu179.com
-.il8r.com
-.df3n43m.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19666,6 +19666,7 @@ gg.*.
 .youbian.com
 .sundxs.com
 .star-media.cn
+.s11.cn
 .mn586.com
 .mipujia.com
 .kuku99.com
@@ -19675,7 +19676,6 @@ gg.*.
 .fuz.cc
 .200218.com
 .1122.com
-.s11.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
