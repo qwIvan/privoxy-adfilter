@@ -253,7 +253,6 @@ cpro.*.
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
 .yxtvg.com/types/
-.yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
 .yxdm.tv/js/gad\.js
@@ -305,7 +304,6 @@ cpro.*.
 .yktang8.com/.*\.gif
 .yjyc-ask.com/res/ads/
 .yjhas.net
-.yizhai.net/myjs/f.*\.js
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
@@ -313,7 +311,6 @@ cpro.*.
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
 .yinyuetai.com/partner/
 .yinyuetai.com/others/admin/.*_1200x100\.
-.yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
 .yimg.com/cv/ae/tw/bwchou/bubble_
@@ -332,8 +329,6 @@ cpro.*.
 .yea.im/5hq\.gif
 .ydstatic.com/fanxian/minisite/promotion/
 .yczbb.com/ggimg/
-.ychr.com/dlad\.js
-.ybvv.com*./(.*/)?aimg/
 .yb983.com/skin/yb983V2013/ad/
 .yaolanimage.cn/cms/image/960-90
 .yaolanimage.cn/assets/ask/js/ask_video_popup\.js
@@ -7215,7 +7210,6 @@ cpro.*.
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
 .yxtvg.com/types/
-.yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
 .yxdm.tv/js/gad\.js
@@ -7267,7 +7261,6 @@ cpro.*.
 .yktang8.com/.*\.gif
 .yjyc-ask.com/res/ads/
 .yjhas.net
-.yizhai.net/myjs/f.*\.js
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
@@ -7275,7 +7268,6 @@ cpro.*.
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
 .yinyuetai.com/partner/
 .yinyuetai.com/others/admin/.*_1200x100\.
-.yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
 .yimg.com/cv/ae/tw/bwchou/bubble_
@@ -7294,8 +7286,6 @@ cpro.*.
 .yea.im/5hq\.gif
 .ydstatic.com/fanxian/minisite/promotion/
 .yczbb.com/ggimg/
-.ychr.com/dlad\.js
-.ybvv.com*./(.*/)?aimg/
 .yb983.com/skin/yb983V2013/ad/
 .yaolanimage.cn/cms/image/960-90
 .yaolanimage.cn/assets/ask/js/ask_video_popup\.js
@@ -14160,7 +14150,6 @@ TAG:^adfilter-block-request$
 .yy18.info/yyads/
 .yxzoo.com/style/js/fmt\.js
 .yxtvg.com/types/
-.yxlady.com/skin/yx2014/mm/inpage/ny/
 .yxlady.com/cdd/
 .yxdown.com/open/.*ad
 .yxdm.tv/js/gad\.js
@@ -14208,14 +14197,12 @@ TAG:^adfilter-block-request$
 .yktj.yzz.cn
 .yktang8.com/.*\.gif
 .yjyc-ask.com/res/ads/
-.yizhai.net/myjs/f.*\.js
 .yixieshi.com/media/
 .yixiaoba.com/js/yxb_normal\.js
 .yinyuetai.com/proment/get-play-medias\?json=true&position=preroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=pauseroll
 .yinyuetai.com/proment/get-play-medias\?.*&position=overlay
 .yinyuetai.com/others/admin/.*_1200x100\.
-.yinfu.cc/sid/.*\.js
 .yinduabc.com/res_base/.*/makemoney/
 .yimuhe.com/n_ad/
 .yimg.com/cv/ae/tw/bwchou/bubble_
@@ -14234,8 +14221,6 @@ TAG:^adfilter-block-request$
 .yea.im/5hq\.gif
 .ydstatic.com/fanxian/minisite/promotion/
 .yczbb.com/ggimg/
-.ychr.com/dlad\.js
-.ybvv.com*./(.*/)?aimg/
 .yb983.com/skin/yb983V2013/ad/
 .yaolanimage.cn/cms/image/960-90
 .yaolanimage.cn/assets/ask/js/ask_video_popup\.js
@@ -21185,8 +21170,6 @@ TAG:^adfilter-unblock-dnt$
 .youku.com/.*[^\w%.-]showAd
 .youku.com/.*[^\w%.-]adshow
 .yiqifa.com/ad_images/
-.yinfu.cc/sid/function
-.yinfu.cc/sid/.*play
 .yimuhe.com/n_js/advertiser\.js
 .yimg.jp/combo\?.*/ad/
 .yantuchina.com/gg/tmp/hong\.gif
@@ -22200,8 +22183,6 @@ TAG:^adfilter-unblock-elem$
 .youku.com/.*[^\w%.-]showAd
 .youku.com/.*[^\w%.-]adshow
 .yiqifa.com/ad_images/
-.yinfu.cc/sid/function
-.yinfu.cc/sid/.*play
 .yimuhe.com/n_js/advertiser\.js
 .yimg.jp/combo\?.*/ad/
 .yantuchina.com/gg/tmp/hong\.gif
@@ -23201,8 +23182,6 @@ TAG:^adfilter-unblock-request$
 .yqszkzx.cn/images/ad
 .youku.com/.*[^\w%.-]showAd
 .youku.com/.*[^\w%.-]adshow
-.yinfu.cc/sid/function
-.yinfu.cc/sid/.*play
 .yimuhe.com/n_js/advertiser\.js
 .yimg.jp/combo\?.*/ad/
 .yantuchina.com/gg/tmp/hong\.gif
