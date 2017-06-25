@@ -53,6 +53,8 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.kafka8.com
+.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -85,6 +87,8 @@ TAG:^adfilter-block-dnt$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.fanpingbi*./.*\.gaokao\.com[^\w%.-]
+.fanpingbi*.gaokao.com
 .f1.bizhiku.net
 .dn7788.com
 .dm.ws8.org
@@ -125,10 +129,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.fanpingbi*./.*\.gaokao\.com[^\w%.-]
-.fanpingbi*.gaokao.com
-.netease.com/tie/2017/5/ent_ceremony_
-.shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -318,7 +318,6 @@ cpro.*.
 .yimg.com/cv/ae/tw/bwchou/728x210\.
 .yimg.com/cv/ae/default/.*_STATIC-JPEG_
 .yimg.com/bf/homerun/ysm_
-.393gm.com/xinzeng/js/
 .yikeyz.com/pm\.js
 .yhcgo.com/attachment/Mon_1112/74_1_5c13cbc5db6ba7c\.jpg
 .ygdy8.net/js1/
@@ -944,6 +943,7 @@ cpro.*.
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
 .shm.com.cn/content/con.*\.js
+.shiyanlou.com/img/shiyanlou-
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
@@ -1391,6 +1391,7 @@ cpro.*.
 .new-icon.ol-img.com/jslib/ad\.down\.js
 .new-icon.ol-img.com/article/xinjiemeng/img/728x90gaoxiao\.jpg
 .netreddaily.com/api\.php\?mod=
+.netease.com/tie/2017/5/ent_ceremony_
 .netded.com/images/xianshua\.png
 .nen.com.cn/service/js/beitou
 .nen.com.cn/eap/
@@ -3802,6 +3803,7 @@ cpro.*.
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.393gm.com/xinzeng/js/
 .39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
@@ -5480,6 +5482,7 @@ tanchuan.htm*.
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
+.89h8.com
 .892155.com
 .8910ad.com
 .88ysg.com
@@ -5817,7 +5820,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.89h8.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7011,6 +7013,8 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.kafka8.com
+.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7043,6 +7047,8 @@ TAG:^adfilter-block-elem$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.fanpingbi*./.*\.gaokao\.com[^\w%.-]
+.fanpingbi*.gaokao.com
 .f1.bizhiku.net
 .dn7788.com
 .dm.ws8.org
@@ -7083,10 +7089,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.fanpingbi*./.*\.gaokao\.com[^\w%.-]
-.fanpingbi*.gaokao.com
-.netease.com/tie/2017/5/ent_ceremony_
-.shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7276,7 +7278,6 @@ cpro.*.
 .yimg.com/cv/ae/tw/bwchou/728x210\.
 .yimg.com/cv/ae/default/.*_STATIC-JPEG_
 .yimg.com/bf/homerun/ysm_
-.393gm.com/xinzeng/js/
 .yikeyz.com/pm\.js
 .yhcgo.com/attachment/Mon_1112/74_1_5c13cbc5db6ba7c\.jpg
 .ygdy8.net/js1/
@@ -7902,6 +7903,7 @@ cpro.*.
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
 .shm.com.cn/content/con.*\.js
+.shiyanlou.com/img/shiyanlou-
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
@@ -8349,6 +8351,7 @@ cpro.*.
 .new-icon.ol-img.com/jslib/ad\.down\.js
 .new-icon.ol-img.com/article/xinjiemeng/img/728x90gaoxiao\.jpg
 .netreddaily.com/api\.php\?mod=
+.netease.com/tie/2017/5/ent_ceremony_
 .netded.com/images/xianshua\.png
 .nen.com.cn/service/js/beitou
 .nen.com.cn/eap/
@@ -10760,6 +10763,7 @@ cpro.*.
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.393gm.com/xinzeng/js/
 .39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
@@ -12438,6 +12442,7 @@ tanchuan.htm*.
 .8mfty.com
 .8le8le.com
 .8hykthze.cricket
+.89h8.com
 .892155.com
 .8910ad.com
 .88ysg.com
@@ -12775,7 +12780,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.89h8.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13969,6 +13973,8 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.kafka8.com
+.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -13990,6 +13996,8 @@ TAG:^adfilter-block-request$
 .fmgoal.com
 .firefang.cn
 .feidalu.com
+.fanpingbi*./.*\.gaokao\.com[^\w%.-]
+.fanpingbi*.gaokao.com
 .f1.bizhiku.net
 .dn7788.com
 .dm.ws8.org
@@ -14024,10 +14032,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.fanpingbi*./.*\.gaokao\.com[^\w%.-]
-.fanpingbi*.gaokao.com
-.netease.com/tie/2017/5/ent_ceremony_
-.shiyanlou.com/img/shiyanlou-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14212,7 +14216,6 @@ TAG:^adfilter-block-request$
 .yimg.com/cv/ae/tw/bwchou/728x210\.
 .yimg.com/cv/ae/default/.*_STATIC-JPEG_
 .yimg.com/bf/homerun/ysm_
-.393gm.com/xinzeng/js/
 .yikeyz.com/pm\.js
 .yhcgo.com/attachment/Mon_1112/74_1_5c13cbc5db6ba7c\.jpg
 .ygdy8.net/js1/
@@ -14819,6 +14822,7 @@ TAG:^adfilter-block-request$
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
 .shm.com.cn/content/con.*\.js
+.shiyanlou.com/img/shiyanlou-
 .shicimingju.com/Public/js/tianshi\.js
 .shicimingju.com/Public/js/left200\.js
 .shicimingju.com/Public/js/buttom\.js
@@ -15246,6 +15250,7 @@ TAG:^adfilter-block-request$
 .new-icon.ol-img.com/jslib/ad\.down\.js
 .new-icon.ol-img.com/article/xinjiemeng/img/728x90gaoxiao\.jpg
 .netreddaily.com/api\.php\?mod=
+.netease.com/tie/2017/5/ent_ceremony_
 .netded.com/images/xianshua\.png
 .nen.com.cn/service/js/beitou
 .nen.com.cn/eap/
@@ -17549,6 +17554,7 @@ TAG:^adfilter-block-request$
 .3987.com/vote/
 .3987.com/statics/tow_skin/new_img/20
 .3987.com/images/
+.393gm.com/xinzeng/js/
 .39.net/test/k\.js
 .39.net/rel/k13\.php\?adid=
 .39.net/PictureLib/A/f76/20161102/org_802389\.gif
@@ -18770,6 +18776,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .91xry.com
 .8mfty.com
 .8hykthze.cricket
+.89h8.com
 .892155.com
 .88rpg.net
 .88818122.cn
@@ -18916,7 +18923,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.89h8.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22133,10 +22139,6 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
-/(.*/)?adview_pic_
-
-{+client-header-tagger{adfilter-unblock-dnt-R331} \
-}
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
@@ -23135,10 +23137,6 @@ Loadads.*.
 /(.*/)?pic/ad/.*
 
 {+client-header-tagger{adfilter-unblock-elem-R330} \
-}
-/(.*/)?adview_pic_
-
-{+client-header-tagger{adfilter-unblock-elem-R331} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -24329,11 +24327,6 @@ Loadads.*.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R330} \
-}
-/(.*/)?adview_pic_
-
-{-block \
- +client-header-tagger{adfilter-unblock-request-R331} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
