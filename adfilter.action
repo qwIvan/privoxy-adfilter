@@ -129,6 +129,8 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
+.fjzimaoqu.cn
+.upload.hxnews.com/2017/.*\.gif
 .fxxz.com/skin/know/all\.js
 .cr173.com/skinb/
 .zzzyk.com/js/
@@ -5815,6 +5817,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7084,6 +7087,8 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
+.fjzimaoqu.cn
+.upload.hxnews.com/2017/.*\.gif
 .fxxz.com/skin/know/all\.js
 .cr173.com/skinb/
 .zzzyk.com/js/
@@ -12770,6 +12775,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14022,6 +14028,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.upload.hxnews.com/2017/.*\.gif
 .fxxz.com/skin/know/all\.js
 .cr173.com/skinb/
 .zzzyk.com/js/
@@ -18908,6 +18915,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19676,6 +19684,7 @@ gg.*.
 .fuz.cc
 .200218.com
 .1122.com
+.fjzimaoqu.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
