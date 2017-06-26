@@ -2186,6 +2186,9 @@ s@^referer(?=:[^\n]*[./](?:dmhy\.org)):.*@adfilter-unblock-dnt@Ti
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R76
 s@^referer(?=:[^\n]*[./](?:feng\.com)):.*@adfilter-unblock-dnt@Ti
 
+CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R88
+s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@adfilter-unblock-dnt@Ti
+
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-Rn192
 s@^referer(?!:[^\n]*[./](?:search\.yahoo\.com)):.*@adfilter-unblock-dnt@Ti
 s@^referer:.*@-adfilter-unblock-dnt-nR@Ti
@@ -2609,6 +2612,9 @@ s@^referer(?=:[^\n]*[./](?:dmhy\.org)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R76
 s@^referer(?=:[^\n]*[./](?:feng\.com)):.*@adfilter-unblock-elem@Ti
+
+CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R88
+s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-Rn192
 s@^referer(?!:[^\n]*[./](?:search\.yahoo\.com)):.*@adfilter-unblock-elem@Ti
@@ -3089,6 +3095,9 @@ s@^referer(?=:[^\n]*[./](?:dmhy\.org)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R76
 s@^referer(?=:[^\n]*[./](?:feng\.com)):.*@adfilter-unblock-request@Ti
+
+CLIENT-HEADER-TAGGER: adfilter-unblock-request-R88
+s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-Rn192
 s@^referer(?!:[^\n]*[./](?:search\.yahoo\.com)):.*@adfilter-unblock-request@Ti

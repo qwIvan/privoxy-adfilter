@@ -21852,6 +21852,10 @@ adgpt.*.
 }
 .vast.btrll.com
 
+{+client-header-tagger{adfilter-unblock-dnt-R88} \
+}
+.s.yimg.com/ja/ap/.*/jquery\.
+
 {+client-header-tagger{adfilter-unblock-dnt-R265} \
 }
 .scorecardresearch.com/beacon\.js
@@ -22848,6 +22852,10 @@ adgpt.*.
 {+client-header-tagger{adfilter-unblock-elem-R264} \
 }
 .vast.btrll.com
+
+{+client-header-tagger{adfilter-unblock-elem-R88} \
+}
+.s.yimg.com/ja/ap/.*/jquery\.
 
 {+client-header-tagger{adfilter-unblock-elem-R265} \
 }
@@ -23979,6 +23987,11 @@ adgpt.*.
  +client-header-tagger{adfilter-unblock-request-R264} \
 }
 .vast.btrll.com
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R88} \
+}
+.s.yimg.com/ja/ap/.*/jquery\.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R265} \
