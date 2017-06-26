@@ -6185,6 +6185,7 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -13143,6 +13144,7 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -19273,6 +19275,7 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
