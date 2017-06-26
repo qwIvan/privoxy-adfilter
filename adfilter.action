@@ -29,6 +29,7 @@ TAG:^adfilter-block-dnt$
 .pomhz.com
 .mobiorg8.com
 .ksdsuzhou.com
+.kafka8.com
 .jundazulin.com
 .jifeidandar.com
 .inccnd.com
@@ -37,6 +38,7 @@ TAG:^adfilter-block-dnt$
 .gyrtg.com
 .feifish66.com
 .dezfu.com
+.ddg1277.com
 .ddanq.com
 .axkxy.com
 .24haitao.net
@@ -53,8 +55,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.kafka8.com
-.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -85,6 +85,7 @@ TAG:^adfilter-block-dnt$
 .fuz.cc
 .fotao9.com
 .fmgoal.com
+.fjzimaoqu.cn
 .firefang.cn
 .feidalu.com
 .fanpingbi*./.*\.gaokao\.com[^\w%.-]
@@ -129,10 +130,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.fjzimaoqu.cn
-.upload.hxnews.com/2017/.*\.gif
-.fxxz.com/skin/know/all\.js
-.cr173.com/skinb/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -590,6 +587,7 @@ cpro.*.
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
+.upload.hxnews.com/2017/.*\.gif
 .upantool.com/playing/
 .upantool.com/bay/
 .upan.cc/images/pay/
@@ -2433,6 +2431,7 @@ cpro.*.
 .fzlol.com/images/
 .fzbm.com/bbs/static/js/bma\.js
 .fydisk.com/img/.*\.gif
+.fxxz.com/skin/know/all\.js
 .fxxz.com/show/
 .fx678.com/proxy
 .fx114.net/images/bangbaotao\.jpg
@@ -2784,6 +2783,7 @@ cpro.*.
 .crsky.com/theme/images/rd
 .crsky.com/img/hezi
 .creaders.net*./(.*/)?ad_func\.js
+.cr173.com/skinb/
 .cr173.com/skina/
 .cr173.com/show/
 .cr173.com/js/
@@ -4942,6 +4942,7 @@ tanchuan.htm*.
 .jl027.com
 .jkmxy.com
 .jk939.com
+.jjxgly.com
 .jiyou2014.com
 .jixing8.net
 .jixing8.com
@@ -5817,7 +5818,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6987,6 +6987,7 @@ TAG:^adfilter-block-elem$
 .pomhz.com
 .mobiorg8.com
 .ksdsuzhou.com
+.kafka8.com
 .jundazulin.com
 .jifeidandar.com
 .inccnd.com
@@ -6995,6 +6996,7 @@ TAG:^adfilter-block-elem$
 .gyrtg.com
 .feifish66.com
 .dezfu.com
+.ddg1277.com
 .ddanq.com
 .axkxy.com
 .24haitao.net
@@ -7011,8 +7013,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.kafka8.com
-.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7043,6 +7043,7 @@ TAG:^adfilter-block-elem$
 .fuz.cc
 .fotao9.com
 .fmgoal.com
+.fjzimaoqu.cn
 .firefang.cn
 .feidalu.com
 .fanpingbi*./.*\.gaokao\.com[^\w%.-]
@@ -7087,10 +7088,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.fjzimaoqu.cn
-.upload.hxnews.com/2017/.*\.gif
-.fxxz.com/skin/know/all\.js
-.cr173.com/skinb/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7548,6 +7545,7 @@ cpro.*.
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
+.upload.hxnews.com/2017/.*\.gif
 .upantool.com/playing/
 .upantool.com/bay/
 .upan.cc/images/pay/
@@ -9391,6 +9389,7 @@ cpro.*.
 .fzlol.com/images/
 .fzbm.com/bbs/static/js/bma\.js
 .fydisk.com/img/.*\.gif
+.fxxz.com/skin/know/all\.js
 .fxxz.com/show/
 .fx678.com/proxy
 .fx114.net/images/bangbaotao\.jpg
@@ -9742,6 +9741,7 @@ cpro.*.
 .crsky.com/theme/images/rd
 .crsky.com/img/hezi
 .creaders.net*./(.*/)?ad_func\.js
+.cr173.com/skinb/
 .cr173.com/skina/
 .cr173.com/show/
 .cr173.com/js/
@@ -11900,6 +11900,7 @@ tanchuan.htm*.
 .jl027.com
 .jkmxy.com
 .jk939.com
+.jjxgly.com
 .jiyou2014.com
 .jixing8.net
 .jixing8.com
@@ -12775,7 +12776,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13946,6 +13946,7 @@ TAG:^adfilter-block-request$
 .pomhz.com
 .mobiorg8.com
 .ksdsuzhou.com
+.kafka8.com
 .jundazulin.com
 .jifeidandar.com
 .inccnd.com
@@ -13954,6 +13955,7 @@ TAG:^adfilter-block-request$
 .gyrtg.com
 .feifish66.com
 .dezfu.com
+.ddg1277.com
 .ddanq.com
 .axkxy.com
 .24haitao.net
@@ -13969,8 +13971,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.kafka8.com
-.ddg1277.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14028,9 +14028,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.upload.hxnews.com/2017/.*\.gif
-.fxxz.com/skin/know/all\.js
-.cr173.com/skinb/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14475,6 +14472,7 @@ TAG:^adfilter-block-request$
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
 .upload.jjxw.cn/.*\.swf
+.upload.hxnews.com/2017/.*\.gif
 .upantool.com/playing/
 .upantool.com/bay/
 .upan.cc/images/pay/
@@ -16242,6 +16240,7 @@ TAG:^adfilter-block-request$
 .g.163.com/.*&affiliate=
 .fzbm.com/bbs/static/js/bma\.js
 .fydisk.com/img/.*\.gif
+.fxxz.com/skin/know/all\.js
 .fxxz.com/show/
 .fx678.com/proxy
 .fx114.net/images/bangbaotao\.jpg
@@ -16570,6 +16569,7 @@ TAG:^adfilter-block-request$
 .crsky.com/theme/images/rd
 .crsky.com/img/hezi
 .creaders.net*./(.*/)?ad_func\.js
+.cr173.com/skinb/
 .cr173.com/skina/
 .cr173.com/show/
 .cr173.com/js/
@@ -18423,6 +18423,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jl027.com
 .jkmxy.com
 .jk939.com
+.jjxgly.com
 .jiyou2014.com
 .jiuku.cc
 .jindu179.com
@@ -18915,7 +18916,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jjxgly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19682,9 +19682,9 @@ gg.*.
 .gzpinda.com
 .gunmi.cn
 .fuz.cc
+.fjzimaoqu.cn
 .200218.com
 .1122.com
-.fjzimaoqu.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
