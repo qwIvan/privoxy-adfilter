@@ -27,13 +27,16 @@ TAG:^adfilter-block-dnt$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
+.jnsdkjzs.com
 .jifeidandar.com
 .inccnd.com
 .huayi65.com
+.htjsk.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -55,9 +58,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.netko0o.com
-.jnsdkjzs.com
-.htjsk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -133,7 +133,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -3228,6 +3227,7 @@ cpro.*.
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
+.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .baidu.com/feproxy/ad/list\?
 .baidu.com/fanyiapp/image/wise_banner_
 .baidu.com/event/img/zwdzjs\.jpg
@@ -5876,6 +5876,7 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
 /(.*/)?UyvHEGg1Hezr0yhlI/.*
 /(.*/)?UyvHEGg1Hezr0yhlI\.
@@ -6189,7 +6190,6 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -6990,13 +6990,16 @@ TAG:^adfilter-block-elem$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
+.jnsdkjzs.com
 .jifeidandar.com
 .inccnd.com
 .huayi65.com
+.htjsk.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -7018,9 +7021,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.netko0o.com
-.jnsdkjzs.com
-.htjsk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7096,7 +7096,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\)\\\?\(\?:\[a-z\]\{6\}=\..*\?&\)\{2\}/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search)\?(?:[a-z]{6}=.*?&){2}
-.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -10191,6 +10190,7 @@ cpro.*.
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
+.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .baidu.com/feproxy/ad/list\?
 .baidu.com/fanyiapp/image/wise_banner_
 .baidu.com/event/img/zwdzjs\.jpg
@@ -12839,6 +12839,7 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
 /(.*/)?UyvHEGg1Hezr0yhlI/.*
 /(.*/)?UyvHEGg1Hezr0yhlI\.
@@ -13152,7 +13153,6 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -13954,13 +13954,16 @@ TAG:^adfilter-block-request$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
+.jnsdkjzs.com
 .jifeidandar.com
 .inccnd.com
 .huayi65.com
+.htjsk.com
 .hk9600.com
 .gyrtg.com
 .feifish66.com
@@ -13981,9 +13984,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.netko0o.com
-.jnsdkjzs.com
-.htjsk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14041,7 +14041,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -17011,6 +17010,7 @@ TAG:^adfilter-block-request$
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
+.baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
 .baidu.com/feproxy/ad/list\?
 .baidu.com/fanyiapp/image/wise_banner_
 .baidu.com/event/img/zwdzjs\.jpg
@@ -18983,6 +18983,7 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
 /(.*/)?UyvHEGg1Hezr0yhlI/.*
 /(.*/)?UyvHEGg1Hezr0yhlI\.
@@ -19287,7 +19288,6 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vipgg/js/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
