@@ -145,7 +145,6 @@ cpro.*.
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/uploads/tuoguan
-.zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
@@ -195,7 +194,6 @@ cpro.*.
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -7115,7 +7113,6 @@ cpro.*.
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/uploads/tuoguan
-.zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
@@ -7165,7 +7162,6 @@ cpro.*.
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -14067,7 +14063,6 @@ TAG:^adfilter-block-request$
 .zzimg.51.la
 .zzidc.com/.*0\.gif
 .zzidc.com/uploads/tuoguan
-.zzidc.com/img/
 .zzc.cn/b1/live_b_
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
@@ -14117,7 +14112,6 @@ TAG:^adfilter-block-request$
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
 .zhulang.com/ad_js/
-.zhujiceping.com/wp-content/uploads/EhQemhZUHBtM/QlmIDXLdFKkP\.js
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
