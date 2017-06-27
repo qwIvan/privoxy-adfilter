@@ -135,6 +135,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
+.ckck.tv/inc/
 .btbbt.*./(.*/)?view/image/QT_
 .btbbt.*./(.*/)?imgs\.js
 .thztv.net/6/luoliao\.gif
@@ -7106,6 +7107,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
+.ckck.tv/inc/
 .btbbt.*./(.*/)?view/image/QT_
 .btbbt.*./(.*/)?imgs\.js
 .thztv.net/6/luoliao\.gif
@@ -14059,6 +14061,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.ckck.tv/inc/
 .btbbt.*./(.*/)?view/image/QT_
 .btbbt.*./(.*/)?imgs\.js
 .thztv.net/6/luoliao\.gif
