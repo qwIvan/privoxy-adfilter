@@ -246,7 +246,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R37
 s@^referer(?=:[^\n]*[./](?:a3v4\.top)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top|freecctv\.xyz|mlook\.mobi)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.top|mlook\.mobi)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@adfilter-block-dnt@Ti
@@ -774,7 +774,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R37
 s@^referer(?=:[^\n]*[./](?:a3v4\.top)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top|freecctv\.xyz|mlook\.mobi)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.top|mlook\.mobi)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@adfilter-block-elem@Ti
@@ -1471,7 +1471,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R37
 s@^referer(?=:[^\n]*[./](?:a3v4\.top)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top|freecctv\.xyz|mlook\.mobi)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.top|mlook\.mobi)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R39
 s@^referer(?=:[^\n]*[./](?:acgura\.us|kisssub\.org|lsjsoso\.me|ref\.so)):.*@adfilter-block-request@Ti

@@ -177,7 +177,6 @@ cpro.*.
 .zjphoto.yinsha.com/upload/swf/
 .zjol.com.cn/www/zzhzbd/
 .zjol.com.cn/js/duilian/
-.zjjzx.cn/img/zt/yd/
 .zjjzx.cn*./(.*/)?push/
 .zjg.js.cn/Public/config/Couplet/Index4
 .zjbdt.com/onexgadimgs/
@@ -190,7 +189,6 @@ cpro.*.
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
-.zhulang.com/ad_js/
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -2101,7 +2099,6 @@ cpro.*.
 .hxsd.com/templets/js/looyu_pop\.js
 .hxsame.hexun.com*.
 .hxjs.tool.hexun.com*.
-.hutc.zj.cn/skins/hutc2012/js/fp\.js
 .hur.cn/AhurD/.*\.gif
 .hupu.com/.*/stream\.js
 .huoyan.tv/yb/img/.*\.gif
@@ -3327,7 +3324,7 @@ cpro.*.
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
 .amazonaws.com.cn/static-documents/marketing/uda_banner_
-.am.zdnet.com.cn/www/images/
+.am.zhiding.cn/www/images/
 .am.szhome.com
 .am.6park.com
 .alu.cn/aluTrade/Fragments/ListAdvertisementProducts\.
@@ -7149,7 +7146,6 @@ cpro.*.
 .zjphoto.yinsha.com/upload/swf/
 .zjol.com.cn/www/zzhzbd/
 .zjol.com.cn/js/duilian/
-.zjjzx.cn/img/zt/yd/
 .zjjzx.cn*./(.*/)?push/
 .zjg.js.cn/Public/config/Couplet/Index4
 .zjbdt.com/onexgadimgs/
@@ -7162,7 +7158,6 @@ cpro.*.
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
-.zhulang.com/ad_js/
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -9073,7 +9068,6 @@ cpro.*.
 .hxsd.com/templets/js/looyu_pop\.js
 .hxsame.hexun.com*.
 .hxjs.tool.hexun.com*.
-.hutc.zj.cn/skins/hutc2012/js/fp\.js
 .hur.cn/AhurD/.*\.gif
 .hupu.com/.*/stream\.js
 .huoyan.tv/yb/img/.*\.gif
@@ -10299,7 +10293,7 @@ cpro.*.
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
 .amazonaws.com.cn/static-documents/marketing/uda_banner_
-.am.zdnet.com.cn/www/images/
+.am.zhiding.cn/www/images/
 .am.szhome.com
 .am.6park.com
 .alu.cn/aluTrade/Fragments/ListAdvertisementProducts\.
@@ -14103,7 +14097,6 @@ TAG:^adfilter-block-request$
 .zjphoto.yinsha.com/upload/swf/
 .zjol.com.cn/www/zzhzbd/
 .zjol.com.cn/js/duilian/
-.zjjzx.cn/img/zt/yd/
 .zjjzx.cn*./(.*/)?push/
 .zjg.js.cn/Public/config/Couplet/Index4
 .zjbdt.com/onexgadimgs/
@@ -14116,7 +14109,6 @@ TAG:^adfilter-block-request$
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
 .zhulong.com/poster/get\?positions_name=ZY_JZ_300_02
 .zhulong.com/poster/get\?.*_960
-.zhulang.com/ad_js/
 .zhujiceping.com/F/
 .zhujiangroad.com/js/alltop\.js
 .zhuanyewanjia.com/upload/show/
@@ -15948,7 +15940,6 @@ TAG:^adfilter-block-request$
 .hxsd.com/templets/js/looyu_pop\.js
 .hxsame.hexun.com*.
 .hxjs.tool.hexun.com*.
-.hutc.zj.cn/skins/hutc2012/js/fp\.js
 .hur.cn/AhurD/.*\.gif
 .hupu.com/.*/stream\.js
 .huoyan.tv/yb/img/.*\.gif
@@ -19327,7 +19318,7 @@ TAG:^adfilter-block-request-Aaisv-Caisv$
 .mp3.haogeba.com
 .langxi.org/langxi/.*900
 .hybbs.com/i/
-.am.zdnet.com.cn/www/images/
+.am.zhiding.cn/www/images/
 /(.*/)?common/cf/.*
 
 {+client-header-tagger{adfilter-block-request-Aaisv-Caisv-when-R50} \
@@ -20975,7 +20966,7 @@ TAG:^adfilter-block-xframe$
 .bxwx9.org/js/
 .buzzhand.com/images/
 .blog.china.com/u/dvpush/
-.am.zdnet.com.cn/www/images/
+.am.zhiding.cn/www/images/
 .9upk.com/js/
 .6park.com
 .51t.com
