@@ -5830,6 +5830,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .haiyunpush.com
+.aomeng.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -12801,6 +12802,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .haiyunpush.com
+.aomeng.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20246,6 +20248,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.aomeng.net
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
