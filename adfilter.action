@@ -11,6 +11,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
 .xmcxz.com
@@ -27,6 +28,7 @@ TAG:^adfilter-block-dnt$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.nwwap.com
 .netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
@@ -58,8 +60,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.yxhxs.com
-.nwwap.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -135,14 +135,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
-.ckck.tv/inc/
-.btbbt.*./(.*/)?view/image/QT_
-.btbbt.*./(.*/)?imgs\.js
-.thztv.net/6/luoliao\.gif
-.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
-.jb51.net/imgby/logo_
-.jb51.net/good/arc\.js
-.jb51.net/skin/downsoft/js/.*down\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -730,6 +722,7 @@ cpro.*.
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
 .thztv.net/tool/
+.thztv.net/6/luoliao\.gif
 .thisav.com/index\.js
 .thisav.com/0.*\.js
 .thinksaas.cn/images/upyun_
@@ -900,6 +893,7 @@ cpro.*.
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
+.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
@@ -1825,9 +1819,12 @@ cpro.*.
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
+.jb51.net/skin/downsoft/js/.*down\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/imgby/logo_
 .jb51.net/good/soft\.js
+.jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -2865,6 +2862,7 @@ cpro.*.
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
+.ckck.tv/inc/
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -3061,6 +3059,8 @@ cpro.*.
 .btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
+.btbbt.*./(.*/)?view/image/QT_
+.btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
@@ -4990,6 +4990,7 @@ tanchuan.htm*.
 .ishowbg.com
 .is686.com
 .iroby.com
+.iqu-operation.com
 .iprefer.com.tw
 .ipaypay.cn
 .intentarget.com
@@ -5300,6 +5301,7 @@ tanchuan.htm*.
 .cloudad.asia
 .cj-cy.com
 .cifenqi.com
+.ciajingman.com
 .chushoushijian.cn
 .chnhty.com
 .chmae.com
@@ -5829,8 +5831,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ciajingman.com
-.iqu-operation.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6983,6 +6983,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
 .xmcxz.com
@@ -6999,6 +7000,7 @@ TAG:^adfilter-block-elem$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.nwwap.com
 .netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
@@ -7030,8 +7032,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.yxhxs.com
-.nwwap.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7107,14 +7107,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
-.ckck.tv/inc/
-.btbbt.*./(.*/)?view/image/QT_
-.btbbt.*./(.*/)?imgs\.js
-.thztv.net/6/luoliao\.gif
-.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
-.jb51.net/imgby/logo_
-.jb51.net/good/arc\.js
-.jb51.net/skin/downsoft/js/.*down\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7702,6 +7694,7 @@ cpro.*.
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
 .thztv.net/tool/
+.thztv.net/6/luoliao\.gif
 .thisav.com/index\.js
 .thisav.com/0.*\.js
 .thinksaas.cn/images/upyun_
@@ -7872,6 +7865,7 @@ cpro.*.
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
+.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
@@ -8797,9 +8791,12 @@ cpro.*.
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
+.jb51.net/skin/downsoft/js/.*down\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/imgby/logo_
 .jb51.net/good/soft\.js
+.jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
@@ -9837,6 +9834,7 @@ cpro.*.
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
+.ckck.tv/inc/
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -10033,6 +10031,8 @@ cpro.*.
 .btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
+.btbbt.*./(.*/)?view/image/QT_
+.btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
@@ -11962,6 +11962,7 @@ tanchuan.htm*.
 .ishowbg.com
 .is686.com
 .iroby.com
+.iqu-operation.com
 .iprefer.com.tw
 .ipaypay.cn
 .intentarget.com
@@ -12272,6 +12273,7 @@ tanchuan.htm*.
 .cloudad.asia
 .cj-cy.com
 .cifenqi.com
+.ciajingman.com
 .chushoushijian.cn
 .chnhty.com
 .chmae.com
@@ -12801,8 +12803,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ciajingman.com
-.iqu-operation.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13956,6 +13956,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
 .xmcxz.com
@@ -13972,6 +13973,7 @@ TAG:^adfilter-block-request$
 .qzdag.com
 .qlonglong.com
 .pomhz.com
+.nwwap.com
 .netko0o.com
 .mobiorg8.com
 .ksdsuzhou.com
@@ -14002,8 +14004,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.yxhxs.com
-.nwwap.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14061,14 +14061,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.ckck.tv/inc/
-.btbbt.*./(.*/)?view/image/QT_
-.btbbt.*./(.*/)?imgs\.js
-.thztv.net/6/luoliao\.gif
-.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
-.jb51.net/imgby/logo_
-.jb51.net/good/arc\.js
-.jb51.net/skin/downsoft/js/.*down\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14638,6 +14630,7 @@ TAG:^adfilter-block-request$
 .tianjinwe.com/images/qssx/
 .tianjimedia.com/s\?z=
 .thztv.net/tool/
+.thztv.net/6/luoliao\.gif
 .thisav.com/index\.js
 .thisav.com/0.*\.js
 .thinksaas.cn/images/upyun_
@@ -14803,6 +14796,7 @@ TAG:^adfilter-block-request$
 .sinaimg.cn/large/7fab0e78gw1eza18r0p03g20rs02iglx\.gif
 .sinaimg.cn/large/7d1c8e96gw1f8g6w9w7qkj208c06kt9o\.jpg
 .sinaimg.cn/large/77f07ad7gw1et98teneeng20c8028mx3\.gif
+.sinaimg.cn/large/7044f931gy1fgzi7n0j5gj20qo02i0u9\.jpg
 .sinaimg.cn/large/686ee05djw1f9odmekuikg20qe046dh6\.gif
 .sinaimg.cn/large/673b17ccly1ffu8mb9g4zj20k8020whe
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
@@ -15685,9 +15679,12 @@ TAG:^adfilter-block-request$
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
+.jb51.net/skin/downsoft/js/.*down\.js
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
+.jb51.net/imgby/logo_
 .jb51.net/good/soft\.js
+.jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
 .jav11b.com/js/bnr_
@@ -16675,6 +16672,7 @@ TAG:^adfilter-block-request$
 .clouddn.com/960x60\.gif
 .clm02.com/2014-A/goez-a005-9-23\.jpg
 .client.88tours.com
+.ckck.tv/inc/
 .ckcdn.com/c/html5_ad/
 .ck101.com/topic/newgametreeallage\.html
 .cjn.cn/.*/ad/
@@ -16865,6 +16863,8 @@ TAG:^adfilter-block-request$
 .btbtt.*./(.*/)?imgs\.js
 .btbtt.*./(.*/)?bt\.js
 .btbt.tv/dd/
+.btbbt.*./(.*/)?view/image/QT_
+.btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
 .brand.sogou.com/micro\?yyid=
@@ -18486,6 +18486,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .iuuff.com
 .ishowbg.com
 .iroby.com
+.iqu-operation.com
 .imneinei.com
 .img80.net
 .il8r.com
@@ -18697,6 +18698,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cmslayue.com
 .cmaxisolation.com
 .cj-cy.com
+.ciajingman.com
 .chushoushijian.cn
 .chnhty.com
 .chmae.com
@@ -18956,8 +18958,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ciajingman.com
-.iqu-operation.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
