@@ -136,6 +136,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
 .1.jeasyui.net
+.zhihu.xmcimg.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5830,6 +5831,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7107,6 +7109,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
 .1.jeasyui.net
+.zhihu.xmcimg.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12801,6 +12804,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14060,6 +14064,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 /.*&uc=
 .1.jeasyui.net
+.zhihu.xmcimg.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -18954,6 +18959,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
