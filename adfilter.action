@@ -135,8 +135,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
-.airav.cc/AirADPic/20.*%
-.hdchina.club/styles/topshow/AD/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -2216,6 +2214,7 @@ cpro.*.
 .hdslb.com/js/core-v5/picment\.
 .hdslb.com/bfs/ad/
 .hdsky.me/adv/
+.hdchina.club/styles/topshow/AD/
 .hdad.baike.com
 .hd62.com/img/
 .hd-dwr.com/hb\.png
@@ -3368,6 +3367,7 @@ cpro.*.
 .aixifan.com/cms/.*/w/1160/h/100
 .aitaotu.com/style/js/aitaotu
 .airouba.com/public/js/global\.js
+.airav.cc/AirADPic/20.*%
 .aipai.com/common/html/commonAdForTfansTo\.html
 .aipai.com/app/www/templates/common/ifr/fans_640_40\.html
 .aipai.com/app/www/templates/common/.*_videos_
@@ -5064,6 +5064,7 @@ tanchuan.htm*.
 .hao123rt.com
 .hanju18.net
 .haiyunx.com
+.haiyunpush.com
 .haiwengji.net
 .h9377c.com
 .gzqudou.com
@@ -5382,6 +5383,7 @@ tanchuan.htm*.
 .aqgyju.cn
 .apkdo.com
 .aoparking.com
+.aomeng.net
 .anreson.net
 .andmejs.com
 .amazingmagics.com
@@ -5827,8 +5829,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.haiyunpush.com
-.aomeng.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7105,8 +7105,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?:\[asw\]\|ns\|search\|\[a-z0-9\]\{3\}\)\\\?\[a-z\]\{6\}=\\w\+&\[a-z\]\{6\}=\\w\+&\[a-z\]\{2\}=/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?:[asw]|ns|search|[a-z0-9]{3})\?[a-z]{6}=\w+&[a-z]{6}=\w+&[a-z]{2}=
-.airav.cc/AirADPic/20.*%
-.hdchina.club/styles/topshow/AD/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -9186,6 +9184,7 @@ cpro.*.
 .hdslb.com/js/core-v5/picment\.
 .hdslb.com/bfs/ad/
 .hdsky.me/adv/
+.hdchina.club/styles/topshow/AD/
 .hdad.baike.com
 .hd62.com/img/
 .hd-dwr.com/hb\.png
@@ -10338,6 +10337,7 @@ cpro.*.
 .aixifan.com/cms/.*/w/1160/h/100
 .aitaotu.com/style/js/aitaotu
 .airouba.com/public/js/global\.js
+.airav.cc/AirADPic/20.*%
 .aipai.com/common/html/commonAdForTfansTo\.html
 .aipai.com/app/www/templates/common/ifr/fans_640_40\.html
 .aipai.com/app/www/templates/common/.*_videos_
@@ -12034,6 +12034,7 @@ tanchuan.htm*.
 .hao123rt.com
 .hanju18.net
 .haiyunx.com
+.haiyunpush.com
 .haiwengji.net
 .h9377c.com
 .gzqudou.com
@@ -12352,6 +12353,7 @@ tanchuan.htm*.
 .aqgyju.cn
 .apkdo.com
 .aoparking.com
+.aomeng.net
 .anreson.net
 .andmejs.com
 .amazingmagics.com
@@ -12797,8 +12799,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.haiyunpush.com
-.aomeng.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14057,8 +14057,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.airav.cc/AirADPic/20.*%
-.hdchina.club/styles/topshow/AD/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -16056,6 +16054,7 @@ TAG:^adfilter-block-request$
 .hdslb.com/js/core-v5/picment\.
 .hdslb.com/bfs/ad/
 .hdsky.me/adv/
+.hdchina.club/styles/topshow/AD/
 .hdad.baike.com
 .hd62.com/img/
 .hd-dwr.com/hb\.png
@@ -17161,6 +17160,7 @@ TAG:^adfilter-block-request$
 .aixifan.com/cms/.*/w/1160/h/100
 .aitaotu.com/style/js/aitaotu
 .airouba.com/public/js/global\.js
+.airav.cc/AirADPic/20.*%
 .aipai.com/common/html/commonAdForTfansTo\.html
 .aipai.com/app/www/templates/common/ifr/fans_640_40\.html
 .aipai.com/app/www/templates/common/.*_videos_
@@ -18527,6 +18527,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .haohaowan8.com
 .hao123rt.com
 .hanju18.net
+.haiyunpush.com
 .haiwengji.net
 .h9377c.com
 .gzqudou.com
@@ -18950,7 +18951,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.haiyunpush.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20088,6 +20088,7 @@ gg.*.
 .av8d.net
 .at918.com
 .aoparking.com
+.aomeng.net
 .andmejs.com
 .allyes.*.
 .alllget.com
@@ -20242,7 +20243,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.aomeng.net
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
