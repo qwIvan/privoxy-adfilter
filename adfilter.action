@@ -146,6 +146,7 @@ cpro.*.
 .w.xiaopiaoyou.com
 .100669.com
 .b1.51scw.net
+.chinaz.com/zz_img/
 .wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
@@ -7128,6 +7129,7 @@ cpro.*.
 .w.xiaopiaoyou.com
 .100669.com
 .b1.51scw.net
+.chinaz.com/zz_img/
 .wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
@@ -14090,6 +14092,7 @@ TAG:^adfilter-block-request$
 /.*&uc=
 .w.xiaopiaoyou.com
 .b1.51scw.net
+.chinaz.com/zz_img/
 .wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
