@@ -20,6 +20,7 @@ TAG:^adfilter-block-dnt$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.sytsr.com
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
@@ -45,6 +46,7 @@ TAG:^adfilter-block-dnt$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cnzhqs.com
 .axkxy.com
 .24haitao.net
 .23txt.com
@@ -60,14 +62,13 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.sytsr.com
-.cnzhqs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+.zhihu.xmcimg.com
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
@@ -89,6 +90,7 @@ TAG:^adfilter-block-dnt$
 .gzlykj.cn
 .gunmi.cn
 .guang.sdsgwy.com
+.g1.taijuba.com
 .fuz.cc
 .fotao9.com
 .fmgoal.com
@@ -130,6 +132,7 @@ TAG:^adfilter-block-dnt$
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
+.1.jeasyui.net
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
@@ -137,10 +140,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
-.1.jeasyui.net
-.zhihu.xmcimg.com
-.g1.taijuba.com
-.baidu.com/xda\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -3211,6 +3210,7 @@ cpro.*.
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
 .baidu.com/videoapi/\?.*_ad_promote&
@@ -5544,6 +5544,7 @@ tanchuan.htm*.
 .61.174.50.211
 .61.160.200.*.
 .61.152.223.15
+.60.190.139.164
 .5mnh.com
 .5leji.com
 .5imoney.com
@@ -5834,7 +5835,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6996,6 +6996,7 @@ TAG:^adfilter-block-elem$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.sytsr.com
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
@@ -7021,6 +7022,7 @@ TAG:^adfilter-block-elem$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cnzhqs.com
 .axkxy.com
 .24haitao.net
 .23txt.com
@@ -7036,14 +7038,13 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.sytsr.com
-.cnzhqs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+.zhihu.xmcimg.com
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
@@ -7065,6 +7066,7 @@ TAG:^adfilter-block-elem$
 .gzlykj.cn
 .gunmi.cn
 .guang.sdsgwy.com
+.g1.taijuba.com
 .fuz.cc
 .fotao9.com
 .fmgoal.com
@@ -7106,6 +7108,7 @@ TAG:^adfilter-block-elem$
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
+.1.jeasyui.net
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
@@ -7113,10 +7116,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
-.1.jeasyui.net
-.zhihu.xmcimg.com
-.g1.taijuba.com
-.baidu.com/xda\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -10187,6 +10186,7 @@ cpro.*.
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
 .baidu.com/videoapi/\?.*_ad_promote&
@@ -12520,6 +12520,7 @@ tanchuan.htm*.
 .61.174.50.211
 .61.160.200.*.
 .61.152.223.15
+.60.190.139.164
 .5mnh.com
 .5leji.com
 .5imoney.com
@@ -12810,7 +12811,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13973,6 +13973,7 @@ TAG:^adfilter-block-request$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.sytsr.com
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
@@ -13998,6 +13999,7 @@ TAG:^adfilter-block-request$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cnzhqs.com
 .axkxy.com
 .24haitao.net
 /.*\.m\.zwdu\.com[^\w%.-]
@@ -14012,14 +14014,13 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.sytsr.com
-.cnzhqs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+.zhihu.xmcimg.com
 .yhzm.cc
 .wda.ydt.com.cn
 .uniondm.cz88.net
@@ -14031,6 +14032,7 @@ TAG:^adfilter-block-request$
 .home520.com
 .gzlykj.cn
 .guang.sdsgwy.com
+.g1.taijuba.com
 .fotao9.com
 .fmgoal.com
 .firefang.cn
@@ -14068,13 +14070,10 @@ TAG:^adfilter-block-request$
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
+.1.jeasyui.net
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.1.jeasyui.net
-.zhihu.xmcimg.com
-.g1.taijuba.com
-.baidu.com/xda\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -17020,6 +17019,7 @@ TAG:^adfilter-block-request$
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
 .baidu.com/videoapi/\?.*_ad_promote&
@@ -18848,6 +18848,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .61.174.50.211
 .61.160.200.*.
 .61.152.223.15
+.60.190.139.164
 .5imoney.com
 .592man.com
 .58.215.179.159
@@ -18968,7 +18969,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.60.190.139.164
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
