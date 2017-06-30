@@ -68,6 +68,7 @@ TAG:^adfilter-block-dnt$
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+/(.*/)?link\?c=
 .zhihu.xmcimg.com
 .youbian.com
 .yhzm.cc
@@ -7044,6 +7045,7 @@ TAG:^adfilter-block-elem$
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+/(.*/)?link\?c=
 .zhihu.xmcimg.com
 .youbian.com
 .yhzm.cc
@@ -19420,6 +19422,7 @@ TAG:^adfilter-block-request-Aasv-Casv$
  +server-header-tagger{adfilter-block-request-Ci} \
 }
 TAG:^adfilter-block-request-Ai-Ci$
+/(.*/)?link\?c=
 .yjhas.net
 .webkaka.com*./(.*/)?click/
 .tiantianzhibo.com/sda/
