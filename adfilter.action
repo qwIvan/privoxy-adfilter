@@ -144,6 +144,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
 .w.xiaopiaoyou.com
+.wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
 .yxdown.com/cj/
@@ -7123,6 +7124,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
 .w.xiaopiaoyou.com
+.wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
 .yxdown.com/cj/
@@ -14083,6 +14085,7 @@ TAG:^adfilter-block-request$
 .1.1010pic.com
 /.*&uc=
 .w.xiaopiaoyou.com
+.wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
 .yxdown.com/cj/
