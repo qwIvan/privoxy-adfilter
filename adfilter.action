@@ -62,6 +62,8 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmyangshengji.com
+.gadwhy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -141,6 +143,7 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
+.zhlzw.com/genfa/
 .yxdown.com/cj/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -227,10 +230,6 @@ cpro.*.
 .zfs.cn/8th/
 .zeyi.cc/js/2412/
 .zdzdm.com/static/img/.*ljs\.jpg
-.zdfans.com/wp-content/upgrade/doujind\.gif
-.zdfans.com/Picture/2345
-.zdfans.com/ex\?i=
-.zdfans.com/adsens/kiees\.jpg
 .zczj.com/special/
 .zc173.com/pp/
 .zc173.com/173fee/
@@ -7040,6 +7039,8 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmyangshengji.com
+.gadwhy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7119,6 +7120,7 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
+.zhlzw.com/genfa/
 .yxdown.com/cj/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7205,10 +7207,6 @@ cpro.*.
 .zfs.cn/8th/
 .zeyi.cc/js/2412/
 .zdzdm.com/static/img/.*ljs\.jpg
-.zdfans.com/wp-content/upgrade/doujind\.gif
-.zdfans.com/Picture/2345
-.zdfans.com/ex\?i=
-.zdfans.com/adsens/kiees\.jpg
 .zczj.com/special/
 .zc173.com/pp/
 .zc173.com/173fee/
@@ -14018,6 +14016,8 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmyangshengji.com
+.gadwhy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14078,6 +14078,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
+.zhlzw.com/genfa/
 .yxdown.com/cj/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14164,10 +14165,6 @@ TAG:^adfilter-block-request$
 .zfs.cn/8th/
 .zeyi.cc/js/2412/
 .zdzdm.com/static/img/.*ljs\.jpg
-.zdfans.com/wp-content/upgrade/doujind\.gif
-.zdfans.com/Picture/2345
-.zdfans.com/ex\?i=
-.zdfans.com/adsens/kiees\.jpg
 .zczj.com/special/
 .zc173.com/pp/
 .zc173.com/173fee/
