@@ -144,6 +144,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
 .w.xiaopiaoyou.com
+.100669.com
 .wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
@@ -7124,6 +7125,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,31\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,31}$
 .w.xiaopiaoyou.com
+.100669.com
 .wpwdf.com
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .zhlzw.com/genfa/
@@ -19751,6 +19753,7 @@ gg.*.
 .fjzimaoqu.cn
 .200218.com
 .1122.com
+.100669.com
 .xxx169.org
 .kokojia.com
 .k99.cc
