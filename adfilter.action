@@ -11,6 +11,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.zizcy.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -64,7 +65,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.zizcy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -75,6 +75,7 @@ TAG:^adfilter-block-dnt$
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
+.w5sac788c1.360doc.cn
 .w.xiaopiaoyou.com
 .uniondm.cz88.net
 .sundxs.com
@@ -147,8 +148,6 @@ TAG:^adfilter-block-dnt$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.w5sac788c1.360doc.cn
-.s.go.sohu.com/.*/\?callback=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1028,6 +1027,7 @@ cpro.*.
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
+.s.go.sohu.com/.*/\?callback=
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -4865,6 +4865,7 @@ tanchuan.htm*.
 .lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
+.ltcprtc.com
 .lovestyl.com
 .log.interest.mix.sina.com.cn
 .loandatec.com
@@ -5846,7 +5847,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ltcprtc.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6999,6 +6999,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.zizcy.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -7052,7 +7053,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.zizcy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7063,6 +7063,7 @@ TAG:^adfilter-block-elem$
 .youbian.com
 .yhzm.cc
 .wda.ydt.com.cn
+.w5sac788c1.360doc.cn
 .w.xiaopiaoyou.com
 .uniondm.cz88.net
 .sundxs.com
@@ -7135,8 +7136,6 @@ TAG:^adfilter-block-elem$
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.w5sac788c1.360doc.cn
-.s.go.sohu.com/.*/\?callback=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8016,6 +8015,7 @@ cpro.*.
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
+.s.go.sohu.com/.*/\?callback=
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -11853,6 +11853,7 @@ tanchuan.htm*.
 .lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
+.ltcprtc.com
 .lovestyl.com
 .log.interest.mix.sina.com.cn
 .loandatec.com
@@ -12834,7 +12835,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ltcprtc.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13988,6 +13988,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
 .ztxbd.com
+.zizcy.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -14040,7 +14041,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.zizcy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14050,6 +14050,7 @@ TAG:^adfilter-block-request$
 .zhihu.xmcimg.com
 .yhzm.cc
 .wda.ydt.com.cn
+.w5sac788c1.360doc.cn
 .w.xiaopiaoyou.com
 .uniondm.cz88.net
 .s1.hiapk.com
@@ -14103,8 +14104,6 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.1010pic.com
 /.*&uc=
-.w5sac788c1.360doc.cn
-.s.go.sohu.com/.*/\?callback=
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14955,6 +14954,7 @@ TAG:^adfilter-block-request$
 .s.yimg.com/uv/dm/scripts/syndication\.js
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
+.s.go.sohu.com/.*/\?callback=
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -18443,6 +18443,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lu.sogoucdn.com
 .lu.sogou.com
 .lthxz.cn
+.ltcprtc.com
 .lovestyl.com
 .log.interest.mix.sina.com.cn
 .loandatec.com
@@ -19002,7 +19003,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ltcprtc.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
