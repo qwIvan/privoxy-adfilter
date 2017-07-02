@@ -6429,7 +6429,7 @@ t.cn
 
 {+client-header-tagger{adfilter-block-dnt-R47} \
 }
-rc.sz.zj.cn/.*\.swf
+rc.sz.zj.cn/.*\.swf[^\w%.-]
 
 {+client-header-tagger{adfilter-block-dnt-R48} \
 }
@@ -13425,7 +13425,7 @@ t.cn
 
 {+client-header-tagger{adfilter-block-elem-R47} \
 }
-rc.sz.zj.cn/.*\.swf
+rc.sz.zj.cn/.*\.swf[^\w%.-]
 
 {+client-header-tagger{adfilter-block-elem-R48} \
 }
@@ -20521,7 +20521,7 @@ t.cn
 
 {+client-header-tagger{adfilter-block-request-R47} \
 }
-rc.sz.zj.cn/.*\.swf
+rc.sz.zj.cn/.*\.swf[^\w%.-]
 
 {+client-header-tagger{adfilter-block-request-R48} \
 }
