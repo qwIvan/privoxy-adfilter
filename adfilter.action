@@ -224,7 +224,6 @@ cpro.*.
 .zhenjiang365.cn/bbsatt/day_120827/1208271004af7c25b6e3d4fa1d\.gif
 .zhenjiang365.cn/.*/ad_
 .zhaozi.cn/d/js/mini/extended87\.js
-.zhaojiao.net/templets/default/js/AD_flay\.js
 .zhaofuli.*./(.*/)?data/content
 .zhanqi.tv/uploads/.*/ads-.*\.swf
 .zhandi.cc/Runtime/js/index
@@ -2013,7 +2012,7 @@ cpro.*.
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
-.im.zww.im/images/
+.zww.me/.*\?action=Ajax_
 .ilovegao.com.*./(.*/)?images/.*\.gif
 .ilovecao.com/.*\.gif
 .ilikecao.com/.*\.gif
@@ -7221,7 +7220,6 @@ cpro.*.
 .zhenjiang365.cn/bbsatt/day_120827/1208271004af7c25b6e3d4fa1d\.gif
 .zhenjiang365.cn/.*/ad_
 .zhaozi.cn/d/js/mini/extended87\.js
-.zhaojiao.net/templets/default/js/AD_flay\.js
 .zhaofuli.*./(.*/)?data/content
 .zhanqi.tv/uploads/.*/ads-.*\.swf
 .zhandi.cc/Runtime/js/index
@@ -9010,7 +9008,7 @@ cpro.*.
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
-.im.zww.im/images/
+.zww.me/.*\?action=Ajax_
 .ilovegao.com.*./(.*/)?images/.*\.gif
 .ilovecao.com/.*\.gif
 .ilikecao.com/.*\.gif
@@ -14198,7 +14196,6 @@ TAG:^adfilter-block-request$
 .zhenjiang365.cn/bbsatt/day_120827/1208271004af7c25b6e3d4fa1d\.gif
 .zhenjiang365.cn/.*/ad_
 .zhaozi.cn/d/js/mini/extended87\.js
-.zhaojiao.net/templets/default/js/AD_flay\.js
 .zhaofuli.*./(.*/)?data/content
 .zhanqi.tv/uploads/.*/ads-.*\.swf
 .zhandi.cc/Runtime/js/index
@@ -15911,7 +15908,7 @@ TAG:^adfilter-block-request$
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
-.im.zww.im/images/
+.zww.me/.*\?action=Ajax_
 .ilovegao.com.*./(.*/)?images/.*\.gif
 .ilovecao.com/.*\.gif
 .ilikecao.com/.*\.gif
