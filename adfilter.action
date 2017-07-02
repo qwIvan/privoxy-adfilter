@@ -65,6 +65,8 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmttoly.com
+.oomyv.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -153,6 +155,10 @@ cpro.*.
 .51gxqm.com
 .aiwen.cc
 .libs.tvmao.cn
+.ma1.meishij.net
+.bd1.xiangha.com
+.jiaoben.ganji.cn
+.kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
 .256.cc/m/js/g256\.js
@@ -7059,6 +7065,8 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmttoly.com
+.oomyv.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7147,6 +7155,10 @@ cpro.*.
 .51gxqm.com
 .aiwen.cc
 .libs.tvmao.cn
+.ma1.meishij.net
+.bd1.xiangha.com
+.jiaoben.ganji.cn
+.kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
 .256.cc/m/js/g256\.js
@@ -14053,6 +14065,8 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.hmttoly.com
+.oomyv.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14121,6 +14135,10 @@ TAG:^adfilter-block-request$
 .51gxqm.com
 .aiwen.cc
 .libs.tvmao.cn
+.ma1.meishij.net
+.bd1.xiangha.com
+.jiaoben.ganji.cn
+.kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
 .256.cc/m/js/g256\.js

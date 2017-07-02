@@ -24,7 +24,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R105
 s@^referer(?=:[^\n]*[./](?:ltwbook\.com|ltxsw\.com|ltxszw\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R106
-s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com|m\.ybdu\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R107
 s@^referer(?=:[^\n]*[./](?:lxty66\.com)):.*@adfilter-block-dnt@Ti
@@ -558,7 +558,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R105
 s@^referer(?=:[^\n]*[./](?:ltwbook\.com|ltxsw\.com|ltxszw\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R106
-s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com|m\.ybdu\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R107
 s@^referer(?=:[^\n]*[./](?:lxty66\.com)):.*@adfilter-block-elem@Ti
@@ -1148,7 +1148,7 @@ s@^referer(?=:[^\n]*[./](?:btdb\.in))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R181t
 s@^referer:.*@$&\t$host@Di
-s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
+s@^referer(?=:[^\n]*[./](?:lwxiaoshuo\.com|m\.00ksw\.net|m\.33yq\.com|m\.50zw\.la|m\.55xs\.com|m\.67shu\.com|m\.88dushu\.com|m\.biqudu\.com|m\.biquge\.com|m\.biquge\.com\.tw|m\.biquge\.tw|m\.biqugego\.com|m\.biqugezw\.com|m\.biquwu\.cc|m\.bqg5200\.com|m\.dhzw\.org|m\.kewaishu\.net|m\.lewenxiaoshuo\.com|m\.liewen\.cc|m\.qu\.la|m\.shenmabook\.com|m\.shumilou\.co|m\.snwx8\.com|m\.vodtw\.com|m\.xs222\.com|m\.zwdu\.com|wap\.xxbiquge\.com|m\.ybdu\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-R11
 s@^referer(?=:[^\n]*[./](?:189so\.cn)):.*@adfilter-block-request-Aj-Cj@Ti
