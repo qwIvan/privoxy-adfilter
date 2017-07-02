@@ -158,6 +158,12 @@ cpro.*.
 .ma1.meishij.net
 .bd1.xiangha.com
 .jiaoben.ganji.cn
+.iy.com.cn
+.d.xinshipu.com
+.bdcode.youke.com
+.qwxcs.com
+.delivery.wasu.cn
+.ickd.cn/act/
 .kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
@@ -5852,6 +5858,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .6728812.com
+.aguo.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7158,6 +7165,12 @@ cpro.*.
 .ma1.meishij.net
 .bd1.xiangha.com
 .jiaoben.ganji.cn
+.iy.com.cn
+.d.xinshipu.com
+.bdcode.youke.com
+.qwxcs.com
+.delivery.wasu.cn
+.ickd.cn/act/
 .kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
@@ -12852,6 +12865,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .6728812.com
+.aguo.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14138,6 +14152,10 @@ TAG:^adfilter-block-request$
 .ma1.meishij.net
 .bd1.xiangha.com
 .jiaoben.ganji.cn
+.d.xinshipu.com
+.bdcode.youke.com
+.delivery.wasu.cn
+.ickd.cn/act/
 .kuaidi100.com/mobile/mobileapi\.do
 .dnvod.tv/upload/doing/
 .256.cc/w/js/w256\.js
@@ -19803,6 +19821,8 @@ gg.*.
 .200218.com
 .1122.com
 .100669.com
+.iy.com.cn
+.qwxcs.com
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20325,6 +20345,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.aguo.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
