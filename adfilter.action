@@ -22262,6 +22262,10 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
+/(.*/)?adview_pic_
+
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
+}
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
@@ -23266,6 +23270,10 @@ Loadads.*.
 /(.*/)?pic/ad/.*
 
 {+client-header-tagger{adfilter-unblock-elem-R333} \
+}
+/(.*/)?adview_pic_
+
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -24464,6 +24472,11 @@ Loadads.*.
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R333} \
+}
+/(.*/)?adview_pic_
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
