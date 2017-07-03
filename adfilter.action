@@ -5905,6 +5905,7 @@ pd2.js*.
 .5jcom.com.cn
 .r5g.cc
 .bjxiaohua.com
+.yxjad.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6972,8 +6973,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-dnt-Rn160} \
 }
@@ -12956,6 +12957,7 @@ pd2.js*.
 .5jcom.com.cn
 .r5g.cc
 .bjxiaohua.com
+.yxjad.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14023,8 +14025,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-elem-Rn160} \
 }
@@ -19172,6 +19174,7 @@ tk.*./.*\.php\?id=.*&step=
 .cpu.baidu.com
 .5125129.com
 .5jcom.com.cn
+.yxjad.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19778,8 +19781,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rt} \
 }
