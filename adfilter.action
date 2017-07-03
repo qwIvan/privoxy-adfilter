@@ -180,6 +180,17 @@ cpro.*.
 .sg92.com
 .dm.yjbys.com
 .ss.shicimingju.com
+.baidu-union-js.xiachufang.com
+.289.com
+a.kj-cy.cn
+.ykxwn.com
+.3.ssqzj.com
+.redmx.cn
+.a1.0s.net.cn
+.okkkk.com
+.1224.dxsbb.com
+.jiliw.com
+.a1.liuxue86.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -5885,6 +5896,7 @@ pd2.js*.
 .*.cn/show\?id=
 .cpu.baidu.com
 .trys5.com
+.5125129.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6252,6 +6264,8 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?ad-m-banner2\.gif
+ad-m-banner2.gif*.
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7209,6 +7223,17 @@ cpro.*.
 .sg92.com
 .dm.yjbys.com
 .ss.shicimingju.com
+.baidu-union-js.xiachufang.com
+.289.com
+a.kj-cy.cn
+.ykxwn.com
+.3.ssqzj.com
+.redmx.cn
+.a1.0s.net.cn
+.okkkk.com
+.1224.dxsbb.com
+.jiliw.com
+.a1.liuxue86.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -12914,6 +12939,7 @@ pd2.js*.
 .*.cn/show\?id=
 .cpu.baidu.com
 .trys5.com
+.5125129.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13281,6 +13307,8 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?ad-m-banner2\.gif
+ad-m-banner2.gif*.
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -14211,6 +14239,14 @@ TAG:^adfilter-block-request$
 .adjb.5nd.com
 .dm.yjbys.com
 .ss.shicimingju.com
+.baidu-union-js.xiachufang.com
+a.kj-cy.cn
+.ykxwn.com
+.3.ssqzj.com
+.a1.0s.net.cn
+.okkkk.com
+.1224.dxsbb.com
+.a1.liuxue86.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -19114,6 +19150,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .cpu.baidu.com
+.5125129.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19471,6 +19508,8 @@ AD2v1.1.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?ad-m-banner2\.gif
+ad-m-banner2.gif*.
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -19892,6 +19931,9 @@ gg.*.
 .tiexing.com
 .90370.com
 .sg92.com
+.289.com
+.redmx.cn
+.jiliw.com
 .xxx169.org
 .kokojia.com
 .k99.cc
