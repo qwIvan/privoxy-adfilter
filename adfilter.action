@@ -3992,7 +3992,7 @@ cpro.*.
 .183yf.cn/img/nz\.png
 .183.136.168.78:8082/ad/
 .182.92.234.239/.*\.html
-.18183.com/js\.php\?pid=
+.18183.com/base\.php
 .180.96.27.85/.*\.htm
 .17yy.com/style/ifra_ad/
 .17ok.com/img2016/list/295_90\.gif
@@ -11014,7 +11014,7 @@ cpro.*.
 .183yf.cn/img/nz\.png
 .183.136.168.78:8082/ad/
 .182.92.234.239/.*\.html
-.18183.com/js\.php\?pid=
+.18183.com/base\.php
 .180.96.27.85/.*\.htm
 .17yy.com/style/ifra_ad/
 .17ok.com/img2016/list/295_90\.gif
@@ -17853,7 +17853,7 @@ TAG:^adfilter-block-request$
 .183yf.cn/img/nz\.png
 .183.136.168.78:8082/ad/
 .182.92.234.239/.*\.html
-.18183.com/js\.php\?pid=
+.18183.com/base\.php
 .180.96.27.85/.*\.htm
 .17yy.com/style/ifra_ad/
 .17ok.com/img2016/list/295_90\.gif
