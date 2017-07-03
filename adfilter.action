@@ -191,6 +191,10 @@ a.kj-cy.cn
 .1224.dxsbb.com
 .jiliw.com
 .a1.liuxue86.com
+.mmcc.yxlady.com
+.dm.jy135.com
+.a.kejixun.com
+.999d.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -5897,6 +5901,9 @@ pd2.js*.
 .cpu.baidu.com
 .trys5.com
 .5125129.com
+.5jcom.com.cn
+.r5g.cc
+.bjxiaohua.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6964,8 +6971,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
 
 {+client-header-tagger{adfilter-block-dnt-Rn160} \
 }
@@ -7234,6 +7241,10 @@ a.kj-cy.cn
 .1224.dxsbb.com
 .jiliw.com
 .a1.liuxue86.com
+.mmcc.yxlady.com
+.dm.jy135.com
+.a.kejixun.com
+.999d.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -12940,6 +12951,9 @@ pd2.js*.
 .cpu.baidu.com
 .trys5.com
 .5125129.com
+.5jcom.com.cn
+.r5g.cc
+.bjxiaohua.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14007,8 +14021,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
 
 {+client-header-tagger{adfilter-block-elem-Rn160} \
 }
@@ -14247,6 +14261,9 @@ a.kj-cy.cn
 .okkkk.com
 .1224.dxsbb.com
 .a1.liuxue86.com
+.mmcc.yxlady.com
+.dm.jy135.com
+.a.kejixun.com
 .keaidian.com/js/jquery\.wap\.min\.js
 .gg.xingzuo360.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
@@ -19151,6 +19168,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adposid/.*
 .cpu.baidu.com
 .5125129.com
+.5jcom.com.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -19757,8 +19775,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn159} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{40,62\}\)\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])(?:[0-9a-z]{10}|[0-9a-z]{40,62})\.js$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rt} \
 }
@@ -19934,6 +19952,7 @@ gg.*.
 .289.com
 .redmx.cn
 .jiliw.com
+.999d.com
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20458,6 +20477,8 @@ pd2.js*.
 /.*\.com/htmlcode/
 .*.com/htmlcode/
 .trys5.com
+.r5g.cc
+.bjxiaohua.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
