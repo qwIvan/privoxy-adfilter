@@ -71,6 +71,7 @@ TAG:^adfilter-block-dnt$
 .*.m.biqugezw.com
 /.*\.m\.miaobige\.com[^\w%.-]
 .*.m.miaobige.com
+.md0z4dh.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -204,6 +205,10 @@ cpro.*.
 .qcrx.cn
 .gg.huangye88.com
 .cc.yac8.com
+.jb.tupianzj.com
+.b17.shangc.net
+.5egk.com
+.9wushuo.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -5918,8 +5923,19 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.hxyifu.com
+.shushijiameng123.com
+.xm9178.com
+.hejingroup.cn
+.dandan11.top
+.tangoutianxia.com
+.96mob.com
+.whafwl.com
+.newtech-beauty.com
 .yixui.com
 .hao61.net
+/.*\.xyz/vs\.php\?id=
+.*.xyz/vs\.php\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7138,6 +7154,7 @@ TAG:^adfilter-block-elem$
 .*.m.biqugezw.com
 /.*\.m\.miaobige\.com[^\w%.-]
 .*.m.miaobige.com
+.md0z4dh.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7271,6 +7288,10 @@ cpro.*.
 .qcrx.cn
 .gg.huangye88.com
 .cc.yac8.com
+.jb.tupianzj.com
+.b17.shangc.net
+.5egk.com
+.9wushuo.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12985,8 +13006,19 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.hxyifu.com
+.shushijiameng123.com
+.xm9178.com
+.hejingroup.cn
+.dandan11.top
+.tangoutianxia.com
+.96mob.com
+.whafwl.com
+.newtech-beauty.com
 .yixui.com
 .hao61.net
+/.*\.xyz/vs\.php\?id=
+.*.xyz/vs\.php\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14205,6 +14237,7 @@ TAG:^adfilter-block-request$
 .*.m.biqugezw.com
 /.*\.m\.miaobige\.com[^\w%.-]
 .*.m.miaobige.com
+.md0z4dh.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14306,6 +14339,10 @@ a.kj-cy.cn
 .qcrx.cn
 .gg.huangye88.com
 .cc.yac8.com
+.jb.tupianzj.com
+.b17.shangc.net
+.5egk.com
+.9wushuo.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -19216,6 +19253,15 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.hxyifu.com
+.shushijiameng123.com
+.xm9178.com
+.hejingroup.cn
+.dandan11.top
+.tangoutianxia.com
+.96mob.com
+.whafwl.com
+.newtech-beauty.com
 .yixui.com
 .hao61.net
 /.*\.8ox\.cn[^\w%.-]
@@ -19927,6 +19973,8 @@ js*./(.*/)?i\.js\?
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*\.xyz/vs\.php\?id=
+.*.xyz/vs\.php\?id=
 
 {+client-header-tagger{adfilter-block-request-Anaov} \
  +server-header-tagger{adfilter-block-request-Cnaov} \
