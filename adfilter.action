@@ -221,6 +221,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\[0-9a-z\]\{10\}\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])[0-9a-z]{10}\.js$
 .p1.18zhongyao.com
+.bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7317,6 +7318,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\[0-9a-z\]\{10\}\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])[0-9a-z]{10}\.js$
 .p1.18zhongyao.com
+.bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14378,6 +14380,7 @@ a.kj-cy.cn
 .ypmeiwen.com
 .7631.com
 .p1.18zhongyao.com
+.bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
