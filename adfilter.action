@@ -72,6 +72,9 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.sxjxhg.com
+/.*\.m\.txt99\.org[^\w%.-]
+.*.m.txt99.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -228,6 +231,14 @@ cpro.*.
 .ixpub.net
 .5dian.org
 .a4.b2b168.com
+.jsb.qianzhan.com
+.bd1.jobui.com
+.vvv.ieduw.com
+.bdlm1.hc360.com
+.ent1.12584.cn
+.1.glook.cn
+.zdface.com/js/m/zw_banner\.js
+.iporn.world/attachment/ad/
 .a.nowscore.com
 .07073.com/uploads/170626/2_101459_1\.jpg
 .lady8844.com/n000/20170627_tm99_613\.jpg
@@ -4690,6 +4701,7 @@ tanchuan.htm*.
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
+.atanx.alicdn.com
 .tanwanyx.com
 .tangoutianxia.com
 .tanchuang002.info
@@ -5964,6 +5976,9 @@ pd2.js*.
 .xzzyi.com
 .dingon.com.cn
 .9kff.com
+.hailuoxiang.com
+.ptkhy.com
+.fcsass.org.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7184,6 +7199,9 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.sxjxhg.com
+/.*\.m\.txt99\.org[^\w%.-]
+.*.m.txt99.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7340,6 +7358,14 @@ cpro.*.
 .ixpub.net
 .5dian.org
 .a4.b2b168.com
+.jsb.qianzhan.com
+.bd1.jobui.com
+.vvv.ieduw.com
+.bdlm1.hc360.com
+.ent1.12584.cn
+.1.glook.cn
+.zdface.com/js/m/zw_banner\.js
+.iporn.world/attachment/ad/
 .a.nowscore.com
 .07073.com/uploads/170626/2_101459_1\.jpg
 .lady8844.com/n000/20170627_tm99_613\.jpg
@@ -11802,6 +11828,7 @@ tanchuan.htm*.
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
+.atanx.alicdn.com
 .tanwanyx.com
 .tangoutianxia.com
 .tanchuang002.info
@@ -13076,6 +13103,9 @@ pd2.js*.
 .xzzyi.com
 .dingon.com.cn
 .9kff.com
+.hailuoxiang.com
+.ptkhy.com
+.fcsass.org.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14296,6 +14326,9 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.sxjxhg.com
+/.*\.m\.txt99\.org[^\w%.-]
+.*.m.txt99.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14416,6 +14449,14 @@ a.kj-cy.cn
 .ixpub.net
 .5dian.org
 .a4.b2b168.com
+.jsb.qianzhan.com
+.bd1.jobui.com
+.vvv.ieduw.com
+.bdlm1.hc360.com
+.ent1.12584.cn
+.1.glook.cn
+.zdface.com/js/m/zw_banner\.js
+.iporn.world/attachment/ad/
 .a.nowscore.com
 .07073.com/uploads/170626/2_101459_1\.jpg
 .lady8844.com/n000/20170627_tm99_613\.jpg
@@ -18578,6 +18619,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .taobayun.cn
 .taobaoaliyun.cn
 .taobaly.cn
+.atanx.alicdn.com
 .tangoutianxia.com
 .tad.suning.com
 .taat00889.com
@@ -19346,6 +19388,8 @@ tk.*./.*\.php\?id=.*&step=
 .xzzyi.com
 .dingon.com.cn
 .9kff.com
+.ptkhy.com
+.fcsass.org.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20665,6 +20709,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.hailuoxiang.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
