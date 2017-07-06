@@ -75,6 +75,8 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.zineworm\.com[^\w%.-]
+.*.m.zineworm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -256,6 +258,8 @@ cpro.*.
 .mpb1.iteye.com
 .img.zuowen8.com
 .bd1.fengdu100.com
+.d.mingyihui.net
+.adsame1.cnr.cn
 .dftoutiao.com/dfpcitv/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7225,6 +7229,8 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.zineworm\.com[^\w%.-]
+.*.m.zineworm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7406,6 +7412,8 @@ cpro.*.
 .mpb1.iteye.com
 .img.zuowen8.com
 .bd1.fengdu100.com
+.d.mingyihui.net
+.adsame1.cnr.cn
 .dftoutiao.com/dfpcitv/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14375,6 +14383,8 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.zineworm\.com[^\w%.-]
+.*.m.zineworm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14518,6 +14528,8 @@ a.kj-cy.cn
 .mpb1.iteye.com
 .img.zuowen8.com
 .bd1.fengdu100.com
+.d.mingyihui.net
+.adsame1.cnr.cn
 .dftoutiao.com/dfpcitv/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
