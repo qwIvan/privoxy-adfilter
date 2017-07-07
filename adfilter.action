@@ -77,6 +77,7 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.passwz.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -264,6 +265,7 @@ cpro.*.
 .55lu.com
 .mnkan.com
 .aa808.com
+.jddaw.com
 .daima.ijq.tv
 .fff.yuyouge.com
 .ddd.yuyouge.com
@@ -7241,6 +7243,7 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.passwz.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7428,6 +7431,7 @@ cpro.*.
 .55lu.com
 .mnkan.com
 .aa808.com
+.jddaw.com
 .daima.ijq.tv
 .fff.yuyouge.com
 .ddd.yuyouge.com
@@ -14405,6 +14409,7 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+.passwz.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14553,6 +14558,7 @@ a.kj-cy.cn
 .qujishu.com
 .55lu.com
 .mnkan.com
+.jddaw.com
 .daima.ijq.tv
 .fff.yuyouge.com
 .ddd.yuyouge.com
