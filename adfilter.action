@@ -78,6 +78,8 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
 .passwz.com
+.changhehengqi.com
+.jndczg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -279,6 +281,8 @@ cpro.*.
 .painiuimg.com
 .sad.qeo.cn
 .1.win7sky.com
+.aa.tianya999.com
+.shili.downxia.com
 .fff.yuyouge.com
 .ddd.yuyouge.com
 .4hw.com.cn/4hw
@@ -7256,6 +7260,8 @@ TAG:^adfilter-block-elem$
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
 .passwz.com
+.changhehengqi.com
+.jndczg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7457,6 +7463,8 @@ cpro.*.
 .painiuimg.com
 .sad.qeo.cn
 .1.win7sky.com
+.aa.tianya999.com
+.shili.downxia.com
 .fff.yuyouge.com
 .ddd.yuyouge.com
 .4hw.com.cn/4hw
@@ -14434,6 +14442,8 @@ TAG:^adfilter-block-request$
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
 .passwz.com
+.changhehengqi.com
+.jndczg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14594,6 +14604,8 @@ a.kj-cy.cn
 .painiuimg.com
 .sad.qeo.cn
 .1.win7sky.com
+.aa.tianya999.com
+.shili.downxia.com
 .fff.yuyouge.com
 .ddd.yuyouge.com
 .4hw.com.cn/4hw
