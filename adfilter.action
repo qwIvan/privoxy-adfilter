@@ -6664,7 +6664,7 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-dnt-R56} \
 }
-.sinaimg.cn/.*\.gif
+.sinaimg.cn/large/
 
 {+client-header-tagger{adfilter-block-dnt-R57} \
 }
@@ -13850,7 +13850,7 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-elem-R56} \
 }
-.sinaimg.cn/.*\.gif
+.sinaimg.cn/large/
 
 {+client-header-tagger{adfilter-block-elem-R57} \
 }
@@ -21126,7 +21126,7 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-request-R56} \
 }
-.sinaimg.cn/.*\.gif
+.sinaimg.cn/large/
 
 {+client-header-tagger{adfilter-block-request-R57} \
 }
