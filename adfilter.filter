@@ -1333,6 +1333,9 @@ s@^referer(?=:[^\n]*[./](?:storm\.mg)):.*@adfilter-block-request@Ti
 CLIENT-HEADER-TAGGER: adfilter-block-request-R127
 s@^referer(?=:[^\n]*[./](?:sun0769\.com)):.*@adfilter-block-request@Ti
 
+CLIENT-HEADER-TAGGER: adfilter-block-request-R128
+s@^referer(?=:[^\n]*[./](?:tieba\.baidu\.com)):.*@adfilter-block-request@Ti
+
 CLIENT-HEADER-TAGGER: adfilter-block-request-R129
 s@^referer(?=:[^\n]*[./](?:tiexue\.net)):.*@adfilter-block-request@Ti
 

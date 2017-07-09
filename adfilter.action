@@ -6975,6 +6975,8 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-dnt-R128} \
 }
+/(.*/)?11431a7ff0f5\.swf
+11431a7ff0f5.swf*.
 .baidu.com/tb/zt/
 
 {+client-header-tagger{adfilter-block-dnt-R129} \
@@ -14165,6 +14167,8 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-elem-R128} \
 }
+/(.*/)?11431a7ff0f5\.swf
+11431a7ff0f5.swf*.
 .baidu.com/tb/zt/
 
 {+client-header-tagger{adfilter-block-elem-R129} \
@@ -21403,6 +21407,11 @@ dealer1.gif*.
 {+client-header-tagger{adfilter-block-request-R127} \
 }
 /(.*/)?sungg/.*
+
+{+client-header-tagger{adfilter-block-request-R128} \
+}
+/(.*/)?11431a7ff0f5\.swf
+11431a7ff0f5.swf*.
 
 {+client-header-tagger{adfilter-block-request-R129} \
 }
