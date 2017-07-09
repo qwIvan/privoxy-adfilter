@@ -22470,7 +22470,7 @@ dfp.js*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R241} \
 }
-.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
+.pagead2.googlesyndication.com/pagead/
 
 {+client-header-tagger{adfilter-unblock-dnt-R242} \
 }
@@ -22542,6 +22542,10 @@ advertisement.js*.
 {+client-header-tagger{adfilter-unblock-dnt-R255} \
 }
 .cbjs.baidu.com/js/o\.js
+
+{+client-header-tagger{adfilter-unblock-dnt-R80} \
+}
+.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R256} \
 }
@@ -23462,7 +23466,7 @@ dfp.js*.
 
 {+client-header-tagger{adfilter-unblock-elem-R241} \
 }
-.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
+.pagead2.googlesyndication.com/pagead/
 
 {+client-header-tagger{adfilter-unblock-elem-R242} \
 }
@@ -23534,6 +23538,10 @@ advertisement.js*.
 {+client-header-tagger{adfilter-unblock-elem-R255} \
 }
 .cbjs.baidu.com/js/o\.js
+
+{+client-header-tagger{adfilter-unblock-elem-R80} \
+}
+.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R256} \
 }
@@ -24308,6 +24316,11 @@ TAG:^adfilter-unblock-request-Aj-Cj-Xx$
 .012.tw
 
 {-block \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R241} \
+}
+.pagead2.googlesyndication.com/pagead/
+
+{-block \
  +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R250} \
 }
 .sinaimg.cn/cj/deco/
@@ -24563,11 +24576,6 @@ dfp.js*.
 .s.pacn.ws/.*/generate-captcha\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R241} \
-}
-.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
-
-{-block \
  +client-header-tagger{adfilter-unblock-request-R242} \
 }
 .pos.baidu.com/.*\?di=90417&
@@ -24647,6 +24655,11 @@ advertisement.js*.
  +client-header-tagger{adfilter-unblock-request-R255} \
 }
 .cbjs.baidu.com/js/o\.js
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R80} \
+}
+.pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R256} \
