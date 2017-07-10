@@ -82,6 +82,8 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.beidouxin\.com[^\w%.-]
+.*.m.beidouxin.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -309,6 +311,12 @@ cpro.*.
 .bdcode.gaosan.com
 .lfyuanai.com
 .a.nanhuwang.com
+.dm.ppzuowen.com
+.jb.ecar168.cn
+.miyudaquan.top
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
+.jbzyw.com/Application/M/adv/
 .hcw888.com/Plug/GG\.asp
 .lanseshuba.com/react\.js
 .zzzyk.com/js/
@@ -7302,6 +7310,8 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.beidouxin\.com[^\w%.-]
+.*.m.beidouxin.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7529,6 +7539,12 @@ cpro.*.
 .bdcode.gaosan.com
 .lfyuanai.com
 .a.nanhuwang.com
+.dm.ppzuowen.com
+.jb.ecar168.cn
+.miyudaquan.top
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
+.jbzyw.com/Application/M/adv/
 .hcw888.com/Plug/GG\.asp
 .lanseshuba.com/react\.js
 .zzzyk.com/js/
@@ -14522,6 +14538,8 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
+/.*\.m\.beidouxin\.com[^\w%.-]
+.*.m.beidouxin.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14704,6 +14722,11 @@ a.kj-cy.cn
 .bdcode.gaosan.com
 .lfyuanai.com
 .a.nanhuwang.com
+.dm.ppzuowen.com
+.jb.ecar168.cn
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
+.jbzyw.com/Application/M/adv/
 .hcw888.com/Plug/GG\.asp
 .lanseshuba.com/react\.js
 .zzzyk.com/js/
@@ -20460,6 +20483,7 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
+.miyudaquan.top
 .xxx169.org
 .kokojia.com
 .k99.cc
