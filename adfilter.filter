@@ -1770,7 +1770,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R135
 s@^referer(?=:[^\n]*[./](?:up2stream\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R194
-s@^referer(?=:[^\n]*[./](?:10pan\.cn|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:10pan\.cc|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-dnt-R195
 s@^referer(?=:[^\n]*[./](?:123\.138\.234\.240)):.*@adfilter-unblock-dnt@Ti
@@ -2197,7 +2197,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R135
 s@^referer(?=:[^\n]*[./](?:up2stream\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R194
-s@^referer(?=:[^\n]*[./](?:10pan\.cn|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-elem@Ti
+s@^referer(?=:[^\n]*[./](?:10pan\.cc|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-elem-R195
 s@^referer(?=:[^\n]*[./](?:123\.138\.234\.240)):.*@adfilter-unblock-elem@Ti
@@ -2695,7 +2695,7 @@ CLIENT-HEADER-TAGGER: adfilter-unblock-request-R135
 s@^referer(?=:[^\n]*[./](?:up2stream\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R194
-s@^referer(?=:[^\n]*[./](?:10pan\.cn|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-request@Ti
+s@^referer(?=:[^\n]*[./](?:10pan\.cc|789xz\.com|gueizu\.com|sju\.wang|wwp5\.com)):.*@adfilter-unblock-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-unblock-request-R195
 s@^referer(?=:[^\n]*[./](?:123\.138\.234\.240)):.*@adfilter-unblock-request@Ti

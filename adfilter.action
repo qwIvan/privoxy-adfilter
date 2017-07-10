@@ -30,6 +30,7 @@ TAG:^adfilter-block-dnt$
 .rbywg.com
 .qzdag.com
 .qlonglong.com
+.qloer.com
 .pomhz.com
 .passwz.com
 .oomyv.com
@@ -81,7 +82,6 @@ TAG:^adfilter-block-dnt$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.qloer.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -97,7 +97,10 @@ TAG:^adfilter-block-dnt$
 .ypmeiwen.com
 .youbian.com
 .ykxwn.com
+.yihubaiying.com
 .yhzm.cc
+.xbtw.com
+.wuliao.juqingba.cn
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -129,6 +132,7 @@ TAG:^adfilter-block-dnt$
 .okkkk.com
 .nyhpyq.com
 .mpb1.iteye.com
+.mo-tuo.com
 .mnkan.com
 .mn586.com
 .mmcc.yxlady.com
@@ -136,6 +140,7 @@ TAG:^adfilter-block-dnt$
 .mj-medlab.com
 .mipujia.com
 .milk.yesky.com.cn
+.meishiba.com.cn
 .mbs.weathercn.com
 .ma1.meishij.net
 .luolikong.net
@@ -201,6 +206,7 @@ TAG:^adfilter-block-dnt$
 .daima.chazidian.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.tonghua5.com
 .d.mingyihui.net
 .cp.jfcdns.com
 .cp.greenxf.cn
@@ -218,8 +224,10 @@ TAG:^adfilter-block-dnt$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
+.bd1.szhk.com
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
@@ -227,6 +235,7 @@ TAG:^adfilter-block-dnt$
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
 .b17.shangc.net
+.b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
 .ap*./.*\.pl520\.com[^\w%.-]
@@ -282,6 +291,7 @@ TAG:^adfilter-block-dnt$
 .1.jeasyui.net
 .1.glook.cn
 .1.feihua.com
+.1.cjcp.cn
 .1.1010pic.com
 .06362.com
 a.kj-cy.cn
@@ -293,18 +303,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.wuliao.juqingba.cn
-.yihubaiying.com
-.bdad.hao224.com
-.xbtw.com
-.mo-tuo.com
-.meishiba.com.cn
-.b1.91jucai.com
-.1.cjcp.cn
-.bd1.szhk.com
-.d.tonghua5.com
-.win007.com/mn/
-.titan007.com/news\.aspx
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -654,6 +652,7 @@ cpro.*.
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
 .winba.me/wp-content/uploads/.*/300x300\.
+.win007.com/mn/
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
 .whnews.cn/wh_public/xuxu/
@@ -848,6 +847,7 @@ cpro.*.
 .tmbbs.com/data/attachment/portal/.*\.swf
 .tk.504pk.com
 .tjzan.com/wxpic/asianyi\.gif
+.titan007.com/news\.aspx
 .titan007.com/ad/
 .tingvoa.com/images/top_600_80\.js
 .tingvoa.com/images/.*img\.js
@@ -3378,7 +3378,6 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baizhu.cc/script/789xz/
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -4270,8 +4269,6 @@ cpro.*.
 .11.mydrivers.com/news/google468x60\.js
 .11.mydrivers.com/news/03\.js
 .11.mydrivers.com/drivers/
-.10pan.cn/images/gd
-.10pan.cc/rili\.gif
 .10jqka.com.cn/public/stock/red\.html\?
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
@@ -5076,6 +5073,7 @@ tanchuan.htm*.
 .lhengilin.com
 .lhafy.com
 .lflili.com
+.leztc.com
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
@@ -6057,7 +6055,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.leztc.com
+.baizhu.cc
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6988,9 +6986,9 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-dnt-R128} \
 }
+.baidu.com/tb/zt/
 /(.*/)?11431a7ff0f5\.swf
 11431a7ff0f5.swf*.
-.baidu.com/tb/zt/
 
 {+client-header-tagger{adfilter-block-dnt-R129} \
 }
@@ -7235,6 +7233,7 @@ TAG:^adfilter-block-elem$
 .rbywg.com
 .qzdag.com
 .qlonglong.com
+.qloer.com
 .pomhz.com
 .passwz.com
 .oomyv.com
@@ -7286,7 +7285,6 @@ TAG:^adfilter-block-elem$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.qloer.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7302,7 +7300,10 @@ TAG:^adfilter-block-elem$
 .ypmeiwen.com
 .youbian.com
 .ykxwn.com
+.yihubaiying.com
 .yhzm.cc
+.xbtw.com
+.wuliao.juqingba.cn
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -7334,6 +7335,7 @@ TAG:^adfilter-block-elem$
 .okkkk.com
 .nyhpyq.com
 .mpb1.iteye.com
+.mo-tuo.com
 .mnkan.com
 .mn586.com
 .mmcc.yxlady.com
@@ -7341,6 +7343,7 @@ TAG:^adfilter-block-elem$
 .mj-medlab.com
 .mipujia.com
 .milk.yesky.com.cn
+.meishiba.com.cn
 .mbs.weathercn.com
 .ma1.meishij.net
 .luolikong.net
@@ -7406,6 +7409,7 @@ TAG:^adfilter-block-elem$
 .daima.chazidian.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.tonghua5.com
 .d.mingyihui.net
 .cp.jfcdns.com
 .cp.greenxf.cn
@@ -7423,8 +7427,10 @@ TAG:^adfilter-block-elem$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
+.bd1.szhk.com
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
@@ -7432,6 +7438,7 @@ TAG:^adfilter-block-elem$
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
 .b17.shangc.net
+.b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
 .ap*./.*\.pl520\.com[^\w%.-]
@@ -7487,6 +7494,7 @@ TAG:^adfilter-block-elem$
 .1.jeasyui.net
 .1.glook.cn
 .1.feihua.com
+.1.cjcp.cn
 .1.1010pic.com
 .06362.com
 a.kj-cy.cn
@@ -7498,18 +7506,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.wuliao.juqingba.cn
-.yihubaiying.com
-.bdad.hao224.com
-.xbtw.com
-.mo-tuo.com
-.meishiba.com.cn
-.b1.91jucai.com
-.1.cjcp.cn
-.bd1.szhk.com
-.d.tonghua5.com
-.win007.com/mn/
-.titan007.com/news\.aspx
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7859,6 +7855,7 @@ cpro.*.
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
 .winba.me/wp-content/uploads/.*/300x300\.
+.win007.com/mn/
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
 .whnews.cn/wh_public/xuxu/
@@ -8053,6 +8050,7 @@ cpro.*.
 .tmbbs.com/data/attachment/portal/.*\.swf
 .tk.504pk.com
 .tjzan.com/wxpic/asianyi\.gif
+.titan007.com/news\.aspx
 .titan007.com/ad/
 .tingvoa.com/images/top_600_80\.js
 .tingvoa.com/images/.*img\.js
@@ -10583,7 +10581,6 @@ cpro.*.
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baizhu.cc/script/789xz/
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -11475,8 +11472,6 @@ cpro.*.
 .11.mydrivers.com/news/google468x60\.js
 .11.mydrivers.com/news/03\.js
 .11.mydrivers.com/drivers/
-.10pan.cn/images/gd
-.10pan.cc/rili\.gif
 .10jqka.com.cn/public/stock/red\.html\?
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
@@ -12281,6 +12276,7 @@ tanchuan.htm*.
 .lhengilin.com
 .lhafy.com
 .lflili.com
+.leztc.com
 .leturich.org
 .leturich.org
 .letaoxiaochi.com
@@ -13262,7 +13258,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.leztc.com
+.baizhu.cc
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14193,9 +14189,9 @@ dealer1.gif*.
 
 {+client-header-tagger{adfilter-block-elem-R128} \
 }
+.baidu.com/tb/zt/
 /(.*/)?11431a7ff0f5\.swf
 11431a7ff0f5.swf*.
-.baidu.com/tb/zt/
 
 {+client-header-tagger{adfilter-block-elem-R129} \
 }
@@ -14441,6 +14437,7 @@ TAG:^adfilter-block-request$
 .rbywg.com
 .qzdag.com
 .qlonglong.com
+.qloer.com
 .pomhz.com
 .passwz.com
 .oomyv.com
@@ -14491,7 +14488,6 @@ TAG:^adfilter-block-request$
 .*.m.bookben.com
 /.*\.m\.biqugezw\.com[^\w%.-]
 .*.m.biqugezw.com
-.qloer.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14504,6 +14500,8 @@ TAG:^adfilter-block-request$
 .ypmeiwen.com
 .ykxwn.com
 .yhzm.cc
+.xbtw.com
+.wuliao.juqingba.cn
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -14527,6 +14525,7 @@ TAG:^adfilter-block-request$
 .p1.18zhongyao.com
 .okkkk.com
 .mpb1.iteye.com
+.mo-tuo.com
 .mnkan.com
 .mmcc.yxlady.com
 .mm.anqu.com
@@ -14585,6 +14584,7 @@ TAG:^adfilter-block-request$
 .daima.chazidian.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.tonghua5.com
 .d.mingyihui.net
 .cp.jfcdns.com
 .cp.greenxf.cn
@@ -14601,8 +14601,10 @@ TAG:^adfilter-block-request$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
+.bd1.szhk.com
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
@@ -14610,6 +14612,7 @@ TAG:^adfilter-block-request$
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
 .b17.shangc.net
+.b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
 .ap*./.*\.pl520\.com[^\w%.-]
@@ -14656,20 +14659,11 @@ TAG:^adfilter-block-request$
 .1.jeasyui.net
 .1.glook.cn
 .1.feihua.com
+.1.cjcp.cn
 .1.1010pic.com
 .06362.com
 a.kj-cy.cn
 /.*&uc=
-.wuliao.juqingba.cn
-.bdad.hao224.com
-.xbtw.com
-.mo-tuo.com
-.b1.91jucai.com
-.1.cjcp.cn
-.bd1.szhk.com
-.d.tonghua5.com
-.win007.com/mn/
-.titan007.com/news\.aspx
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15011,6 +15005,7 @@ a.kj-cy.cn
 .winba.me/wp-content/uploads/2015/10/image\.jpg
 .winba.me/wp-content/uploads/.*/QQ%
 .winba.me/wp-content/uploads/.*/300x300\.
+.win007.com/mn/
 .whsfzx.com/jj/
 .whsfzx.com/img/top\.js
 .whnews.cn/wh_public/xuxu/
@@ -15196,6 +15191,7 @@ a.kj-cy.cn
 .tmbbs.com/data/attachment/portal/.*\.swf
 .tk.504pk.com
 .tjzan.com/wxpic/asianyi\.gif
+.titan007.com/news\.aspx
 .titan007.com/ad/
 .tingvoa.com/images/top_600_80\.js
 .tingvoa.com/images/.*img\.js
@@ -17619,7 +17615,6 @@ a.kj-cy.cn
 .banma.com/js/adi\.js
 .banma.com/get_ad/
 .ballive.com/addm/
-.baizhu.cc/script/789xz/
 .baixing.com/bb/.*/\?category=
 .baishulou.net/wap/cnzz\.js
 .baishulou.net/html/
@@ -18471,8 +18466,6 @@ a.kj-cy.cn
 .11.mydrivers.com/news/google468x60\.js
 .11.mydrivers.com/news/03\.js
 .11.mydrivers.com/drivers/
-.10pan.cn/images/gd
-.10pan.cc/rili\.gif
 .10jqka.com.cn/public/stock/red\.html\?
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
@@ -19054,6 +19047,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .lhengilin.com
 .lhafy.com
 .lflili.com
+.leztc.com
 .leeyuoxs.com
 .le4le.com
 .lashou1000.com
@@ -19616,7 +19610,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.leztc.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20386,6 +20379,7 @@ gg.*.
 .zhongkaowu.com
 .zhantai.com
 .youbian.com
+.yihubaiying.com
 .tiexing.com
 .sundxs.com
 .star-media.cn
@@ -20397,6 +20391,7 @@ gg.*.
 .mn586.com
 .mj-medlab.com
 .mipujia.com
+.meishiba.com.cn
 .luolikong.net
 .kureader.com
 .kuku99.com
@@ -20418,8 +20413,6 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
-.yihubaiying.com
-.meishiba.com.cn
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20946,6 +20939,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.baizhu.cc
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
