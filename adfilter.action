@@ -330,6 +330,13 @@ cpro.*.
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+.bd.haomagujia.com
+.dm.chalook.net
+.js.ubaike.cn
+.vjie.com
+.a.shuoshuodaquan.net
+.a.armystar.com
+.01.gxso.net
 /.*\.qidian\.com/pageOps\.
 .*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
@@ -6105,6 +6112,7 @@ pd2.js*.
 .cnhbxx.com
 .zdjby.cn
 .sxbhzs.net
+.zhaofuli.mobi
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7591,6 +7599,13 @@ cpro.*.
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+.bd.haomagujia.com
+.dm.chalook.net
+.js.ubaike.cn
+.vjie.com
+.a.shuoshuodaquan.net
+.a.armystar.com
+.01.gxso.net
 /.*\.qidian\.com/pageOps\.
 .*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
@@ -13366,6 +13381,7 @@ pd2.js*.
 .cnhbxx.com
 .zdjby.cn
 .sxbhzs.net
+.zhaofuli.mobi
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14805,6 +14821,12 @@ a.kj-cy.cn
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+.bd.haomagujia.com
+.dm.chalook.net
+.js.ubaike.cn
+.a.shuoshuodaquan.net
+.a.armystar.com
+.01.gxso.net
 /.*\.qidian\.com/pageOps\.
 .*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
@@ -20583,6 +20605,7 @@ gg.*.
 .1122.com
 .100669.com
 .mxpwx.com
+.vjie.com
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -21110,6 +21133,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.zhaofuli.mobi
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
