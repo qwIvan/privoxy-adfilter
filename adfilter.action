@@ -330,6 +330,8 @@ cpro.*.
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+/.*\.qidian\.com/pageOps\.
+.*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
@@ -7589,6 +7591,8 @@ cpro.*.
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+/.*\.qidian\.com/pageOps\.
+.*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
@@ -14801,6 +14805,8 @@ a.kj-cy.cn
 .1.51sxue.cn
 .dm.jsyst.cn
 .bdjs.ylq.com
+/.*\.qidian\.com/pageOps\.
+.*.qidian.com/pageOps\.
 .liuyandaima.net/.*\.js
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
