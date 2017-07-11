@@ -84,6 +84,7 @@ TAG:^adfilter-block-dnt$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.tajxgs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -322,6 +323,8 @@ cpro.*.
 .dm.sb580.com
 .js-bd.86huoche.com
 .bstatic.1kejian.com
+.qooic.com
+.a.yangshengtang123.com
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
 .qiuyi.cn/Baojian/
@@ -7332,6 +7335,7 @@ TAG:^adfilter-block-elem$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.tajxgs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7570,6 +7574,8 @@ cpro.*.
 .dm.sb580.com
 .js-bd.86huoche.com
 .bstatic.1kejian.com
+.qooic.com
+.a.yangshengtang123.com
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
 .qiuyi.cn/Baojian/
@@ -14580,6 +14586,7 @@ TAG:^adfilter-block-request$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.tajxgs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14771,6 +14778,8 @@ a.kj-cy.cn
 .dm.sb580.com
 .js-bd.86huoche.com
 .bstatic.1kejian.com
+.qooic.com
+.a.yangshengtang123.com
 .aizhan.com/imagesa/
 .aizhan.com/imagesa/
 .qiuyi.cn/Baojian/
