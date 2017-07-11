@@ -103,6 +103,7 @@ TAG:^adfilter-block-dnt$
 .yhzm.cc
 .xbtw.com
 .wuliao.juqingba.cn
+.weibomingzi.com
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -140,6 +141,7 @@ TAG:^adfilter-block-dnt$
 .mmcc.yxlady.com
 .mm.anqu.com
 .mj-medlab.com
+.miyudaquan.top
 .mipujia.com
 .milk.yesky.com.cn
 .meishiba.com.cn
@@ -148,6 +150,7 @@ TAG:^adfilter-block-dnt$
 .luolikong.net
 .lixiangmo.com
 .libs.tvmao.cn
+.lfyuanai.com
 .lele999.com
 .kureader.com
 .kuku99.com
@@ -163,6 +166,7 @@ TAG:^adfilter-block-dnt$
 .jiaoben.eastday.com
 .jddaw.com
 .jb.tupianzj.com
+.jb.ecar168.cn
 .jb.dianshu119.com
 .iy.com.cn
 .ixpub.net
@@ -200,6 +204,7 @@ TAG:^adfilter-block-dnt$
 .dm.ws8.org
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ppzuowen.com
 .dm.jy135.com
 .dm.jb51.net
 .dm.92to.com
@@ -226,6 +231,7 @@ TAG:^adfilter-block-dnt$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdcode.gaosan.com
 .bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
@@ -233,6 +239,7 @@ TAG:^adfilter-block-dnt$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd.ershenghuo.com
 .baidu-union-js.xiachufang.com
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
@@ -253,7 +260,9 @@ TAG:^adfilter-block-dnt$
 .a1.0s.net.cn
 .a.shenchuang.com
 .a.qinghua5.com
+.a.nanhuwang.com
 .a.kejixun.com
+.a.fwsir.com
 .a.fengyx.com
 .a.duanmeiwen.com
 .a.5ykj.com
@@ -305,23 +314,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.weibomingzi.com
-.bd.ershenghuo.com
-.a.fwsir.com
-.bdcode.gaosan.com
-.lfyuanai.com
-.a.nanhuwang.com
-.dm.ppzuowen.com
-.jb.ecar168.cn
-.miyudaquan.top
-.jfrft.com/ad/
-.kiees.cn/k1\.js
-.kiees.cn/jm\.png
-.qq745.com/m/ad/
-.qq745.com/img/tupian\.gif
-.jbzyw.com/Application/M/adv/
-.hcw888.com/Plug/GG\.asp
-.lanseshuba.com/react\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1279,6 +1271,8 @@ cpro.*.
 .qqhjy.com/soft/Upload.*\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
 .qq6080.com/template/zeyi/aaaa/
 .qq260.com/shout\.js
 .qq.com/vfpage/visual_focus_page\.
@@ -1838,6 +1832,7 @@ cpro.*.
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
 .laod.cn/wp-content/uploads/.*/ad-
+.lanseshuba.com/react\.js
 .langya.cn/images/ad_down\.js
 .langya.cn/2014html/ad/
 .langya.cn/2014html/2014ad_
@@ -1879,6 +1874,8 @@ cpro.*.
 .kmplayer.cn/include/jscript/.*-a\.js
 .kikinote.net/iframe
 .kikicici.com/up_files/2013-11-25/
+.kiees.cn/k1\.js
+.kiees.cn/jm\.png
 .kiees.cn/img/
 .keywin.org/templates/kw_v2/images/youbianad\.png
 .key8.com/cache/www/banner_
@@ -1995,11 +1992,13 @@ cpro.*.
 .jfrft.com/js/m_dilidili_main\.js
 .jfrft.com/images/nono/
 .jfrft.com/images/index_
+.jfrft.com/ad/
 .jd.com/static/js/cpc\.js
 .jd.com/static/js/auto\.js
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
@@ -2413,6 +2412,7 @@ cpro.*.
 .hd-dwr.com/baiduad/
 .hcwang.cn/images/g/20161210133158887\.jpg
 .hcwang.cn/images/g/.*\.swf
+.hcw888.com/Plug/GG\.asp
 .hc360.com/security/201409/201409021830024990\.jpg
 .hc360.com/news/201207/201207241712413488\.jpg
 .hc360.com/list/iframe_right_ad_
@@ -4881,6 +4881,7 @@ tanchuan.htm*.
 .sclizhong.com
 .scize.com
 .sciencelolb.com
+.sbrqp.com
 .sangxi.top
 .samboc.com
 .sales-frontier.com
@@ -4960,6 +4961,7 @@ tanchuan.htm*.
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
+.pcmzn.com
 .pay838.com
 .papajia55.com
 .panel-cn.com
@@ -5595,6 +5597,7 @@ tanchuan.htm*.
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
+.baizhu.cc
 .baitaiad.com
 .baidulao.com
 .baiduace.com
@@ -6074,9 +6077,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.baizhu.cc
-.sbrqp.com
-.pcmzn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6703,232 +6703,232 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-dnt-R56} \
 }
-/.*\.com/az\.js
-.*.com/az\.js
 
 {+client-header-tagger{adfilter-block-dnt-R57} \
 }
-.iecer.de
+/.*\.com/az\.js
+.*.com/az\.js
 
 {+client-header-tagger{adfilter-block-dnt-R58} \
+}
+.iecer.de
+
+{+client-header-tagger{adfilter-block-dnt-R59} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-dnt-R59} \
+{+client-header-tagger{adfilter-block-dnt-R60} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-dnt-R60} \
+{+client-header-tagger{adfilter-block-dnt-R61} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-dnt-R61} \
+{+client-header-tagger{adfilter-block-dnt-R62} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-dnt-R62} \
+{+client-header-tagger{adfilter-block-dnt-R63} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-dnt-R63} \
+{+client-header-tagger{adfilter-block-dnt-R64} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-dnt-R64} \
+{+client-header-tagger{adfilter-block-dnt-R65} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-dnt-R65} \
+{+client-header-tagger{adfilter-block-dnt-R66} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-dnt-R66} \
+{+client-header-tagger{adfilter-block-dnt-R67} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-dnt-R67} \
+{+client-header-tagger{adfilter-block-dnt-R68} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-dnt-R68} \
+{+client-header-tagger{adfilter-block-dnt-R69} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-dnt-R69} \
+{+client-header-tagger{adfilter-block-dnt-R70} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-dnt-R70} \
+{+client-header-tagger{adfilter-block-dnt-R71} \
 }
 .s.pacn.ws/.*\?
 
-{+client-header-tagger{adfilter-block-dnt-R71} \
+{+client-header-tagger{adfilter-block-dnt-R72} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-dnt-R72} \
+{+client-header-tagger{adfilter-block-dnt-R73} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-dnt-R73} \
+{+client-header-tagger{adfilter-block-dnt-R74} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-dnt-R74} \
+{+client-header-tagger{adfilter-block-dnt-R75} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R75} \
+{+client-header-tagger{adfilter-block-dnt-R76} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-dnt-R76} \
+{+client-header-tagger{adfilter-block-dnt-R77} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-dnt-R77} \
+{+client-header-tagger{adfilter-block-dnt-R78} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-dnt-R78} \
+{+client-header-tagger{adfilter-block-dnt-R79} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-dnt-R79} \
+{+client-header-tagger{adfilter-block-dnt-R80} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-dnt-R80} \
+{+client-header-tagger{adfilter-block-dnt-R81} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-dnt-R81} \
+{+client-header-tagger{adfilter-block-dnt-R82} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-dnt-R82} \
+{+client-header-tagger{adfilter-block-dnt-R83} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-dnt-R83} \
+{+client-header-tagger{adfilter-block-dnt-R84} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-dnt-R84} \
+{+client-header-tagger{adfilter-block-dnt-R85} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-dnt-R85} \
+{+client-header-tagger{adfilter-block-dnt-R86} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-dnt-R86} \
+{+client-header-tagger{adfilter-block-dnt-R87} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-dnt-R87} \
+{+client-header-tagger{adfilter-block-dnt-R88} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R88} \
+{+client-header-tagger{adfilter-block-dnt-R89} \
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-dnt-R89} \
+{+client-header-tagger{adfilter-block-dnt-R90} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-dnt-R90} \
+{+client-header-tagger{adfilter-block-dnt-R91} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R91} \
+{+client-header-tagger{adfilter-block-dnt-R92} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R92} \
+{+client-header-tagger{adfilter-block-dnt-R93} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-dnt-R93} \
+{+client-header-tagger{adfilter-block-dnt-R94} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R94} \
+{+client-header-tagger{adfilter-block-dnt-R95} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-dnt-R95} \
+{+client-header-tagger{adfilter-block-dnt-R96} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-dnt-R96} \
+{+client-header-tagger{adfilter-block-dnt-R97} \
 }
 .imgchr.com
 
-{+client-header-tagger{adfilter-block-dnt-R97} \
-}
-
 {+client-header-tagger{adfilter-block-dnt-R98} \
 }
-.riju.com/pr/
 
 {+client-header-tagger{adfilter-block-dnt-R99} \
 }
-.loli.io
+.riju.com/pr/
 
 {+client-header-tagger{adfilter-block-dnt-R100} \
 }
-/(.*/)?\?
+.loli.io
 
 {+client-header-tagger{adfilter-block-dnt-R101} \
+}
+/(.*/)?\?
+
+{+client-header-tagger{adfilter-block-dnt-R102} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-dnt-R102} \
+{+client-header-tagger{adfilter-block-dnt-R103} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-dnt-R103} \
+{+client-header-tagger{adfilter-block-dnt-R104} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R104} \
+{+client-header-tagger{adfilter-block-dnt-R105} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-dnt-R105} \
+{+client-header-tagger{adfilter-block-dnt-R106} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R106} \
+{+client-header-tagger{adfilter-block-dnt-R107} \
 }
 .55.la/anonymous/banner/
 
-{+client-header-tagger{adfilter-block-dnt-R107} \
+{+client-header-tagger{adfilter-block-dnt-R108} \
 }
 /(.*/)?[^\w%.-]http://m\\\.autohome\\\.com\\\.cn\\/\[a-z0-9\]\{30,32\}\\//
 /^http://m\.autohome\.com\.cn\/[a-z0-9]{30,32}\/
 
-{+client-header-tagger{adfilter-block-dnt-R108} \
-}
-.iqiyi.com/show2\?
-
 {+client-header-tagger{adfilter-block-dnt-R109} \
 }
+.iqiyi.com/show2\?
 
 {+client-header-tagger{adfilter-block-dnt-R110} \
 }
@@ -7334,6 +7334,7 @@ TAG:^adfilter-block-elem$
 .yhzm.cc
 .xbtw.com
 .wuliao.juqingba.cn
+.weibomingzi.com
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -7371,6 +7372,7 @@ TAG:^adfilter-block-elem$
 .mmcc.yxlady.com
 .mm.anqu.com
 .mj-medlab.com
+.miyudaquan.top
 .mipujia.com
 .milk.yesky.com.cn
 .meishiba.com.cn
@@ -7379,6 +7381,7 @@ TAG:^adfilter-block-elem$
 .luolikong.net
 .lixiangmo.com
 .libs.tvmao.cn
+.lfyuanai.com
 .lele999.com
 .kureader.com
 .kuku99.com
@@ -7394,6 +7397,7 @@ TAG:^adfilter-block-elem$
 .jiaoben.eastday.com
 .jddaw.com
 .jb.tupianzj.com
+.jb.ecar168.cn
 .jb.dianshu119.com
 .iy.com.cn
 .ixpub.net
@@ -7431,6 +7435,7 @@ TAG:^adfilter-block-elem$
 .dm.ws8.org
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ppzuowen.com
 .dm.jy135.com
 .dm.jb51.net
 .dm.92to.com
@@ -7457,6 +7462,7 @@ TAG:^adfilter-block-elem$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdcode.gaosan.com
 .bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
@@ -7464,6 +7470,7 @@ TAG:^adfilter-block-elem$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd.ershenghuo.com
 .baidu-union-js.xiachufang.com
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
@@ -7484,7 +7491,9 @@ TAG:^adfilter-block-elem$
 .a1.0s.net.cn
 .a.shenchuang.com
 .a.qinghua5.com
+.a.nanhuwang.com
 .a.kejixun.com
+.a.fwsir.com
 .a.fengyx.com
 .a.duanmeiwen.com
 .a.5ykj.com
@@ -7536,23 +7545,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.weibomingzi.com
-.bd.ershenghuo.com
-.a.fwsir.com
-.bdcode.gaosan.com
-.lfyuanai.com
-.a.nanhuwang.com
-.dm.ppzuowen.com
-.jb.ecar168.cn
-.miyudaquan.top
-.jfrft.com/ad/
-.kiees.cn/k1\.js
-.kiees.cn/jm\.png
-.qq745.com/m/ad/
-.qq745.com/img/tupian\.gif
-.jbzyw.com/Application/M/adv/
-.hcw888.com/Plug/GG\.asp
-.lanseshuba.com/react\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8510,6 +8502,8 @@ cpro.*.
 .qqhjy.com/soft/Upload.*\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
 .qq6080.com/template/zeyi/aaaa/
 .qq260.com/shout\.js
 .qq.com/vfpage/visual_focus_page\.
@@ -9069,6 +9063,7 @@ cpro.*.
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
 .laod.cn/wp-content/uploads/.*/ad-
+.lanseshuba.com/react\.js
 .langya.cn/images/ad_down\.js
 .langya.cn/2014html/ad/
 .langya.cn/2014html/2014ad_
@@ -9110,6 +9105,8 @@ cpro.*.
 .kmplayer.cn/include/jscript/.*-a\.js
 .kikinote.net/iframe
 .kikicici.com/up_files/2013-11-25/
+.kiees.cn/k1\.js
+.kiees.cn/jm\.png
 .kiees.cn/img/
 .keywin.org/templates/kw_v2/images/youbianad\.png
 .key8.com/cache/www/banner_
@@ -9226,11 +9223,13 @@ cpro.*.
 .jfrft.com/js/m_dilidili_main\.js
 .jfrft.com/images/nono/
 .jfrft.com/images/index_
+.jfrft.com/ad/
 .jd.com/static/js/cpc\.js
 .jd.com/static/js/auto\.js
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
@@ -9644,6 +9643,7 @@ cpro.*.
 .hd-dwr.com/baiduad/
 .hcwang.cn/images/g/20161210133158887\.jpg
 .hcwang.cn/images/g/.*\.swf
+.hcw888.com/Plug/GG\.asp
 .hc360.com/security/201409/201409021830024990\.jpg
 .hc360.com/news/201207/201207241712413488\.jpg
 .hc360.com/list/iframe_right_ad_
@@ -12112,6 +12112,7 @@ tanchuan.htm*.
 .sclizhong.com
 .scize.com
 .sciencelolb.com
+.sbrqp.com
 .sangxi.top
 .samboc.com
 .sales-frontier.com
@@ -12191,6 +12192,7 @@ tanchuan.htm*.
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
+.pcmzn.com
 .pay838.com
 .papajia55.com
 .panel-cn.com
@@ -12826,6 +12828,7 @@ tanchuan.htm*.
 .bccyyc.com
 .baodaozhan.cn
 .bang5mai.com
+.baizhu.cc
 .baitaiad.com
 .baidulao.com
 .baiduace.com
@@ -13305,9 +13308,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.baizhu.cc
-.sbrqp.com
-.pcmzn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13934,232 +13934,232 @@ merchant.php*.
 
 {+client-header-tagger{adfilter-block-elem-R56} \
 }
-/.*\.com/az\.js
-.*.com/az\.js
 
 {+client-header-tagger{adfilter-block-elem-R57} \
 }
-.iecer.de
+/.*\.com/az\.js
+.*.com/az\.js
 
 {+client-header-tagger{adfilter-block-elem-R58} \
+}
+.iecer.de
+
+{+client-header-tagger{adfilter-block-elem-R59} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-elem-R59} \
+{+client-header-tagger{adfilter-block-elem-R60} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-elem-R60} \
+{+client-header-tagger{adfilter-block-elem-R61} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-elem-R61} \
+{+client-header-tagger{adfilter-block-elem-R62} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-elem-R62} \
+{+client-header-tagger{adfilter-block-elem-R63} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-elem-R63} \
+{+client-header-tagger{adfilter-block-elem-R64} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-elem-R64} \
+{+client-header-tagger{adfilter-block-elem-R65} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-elem-R65} \
+{+client-header-tagger{adfilter-block-elem-R66} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-elem-R66} \
+{+client-header-tagger{adfilter-block-elem-R67} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-elem-R67} \
+{+client-header-tagger{adfilter-block-elem-R68} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-elem-R68} \
+{+client-header-tagger{adfilter-block-elem-R69} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-elem-R69} \
+{+client-header-tagger{adfilter-block-elem-R70} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-elem-R70} \
+{+client-header-tagger{adfilter-block-elem-R71} \
 }
 .s.pacn.ws/.*\?
 
-{+client-header-tagger{adfilter-block-elem-R71} \
+{+client-header-tagger{adfilter-block-elem-R72} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-elem-R72} \
+{+client-header-tagger{adfilter-block-elem-R73} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-elem-R73} \
+{+client-header-tagger{adfilter-block-elem-R74} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-elem-R74} \
+{+client-header-tagger{adfilter-block-elem-R75} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-elem-R75} \
+{+client-header-tagger{adfilter-block-elem-R76} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-elem-R76} \
+{+client-header-tagger{adfilter-block-elem-R77} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-elem-R77} \
+{+client-header-tagger{adfilter-block-elem-R78} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-elem-R78} \
+{+client-header-tagger{adfilter-block-elem-R79} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-elem-R79} \
+{+client-header-tagger{adfilter-block-elem-R80} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-elem-R80} \
+{+client-header-tagger{adfilter-block-elem-R81} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-elem-R81} \
+{+client-header-tagger{adfilter-block-elem-R82} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-elem-R82} \
+{+client-header-tagger{adfilter-block-elem-R83} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-elem-R83} \
+{+client-header-tagger{adfilter-block-elem-R84} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-elem-R84} \
+{+client-header-tagger{adfilter-block-elem-R85} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-elem-R85} \
+{+client-header-tagger{adfilter-block-elem-R86} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-elem-R86} \
+{+client-header-tagger{adfilter-block-elem-R87} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-elem-R87} \
+{+client-header-tagger{adfilter-block-elem-R88} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R88} \
+{+client-header-tagger{adfilter-block-elem-R89} \
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-elem-R89} \
+{+client-header-tagger{adfilter-block-elem-R90} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-elem-R90} \
+{+client-header-tagger{adfilter-block-elem-R91} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R91} \
+{+client-header-tagger{adfilter-block-elem-R92} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R92} \
+{+client-header-tagger{adfilter-block-elem-R93} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-elem-R93} \
+{+client-header-tagger{adfilter-block-elem-R94} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-elem-R94} \
+{+client-header-tagger{adfilter-block-elem-R95} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-elem-R95} \
+{+client-header-tagger{adfilter-block-elem-R96} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-elem-R96} \
+{+client-header-tagger{adfilter-block-elem-R97} \
 }
 .imgchr.com
 
-{+client-header-tagger{adfilter-block-elem-R97} \
-}
-
 {+client-header-tagger{adfilter-block-elem-R98} \
 }
-.riju.com/pr/
 
 {+client-header-tagger{adfilter-block-elem-R99} \
 }
-.loli.io
+.riju.com/pr/
 
 {+client-header-tagger{adfilter-block-elem-R100} \
 }
-/(.*/)?\?
+.loli.io
 
 {+client-header-tagger{adfilter-block-elem-R101} \
+}
+/(.*/)?\?
+
+{+client-header-tagger{adfilter-block-elem-R102} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-elem-R102} \
+{+client-header-tagger{adfilter-block-elem-R103} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-elem-R103} \
+{+client-header-tagger{adfilter-block-elem-R104} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-elem-R104} \
+{+client-header-tagger{adfilter-block-elem-R105} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-elem-R105} \
+{+client-header-tagger{adfilter-block-elem-R106} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R106} \
+{+client-header-tagger{adfilter-block-elem-R107} \
 }
 .55.la/anonymous/banner/
 
-{+client-header-tagger{adfilter-block-elem-R107} \
+{+client-header-tagger{adfilter-block-elem-R108} \
 }
 /(.*/)?[^\w%.-]http://m\\\.autohome\\\.com\\\.cn\\/\[a-z0-9\]\{30,32\}\\//
 /^http://m\.autohome\.com\.cn\/[a-z0-9]{30,32}\/
 
-{+client-header-tagger{adfilter-block-elem-R108} \
-}
-.iqiyi.com/show2\?
-
 {+client-header-tagger{adfilter-block-elem-R109} \
 }
+.iqiyi.com/show2\?
 
 {+client-header-tagger{adfilter-block-elem-R110} \
 }
@@ -14560,6 +14560,7 @@ TAG:^adfilter-block-request$
 .yhzm.cc
 .xbtw.com
 .wuliao.juqingba.cn
+.weibomingzi.com
 .wda.ydt.com.cn
 .wap001.bytravel.cn
 .w5sac788c1.360doc.cn
@@ -14592,6 +14593,7 @@ TAG:^adfilter-block-request$
 .ma1.meishij.net
 .lixiangmo.com
 .libs.tvmao.cn
+.lfyuanai.com
 .lele999.com
 .jsm.9939.com
 .jsm.39yst.com
@@ -14604,6 +14606,7 @@ TAG:^adfilter-block-request$
 .jiaoben.eastday.com
 .jddaw.com
 .jb.tupianzj.com
+.jb.ecar168.cn
 .jb.dianshu119.com
 .ixpub.net
 .img.zuowen8.com
@@ -14634,6 +14637,7 @@ TAG:^adfilter-block-request$
 .dm.ws8.org
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ppzuowen.com
 .dm.jy135.com
 .dm.jb51.net
 .dm.92to.com
@@ -14659,6 +14663,7 @@ TAG:^adfilter-block-request$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdcode.youke.com
+.bdcode.gaosan.com
 .bdad.hao224.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
@@ -14666,6 +14671,7 @@ TAG:^adfilter-block-request$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd.ershenghuo.com
 .baidu-union-js.xiachufang.com
 .baidu*./.*\.hntvchina\.com[^\w%.-]
 .baidu*.hntvchina.com
@@ -14685,7 +14691,9 @@ TAG:^adfilter-block-request$
 .a1.0s.net.cn
 .a.shenchuang.com
 .a.qinghua5.com
+.a.nanhuwang.com
 .a.kejixun.com
+.a.fwsir.com
 .a.fengyx.com
 .a.duanmeiwen.com
 .a.5ykj.com
@@ -14722,22 +14730,6 @@ TAG:^adfilter-block-request$
 .06362.com
 a.kj-cy.cn
 /.*&uc=
-.weibomingzi.com
-.bd.ershenghuo.com
-.a.fwsir.com
-.bdcode.gaosan.com
-.lfyuanai.com
-.a.nanhuwang.com
-.dm.ppzuowen.com
-.jb.ecar168.cn
-.jfrft.com/ad/
-.kiees.cn/k1\.js
-.kiees.cn/jm\.png
-.qq745.com/m/ad/
-.qq745.com/img/tupian\.gif
-.jbzyw.com/Application/M/adv/
-.hcw888.com/Plug/GG\.asp
-.lanseshuba.com/react\.js
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15660,6 +15652,8 @@ a.kj-cy.cn
 .qqhjy.com/soft/Upload.*\.gif
 .qqcyl123.com/js/.*\.html
 .qqcf.com/js/Content_Get\.js
+.qq745.com/m/ad/
+.qq745.com/img/tupian\.gif
 .qq6080.com/template/zeyi/aaaa/
 .qq260.com/shout\.js
 .qq.com/vfpage/visual_focus_page\.
@@ -16196,6 +16190,7 @@ a.kj-cy.cn
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
 .laod.cn/wp-content/uploads/.*/ad-
+.lanseshuba.com/react\.js
 .langya.cn/images/ad_down\.js
 .langya.cn/2014html/ad/
 .langya.cn/2014html/2014ad_
@@ -16232,6 +16227,8 @@ a.kj-cy.cn
 .kmplayer.cn/include/jscript/.*-a\.js
 .kikinote.net/iframe
 .kikicici.com/up_files/2013-11-25/
+.kiees.cn/k1\.js
+.kiees.cn/jm\.png
 .kiees.cn/img/
 .keywin.org/templates/kw_v2/images/youbianad\.png
 .key8.com/cache/www/banner_
@@ -16345,11 +16342,13 @@ a.kj-cy.cn
 .jfrft.com/js/m_dilidili_main\.js
 .jfrft.com/images/nono/
 .jfrft.com/images/index_
+.jfrft.com/ad/
 .jd.com/static/js/cpc\.js
 .jd.com/static/js/auto\.js
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
@@ -16747,6 +16746,7 @@ a.kj-cy.cn
 .hd-dwr.com/baiduad/
 .hcwang.cn/images/g/20161210133158887\.jpg
 .hcwang.cn/images/g/.*\.swf
+.hcw888.com/Plug/GG\.asp
 .hc360.com/security/201409/201409021830024990\.jpg
 .hc360.com/news/201207/201207241712413488\.jpg
 .hc360.com/list/iframe_right_ad_
@@ -18973,6 +18973,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .scriptcc.cc
 .sclizhong.com
 .sciencelolb.com
+.sbrqp.com
 .sangxi.top
 .saferwet.com
 .s9w.cc
@@ -19031,6 +19032,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .picsinfog.com
 .pedailyu.com
 .pdsjycm.com
+.pcmzn.com
 .pay838.com
 .papajia55.com
 .panel-cn.com
@@ -19684,8 +19686,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.sbrqp.com
-.pcmzn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20168,11 +20168,11 @@ TAG:^adfilter-block-request-Ai-Ci$
 /(.*/)?\[0-9\]\+\\\.gif/
 /[0-9]+\.gif
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R61} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R62} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R70} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R71} \
 }
 .s.pacn.ws/.*\?
 
@@ -20282,11 +20282,11 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R11} \
 }
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R77} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R78} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R88} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R89} \
 }
 .s.yimg.com/ja/ap/
 
@@ -20469,6 +20469,7 @@ gg.*.
 .nyhpyq.com
 .mn586.com
 .mj-medlab.com
+.miyudaquan.top
 .mipujia.com
 .meishiba.com.cn
 .luolikong.net
@@ -20492,7 +20493,6 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
-.miyudaquan.top
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20856,6 +20856,7 @@ gg.*.
 .behe.com
 .baodaozhan.cn
 .bang5mai.com
+.baizhu.cc
 .baitaiad.com
 .baidu360haosou.info
 .b5h7.com
@@ -21019,7 +21020,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.baizhu.cc
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -21256,197 +21256,197 @@ merchant.php*.
 }
 .duapp.com
 
-{+client-header-tagger{adfilter-block-request-R56} \
+{+client-header-tagger{adfilter-block-request-R57} \
 }
 /.*\.com/az\.js
 .*.com/az\.js
 
-{+client-header-tagger{adfilter-block-request-R57} \
+{+client-header-tagger{adfilter-block-request-R58} \
 }
 .iecer.de
 
-{+client-header-tagger{adfilter-block-request-R58} \
+{+client-header-tagger{adfilter-block-request-R59} \
 }
 .i-gamer.net
 .fun8.us
 
-{+client-header-tagger{adfilter-block-request-R59} \
+{+client-header-tagger{adfilter-block-request-R60} \
 }
 /(.*/)?sda/.*
 /(.*/)?images/content/1436/.*
 
-{+client-header-tagger{adfilter-block-request-R60} \
+{+client-header-tagger{adfilter-block-request-R61} \
 }
 .youtube.com/embed/.*&autoplay=1&
 
-{+client-header-tagger{adfilter-block-request-R62} \
+{+client-header-tagger{adfilter-block-request-R63} \
 }
 /(.*/)?w_e_b/de_li_ve_ry/a_j_s\.php\?zid=
 
-{+client-header-tagger{adfilter-block-request-R63} \
+{+client-header-tagger{adfilter-block-request-R64} \
 }
 .tw.partner.buy.yahoo.com
 
-{+client-header-tagger{adfilter-block-request-R64} \
+{+client-header-tagger{adfilter-block-request-R65} \
 }
 /(.*/)?biz_icon/.*
 
-{+client-header-tagger{adfilter-block-request-R65} \
+{+client-header-tagger{adfilter-block-request-R66} \
 }
 .rakuten-static.com
 .pic.pimg.tw/cwyuni/.*\.gif\?v=
 
-{+client-header-tagger{adfilter-block-request-R66} \
+{+client-header-tagger{adfilter-block-request-R67} \
 }
 .mygeek.cn/pic_
 
-{+client-header-tagger{adfilter-block-request-R67} \
+{+client-header-tagger{adfilter-block-request-R68} \
 }
 /(.*/)?aeiou/.*
 
-{+client-header-tagger{adfilter-block-request-R68} \
+{+client-header-tagger{adfilter-block-request-R69} \
 }
 .104.*.
 
-{+client-header-tagger{adfilter-block-request-R71} \
+{+client-header-tagger{adfilter-block-request-R72} \
 }
 /(.*/)?\\/\[a-z0-9\]\{9,\}\\\.swf/
 /\/[a-z0-9]{9,}\.swf
 
-{+client-header-tagger{adfilter-block-request-R72} \
+{+client-header-tagger{adfilter-block-request-R73} \
 }
 /(.*/)?banner/.*
 
-{+client-header-tagger{adfilter-block-request-R73} \
+{+client-header-tagger{adfilter-block-request-R74} \
 }
 /(.*/)?static/media/curl\.swf
 
-{+client-header-tagger{adfilter-block-request-R74} \
+{+client-header-tagger{adfilter-block-request-R75} \
 }
 .buimg.com
 
-{+client-header-tagger{adfilter-block-request-R75} \
+{+client-header-tagger{adfilter-block-request-R76} \
 }
 /(.*/)?EZ-YAHOO/.*
 
-{+client-header-tagger{adfilter-block-request-R76} \
+{+client-header-tagger{adfilter-block-request-R77} \
 }
 .yes1.feng.com
 
-{+client-header-tagger{adfilter-block-request-R78} \
+{+client-header-tagger{adfilter-block-request-R79} \
 }
 .k.youku.com
 
-{+client-header-tagger{adfilter-block-request-R79} \
+{+client-header-tagger{adfilter-block-request-R80} \
 }
 .cj.qidian.com/Picture/
 
-{+client-header-tagger{adfilter-block-request-R80} \
+{+client-header-tagger{adfilter-block-request-R81} \
 }
 /(.*/)?jquery\.
 jquery.*.
 
-{+client-header-tagger{adfilter-block-request-R81} \
+{+client-header-tagger{adfilter-block-request-R82} \
 }
 .8kele.com
 /(.*/)?web/ad/.*
 
-{+client-header-tagger{adfilter-block-request-R83} \
+{+client-header-tagger{adfilter-block-request-R84} \
 }
 /(.*/)?imgextra/.*
 
-{+client-header-tagger{adfilter-block-request-R84} \
+{+client-header-tagger{adfilter-block-request-R85} \
 }
 /(.*/)?Images/ak47/.*
 
-{+client-header-tagger{adfilter-block-request-R85} \
+{+client-header-tagger{adfilter-block-request-R86} \
 }
 .imgur.com
 
-{+client-header-tagger{adfilter-block-request-R86} \
+{+client-header-tagger{adfilter-block-request-R87} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-request-R87} \
+{+client-header-tagger{adfilter-block-request-R88} \
 }
 .sinaimg.cn/large/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R89} \
+{+client-header-tagger{adfilter-block-request-R90} \
 }
 .megalife.com.hk
 
-{+client-header-tagger{adfilter-block-request-R90} \
+{+client-header-tagger{adfilter-block-request-R91} \
 }
 .alicdn.com/.*\.jpg
 .alicdn.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R92} \
+{+client-header-tagger{adfilter-block-request-R93} \
 }
 /(.*/)?tres/recommend/.*
 
-{+client-header-tagger{adfilter-block-request-R93} \
+{+client-header-tagger{adfilter-block-request-R94} \
 }
 .zhifuok.com
 .bqimg.com
 
-{+client-header-tagger{adfilter-block-request-R94} \
+{+client-header-tagger{adfilter-block-request-R95} \
 }
 .pgdt.gtimg.cn/gdt/
 
-{+client-header-tagger{adfilter-block-request-R95} \
+{+client-header-tagger{adfilter-block-request-R96} \
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
 
-{+client-header-tagger{adfilter-block-request-R96} \
+{+client-header-tagger{adfilter-block-request-R97} \
 }
 .imgchr.com
 
 {+client-header-tagger{adfilter-block-request-R194t} \
 }
 
-{+client-header-tagger{adfilter-block-request-R98} \
+{+client-header-tagger{adfilter-block-request-R99} \
 }
 .riju.com/pr/
 
-{+client-header-tagger{adfilter-block-request-R99} \
+{+client-header-tagger{adfilter-block-request-R100} \
 }
 .loli.io
 
-{+client-header-tagger{adfilter-block-request-R100} \
+{+client-header-tagger{adfilter-block-request-R101} \
 }
 /(.*/)?\?
 
-{+client-header-tagger{adfilter-block-request-R101} \
+{+client-header-tagger{adfilter-block-request-R102} \
 }
 /(.*/)?da\.aspx$
 da.aspx
 
-{+client-header-tagger{adfilter-block-request-R102} \
+{+client-header-tagger{adfilter-block-request-R103} \
 }
 .sinaimg.cn/large/8c8bd65d
 
-{+client-header-tagger{adfilter-block-request-R103} \
+{+client-header-tagger{adfilter-block-request-R104} \
 }
 .muimg.com
 
-{+client-header-tagger{adfilter-block-request-R104} \
+{+client-header-tagger{adfilter-block-request-R105} \
 }
 /(.*/)?js/index_
 /.*\.com/js/l_
 .*.com/js/l_
 
-{+client-header-tagger{adfilter-block-request-R106} \
+{+client-header-tagger{adfilter-block-request-R107} \
 }
 .55.la/anonymous/banner/
 
-{+client-header-tagger{adfilter-block-request-R107} \
+{+client-header-tagger{adfilter-block-request-R108} \
 }
 /(.*/)?[^\w%.-]http://m\\\.autohome\\\.com\\\.cn\\/\[a-z0-9\]\{30,32\}\\//
 /^http://m\.autohome\.com\.cn\/[a-z0-9]{30,32}\/
 
-{+client-header-tagger{adfilter-block-request-R108} \
+{+client-header-tagger{adfilter-block-request-R109} \
 }
 .iqiyi.com/show2\?
 
@@ -21778,24 +21778,24 @@ TAG:^adfilter-block-xframe$
 }
 /(.*/)?Sitefiles/.*
 
-{+client-header-tagger{adfilter-block-xframe-R69} \
+{+client-header-tagger{adfilter-block-xframe-R70} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-xframe-R77} \
+{+client-header-tagger{adfilter-block-xframe-R78} \
 }
 /(.*/)?cooperation/.*
 
-{+client-header-tagger{adfilter-block-xframe-R81} \
+{+client-header-tagger{adfilter-block-xframe-R82} \
 }
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
 
-{+client-header-tagger{adfilter-block-xframe-R82} \
+{+client-header-tagger{adfilter-block-xframe-R83} \
 }
 .qq.com/iframe/player\.
 
-{+client-header-tagger{adfilter-block-xframe-R88} \
+{+client-header-tagger{adfilter-block-xframe-R89} \
 }
 .s.yimg.com/ja/ap/
 
@@ -21861,18 +21861,18 @@ TAG:^adfilter-block-xpopup$
 }
 .taobao.com
 
-{+client-header-tagger{adfilter-block-xpopup-R86} \
+{+client-header-tagger{adfilter-block-xpopup-R87} \
 }
 .xldytt.com
 
-{+client-header-tagger{adfilter-block-xpopup-R95} \
+{+client-header-tagger{adfilter-block-xpopup-R96} \
 }
 .miaozhen.com
 
 {+client-header-tagger{adfilter-block-xpopup-R194t} \
 }
 
-{+client-header-tagger{adfilter-block-xpopup-R100} \
+{+client-header-tagger{adfilter-block-xpopup-R101} \
 }
 /(.*/)?\?
 
@@ -22145,6 +22145,7 @@ TAG:^adfilter-unblock-dnt$
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
+.ja.gamersky.com/common/down_info\.js
 .img.ybbbs.com/2014/.*app
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
@@ -22338,7 +22339,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ja.gamersky.com/common/down_info\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R197} \
 }
@@ -22543,7 +22543,7 @@ dfp.js*.
 }
 /(.*/)?adimage/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R70} \
+{+client-header-tagger{adfilter-unblock-dnt-R71} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -22587,7 +22587,7 @@ dfp.js*.
 }
 /(.*/)?ima/.*ad\.
 
-{+client-header-tagger{adfilter-unblock-dnt-R76} \
+{+client-header-tagger{adfilter-unblock-dnt-R77} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
@@ -22622,7 +22622,7 @@ advertisement.js*.
 }
 .cbjs.baidu.com/js/o\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R81} \
+{+client-header-tagger{adfilter-unblock-dnt-R82} \
 }
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
@@ -22643,7 +22643,7 @@ adgpt.*.
 }
 .vast.btrll.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R88} \
+{+client-header-tagger{adfilter-unblock-dnt-R89} \
 }
 .s.yimg.com/ja/ap/.*/jquery\.
 
@@ -23150,6 +23150,7 @@ TAG:^adfilter-unblock-elem$
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
+.ja.gamersky.com/common/down_info\.js
 .img.ybbbs.com/2014/.*app
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
@@ -23339,7 +23340,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ja.gamersky.com/common/down_info\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R197} \
 }
@@ -23540,7 +23540,7 @@ dfp.js*.
 }
 /(.*/)?adimage/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R70} \
+{+client-header-tagger{adfilter-unblock-elem-R71} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -23584,7 +23584,7 @@ dfp.js*.
 }
 /(.*/)?ima/.*ad\.
 
-{+client-header-tagger{adfilter-unblock-elem-R76} \
+{+client-header-tagger{adfilter-unblock-elem-R77} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
@@ -23619,7 +23619,7 @@ advertisement.js*.
 }
 .cbjs.baidu.com/js/o\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R81} \
+{+client-header-tagger{adfilter-unblock-elem-R82} \
 }
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
@@ -23640,7 +23640,7 @@ adgpt.*.
 }
 .vast.btrll.com
 
-{+client-header-tagger{adfilter-unblock-elem-R88} \
+{+client-header-tagger{adfilter-unblock-elem-R89} \
 }
 .s.yimg.com/ja/ap/.*/jquery\.
 
@@ -24140,6 +24140,7 @@ TAG:^adfilter-unblock-request$
 .jj.5ccc.net/scripts/new/pagetop\.js
 .jinhongweiqi.com/ad/update/
 .jdfood.com.tw/Upload/ADImages/.*Image\.jpg
+.ja.gamersky.com/common/down_info\.js
 .img.ybbbs.com/2014/.*app
 .icbc.com.cn/Portal_Resources/Common/AdRes/
 .icbc.com.cn/Portal_Resources/Common/AdCss/
@@ -24319,7 +24320,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ja.gamersky.com/common/down_info\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
@@ -24652,7 +24652,7 @@ dfp.js*.
 /(.*/)?adimage/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R70} \
+ +client-header-tagger{adfilter-unblock-request-R71} \
 }
 .s.pacn.ws/.*/generate-captcha\?
 
@@ -24700,7 +24700,7 @@ dfp.js*.
 /(.*/)?ima/.*ad\.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R76} \
+ +client-header-tagger{adfilter-unblock-request-R77} \
 }
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
@@ -24738,7 +24738,7 @@ advertisement.js*.
 .cbjs.baidu.com/js/o\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R81} \
+ +client-header-tagger{adfilter-unblock-request-R82} \
 }
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
@@ -24764,7 +24764,7 @@ adgpt.*.
 .vast.btrll.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R88} \
+ +client-header-tagger{adfilter-unblock-request-R89} \
 }
 .s.yimg.com/ja/ap/.*/jquery\.
 
