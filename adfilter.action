@@ -314,6 +314,12 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
+.img.xuenb.com
+.mxpwx.com
+.a1.azg168.cn
+.un1.takefoto.cn
+.j1.piaobing.com
+.qiuyi.cn/Baojian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -6451,6 +6457,8 @@ ad-m-banner2.gif*.
 /.*-HollandOne_GIF2\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?qiuyi-gg-wrapper-
+qiuyi-gg-wrapper-*.
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -7545,6 +7553,12 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
+.img.xuenb.com
+.mxpwx.com
+.a1.azg168.cn
+.un1.takefoto.cn
+.j1.piaobing.com
+.qiuyi.cn/Baojian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -13682,6 +13696,8 @@ ad-m-banner2.gif*.
 /.*-HollandOne_GIF2\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?qiuyi-gg-wrapper-
+qiuyi-gg-wrapper-*.
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -14730,6 +14746,11 @@ TAG:^adfilter-block-request$
 .06362.com
 a.kj-cy.cn
 /.*&uc=
+.img.xuenb.com
+.a1.azg168.cn
+.un1.takefoto.cn
+.j1.piaobing.com
+.qiuyi.cn/Baojian/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -20050,6 +20071,8 @@ ad-m-banner2.gif*.
 /.*-HollandOne_GIF2\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?qiuyi-gg-wrapper-
+qiuyi-gg-wrapper-*.
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
@@ -20493,6 +20516,7 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
+.mxpwx.com
 .xxx169.org
 .kokojia.com
 .k99.cc
