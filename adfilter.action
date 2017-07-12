@@ -23,6 +23,7 @@ TAG:^adfilter-block-dnt$
 .tsrc8.com
 .tajxgs.com
 .sytsr.com
+.sycbbs.com
 .sxjxhg.com
 .sonomoyo.com
 .smxay.com
@@ -39,6 +40,7 @@ TAG:^adfilter-block-dnt$
 .netko0o.com
 .mobiorg8.com
 .md0z4dh.com
+.listenother.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
@@ -57,6 +59,7 @@ TAG:^adfilter-block-dnt$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cyylove.com
 .cnzhqs.com
 .changhehengqi.com
 .cdgxq.com
@@ -85,9 +88,6 @@ TAG:^adfilter-block-dnt$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-.cyylove.com
-.sycbbs.com
-.listenother.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .ganimgs.com/images/.*\.gif
@@ -120,6 +120,7 @@ TAG:^adfilter-block-dnt$
 .vjie.com
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .tui98.cn
@@ -137,12 +138,12 @@ TAG:^adfilter-block-dnt$
 .s11.cn
 .s1.hiapk.com
 .ruan88.com
+.rs1.rensheng5.com
 .redmx.cn
 .qwxcs.com
 .qujishu.com
 .qqhuhu.com
 .qooic.com
-.dmt.qcrx.cn
 .painiuimg.com
 .p1.18zhongyao.com
 .okkkk.com
@@ -166,6 +167,7 @@ TAG:^adfilter-block-dnt$
 .libs.tvmao.cn
 .lfyuanai.com
 .lele999.com
+.kxji.com
 .kureader.com
 .kuku99.com
 .jsm.9939.com
@@ -218,6 +220,7 @@ TAG:^adfilter-block-dnt$
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
+.dmt.qcrx.cn
 .dm.yjbys.com
 .dm.ws8.org
 .dm.sb580.com
@@ -242,6 +245,7 @@ TAG:^adfilter-block-dnt$
 .chnci.com
 .chinacsky.com
 .chicken18.com
+.cdeme.com
 .cc.yac8.com
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
@@ -275,11 +279,13 @@ TAG:^adfilter-block-dnt$
 .ap*.pl520.com
 .aiwen.cc
 .adjb.5nd.com
+.adccoo.cn
 .ab.sc115.com
 .aa808.com
 .aa.xiangxiangmf.com
 .aa.tianya999.com
 .a4.b2b168.com
+.a1.vdolady.com
 .a1.liuxue86.com
 .a1.azg168.cn
 .a1.0s.net.cn
@@ -333,6 +339,7 @@ TAG:^adfilter-block-dnt$
 .1.feihua.com
 .1.cjcp.cn
 .1.51sxue.cn
+.1.201980.com
 .1.1010pic.com
 .06362.com
 .01.gxso.net
@@ -345,18 +352,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.cdeme.com
-.adccoo.cn
-.rs1.rensheng5.com
-.1.201980.com
-.a1.vdolady.com
-.undm.qibulo.com
-.kxji.com
-.v2ex.co/8toWVWS9\.jpeg
-.mnw.cn/topic/vrlive/
-.cai110.com/js/2
-.lvse.com/vip
-.lvse.com/980x
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -793,6 +788,7 @@ cpro.*.
 .v5bjq.com/Images/ggImg/
 .v4.cc/m/common\.js
 .v2ex.co/Kc9G5j9Y\.gif
+.v2ex.co/8toWVWS9\.jpeg
 .v1.cn/cms/.*/js/ad_new\.js
 .v.huanqiu.com/tres/xml/vda\.xml
 .v.beta.yinyuetai.com/swf/plugins_new\.xml\?
@@ -1694,6 +1690,7 @@ cpro.*.
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
+.mnw.cn/topic/vrlive/
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -1791,6 +1788,8 @@ cpro.*.
 .ly.js.cn/adv/
 .lxty66.com/js/float\.js
 .lxting.com
+.lvse.com/vip
+.lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
 .luanren.com/images/.*\.swf
@@ -3237,6 +3236,7 @@ cpro.*.
 .caikuu.com/ckimages/.*_zg
 .caikuu.com/ckimages/.*_gg
 .caibaojian.com/uploads/2016/12/1100x60_
+.cai110.com/js/2
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
@@ -4710,6 +4710,7 @@ tanchuan.htm*.
 .wuwho.cn
 .wudang05.com
 .wu65.com
+.wtdtjs.com
 .wstztt.com
 .ws7j.com
 .ws341.com
@@ -4778,6 +4779,7 @@ tanchuan.htm*.
 .unionli.com
 .unionbig.com
 .union009.com
+.union-wifi.com
 .unimhk.com
 .um29.com
 .ulink.cc
@@ -5411,6 +5413,7 @@ tanchuan.htm*.
 .fwt0.com
 .fv99.com
 .fujianryt.com
+.fucnm.com
 .fu68.com
 .fthcz.com
 .fsyzcs.com
@@ -6136,9 +6139,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.fucnm.com
-.wtdtjs.com
-.union-wifi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7318,6 +7318,7 @@ TAG:^adfilter-block-elem$
 .tsrc8.com
 .tajxgs.com
 .sytsr.com
+.sycbbs.com
 .sxjxhg.com
 .sonomoyo.com
 .smxay.com
@@ -7334,6 +7335,7 @@ TAG:^adfilter-block-elem$
 .netko0o.com
 .mobiorg8.com
 .md0z4dh.com
+.listenother.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
@@ -7352,6 +7354,7 @@ TAG:^adfilter-block-elem$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cyylove.com
 .cnzhqs.com
 .changhehengqi.com
 .cdgxq.com
@@ -7380,9 +7383,6 @@ TAG:^adfilter-block-elem$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-.cyylove.com
-.sycbbs.com
-.listenother.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .ganimgs.com/images/.*\.gif
@@ -7415,6 +7415,7 @@ TAG:^adfilter-block-elem$
 .vjie.com
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .tui98.cn
@@ -7432,12 +7433,12 @@ TAG:^adfilter-block-elem$
 .s11.cn
 .s1.hiapk.com
 .ruan88.com
+.rs1.rensheng5.com
 .redmx.cn
 .qwxcs.com
 .qujishu.com
 .qqhuhu.com
 .qooic.com
-.dmt.qcrx.cn
 .painiuimg.com
 .p1.18zhongyao.com
 .okkkk.com
@@ -7461,6 +7462,7 @@ TAG:^adfilter-block-elem$
 .libs.tvmao.cn
 .lfyuanai.com
 .lele999.com
+.kxji.com
 .kureader.com
 .kuku99.com
 .jsm.9939.com
@@ -7513,6 +7515,7 @@ TAG:^adfilter-block-elem$
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
+.dmt.qcrx.cn
 .dm.yjbys.com
 .dm.ws8.org
 .dm.sb580.com
@@ -7537,6 +7540,7 @@ TAG:^adfilter-block-elem$
 .chnci.com
 .chinacsky.com
 .chicken18.com
+.cdeme.com
 .cc.yac8.com
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
@@ -7570,11 +7574,13 @@ TAG:^adfilter-block-elem$
 .ap*.pl520.com
 .aiwen.cc
 .adjb.5nd.com
+.adccoo.cn
 .ab.sc115.com
 .aa808.com
 .aa.xiangxiangmf.com
 .aa.tianya999.com
 .a4.b2b168.com
+.a1.vdolady.com
 .a1.liuxue86.com
 .a1.azg168.cn
 .a1.0s.net.cn
@@ -7628,6 +7634,7 @@ TAG:^adfilter-block-elem$
 .1.feihua.com
 .1.cjcp.cn
 .1.51sxue.cn
+.1.201980.com
 .1.1010pic.com
 .06362.com
 .01.gxso.net
@@ -7640,18 +7647,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.cdeme.com
-.adccoo.cn
-.rs1.rensheng5.com
-.1.201980.com
-.a1.vdolady.com
-.undm.qibulo.com
-.kxji.com
-.v2ex.co/8toWVWS9\.jpeg
-.mnw.cn/topic/vrlive/
-.cai110.com/js/2
-.lvse.com/vip
-.lvse.com/980x
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8088,6 +8083,7 @@ cpro.*.
 .v5bjq.com/Images/ggImg/
 .v4.cc/m/common\.js
 .v2ex.co/Kc9G5j9Y\.gif
+.v2ex.co/8toWVWS9\.jpeg
 .v1.cn/cms/.*/js/ad_new\.js
 .v.huanqiu.com/tres/xml/vda\.xml
 .v.beta.yinyuetai.com/swf/plugins_new\.xml\?
@@ -8989,6 +8985,7 @@ cpro.*.
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
+.mnw.cn/topic/vrlive/
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -9086,6 +9083,8 @@ cpro.*.
 .ly.js.cn/adv/
 .lxty66.com/js/float\.js
 .lxting.com
+.lvse.com/vip
+.lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
 .luanren.com/images/.*\.swf
@@ -10532,6 +10531,7 @@ cpro.*.
 .caikuu.com/ckimages/.*_zg
 .caikuu.com/ckimages/.*_gg
 .caibaojian.com/uploads/2016/12/1100x60_
+.cai110.com/js/2
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
@@ -12005,6 +12005,7 @@ tanchuan.htm*.
 .wuwho.cn
 .wudang05.com
 .wu65.com
+.wtdtjs.com
 .wstztt.com
 .ws7j.com
 .ws341.com
@@ -12073,6 +12074,7 @@ tanchuan.htm*.
 .unionli.com
 .unionbig.com
 .union009.com
+.union-wifi.com
 .unimhk.com
 .um29.com
 .ulink.cc
@@ -12706,6 +12708,7 @@ tanchuan.htm*.
 .fwt0.com
 .fv99.com
 .fujianryt.com
+.fucnm.com
 .fu68.com
 .fthcz.com
 .fsyzcs.com
@@ -13431,9 +13434,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.fucnm.com
-.wtdtjs.com
-.union-wifi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14614,6 +14614,7 @@ TAG:^adfilter-block-request$
 .tsrc8.com
 .tajxgs.com
 .sytsr.com
+.sycbbs.com
 .sxjxhg.com
 .sonomoyo.com
 .smxay.com
@@ -14630,6 +14631,7 @@ TAG:^adfilter-block-request$
 .netko0o.com
 .mobiorg8.com
 .md0z4dh.com
+.listenother.com
 .ksdsuzhou.com
 .kafka8.com
 .jundazulin.com
@@ -14648,6 +14650,7 @@ TAG:^adfilter-block-request$
 .dezfu.com
 .ddg1277.com
 .ddanq.com
+.cyylove.com
 .cnzhqs.com
 .changhehengqi.com
 .cdgxq.com
@@ -14675,9 +14678,6 @@ TAG:^adfilter-block-request$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-.cyylove.com
-.sycbbs.com
-.listenother.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .ganimgs.com/images/.*\.gif
@@ -14704,6 +14704,7 @@ TAG:^adfilter-block-request$
 .vvv.ieduw.com
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .tui98.cn
@@ -14715,10 +14716,10 @@ TAG:^adfilter-block-request$
 .sad.qeo.cn
 .s1.hiapk.com
 .ruan88.com
+.rs1.rensheng5.com
 .qujishu.com
 .qqhuhu.com
 .qooic.com
-.dmt.qcrx.cn
 .painiuimg.com
 .p1.18zhongyao.com
 .okkkk.com
@@ -14776,6 +14777,7 @@ TAG:^adfilter-block-request$
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
+.dmt.qcrx.cn
 .dm.yjbys.com
 .dm.ws8.org
 .dm.sb580.com
@@ -14832,10 +14834,12 @@ TAG:^adfilter-block-request$
 .ap*.pl520.com
 .aiwen.cc
 .adjb.5nd.com
+.adccoo.cn
 .ab.sc115.com
 .aa.xiangxiangmf.com
 .aa.tianya999.com
 .a4.b2b168.com
+.a1.vdolady.com
 .a1.liuxue86.com
 .a1.azg168.cn
 .a1.0s.net.cn
@@ -14881,21 +14885,12 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.cjcp.cn
 .1.51sxue.cn
+.1.201980.com
 .1.1010pic.com
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.adccoo.cn
-.rs1.rensheng5.com
-.1.201980.com
-.a1.vdolady.com
-.undm.qibulo.com
-.v2ex.co/8toWVWS9\.jpeg
-.mnw.cn/topic/vrlive/
-.cai110.com/js/2
-.lvse.com/vip
-.lvse.com/980x
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15320,6 +15315,7 @@ a.kj-cy.cn
 .v5bjq.com/Images/ggImg/
 .v4.cc/m/common\.js
 .v2ex.co/Kc9G5j9Y\.gif
+.v2ex.co/8toWVWS9\.jpeg
 .v1.cn/cms/.*/js/ad_new\.js
 .v.huanqiu.com/tres/xml/vda\.xml
 .v.beta.yinyuetai.com/swf/plugins_new\.xml\?
@@ -16184,6 +16180,7 @@ a.kj-cy.cn
 .moe-acg.cc/ads\.js
 .mobile.sina.cn/public/files/image/620x300_
 .mobile.sina.cn/public/files/image/600x150_
+.mnw.cn/topic/vrlive/
 .mmtalk.net/images/banner
 .mm387.com/images/.*\.gif
 .mm111.net/api\.php\?mod=ad&
@@ -16277,6 +16274,8 @@ a.kj-cy.cn
 .ly.js.cn/adv/
 .lxty66.com/js/float\.js
 .lxting.com
+.lvse.com/vip
+.lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
 .luanren.com/images/.*\.swf
@@ -17656,6 +17655,7 @@ a.kj-cy.cn
 .caikuu.com/ckimages/.*_zg
 .caikuu.com/ckimages/.*_gg
 .caibaojian.com/uploads/2016/12/1100x60_
+.cai110.com/js/2
 .caches.space/bootstrap3/js/bootstrap\.js
 .cachead.com
 .cacafly.net
@@ -19468,6 +19468,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .fwt0.com
 .fv99.com
 .fujianryt.com
+.fucnm.com
 .fu68.com
 .fthcz.com
 .fsyzcs.com
@@ -19867,7 +19868,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.fucnm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20660,6 +20660,7 @@ gg.*.
 .mipujia.com
 .meishiba.com.cn
 .luolikong.net
+.kxji.com
 .kureader.com
 .kuku99.com
 .jiliw.com
@@ -20671,6 +20672,7 @@ gg.*.
 .fuz.cc
 .fjzimaoqu.cn
 .chnci.com
+.cdeme.com
 .aa808.com
 .999d.com
 .90370.com
@@ -20680,8 +20682,6 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
-.cdeme.com
-.kxji.com
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -20740,6 +20740,7 @@ gg.*.
 .xajx.com
 .x8ad.com
 .wudang05.com
+.wtdtjs.com
 .wqzyt.net
 .wofan.net
 .wodemeitu.com
@@ -20765,6 +20766,7 @@ gg.*.
 .unionli.com
 .unionbig.com
 .union009.com
+.union-wifi.com
 .unimhk.com
 .um29.com
 .ulink.cc
@@ -21210,8 +21212,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.wtdtjs.com
-.union-wifi.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
