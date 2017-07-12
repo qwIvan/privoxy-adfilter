@@ -85,6 +85,8 @@ TAG:^adfilter-block-dnt$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.cyylove.com
+.sycbbs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7368,6 +7370,8 @@ TAG:^adfilter-block-elem$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.cyylove.com
+.sycbbs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14651,6 +14655,8 @@ TAG:^adfilter-block-request$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
+.cyylove.com
+.sycbbs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
