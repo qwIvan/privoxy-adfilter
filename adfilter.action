@@ -87,6 +87,9 @@ TAG:^adfilter-block-dnt$
 .*.m.beidouxin.com
 .cyylove.com
 .sycbbs.com
+.listenother.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -344,6 +347,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .cdeme.com
 .adccoo.cn
+.rs1.rensheng5.com
+.1.201980.com
+.a1.vdolady.com
 .v2ex.co/8toWVWS9\.jpeg
 .mnw.cn/topic/vrlive/
 .cai110.com/js/2
@@ -7373,6 +7379,9 @@ TAG:^adfilter-block-elem$
 .*.m.beidouxin.com
 .cyylove.com
 .sycbbs.com
+.listenother.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7630,6 +7639,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .cdeme.com
 .adccoo.cn
+.rs1.rensheng5.com
+.1.201980.com
+.a1.vdolady.com
 .v2ex.co/8toWVWS9\.jpeg
 .mnw.cn/topic/vrlive/
 .cai110.com/js/2
@@ -14659,6 +14671,9 @@ TAG:^adfilter-block-request$
 .*.m.beidouxin.com
 .cyylove.com
 .sycbbs.com
+.listenother.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14866,6 +14881,9 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .adccoo.cn
+.rs1.rensheng5.com
+.1.201980.com
+.a1.vdolady.com
 .v2ex.co/8toWVWS9\.jpeg
 .mnw.cn/topic/vrlive/
 .cai110.com/js/2
