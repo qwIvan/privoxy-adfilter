@@ -90,6 +90,10 @@ TAG:^adfilter-block-dnt$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+/.*\.m\.d8qu\.com[^\w%.-]
+.*.m.d8qu.com
+/.*\.m\.blwen\.com[^\w%.-]
+.*.m.blwen.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -358,6 +362,12 @@ cpro.*.
 .img1.jintang114.org
 .s.zixuntop.com
 .aa.jiankang.com
+.bd01.daqiso.com
+.jinghuazhijia.com
+.yetu.net
+.1.iqeq.com.cn
+.zhiyuanteam.com
+.ofweek.com/img/proimage/2017/osl
 .24meinv.me/js/total\.js
 .24gif.com/image/gif\.jpg
 .zzzyk.com/js/
@@ -6147,6 +6157,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.food5.net
+.fengxiangstore.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7393,6 +7405,10 @@ TAG:^adfilter-block-elem$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+/.*\.m\.d8qu\.com[^\w%.-]
+.*.m.d8qu.com
+/.*\.m\.blwen\.com[^\w%.-]
+.*.m.blwen.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7661,6 +7677,12 @@ cpro.*.
 .img1.jintang114.org
 .s.zixuntop.com
 .aa.jiankang.com
+.bd01.daqiso.com
+.jinghuazhijia.com
+.yetu.net
+.1.iqeq.com.cn
+.zhiyuanteam.com
+.ofweek.com/img/proimage/2017/osl
 .24meinv.me/js/total\.js
 .24gif.com/image/gif\.jpg
 .zzzyk.com/js/
@@ -13450,6 +13472,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.food5.net
+.fengxiangstore.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14696,6 +14720,10 @@ TAG:^adfilter-block-request$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+/.*\.m\.d8qu\.com[^\w%.-]
+.*.m.d8qu.com
+/.*\.m\.blwen\.com[^\w%.-]
+.*.m.blwen.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -14912,6 +14940,11 @@ a.kj-cy.cn
 .img1.jintang114.org
 .s.zixuntop.com
 .aa.jiankang.com
+.bd01.daqiso.com
+.jinghuazhijia.com
+.1.iqeq.com.cn
+.zhiyuanteam.com
+.ofweek.com/img/proimage/2017/osl
 .24meinv.me/js/total\.js
 .24gif.com/image/gif\.jpg
 .zzzyk.com/js/
@@ -20706,6 +20739,7 @@ gg.*.
 .1122.com
 .100669.com
 .web8.net
+.yetu.net
 .xxx169.org
 .kokojia.com
 .k99.cc
@@ -21236,6 +21270,8 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.food5.net
+.fengxiangstore.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
