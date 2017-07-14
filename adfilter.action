@@ -383,6 +383,7 @@ cpro.*.
 .hapic1.jhkxwl.com
 .xue.zbyw.cn
 .wenshenbang.com
+.dmhy.ml/.*g\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7728,6 +7729,7 @@ cpro.*.
 .hapic1.jhkxwl.com
 .xue.zbyw.cn
 .wenshenbang.com
+.dmhy.ml/.*g\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -20469,6 +20471,7 @@ TAG:^adfilter-block-request-Aasv-Casv$
 }
 TAG:^adfilter-block-request-Ai-Ci$
 /(.*/)?link\?c=
+.dmhy.ml/.*g\?
 .yjhas.net
 .webkaka.com*./(.*/)?click/
 .tiantianzhibo.com/sda/
