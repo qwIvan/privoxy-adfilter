@@ -95,6 +95,7 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .aicydb.com
+.zxjjzx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -377,7 +378,11 @@ cpro.*.
 .daima.23yy.com
 .w1.diaoyou.com
 .a1.huanqiumil.com
+.4name.com
+.bbdm.051661.com
+.hapic1.jhkxwl.com
 .xue.zbyw.cn
+.wenshenbang.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -7435,6 +7440,7 @@ TAG:^adfilter-block-elem$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .aicydb.com
+.zxjjzx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7717,7 +7723,11 @@ cpro.*.
 .daima.23yy.com
 .w1.diaoyou.com
 .a1.huanqiumil.com
+.4name.com
+.bbdm.051661.com
+.hapic1.jhkxwl.com
 .xue.zbyw.cn
+.wenshenbang.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -14775,6 +14785,7 @@ TAG:^adfilter-block-request$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .aicydb.com
+.zxjjzx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15003,6 +15014,8 @@ a.kj-cy.cn
 .daima.23yy.com
 .w1.diaoyou.com
 .a1.huanqiumil.com
+.bbdm.051661.com
+.hapic1.jhkxwl.com
 .xue.zbyw.cn
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -20815,6 +20828,8 @@ gg.*.
 .1buymo.cn
 .1122.com
 .100669.com
+.4name.com
+.wenshenbang.com
 .xxx169.org
 .kokojia.com
 .k99.cc
