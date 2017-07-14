@@ -97,6 +97,7 @@ TAG:^adfilter-block-dnt$
 .aicydb.com
 .zxjjzx.com
 .vers80.com
+.awyys.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -384,6 +385,8 @@ cpro.*.
 .hapic1.jhkxwl.com
 .xue.zbyw.cn
 .wenshenbang.com
+.21shebao.com
+.dejing.laobanfa.com
 .dmhy.ml/.*g\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6190,6 +6193,8 @@ pd2.js*.
 .kuaipai666.cn
 .a0c77.com
 .quw18.com
+.023hysj.com
+.lytubaobao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7444,6 +7449,7 @@ TAG:^adfilter-block-elem$
 .aicydb.com
 .zxjjzx.com
 .vers80.com
+.awyys.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7731,6 +7737,8 @@ cpro.*.
 .hapic1.jhkxwl.com
 .xue.zbyw.cn
 .wenshenbang.com
+.21shebao.com
+.dejing.laobanfa.com
 .dmhy.ml/.*g\?
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13537,6 +13545,8 @@ pd2.js*.
 .kuaipai666.cn
 .a0c77.com
 .quw18.com
+.023hysj.com
+.lytubaobao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14791,6 +14801,7 @@ TAG:^adfilter-block-request$
 .aicydb.com
 .zxjjzx.com
 .vers80.com
+.awyys.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15022,6 +15033,7 @@ a.kj-cy.cn
 .bbdm.051661.com
 .hapic1.jhkxwl.com
 .xue.zbyw.cn
+.dejing.laobanfa.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -20015,6 +20027,8 @@ tk.*./.*\.php\?id=.*&step=
 .kuaipai666.cn
 .a0c77.com
 .quw18.com
+.023hysj.com
+.lytubaobao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20836,6 +20850,7 @@ gg.*.
 .100669.com
 .4name.com
 .wenshenbang.com
+.21shebao.com
 .xxx169.org
 .kokojia.com
 .k99.cc
