@@ -393,6 +393,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .gg.jkmeishi.com
 .bdjs.faxingzhan.com
+.haotxt.com/index\.php\?m=book/ad&
+.uc.cn/s/uae/g/0s/ua\.js
 .hexun.com/gphqtc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -6208,6 +6210,7 @@ pd2.js*.
 .*.cn/show\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
+.akrwi.cn
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -7756,6 +7759,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .gg.jkmeishi.com
 .bdjs.faxingzhan.com
+.haotxt.com/index\.php\?m=book/ad&
+.uc.cn/s/uae/g/0s/ua\.js
 .hexun.com/gphqtc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -13571,6 +13576,7 @@ pd2.js*.
 .*.cn/show\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
+.akrwi.cn
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -15062,6 +15068,8 @@ a.kj-cy.cn
 /.*&uc=
 .gg.jkmeishi.com
 .bdjs.faxingzhan.com
+.haotxt.com/index\.php\?m=book/ad&
+.uc.cn/s/uae/g/0s/ua\.js
 .hexun.com/gphqtc/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -20063,6 +20071,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adposid/.*
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
+.akrwi.cn
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
