@@ -411,6 +411,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.linecg.com/uploads/banner/
+.rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
@@ -6246,6 +6248,7 @@ pd2.js*.
 .*.cn/show\?id=
 .zhandi.cc
 .361315.cc
+.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7814,6 +7817,8 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.linecg.com/uploads/banner/
+.rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
@@ -13649,6 +13654,7 @@ pd2.js*.
 .*.cn/show\?id=
 .zhandi.cc
 .361315.cc
+.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15157,6 +15163,8 @@ a.kj-cy.cn
 /.*&uc=
 .dm.51okc.com
 .a.xixiyishu.com
+.linecg.com/uploads/banner/
+.rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
@@ -20176,6 +20184,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .361315.cc
+.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
