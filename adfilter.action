@@ -411,6 +411,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7813,6 +7814,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -15155,6 +15157,7 @@ a.kj-cy.cn
 /.*&uc=
 .dm.51okc.com
 .a.xixiyishu.com
+.mydrivers.com/news/2017/m_hsb_
 .shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
