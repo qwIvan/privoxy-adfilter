@@ -411,6 +411,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.shop265.com
+.yulzs.com
+.bxwx9.org/banner
 .linecg.com/uploads/banner/
 .rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
@@ -7817,6 +7820,9 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.shop265.com
+.yulzs.com
+.bxwx9.org/banner
 .linecg.com/uploads/banner/
 .rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
@@ -15163,6 +15169,9 @@ a.kj-cy.cn
 /.*&uc=
 .dm.51okc.com
 .a.xixiyishu.com
+.shop265.com
+.yulzs.com
+.bxwx9.org/banner
 .linecg.com/uploads/banner/
 .rfmet.com/tb/
 .mydrivers.com/news/2017/m_hsb_
