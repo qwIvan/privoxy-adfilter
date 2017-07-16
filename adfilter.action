@@ -411,6 +411,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -4620,6 +4621,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.csaimall.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -7811,6 +7813,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .dm.51okc.com
 .a.xixiyishu.com
+.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12020,6 +12023,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.csaimall.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -15151,6 +15155,7 @@ a.kj-cy.cn
 /.*&uc=
 .dm.51okc.com
 .a.xixiyishu.com
+.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -22212,6 +22217,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.csaimall.com
 
 {+server-header-filter{adfilter-xframe-filter} \
 }
@@ -22431,6 +22437,7 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
+.csaimall.com
 
 {-client-header-tagger{adfilter-unblock-dnt-nR} \
 }
