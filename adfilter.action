@@ -103,6 +103,7 @@ TAG:^adfilter-block-dnt$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.hqgjcm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -415,6 +416,10 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .static.ichehome.com
 .zhifenjie.com
+.u1.shuaiku.com
+.jskrnekewe.mofans.net
+.888.izhufu.net
+.laiqi.net/templets/wap/js/laiqi\.js
 .qd.wanjuanba.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7520,6 +7525,7 @@ TAG:^adfilter-block-elem$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.hqgjcm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7832,6 +7838,10 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 .static.ichehome.com
 .zhifenjie.com
+.u1.shuaiku.com
+.jskrnekewe.mofans.net
+.888.izhufu.net
+.laiqi.net/templets/wap/js/laiqi\.js
 .qd.wanjuanba.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -14937,6 +14947,7 @@ TAG:^adfilter-block-request$
 .*.m.beidouxin.com
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.hqgjcm.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15189,6 +15200,10 @@ a.kj-cy.cn
 /.*&uc=
 .static.ichehome.com
 .zhifenjie.com
+.u1.shuaiku.com
+.jskrnekewe.mofans.net
+.888.izhufu.net
+.laiqi.net/templets/wap/js/laiqi\.js
 .qd.wanjuanba.com
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
