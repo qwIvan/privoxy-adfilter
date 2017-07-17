@@ -118,6 +118,7 @@ TAG:^adfilter-block-dnt$
 .zhaoshang8.com
 .zhantai.com
 .yunzuowen.com
+.yulzs.com
 .ypmeiwen.com
 .youbian.com
 .ykxwn.com
@@ -152,6 +153,7 @@ TAG:^adfilter-block-dnt$
 .sundxs.com
 .star-media.cn
 .ss.shicimingju.com
+.shop265.com
 .shili.wanyx.com
 .shili.downxia.com
 .sg92.com
@@ -266,6 +268,7 @@ TAG:^adfilter-block-dnt$
 .dm.jb51.net
 .dm.chalook.net
 .dm.92to.com
+.dm.51okc.com
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.ijq.tv
@@ -339,6 +342,7 @@ TAG:^adfilter-block-dnt$
 .a1.azg168.cn
 .a1.0s.net.cn
 .a.yangshengtang123.com
+.a.xixiyishu.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -409,15 +413,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.dm.51okc.com
-.a.xixiyishu.com
-.shop265.com
-.yulzs.com
-.bxwx9.org/banner
-.linecg.com/uploads/banner/
-.rfmet.com/tb/
-.mydrivers.com/news/2017/m_hsb_
-.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -1240,6 +1235,7 @@ cpro.*.
 .share.dmhy.*./(.*/)?.*\?
 .shaoxing.com.cn/.*gg\.
 .shaoxing.com.cn/6201\.files/.*\.swf
+.shangxueba.com/share/images/view_dow_401_89_
 .shangxueba.com/ask/images/view_590_65\.jpg
 .shangqun.com/webforms/embed/
 .shangdu.com/lyinfo/ad/
@@ -1334,6 +1330,7 @@ cpro.*.
 .right.com.cn/forum/static/image/common/logo\.gif
 .riaoao2.com/topjs/
 .rh.qq.com
+.rfmet.com/tb/
 .rfidworld.com.cn/js/c\.html
 .rfidworld.com.cn/js/b\.js
 .rfidworld.com.cn/js/a\.js
@@ -1700,6 +1697,7 @@ cpro.*.
 .myhack58.com/.*0
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_dangbei\.gif
+.mydrivers.com/news/2017/m_hsb_
 .mydrivers.com/news/2017/db_
 .mydrivers.com/news/2017/.*_677_210\.
 .mydrivers.com/news/2017/.*_580
@@ -1904,6 +1902,7 @@ cpro.*.
 .link.fobshanghai.com/bbsimage/
 .lingdianshuwu.com/js/content
 .lingdian98.com
+.linecg.com/uploads/banner/
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
@@ -3344,6 +3343,7 @@ cpro.*.
 .bxwx9.org/js/box_
 .bxwx9.org/js/
 .bxwx9.org/caipiao\.js
+.bxwx9.org/banner
 .bxwx9.org/1\.js
 .bxwns.com/player/ad\.html
 .bxwns.com/blz/
@@ -4599,6 +4599,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gamer.com.tw/adcounter\.
 .d6262.com
 .ctfile.com/popjump\.php\?
+.csaimall.com
 .c.admaster.com.cn
 .bm999999.com
 .baidu.com/baidu\.php\?url=
@@ -4627,7 +4628,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.csaimall.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -4649,6 +4649,7 @@ tanchuan.htm*.
 .zhichi08.com
 .zhaofuli.mobi
 .zhao258.com
+.zhandi.cc
 .zgyiyi.com
 .zgyemy.com
 .zgunion.cn
@@ -5442,6 +5443,7 @@ tanchuan.htm*.
 .heib10.top
 .hcreditx.com
 .hbsimg.com
+.hbngfy.com
 .hbalx.cn
 .hauchi.com.tw
 .haoyiwang.net
@@ -6007,6 +6009,7 @@ tanchuan.htm*.
 .365bibi.com
 .36500.net
 .36500.com
+.361315.cc
 .360doo.com
 .360baidus.com
 .360366.net
@@ -6249,9 +6252,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.zhandi.cc
-.361315.cc
-.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7527,6 +7527,7 @@ TAG:^adfilter-block-elem$
 .zhaoshang8.com
 .zhantai.com
 .yunzuowen.com
+.yulzs.com
 .ypmeiwen.com
 .youbian.com
 .ykxwn.com
@@ -7561,6 +7562,7 @@ TAG:^adfilter-block-elem$
 .sundxs.com
 .star-media.cn
 .ss.shicimingju.com
+.shop265.com
 .shili.wanyx.com
 .shili.downxia.com
 .sg92.com
@@ -7675,6 +7677,7 @@ TAG:^adfilter-block-elem$
 .dm.jb51.net
 .dm.chalook.net
 .dm.92to.com
+.dm.51okc.com
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.ijq.tv
@@ -7748,6 +7751,7 @@ TAG:^adfilter-block-elem$
 .a1.azg168.cn
 .a1.0s.net.cn
 .a.yangshengtang123.com
+.a.xixiyishu.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -7818,15 +7822,6 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
-.dm.51okc.com
-.a.xixiyishu.com
-.shop265.com
-.yulzs.com
-.bxwx9.org/banner
-.linecg.com/uploads/banner/
-.rfmet.com/tb/
-.mydrivers.com/news/2017/m_hsb_
-.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -8649,6 +8644,7 @@ cpro.*.
 .share.dmhy.*./(.*/)?.*\?
 .shaoxing.com.cn/.*gg\.
 .shaoxing.com.cn/6201\.files/.*\.swf
+.shangxueba.com/share/images/view_dow_401_89_
 .shangxueba.com/ask/images/view_590_65\.jpg
 .shangqun.com/webforms/embed/
 .shangdu.com/lyinfo/ad/
@@ -8743,6 +8739,7 @@ cpro.*.
 .right.com.cn/forum/static/image/common/logo\.gif
 .riaoao2.com/topjs/
 .rh.qq.com
+.rfmet.com/tb/
 .rfidworld.com.cn/js/c\.html
 .rfidworld.com.cn/js/b\.js
 .rfidworld.com.cn/js/a\.js
@@ -9109,6 +9106,7 @@ cpro.*.
 .myhack58.com/.*0
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_dangbei\.gif
+.mydrivers.com/news/2017/m_hsb_
 .mydrivers.com/news/2017/db_
 .mydrivers.com/news/2017/.*_677_210\.
 .mydrivers.com/news/2017/.*_580
@@ -9313,6 +9311,7 @@ cpro.*.
 .link.fobshanghai.com/bbsimage/
 .lingdianshuwu.com/js/content
 .lingdian98.com
+.linecg.com/uploads/banner/
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
@@ -10753,6 +10752,7 @@ cpro.*.
 .bxwx9.org/js/box_
 .bxwx9.org/js/
 .bxwx9.org/caipiao\.js
+.bxwx9.org/banner
 .bxwx9.org/1\.js
 .bxwns.com/player/ad\.html
 .bxwns.com/blz/
@@ -12008,6 +12008,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gamer.com.tw/adcounter\.
 .d6262.com
 .ctfile.com/popjump\.php\?
+.csaimall.com
 .c.admaster.com.cn
 .bm999999.com
 .baidu.com/baidu\.php\?url=
@@ -12036,7 +12037,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.csaimall.com
 .zzrcz.com
 .zzbaowen.com
 .zytwq.net
@@ -12058,6 +12058,7 @@ tanchuan.htm*.
 .zhichi08.com
 .zhaofuli.mobi
 .zhao258.com
+.zhandi.cc
 .zgyiyi.com
 .zgyemy.com
 .zgunion.cn
@@ -12851,6 +12852,7 @@ tanchuan.htm*.
 .heib10.top
 .hcreditx.com
 .hbsimg.com
+.hbngfy.com
 .hbalx.cn
 .hauchi.com.tw
 .haoyiwang.net
@@ -13416,6 +13418,7 @@ tanchuan.htm*.
 .365bibi.com
 .36500.net
 .36500.com
+.361315.cc
 .360doo.com
 .360baidus.com
 .360366.net
@@ -13658,9 +13661,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.zhandi.cc
-.361315.cc
-.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14932,6 +14932,7 @@ TAG:^adfilter-block-request$
 .zhiyuanteam.com
 .zhihu.xmcimg.com
 .zhaoshang8.com
+.yulzs.com
 .ypmeiwen.com
 .ykxwn.com
 .yin1.zgpingshu.com
@@ -14956,6 +14957,7 @@ TAG:^adfilter-block-request$
 .ticcdn.com
 .thetestpage.39.net
 .ss.shicimingju.com
+.shop265.com
 .shili.wanyx.com
 .shili.downxia.com
 .sdwfw.com
@@ -15046,6 +15048,7 @@ TAG:^adfilter-block-request$
 .dm.jb51.net
 .dm.chalook.net
 .dm.92to.com
+.dm.51okc.com
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.ijq.tv
@@ -15115,6 +15118,7 @@ TAG:^adfilter-block-request$
 .a1.azg168.cn
 .a1.0s.net.cn
 .a.yangshengtang123.com
+.a.xixiyishu.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -15167,15 +15171,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.dm.51okc.com
-.a.xixiyishu.com
-.shop265.com
-.yulzs.com
-.bxwx9.org/banner
-.linecg.com/uploads/banner/
-.rfmet.com/tb/
-.mydrivers.com/news/2017/m_hsb_
-.shangxueba.com/share/images/view_dow_401_89_
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -15973,6 +15968,7 @@ a.kj-cy.cn
 .share.gzdsw.com
 .shaoxing.com.cn/.*gg\.
 .shaoxing.com.cn/6201\.files/.*\.swf
+.shangxueba.com/share/images/view_dow_401_89_
 .shangxueba.com/ask/images/view_590_65\.jpg
 .shangqun.com/webforms/embed/
 .shangdu.com/lyinfo/ad/
@@ -16062,6 +16058,7 @@ a.kj-cy.cn
 .right.com.cn/forum/static/image/common/logo\.gif
 .riaoao2.com/topjs/
 .rh.qq.com
+.rfmet.com/tb/
 .rfidworld.com.cn/js/c\.html
 .rfidworld.com.cn/js/b\.js
 .rfidworld.com.cn/js/a\.js
@@ -16412,6 +16409,7 @@ a.kj-cy.cn
 .myhard.com/s\?z=
 .myhack58.com/Articleacb0
 .mydrivers.com/news/2017/pc_dangbei\.gif
+.mydrivers.com/news/2017/m_hsb_
 .mydrivers.com/news/2017/db_
 .mydrivers.com/news/2017/.*_677_210\.
 .mydrivers.com/news/2017/.*_580
@@ -16608,6 +16606,7 @@ a.kj-cy.cn
 .link.fobshanghai.com/bbsimage/
 .lingdianshuwu.com/js/content
 .lingdian98.com
+.linecg.com/uploads/banner/
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
@@ -17980,6 +17979,7 @@ a.kj-cy.cn
 .bxwx9.org/myabc/
 .bxwx9.org/js/box_
 .bxwx9.org/caipiao\.js
+.bxwx9.org/banner
 .bxwx9.org/1\.js
 .bxwns.com/player/ad\.html
 .bxwns.com/blz/
@@ -19741,6 +19741,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hejingroup.cn
 .heib10.top
 .hcreditx.com
+.hbngfy.com
 .hbalx.cn
 .haolew.com
 .haohaowan8.com
@@ -20095,6 +20096,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .366safego.com
 .365safego.com
 .365bibi.com
+.361315.cc
 .360baidus.com
 .33shangyou.com
 .2m2n.com
@@ -20192,8 +20194,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.361315.cc
-.hbngfy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21033,6 +21033,7 @@ gg.*.
 .zp265.com
 .zj66.net
 .zhaofuli.mobi
+.zhandi.cc
 .zgyiyi.com
 .zgczjw.com
 .ze5.com
@@ -21552,7 +21553,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.zhandi.cc
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -22224,6 +22224,7 @@ cpro.*.
 .gd.189.cn/.*\.htm\?SP=
 .gd.189.cn/gz/promotion/
 .gd.189.cn/ad/
+.csaimall.com
 .189.cn/actpush/
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
@@ -22238,7 +22239,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.csaimall.com
 
 {+server-header-filter{adfilter-xframe-filter} \
 }
@@ -22444,6 +22444,7 @@ cpro.*.
 .gd.189.cn/.*\.htm\?SP=
 .gd.189.cn/gz/promotion/
 .gd.189.cn/ad/
+.csaimall.com
 .189.cn/actpush/
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
@@ -22458,7 +22459,6 @@ tanchuan.htm*.
 .*.com/\?aff=
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
-.csaimall.com
 
 {-client-header-tagger{adfilter-unblock-dnt-nR} \
 }
