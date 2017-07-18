@@ -21864,6 +21864,9 @@ merchant.php*.
 }
 .duapp.com
 
+{+client-header-tagger{adfilter-block-request-R56} \
+}
+
 {+client-header-tagger{adfilter-block-request-R58} \
 }
 /.*\.com/az\.js
