@@ -432,6 +432,10 @@ cpro.*.
 .hw100.net
 .qqzu.com
 .dm.yjbys.com
+.dzais.com
+.tesetu.com/m/.*\.php
+.192.240.111.77/ad/
+.djicdn.com/uploads/ad_image_file/
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .iask.cn/.*/qiye\.
 .iask.cn/fidjs/
@@ -4656,6 +4660,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.kuheju.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -6289,6 +6294,7 @@ pd2.js*.
 .*.cn/show\?id=
 .tylll.com
 .7xi9g1.com1.z0.glb.clouddn.com
+.heib12.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7889,6 +7895,10 @@ cpro.*.
 .hw100.net
 .qqzu.com
 .dm.yjbys.com
+.dzais.com
+.tesetu.com/m/.*\.php
+.192.240.111.77/ad/
+.djicdn.com/uploads/ad_image_file/
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .iask.cn/.*/qiye\.
 .iask.cn/fidjs/
@@ -12113,6 +12123,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.kuheju.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -13746,6 +13757,7 @@ pd2.js*.
 .*.cn/show\?id=
 .tylll.com
 .7xi9g1.com1.z0.glb.clouddn.com
+.heib12.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15288,6 +15300,10 @@ a.kj-cy.cn
 .script-bd.baixing.net
 .qqzu.com
 .dm.yjbys.com
+.dzais.com
+.tesetu.com/m/.*\.php
+.192.240.111.77/ad/
+.djicdn.com/uploads/ad_image_file/
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .iask.cn/.*/qiye\.
 .iask.cn/fidjs/
@@ -19319,6 +19335,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .133gp.com
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
+.kuheju.com
 .zzrcz.com
 .zzbaowen.com
 .zymro.com
@@ -20329,6 +20346,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adposid/.*
 .tylll.com
 .7xi9g1.com1.z0.glb.clouddn.com
+.heib12.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22530,6 +22548,7 @@ TAG:^adfilter-block-xpopup$
 .133gp.com
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
+.kuheju.com
 
 {+client-header-tagger{adfilter-block-xpopup-R195t} \
 }
