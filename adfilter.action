@@ -108,6 +108,7 @@ TAG:^adfilter-block-dnt$
 .cindy17club.com
 /.*\.m\.fhxiaoshuo\.com[^\w%.-]
 .*.m.fhxiaoshuo.com
+.zsxpx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7556,6 +7557,7 @@ TAG:^adfilter-block-elem$
 .cindy17club.com
 /.*\.m\.fhxiaoshuo\.com[^\w%.-]
 .*.m.fhxiaoshuo.com
+.zsxpx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15004,6 +15006,7 @@ TAG:^adfilter-block-request$
 .cindy17club.com
 /.*\.m\.fhxiaoshuo\.com[^\w%.-]
 .*.m.fhxiaoshuo.com
+.zsxpx.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
