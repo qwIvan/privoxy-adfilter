@@ -434,6 +434,9 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .js1.2abc8.com
+.ptw.la
+.c1.4qx.net
+.pctowap.com/dowap2/mobile/.*\.js
 .zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -7900,6 +7903,9 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .js1.2abc8.com
+.ptw.la
+.c1.4qx.net
+.pctowap.com/dowap2/mobile/.*\.js
 .zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
@@ -15308,6 +15314,9 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .js1.2abc8.com
+.ptw.la
+.c1.4qx.net
+.pctowap.com/dowap2/mobile/.*\.js
 .zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
