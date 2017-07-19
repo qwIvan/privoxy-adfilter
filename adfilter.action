@@ -112,6 +112,7 @@ TAG:^adfilter-block-dnt$
 .identified.cn
 .lqmohun.com
 .lzjycy.com
+.dbwmjj.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -442,6 +443,9 @@ cpro.*.
 .c1.4qx.net
 .6669667.com
 .a1.yuuedu.com
+.a.kandiaoyu.com
+.bd.wayqq.cn
+.gongfupian.com/js/wuxiatui/
 .ifkjx.com/img/apppc\.jpg
 .jwcsb.com.cn/js/neirong\.js
 .40407.com/images/t\.png
@@ -6315,6 +6319,7 @@ pd2.js*.
 .d15cjcet1djbmv.cloudfront.net
 .gg0376.com
 .rdiqt.cn
+.jkjjkj.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7596,6 +7601,7 @@ TAG:^adfilter-block-elem$
 .identified.cn
 .lqmohun.com
 .lzjycy.com
+.dbwmjj.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7926,6 +7932,9 @@ cpro.*.
 .c1.4qx.net
 .6669667.com
 .a1.yuuedu.com
+.a.kandiaoyu.com
+.bd.wayqq.cn
+.gongfupian.com/js/wuxiatui/
 .ifkjx.com/img/apppc\.jpg
 .jwcsb.com.cn/js/neirong\.js
 .40407.com/images/t\.png
@@ -13799,6 +13808,7 @@ pd2.js*.
 .d15cjcet1djbmv.cloudfront.net
 .gg0376.com
 .rdiqt.cn
+.jkjjkj.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15080,6 +15090,7 @@ TAG:^adfilter-block-request$
 .identified.cn
 .lqmohun.com
 .lzjycy.com
+.dbwmjj.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15352,6 +15363,9 @@ a.kj-cy.cn
 .c1.4qx.net
 .6669667.com
 .a1.yuuedu.com
+.a.kandiaoyu.com
+.bd.wayqq.cn
+.gongfupian.com/js/wuxiatui/
 .ifkjx.com/img/apppc\.jpg
 .jwcsb.com.cn/js/neirong\.js
 .40407.com/images/t\.png
@@ -20407,6 +20421,7 @@ tk.*./.*\.php\?id=.*&step=
 .d15cjcet1djbmv.cloudfront.net
 .gg0376.com
 .rdiqt.cn
+.jkjjkj.top
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
