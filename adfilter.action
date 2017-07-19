@@ -6304,6 +6304,7 @@ pd2.js*.
 .*.cn/show\?id=
 .anioscp.com
 .ylzx.net
+.d15cjcet1djbmv.cloudfront.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -13774,6 +13775,7 @@ pd2.js*.
 .*.cn/show\?id=
 .anioscp.com
 .ylzx.net
+.d15cjcet1djbmv.cloudfront.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20368,6 +20370,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .anioscp.com
+.d15cjcet1djbmv.cloudfront.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
