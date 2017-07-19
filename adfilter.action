@@ -433,6 +433,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -4661,6 +4662,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.11h5.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -6295,6 +6297,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.anioscp.com
+.ylzx.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7894,6 +7898,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -12122,6 +12127,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.11h5.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -13756,6 +13762,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.anioscp.com
+.ylzx.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15297,6 +15305,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.zz22x.com/ggg/
 .zzzyk.com/js/
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
@@ -20343,6 +20352,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.anioscp.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21709,6 +21719,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.ylzx.net
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -22396,6 +22407,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.11h5.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
@@ -22617,6 +22629,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.11h5.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
