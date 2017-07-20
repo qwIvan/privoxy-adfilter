@@ -6329,6 +6329,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.114.95.102.77
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6707,6 +6708,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -13827,6 +13829,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.114.95.102.77
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14205,6 +14208,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -20448,6 +20452,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.114.95.102.77
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20816,6 +20821,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
