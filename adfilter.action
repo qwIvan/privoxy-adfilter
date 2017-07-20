@@ -118,6 +118,7 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
 .duoyidd.com
+.gdsqwy.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -457,6 +458,7 @@ cpro.*.
 .f1.06ps.com
 .ll38.com
 .xiaoyutiao.com
+.bdjs.kaixin100.com
 .dilidili.wang/uploads/allimg/.*1008
 .rmfans.cn/tbao/
 .99shumeng.net/uudHK/
@@ -6339,6 +6341,8 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .114.95.102.77
+.vedeh.com
+.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7627,6 +7631,7 @@ TAG:^adfilter-block-elem$
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
 .duoyidd.com
+.gdsqwy.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7966,6 +7971,7 @@ cpro.*.
 .f1.06ps.com
 .ll38.com
 .xiaoyutiao.com
+.bdjs.kaixin100.com
 .dilidili.wang/uploads/allimg/.*1008
 .rmfans.cn/tbao/
 .99shumeng.net/uudHK/
@@ -13848,6 +13854,8 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .114.95.102.77
+.vedeh.com
+.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15136,6 +15144,7 @@ TAG:^adfilter-block-request$
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
 .duoyidd.com
+.gdsqwy.org
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15416,6 +15425,7 @@ a.kj-cy.cn
 .f1.06ps.com
 .ll38.com
 .xiaoyutiao.com
+.bdjs.kaixin100.com
 .dilidili.wang/uploads/allimg/.*1008
 .rmfans.cn/tbao/
 .99shumeng.net/uudHK/
@@ -20479,6 +20489,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .114.95.102.77
+.vedeh.com
+.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
