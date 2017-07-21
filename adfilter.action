@@ -60,9 +60,12 @@ TAG:^adfilter-block-dnt$
 .hmyangshengji.com
 .hmttoly.com
 .hk9600.com
+.hbyyzm.com
 .gyrtg.com
+.gdsqwy.org
 .gadwhy.com
 .feifish66.com
+.duoyidd.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -113,13 +116,10 @@ TAG:^adfilter-block-dnt$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-/.*\.m\.23sw\.net[^\w%.-]
-.*.m.23sw.net
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
-.duoyidd.com
-.gdsqwy.org
-.hbyyzm.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -145,9 +145,12 @@ TAG:^adfilter-block-dnt$
 .yetu.net
 .y.damifan.cn
 .xue.zbyw.cn
+.xinju.cc
+.xiaoyutiao.com
 .xbtw.com
 .wuliao.juqingba.cn
 .wenshenbang.com
+.weilianjie.com
 .weibomingzi.com
 .web8.net
 .wda.ydt.com.cn
@@ -214,6 +217,7 @@ TAG:^adfilter-block-dnt$
 .mbs.weathercn.com
 .ma1.meishij.net
 .luolikong.net
+.ll38.com
 .lixiangmo.com
 .linyao.dxsdb.com
 .libs.tvmao.cn
@@ -260,6 +264,7 @@ TAG:^adfilter-block-dnt$
 .gunmi.cn
 .guang.sdsgwy.com
 .gsjdzx.com
+.godloveme.cn
 .gg.zhongyao1.com
 .gg.jkmeishi.com
 .gg.huangye88.com
@@ -277,6 +282,7 @@ TAG:^adfilter-block-dnt$
 .fanpingbi*.gaokao.com
 .f1.meishichina.com
 .f1.bizhiku.net
+.f1.06ps.com
 .f.520tingshu.com
 .ent1.12584.cn
 .dzais.com
@@ -330,6 +336,7 @@ TAG:^adfilter-block-dnt$
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
 .bdjs.ylq.com
+.bdjs.kaixin100.com
 .bdjs.ixiumei.com
 .bdjs.faxingzhan.com
 .bdjs.99.com.cn
@@ -344,6 +351,7 @@ TAG:^adfilter-block-dnt$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
 .bd.haomagujia.com
@@ -378,6 +386,7 @@ TAG:^adfilter-block-dnt$
 .a1.gexing.me
 .a1.azg168.cn
 .a1.0s.net.cn
+.a.yixie8.com
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.shuoshuodaquan.net
@@ -440,6 +449,7 @@ TAG:^adfilter-block-dnt$
 .1.hnyouneng.com
 .1.glook.cn
 .1.feihua.com
+.1.codesdq.com
 .1.cjcp.cn
 .1.51sxue.cn
 .1.201980.com
@@ -453,31 +463,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.weilianjie.com
-.godloveme.cn
-.a.yixie8.com
-.f1.06ps.com
-.ll38.com
-.xiaoyutiao.com
-.bdjs.kaixin100.com
-.1.codesdq.com
-.bd1.365qilu.com
-.xinju.cc
-.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
-.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
-.www1.wi.to/.*\.gif
-.piclect.com/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.qnsb.com/news/index\.php\?m=poster&
-.news.yanqing-888.net
-.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
-.adminbuy.cn/images/
-.zhiys.com/img_new/mobilemo2\.jpg
-.partner.toutiao.com
-.dilidili.wang/uploads/allimg/.*1008
-.rmfans.cn/tbao/
-.99shumeng.net/uudHK/
 .zzzyk.com/js/
+.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -540,6 +527,7 @@ cpro.*.
 .zhongyi.ifeng.com/a/zt\.js
 .zhongtaozs.com/%5Cad/
 .zhlzw.com/genfa/
+.zhiys.com/img_new/mobilemo2\.jpg
 .zhijia.com/hd/.*\.swf
 .zhihu.com/node/Banner\?
 .zhihu.com/api/v4/banners/
@@ -800,6 +788,7 @@ cpro.*.
 .wx.sina.com.cn/iframe/pdps/
 .wx.56.com/youxitg/
 .wwwcdn.kimiss.net/btn/
+.www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
 .wwp5.com/ps/
 .ww7814.win/pic/
@@ -1221,6 +1210,7 @@ cpro.*.
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
 .sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
@@ -1244,6 +1234,7 @@ cpro.*.
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
+.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
@@ -1388,6 +1379,7 @@ cpro.*.
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
+.rmfans.cn/tbao/
 .rkanr.com/data/cpcache/cp.*\.js
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
@@ -1469,6 +1461,7 @@ cpro.*.
 .qq.com/article_qq/ad_article_qq/
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
+.qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
@@ -1598,6 +1591,7 @@ cpro.*.
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
 .pics.wanlibo.com/js/pagemodulestat\.js
+.piclect.com/.*\.gif
 .pic.zol-img.com.cn
 .pic.yupoo.com/showflash/
 .pic.jd-bbs.com/.*\.swf
@@ -1656,6 +1650,7 @@ cpro.*.
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
 .patmm.com/ad/
+.partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
@@ -1735,6 +1730,7 @@ cpro.*.
 .newsgroup.la/search/ysm/pam430x80\.swf
 .newsgroup.la/ad/yahoo/fad\.gif
 .news18a.com/image/ad_ina/
+.news.yanqing-888.net
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
@@ -3118,6 +3114,8 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
+.dilidili.wang/uploads/allimg/.*1008
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -3820,6 +3818,7 @@ cpro.*.
 .adp.cnool.net
 .adnetpub.yaolan.com
 .admx.baixing.com
+.adminbuy.cn/images/
 .admin6.com/templates/index/default/images/100060\.gif
 .admin5.com/lib/js/.*_article
 .admin5.com/hezuo/action/
@@ -3922,6 +3921,7 @@ cpro.*.
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
+.99shumeng.net/uudHK/
 .99re*./.*\.com/img/.*\.gif
 .99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
@@ -4942,6 +4942,7 @@ tanchuan.htm*.
 .victorjx.com
 .vf5c.com
 .vegent.cn
+.vedeh.com
 .vdazz.net
 .vamaker.com
 .v707070.com
@@ -5182,6 +5183,7 @@ tanchuan.htm*.
 .qiailm.com
 .qhaif.com
 .qgss8.com
+.qdxrhg.com
 .qdchunyu.com
 .qbyy010.com
 .pyzkk.com
@@ -6088,6 +6090,7 @@ tanchuan.htm*.
 .4936.cn
 .47.90.50.177
 .456juhd.com
+.45.34.240.72
 .44pv.com
 .3ygww.com
 .3vlm.com
@@ -6180,6 +6183,7 @@ tanchuan.htm*.
 .12306media.com
 .12291.com
 .122.227.254.195
+.11h5.com
 .119.4.249.166
 .1188.com
 .118114.cn
@@ -6190,6 +6194,7 @@ tanchuan.htm*.
 .115.29.148.61
 .114yeah.com
 .114lm.com
+.114.95.102.77
 .1133.cc
 .112.74.95.46
 .111111qb.com
@@ -6355,13 +6360,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.114.95.102.77
-.vedeh.com
-.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
-.11h5.com
-.qdxrhg.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -6458,6 +6458,7 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -6579,6 +6580,7 @@ getAliyunAdv.*.
 /(.*/)?gaog/.*
 /(.*/)?gamedog_mobile_
 /(.*/)?g3/960x90\.png
+/(.*/)?g3/960x90-
 /(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
@@ -6738,8 +6740,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?router-firmware-update/dl/js/jr5/up\.js
-/(.*/)?g3/960x90-
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7591,9 +7591,12 @@ TAG:^adfilter-block-elem$
 .hmyangshengji.com
 .hmttoly.com
 .hk9600.com
+.hbyyzm.com
 .gyrtg.com
+.gdsqwy.org
 .gadwhy.com
 .feifish66.com
+.duoyidd.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -7644,13 +7647,10 @@ TAG:^adfilter-block-elem$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-/.*\.m\.23sw\.net[^\w%.-]
-.*.m.23sw.net
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
-.duoyidd.com
-.gdsqwy.org
-.hbyyzm.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7676,9 +7676,12 @@ TAG:^adfilter-block-elem$
 .yetu.net
 .y.damifan.cn
 .xue.zbyw.cn
+.xinju.cc
+.xiaoyutiao.com
 .xbtw.com
 .wuliao.juqingba.cn
 .wenshenbang.com
+.weilianjie.com
 .weibomingzi.com
 .web8.net
 .wda.ydt.com.cn
@@ -7745,6 +7748,7 @@ TAG:^adfilter-block-elem$
 .mbs.weathercn.com
 .ma1.meishij.net
 .luolikong.net
+.ll38.com
 .lixiangmo.com
 .linyao.dxsdb.com
 .libs.tvmao.cn
@@ -7791,6 +7795,7 @@ TAG:^adfilter-block-elem$
 .gunmi.cn
 .guang.sdsgwy.com
 .gsjdzx.com
+.godloveme.cn
 .gg.zhongyao1.com
 .gg.jkmeishi.com
 .gg.huangye88.com
@@ -7808,6 +7813,7 @@ TAG:^adfilter-block-elem$
 .fanpingbi*.gaokao.com
 .f1.meishichina.com
 .f1.bizhiku.net
+.f1.06ps.com
 .f.520tingshu.com
 .ent1.12584.cn
 .dzais.com
@@ -7861,6 +7867,7 @@ TAG:^adfilter-block-elem$
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
 .bdjs.ylq.com
+.bdjs.kaixin100.com
 .bdjs.ixiumei.com
 .bdjs.faxingzhan.com
 .bdjs.99.com.cn
@@ -7875,6 +7882,7 @@ TAG:^adfilter-block-elem$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
 .bd.haomagujia.com
@@ -7909,6 +7917,7 @@ TAG:^adfilter-block-elem$
 .a1.gexing.me
 .a1.azg168.cn
 .a1.0s.net.cn
+.a.yixie8.com
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.shuoshuodaquan.net
@@ -7971,6 +7980,7 @@ TAG:^adfilter-block-elem$
 .1.hnyouneng.com
 .1.glook.cn
 .1.feihua.com
+.1.codesdq.com
 .1.cjcp.cn
 .1.51sxue.cn
 .1.201980.com
@@ -7984,31 +7994,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.weilianjie.com
-.godloveme.cn
-.a.yixie8.com
-.f1.06ps.com
-.ll38.com
-.xiaoyutiao.com
-.bdjs.kaixin100.com
-.1.codesdq.com
-.bd1.365qilu.com
-.xinju.cc
-.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
-.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
-.www1.wi.to/.*\.gif
-.piclect.com/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.qnsb.com/news/index\.php\?m=poster&
-.news.yanqing-888.net
-.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
-.adminbuy.cn/images/
-.zhiys.com/img_new/mobilemo2\.jpg
-.partner.toutiao.com
-.dilidili.wang/uploads/allimg/.*1008
-.rmfans.cn/tbao/
-.99shumeng.net/uudHK/
 .zzzyk.com/js/
+.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -8071,6 +8058,7 @@ cpro.*.
 .zhongyi.ifeng.com/a/zt\.js
 .zhongtaozs.com/%5Cad/
 .zhlzw.com/genfa/
+.zhiys.com/img_new/mobilemo2\.jpg
 .zhijia.com/hd/.*\.swf
 .zhihu.com/node/Banner\?
 .zhihu.com/api/v4/banners/
@@ -8331,6 +8319,7 @@ cpro.*.
 .wx.sina.com.cn/iframe/pdps/
 .wx.56.com/youxitg/
 .wwwcdn.kimiss.net/btn/
+.www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
 .wwp5.com/ps/
 .ww7814.win/pic/
@@ -8752,6 +8741,7 @@ cpro.*.
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
 .sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
@@ -8775,6 +8765,7 @@ cpro.*.
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
+.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
@@ -8919,6 +8910,7 @@ cpro.*.
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
+.rmfans.cn/tbao/
 .rkanr.com/data/cpcache/cp.*\.js
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
@@ -9000,6 +8992,7 @@ cpro.*.
 .qq.com/article_qq/ad_article_qq/
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
+.qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
@@ -9129,6 +9122,7 @@ cpro.*.
 .pifa.fobshanghai.com/link/
 .pics.xgo-img.com.cn
 .pics.wanlibo.com/js/pagemodulestat\.js
+.piclect.com/.*\.gif
 .pic.zol-img.com.cn
 .pic.yupoo.com/showflash/
 .pic.jd-bbs.com/.*\.swf
@@ -9187,6 +9181,7 @@ cpro.*.
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
 .patmm.com/ad/
+.partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
@@ -9266,6 +9261,7 @@ cpro.*.
 .newsgroup.la/search/ysm/pam430x80\.swf
 .newsgroup.la/ad/yahoo/fad\.gif
 .news18a.com/image/ad_ina/
+.news.yanqing-888.net
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
@@ -10649,6 +10645,8 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
+.dilidili.wang/uploads/allimg/.*1008
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -11351,6 +11349,7 @@ cpro.*.
 .adp.cnool.net
 .adnetpub.yaolan.com
 .admx.baixing.com
+.adminbuy.cn/images/
 .admin6.com/templates/index/default/images/100060\.gif
 .admin5.com/lib/js/.*_article
 .admin5.com/hezuo/action/
@@ -11453,6 +11452,7 @@ cpro.*.
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
+.99shumeng.net/uudHK/
 .99re*./.*\.com/img/.*\.gif
 .99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
@@ -12473,6 +12473,7 @@ tanchuan.htm*.
 .victorjx.com
 .vf5c.com
 .vegent.cn
+.vedeh.com
 .vdazz.net
 .vamaker.com
 .v707070.com
@@ -12713,6 +12714,7 @@ tanchuan.htm*.
 .qiailm.com
 .qhaif.com
 .qgss8.com
+.qdxrhg.com
 .qdchunyu.com
 .qbyy010.com
 .pyzkk.com
@@ -13619,6 +13621,7 @@ tanchuan.htm*.
 .4936.cn
 .47.90.50.177
 .456juhd.com
+.45.34.240.72
 .44pv.com
 .3ygww.com
 .3vlm.com
@@ -13711,6 +13714,7 @@ tanchuan.htm*.
 .12306media.com
 .12291.com
 .122.227.254.195
+.11h5.com
 .119.4.249.166
 .1188.com
 .118114.cn
@@ -13721,6 +13725,7 @@ tanchuan.htm*.
 .115.29.148.61
 .114yeah.com
 .114lm.com
+.114.95.102.77
 .1133.cc
 .112.74.95.46
 .111111qb.com
@@ -13886,13 +13891,8 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.114.95.102.77
-.vedeh.com
-.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
-.11h5.com
-.qdxrhg.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -13989,6 +13989,7 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -14110,6 +14111,7 @@ getAliyunAdv.*.
 /(.*/)?gaog/.*
 /(.*/)?gamedog_mobile_
 /(.*/)?g3/960x90\.png
+/(.*/)?g3/960x90-
 /(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
@@ -14269,8 +14271,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?router-firmware-update/dl/js/jr5/up\.js
-/(.*/)?g3/960x90-
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15123,9 +15123,12 @@ TAG:^adfilter-block-request$
 .hmyangshengji.com
 .hmttoly.com
 .hk9600.com
+.hbyyzm.com
 .gyrtg.com
+.gdsqwy.org
 .gadwhy.com
 .feifish66.com
+.duoyidd.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -15175,13 +15178,10 @@ TAG:^adfilter-block-request$
 .*.m.biqugezw.com
 /.*\.m\.beidouxin\.com[^\w%.-]
 .*.m.beidouxin.com
-/.*\.m\.23sw\.net[^\w%.-]
-.*.m.23sw.net
 /.*\.m\.3dllc\.cc[^\w%.-]
 .*.m.3dllc.cc
-.duoyidd.com
-.gdsqwy.org
-.hbyyzm.com
+/.*\.m\.23sw\.net[^\w%.-]
+.*.m.23sw.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15201,6 +15201,8 @@ TAG:^adfilter-block-request$
 .yhzm.cc
 .y.damifan.cn
 .xue.zbyw.cn
+.xinju.cc
+.xiaoyutiao.com
 .xbtw.com
 .wuliao.juqingba.cn
 .weibomingzi.com
@@ -15251,6 +15253,7 @@ TAG:^adfilter-block-request$
 .milk.yesky.com.cn
 .mbs.weathercn.com
 .ma1.meishij.net
+.ll38.com
 .lixiangmo.com
 .linyao.dxsdb.com
 .libs.tvmao.cn
@@ -15286,6 +15289,7 @@ TAG:^adfilter-block-request$
 .hapic1.jhkxwl.com
 .gzlykj.cn
 .guang.sdsgwy.com
+.godloveme.cn
 .gg.zhongyao1.com
 .gg.jkmeishi.com
 .gg.huangye88.com
@@ -15301,6 +15305,7 @@ TAG:^adfilter-block-request$
 .fanpingbi*.gaokao.com
 .f1.meishichina.com
 .f1.bizhiku.net
+.f1.06ps.com
 .f.520tingshu.com
 .ent1.12584.cn
 .dzais.com
@@ -15350,6 +15355,7 @@ TAG:^adfilter-block-request$
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
 .bdjs.ylq.com
+.bdjs.kaixin100.com
 .bdjs.ixiumei.com
 .bdjs.faxingzhan.com
 .bdjs.99.com.cn
@@ -15364,6 +15370,7 @@ TAG:^adfilter-block-request$
 .bd1.nxing.cn
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
 .bd.haomagujia.com
@@ -15397,6 +15404,7 @@ TAG:^adfilter-block-request$
 .a1.gexing.me
 .a1.azg168.cn
 .a1.0s.net.cn
+.a.yixie8.com
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.shuoshuodaquan.net
@@ -15449,6 +15457,7 @@ TAG:^adfilter-block-request$
 .1.hnyouneng.com
 .1.glook.cn
 .1.feihua.com
+.1.codesdq.com
 .1.cjcp.cn
 .1.51sxue.cn
 .1.201980.com
@@ -15457,29 +15466,8 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.godloveme.cn
-.a.yixie8.com
-.f1.06ps.com
-.ll38.com
-.xiaoyutiao.com
-.bdjs.kaixin100.com
-.1.codesdq.com
-.bd1.365qilu.com
-.xinju.cc
-.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
-.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
-.www1.wi.to/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.qnsb.com/news/index\.php\?m=poster&
-.news.yanqing-888.net
-.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
-.adminbuy.cn/images/
-.zhiys.com/img_new/mobilemo2\.jpg
-.partner.toutiao.com
-.dilidili.wang/uploads/allimg/.*1008
-.rmfans.cn/tbao/
-.99shumeng.net/uudHK/
 .zzzyk.com/js/
+.zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
 .zzsky.cn/images/a_d_
 .zzimg.51.la
@@ -15542,6 +15530,7 @@ a.kj-cy.cn
 .zhongyi.ifeng.com/a/zt\.js
 .zhongtaozs.com/%5Cad/
 .zhlzw.com/genfa/
+.zhiys.com/img_new/mobilemo2\.jpg
 .zhijia.com/hd/.*\.swf
 .zhihu.com/node/Banner\?
 .zhihu.com/api/v4/banners/
@@ -15795,6 +15784,7 @@ a.kj-cy.cn
 .wx.sina.com.cn/iframe/pdps/
 .wx.56.com/youxitg/
 .wwwcdn.kimiss.net/btn/
+.www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
 .wwp5.com/ps/
 .ww7814.win/pic/
@@ -16200,6 +16190,7 @@ a.kj-cy.cn
 .sinaimg.cn/mw690/a1916e89gw1dye4d74zmij\.jpg
 .sinaimg.cn/mw690/a1916e89gw1dye4d6qvyaj\.jpg
 .sinaimg.cn/mw690/7d1c8e96gw1ehjblxlj39j206y06ydgi\.jpg
+.sinaimg.cn/mw690/006tUjm0gy1fhqee4npcmg30dc01oq78\.gif
 .sinaimg.cn/mw1024/c00f4a08gw1eu67cnu8xqg20l4028gr1\.gif
 .sinaimg.cn/mw1024/006rogFpgy1ffpm4yksl5g30qo02igyn\.gif
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
@@ -16223,6 +16214,7 @@ a.kj-cy.cn
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
+.sinaimg.cn/large/00637iPCgy1fgkzscfre3g30qo01odre\.gif
 .sinaimg.cn/large/0060lm7Tgw1f8acu5ly62g308c03i0t0\.gif
 .sinaimg.cn/large/0060AzaUgw1f7ay8mig7dg30vo02s0wo\.gif
 .sinaimg.cn/large/005EuLLtgw1eji5kzbgvlg30r801ogpy\.gif
@@ -16360,6 +16352,7 @@ a.kj-cy.cn
 .rsdown.cn/static/t/
 .rsccs.com/code/
 .rosmm.com/ad_js/
+.rmfans.cn/tbao/
 .rkanr.com/data/cpcache/cp.*\.js
 .rjfcxxw.com/yimaopic/
 .rizhao.net/html/js/main\.js
@@ -16434,6 +16427,7 @@ a.kj-cy.cn
 .qq.com/bbs/bbs_topgg\.htm
 .qq.com/article_qq/ad_article_qq/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
+.qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
@@ -16614,6 +16608,7 @@ a.kj-cy.cn
 .pc0359.cn/Style/sc/
 .pc0359.cn/style/js/un\.js
 .patmm.com/ad/
+.partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
@@ -16693,6 +16688,7 @@ a.kj-cy.cn
 .newsgroup.la/search/ysm/pam430x80\.swf
 .newsgroup.la/ad/yahoo/fad\.gif
 .news18a.com/image/ad_ina/
+.news.yanqing-888.net
 .news.sina.com.tw/js/ti\.js
 .news.sina.com.cn/js/792/.*head.*\.js
 .news.hz66.com/IAA/201111/
@@ -18013,6 +18009,8 @@ a.kj-cy.cn
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
+.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
+.dilidili.wang/uploads/allimg/.*1008
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -18692,6 +18690,7 @@ a.kj-cy.cn
 .adp.cnool.net
 .adnetpub.yaolan.com
 .admx.baixing.com
+.adminbuy.cn/images/
 .admin6.com/templates/index/default/images/100060\.gif
 .admin5.com/lib/js/.*_article
 .admin5.com/hezuo/action/
@@ -18782,6 +18781,7 @@ a.kj-cy.cn
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
+.99shumeng.net/uudHK/
 .99re*./.*\.com/img/.*\.gif
 .99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
@@ -19680,6 +19680,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .videondun.com
 .victorjx.com
 .vegent.cn
+.vedeh.com
 .vdazz.net
 .v707070.com
 .uzpmrbek.com
@@ -20429,6 +20430,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .4ggww.com
 .47.90.50.177
 .456juhd.com
+.45.34.240.72
 .3ygww.com
 .3qmh.com
 .3htai.com
@@ -20482,10 +20484,12 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .12365chia.com
 .12306media.com
 .122.227.254.195
+.11h5.com
 .119.4.249.166
 .118.144.88.216
 .117.25.133.209
 .116.55.227.242
+.114.95.102.77
 .112.74.95.46
 .111111qb.com
 .111.73.45.147
@@ -20538,12 +20542,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.114.95.102.77
-.vedeh.com
-.45.34.240.72
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
-.11h5.com
 ad.*.
 /(.*/)?js/tc\.js
 /(.*/)?js/ad/
@@ -20639,6 +20639,7 @@ sogouAD.*.
 /(.*/)?Runtime/js/top960\.js
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
+/(.*/)?router-firmware-update/dl/js/jr5/up\.js
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -20755,6 +20756,7 @@ getAliyunAdv.*.
 /(.*/)?gaog/.*
 /(.*/)?gamedog_mobile_
 /(.*/)?g3/960x90\.png
+/(.*/)?g3/960x90-
 /(.*/)?frm_adv\.aspx
 /(.*/)?floatad2\.
 floatad2.*.
@@ -20910,8 +20912,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?router-firmware-update/dl/js/jr5/up\.js
-/(.*/)?g3/960x90-
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21329,6 +21329,7 @@ gg.*.
 .yihubaiying.com
 .yetu.net
 .wenshenbang.com
+.weilianjie.com
 .web8.net
 .vjie.com
 .trebleperfect.com
@@ -21375,9 +21376,8 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.weilianjie.com
-.piclect.com/.*\.gif
 .xxx169.org
+.piclect.com/.*\.gif
 .kokojia.com
 .k99.cc
 .henghost.com
@@ -21536,6 +21536,7 @@ gg.*.
 .qkkjd.com
 .qiyou.com
 .qidou.com
+.qdxrhg.com
 .prohost.com.tw
 .pro.cn
 .poyang.cn
@@ -21913,7 +21914,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.qdxrhg.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
