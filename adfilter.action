@@ -468,6 +468,7 @@ cpro.*.
 .f1.pig66.com
 .a.xinwenge.net
 .jeepyy.com
+.dm.pw0.cn
 .one.520319.cn
 .a.exam58.com
 .qcjslm.com
@@ -8009,6 +8010,7 @@ cpro.*.
 .f1.pig66.com
 .a.xinwenge.net
 .jeepyy.com
+.dm.pw0.cn
 .one.520319.cn
 .a.exam58.com
 .qcjslm.com
@@ -15490,6 +15492,7 @@ a.kj-cy.cn
 .644446.com
 .f1.pig66.com
 .a.xinwenge.net
+.dm.pw0.cn
 .one.520319.cn
 .a.exam58.com
 .qcjslm.com
@@ -23274,6 +23277,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.dilidili.wang/ad/ads\.js
 .dolc.de/source/plugin/unadblock/
 
 {+client-header-tagger{adfilter-unblock-dnt-R199} \
@@ -24275,6 +24279,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.dilidili.wang/ad/ads\.js
 .dolc.de/source/plugin/unadblock/
 
 {+client-header-tagger{adfilter-unblock-elem-R199} \
@@ -25255,6 +25260,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.dilidili.wang/ad/ads\.js
 .dolc.de/source/plugin/unadblock/
 
 {-block \
