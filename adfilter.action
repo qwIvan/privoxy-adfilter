@@ -468,6 +468,7 @@ cpro.*.
 .f1.pig66.com
 .a.xinwenge.net
 .jeepyy.com
+.ja1.gamersky.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -3119,8 +3120,7 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.dilidili.wang/uploads/allimg/.*1008
+.dilidili.wang/uploads/allimg/170720/6_1500209066\.jpg
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -7450,8 +7450,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-dnt-Rn160} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
 {+client-header-tagger{adfilter-block-dnt-Rn161} \
 }
@@ -8006,6 +8006,7 @@ cpro.*.
 .f1.pig66.com
 .a.xinwenge.net
 .jeepyy.com
+.ja1.gamersky.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10657,8 +10658,7 @@ cpro.*.
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.dilidili.wang/uploads/allimg/.*1008
+.dilidili.wang/uploads/allimg/170720/6_1500209066\.jpg
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -14988,8 +14988,8 @@ duilian.*.
 
 {+client-header-tagger{adfilter-block-elem-Rn160} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
 {+client-header-tagger{adfilter-block-elem-Rn161} \
 }
@@ -15484,6 +15484,7 @@ a.kj-cy.cn
 .644446.com
 .f1.pig66.com
 .a.xinwenge.net
+.ja1.gamersky.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18027,8 +18028,7 @@ a.kj-cy.cn
 .dio889.net/images/.*\.gif
 .dio88.net/images/.*\.gif
 .dio66.net/images/.*\.gif
-.dilidili.wang/uploads/allimg/170718/window_bkm\.jpg
-.dilidili.wang/uploads/allimg/.*1008
+.dilidili.wang/uploads/allimg/170720/6_1500209066\.jpg
 .dilidili.wang/shouye/
 .dilidili.wang/ad/
 .dig.chouti.com/advert
@@ -21183,8 +21183,8 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn160} \
 }
-/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js/
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js
+/(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn165} \
 }
