@@ -480,6 +480,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.medsci.cn/images/wyg\.jpg
+.77kp.com/gg123/
 .top139.com/aliyun\.jpg
 .sogou.com/html/ext/agentsdk\.js
 .pingwest.com/wp-content/uploads/2017/07/WechatIMG
@@ -6210,7 +6212,6 @@ tanchuan.htm*.
 .12306media.com
 .12291.com
 .122.227.254.195
-.11h5.com
 .119.4.249.166
 .1188.com
 .118114.cn
@@ -8039,6 +8040,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.medsci.cn/images/wyg\.jpg
+.77kp.com/gg123/
 .top139.com/aliyun\.jpg
 .sogou.com/html/ext/agentsdk\.js
 .pingwest.com/wp-content/uploads/2017/07/WechatIMG
@@ -13769,7 +13772,6 @@ tanchuan.htm*.
 .12306media.com
 .12291.com
 .122.227.254.195
-.11h5.com
 .119.4.249.166
 .1188.com
 .118114.cn
@@ -15537,6 +15539,8 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.medsci.cn/images/wyg\.jpg
+.77kp.com/gg123/
 .top139.com/aliyun\.jpg
 .sogou.com/html/ext/agentsdk\.js
 .pingwest.com/wp-content/uploads/2017/07/WechatIMG
@@ -20565,7 +20569,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .12365chia.com
 .12306media.com
 .122.227.254.195
-.11h5.com
 .119.4.249.166
 .118.144.88.216
 .117.25.133.209
