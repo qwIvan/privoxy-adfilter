@@ -273,7 +273,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R43
 s@^referer(?=:[^\n]*[./](?:ady8\.info|aikuhu\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R44
-s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.kim|btlibrary\.co|cilidaquan\.me|diggbt\.ws|savebt\.com|storebt\.com|torrentkitty\.ws|zhongzifuli\.org)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.pet|btlibrary\.co|cilidaquan\.me|diggbt\.biz|savebt\.com|storebt\.pw|torrentkitty\.red|zhongzicili\.net)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R45
 s@^referer(?=:[^\n]*[./](?:am5200\.com|baby360\.ru|haowan\.ru|kv130\.com|kv700\.com|we5200\.com|we560\.com)):.*@adfilter-block-dnt@Ti
@@ -813,7 +813,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R43
 s@^referer(?=:[^\n]*[./](?:ady8\.info|aikuhu\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R44
-s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.kim|btlibrary\.co|cilidaquan\.me|diggbt\.ws|savebt\.com|storebt\.com|torrentkitty\.ws|zhongzifuli\.org)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.pet|btlibrary\.co|cilidaquan\.me|diggbt\.biz|savebt\.com|storebt\.pw|torrentkitty\.red|zhongzicili\.net)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R45
 s@^referer(?=:[^\n]*[./](?:am5200\.com|baby360\.ru|haowan\.ru|kv130\.com|kv700\.com|we5200\.com|we560\.com)):.*@adfilter-block-elem@Ti
@@ -1152,7 +1152,7 @@ s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R181t
 s@^referer:.*@$&\t$host@Di
-s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.kim|btlibrary\.co|cilidaquan\.me|diggbt\.ws|savebt\.com|storebt\.com|torrentkitty\.ws|zhongzifuli\.org))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
+s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.pet|btlibrary\.co|cilidaquan\.me|diggbt\.biz|savebt\.com|storebt\.pw|torrentkitty\.red|zhongzicili\.net))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R182t
 s@^referer:.*@$&\t$host@Di
