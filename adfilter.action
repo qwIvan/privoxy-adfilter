@@ -482,6 +482,8 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .pingbi.diudou.com
+.yun1.yahoo001.com
+.kuaidi100.com/images/kuaidi/201612081.*4
 .medsci.cn/images/wyg\.jpg
 .77kp.com/gg123/
 .top139.com/aliyun\.jpg
@@ -8044,6 +8046,8 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .pingbi.diudou.com
+.yun1.yahoo001.com
+.kuaidi100.com/images/kuaidi/201612081.*4
 .medsci.cn/images/wyg\.jpg
 .77kp.com/gg123/
 .top139.com/aliyun\.jpg
@@ -15544,6 +15548,8 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .pingbi.diudou.com
+.yun1.yahoo001.com
+.kuaidi100.com/images/kuaidi/201612081.*4
 .medsci.cn/images/wyg\.jpg
 .77kp.com/gg123/
 .top139.com/aliyun\.jpg
