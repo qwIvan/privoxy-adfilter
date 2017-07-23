@@ -485,6 +485,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .vi1.ku6img.net
+.m1905.cn/images/vod/vod.*-90\.jpg
 .sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
@@ -8055,6 +8056,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
 .vi1.ku6img.net
+.m1905.cn/images/vod/vod.*-90\.jpg
 .sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
@@ -15563,6 +15565,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .vi1.ku6img.net
+.m1905.cn/images/vod/vod.*-90\.jpg
 .sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
