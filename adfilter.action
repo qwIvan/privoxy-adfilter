@@ -484,6 +484,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
 .zzzyk.com/js/
@@ -8051,6 +8052,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
 .zzzyk.com/js/
@@ -15556,6 +15558,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.sssvd.china.com
 .setn.com/js/advertisement\?
 .itc.cn/base/core/gg_
 .zzzyk.com/js/
