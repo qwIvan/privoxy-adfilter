@@ -78,6 +78,7 @@ TAG:^adfilter-block-dnt$
 .cindy17club.com
 .changhehengqi.com
 .cdgxq.com
+.book9.net
 .axkxy.com
 .awyys.com
 .aikan6.com
@@ -123,7 +124,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.book9.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -141,6 +141,7 @@ TAG:^adfilter-block-dnt$
 .zhaoshang8.com
 .zhantai.com
 .yunzuowen.com
+.yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
 .ykxwn.com
@@ -203,6 +204,7 @@ TAG:^adfilter-block-dnt$
 .qooic.com
 .qcjslm.com
 .ptw.la
+.pingbi.diudou.com
 .painiuimg.com
 .p1.18zhongyao.com
 .one.520319.cn
@@ -481,14 +483,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.pingbi.diudou.com
-.yun1.yahoo001.com
-.kuaidi100.com/images/kuaidi/201612081.*4
-.medsci.cn/images/wyg\.jpg
-.77kp.com/gg123/
-.top139.com/aliyun\.jpg
-.sogou.com/html/ext/agentsdk\.js
-.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1037,6 +1031,7 @@ cpro.*.
 .totheglory.im/pic/ttg-
 .totheglory.im/pic/fangtuo\.jpg
 .topthink.com/api/basic/ad_
+.top139.com/aliyun\.jpg
 .tonnn.com/promotion2/.*\.js
 .tompda.com/tupian/2013-03-15/300\.jpg
 .tompda.com/dev/bbsadv/
@@ -1200,6 +1195,7 @@ cpro.*.
 .sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
+.sogou.com/html/ext/agentsdk\.js
 .sogou.com/acquireAdvertise\.
 .sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
@@ -1607,6 +1603,7 @@ cpro.*.
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
+.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .pingpang.info/uploadfile/TTW\.gif
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
@@ -1899,6 +1896,7 @@ cpro.*.
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
+.medsci.cn/images/wyg\.jpg
 .medsci.cn/aimgs/
 .media.cheshi-img.com
 .mcncc.com/yeyou/.*\.htm
@@ -2076,6 +2074,7 @@ cpro.*.
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
+.kuaidi100.com/images/kuaidi/201612081.*4
 .ku6img.com/data1/p8/cms/2016/1/5/pic_1451965769733\.png
 .ku6.com/.*/index\.shtml
 .ktzhk.com/file/adv/
@@ -4054,6 +4053,7 @@ cpro.*.
 .78dm.net/uploads/imgs/2013/.*250
 .78dm.net/images/mingren250\.jpg
 .789xz.com/index2/img/xiazai
+.77kp.com/gg123/
 .77kp.com/bd/
 .77fkk5.com1.z0.glb.clouddn.com/bar/
 .77file.com/jsa/
@@ -5472,6 +5472,7 @@ tanchuan.htm*.
 .jiudianhudong.com
 .jisucn.com
 .jindu179.com
+.jimeilm.com
 .jiexiyong.com
 .jiehantai.com
 .jianmei123.com
@@ -6392,7 +6393,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jimeilm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7642,6 +7642,7 @@ TAG:^adfilter-block-elem$
 .cindy17club.com
 .changhehengqi.com
 .cdgxq.com
+.book9.net
 .axkxy.com
 .awyys.com
 .aikan6.com
@@ -7687,7 +7688,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.book9.net
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7705,6 +7705,7 @@ TAG:^adfilter-block-elem$
 .zhaoshang8.com
 .zhantai.com
 .yunzuowen.com
+.yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
 .ykxwn.com
@@ -7767,6 +7768,7 @@ TAG:^adfilter-block-elem$
 .qooic.com
 .qcjslm.com
 .ptw.la
+.pingbi.diudou.com
 .painiuimg.com
 .p1.18zhongyao.com
 .one.520319.cn
@@ -8045,14 +8047,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.pingbi.diudou.com
-.yun1.yahoo001.com
-.kuaidi100.com/images/kuaidi/201612081.*4
-.medsci.cn/images/wyg\.jpg
-.77kp.com/gg123/
-.top139.com/aliyun\.jpg
-.sogou.com/html/ext/agentsdk\.js
-.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8601,6 +8595,7 @@ cpro.*.
 .totheglory.im/pic/ttg-
 .totheglory.im/pic/fangtuo\.jpg
 .topthink.com/api/basic/ad_
+.top139.com/aliyun\.jpg
 .tonnn.com/promotion2/.*\.js
 .tompda.com/tupian/2013-03-15/300\.jpg
 .tompda.com/dev/bbsadv/
@@ -8764,6 +8759,7 @@ cpro.*.
 .sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
+.sogou.com/html/ext/agentsdk\.js
 .sogou.com/acquireAdvertise\.
 .sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
@@ -9171,6 +9167,7 @@ cpro.*.
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
+.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .pingpang.info/uploadfile/TTW\.gif
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
@@ -9463,6 +9460,7 @@ cpro.*.
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
+.medsci.cn/images/wyg\.jpg
 .medsci.cn/aimgs/
 .media.cheshi-img.com
 .mcncc.com/yeyou/.*\.htm
@@ -9640,6 +9638,7 @@ cpro.*.
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
+.kuaidi100.com/images/kuaidi/201612081.*4
 .ku6img.com/data1/p8/cms/2016/1/5/pic_1451965769733\.png
 .ku6.com/.*/index\.shtml
 .ktzhk.com/file/adv/
@@ -11618,6 +11617,7 @@ cpro.*.
 .78dm.net/uploads/imgs/2013/.*250
 .78dm.net/images/mingren250\.jpg
 .789xz.com/index2/img/xiazai
+.77kp.com/gg123/
 .77kp.com/bd/
 .77fkk5.com1.z0.glb.clouddn.com/bar/
 .77file.com/jsa/
@@ -13036,6 +13036,7 @@ tanchuan.htm*.
 .jiudianhudong.com
 .jisucn.com
 .jindu179.com
+.jimeilm.com
 .jiexiyong.com
 .jiehantai.com
 .jianmei123.com
@@ -13956,7 +13957,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.jimeilm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15264,6 +15264,7 @@ TAG:^adfilter-block-request$
 .zhihu.xmcimg.com
 .zhifenjie.com
 .zhaoshang8.com
+.yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
 .ykxwn.com
@@ -15312,6 +15313,7 @@ TAG:^adfilter-block-request$
 .qooic.com
 .qcjslm.com
 .ptw.la
+.pingbi.diudou.com
 .painiuimg.com
 .p1.18zhongyao.com
 .one.520319.cn
@@ -15547,14 +15549,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.pingbi.diudou.com
-.yun1.yahoo001.com
-.kuaidi100.com/images/kuaidi/201612081.*4
-.medsci.cn/images/wyg\.jpg
-.77kp.com/gg123/
-.top139.com/aliyun\.jpg
-.sogou.com/html/ext/agentsdk\.js
-.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16086,6 +16080,7 @@ a.kj-cy.cn
 .totheglory.im/pic/ttg-
 .totheglory.im/pic/fangtuo\.jpg
 .topthink.com/api/basic/ad_
+.top139.com/aliyun\.jpg
 .tonnn.com/promotion2/.*\.js
 .tompda.com/tupian/2013-03-15/300\.jpg
 .tompda.com/dev/bbsadv/
@@ -16245,6 +16240,7 @@ a.kj-cy.cn
 .sogoucdn.com/wap/js/
 .sogoucdn.com/imgu/.*\.swf
 .sogou.com/img_logo/wp\.js
+.sogou.com/html/ext/agentsdk\.js
 .sogou.com/acquireAdvertise\.
 .sogou.*./(.*/)?js7/forAppDown\.js
 .softhy.net/hp/
@@ -16633,6 +16629,7 @@ a.kj-cy.cn
 .pixfs.net/js/mib\.min\.js
 .pixfs.net/js/adsbyfalcon\.
 .pipi.cn/player/
+.pingwest.com/wp-content/uploads/2017/07/WechatIMG
 .pingwest.com/wp-content/uploads/.*/ad\.jpg
 .pingpang.info/uploadfile/TTW\.gif
 .pingpang.info/bbs/UploadFile/2014-11/20141113852238131\.jpg
@@ -16915,6 +16912,7 @@ a.kj-cy.cn
 .meijukankan.net/Uploads/images/ourads\.gif
 .meijub.com/js/a/
 .meijub.com/a/youxiajiao
+.medsci.cn/images/wyg\.jpg
 .media.cheshi-img.com
 .mcncc.com/yeyou/.*\.htm
 .mbalib.com/wiki/common/wikibits\.js
@@ -17080,6 +17078,7 @@ a.kj-cy.cn
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
+.kuaidi100.com/images/kuaidi/201612081.*4
 .ku6img.com/data1/p8/cms/2016/1/5/pic_1451965769733\.png
 .ku6.com/.*/index\.shtml
 .ktzhk.com/file/adv/
@@ -18973,6 +18972,7 @@ a.kj-cy.cn
 .78dm.net/uploads/imgs/2013/.*250
 .78dm.net/images/mingren250\.jpg
 .789xz.com/index2/img/xiazai
+.77kp.com/gg123/
 .77kp.com/bd/
 .77fkk5.com1.z0.glb.clouddn.com/bar/
 .77file.com/jsa/
@@ -20104,6 +20104,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .jiyou2014.com
 .jiuku.cc
 .jindu179.com
+.jimeilm.com
 .jiehantai.com
 .jianmei123.com
 .jianbaimei.com
@@ -20637,7 +20638,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.jimeilm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21417,8 +21417,8 @@ gg.*.
 
 {+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rt} \
 }
-.23txt.com
 .book9.net
+.23txt.com
 .zhuolaoshi.com
 .zhongkaowu.com
 .zhantai.com
