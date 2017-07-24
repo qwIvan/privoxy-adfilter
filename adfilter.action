@@ -74,6 +74,7 @@ TAG:^adfilter-block-dnt$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.comesgo.com
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
@@ -124,7 +125,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.comesgo.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -168,6 +168,7 @@ TAG:^adfilter-block-dnt$
 .vvv.ieduw.com
 .vjie.com
 .vi1.souid.com
+.vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
 .undm.qibulo.com
@@ -484,11 +485,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.vi1.ku6img.net
-.m1905.cn/images/vod/vod.*-90\.jpg
-.sssvd.china.com
-.setn.com/js/advertisement\?
-.itc.cn/base/core/gg_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1167,6 +1163,7 @@ cpro.*.
 .static-ssp.yidianzixun.com
 .starnnews.com/banner/
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
+.sssvd.china.com
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
 .sspai.com/api/v1/advertisements\?.*=article_
@@ -1338,6 +1335,7 @@ cpro.*.
 .sgg.southcn.com
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
+.setn.com/js/advertisement\?
 .sesepa.com/topjs/
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
@@ -1934,6 +1932,7 @@ cpro.*.
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
+.m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
 .m.tiebaimg.com/timg\?wapp[^\w%.-].*imgtype=0
 .m.mianbao99.com/js/detail\.js
@@ -2276,6 +2275,7 @@ cpro.*.
 .itheat.com/\?show=
 .iteye.com/iframe_ggbd/
 .itc.cn/.*_ad/src/.*\.swf
+.itc.cn/base/core/gg_
 .itc.cn/activity/activity_js/changyan_config_
 .itc.cn/\?prod=rtb&
 .itc.*./(.*[^\w%.-])?prod=ad&
@@ -5607,6 +5607,7 @@ tanchuan.htm*.
 .gugulonger.cn
 .gugeys.com
 .guduopu.com
+.guangzizai.com
 .gtmucs.cn
 .gso0.com
 .gs307.com
@@ -6399,7 +6400,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.guangzizai.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7645,6 +7645,7 @@ TAG:^adfilter-block-elem$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.comesgo.com
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
@@ -7695,7 +7696,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.comesgo.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7739,6 +7739,7 @@ TAG:^adfilter-block-elem$
 .vvv.ieduw.com
 .vjie.com
 .vi1.souid.com
+.vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
 .undm.qibulo.com
@@ -8055,11 +8056,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.vi1.ku6img.net
-.m1905.cn/images/vod/vod.*-90\.jpg
-.sssvd.china.com
-.setn.com/js/advertisement\?
-.itc.cn/base/core/gg_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8738,6 +8734,7 @@ cpro.*.
 .static-ssp.yidianzixun.com
 .starnnews.com/banner/
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
+.sssvd.china.com
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
 .sspai.com/api/v1/advertisements\?.*=article_
@@ -8909,6 +8906,7 @@ cpro.*.
 .sgg.southcn.com
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
+.setn.com/js/advertisement\?
 .sesepa.com/topjs/
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
@@ -9505,6 +9503,7 @@ cpro.*.
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
+.m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
 .m.tiebaimg.com/timg\?wapp[^\w%.-].*imgtype=0
 .m.mianbao99.com/js/detail\.js
@@ -9847,6 +9846,7 @@ cpro.*.
 .itheat.com/\?show=
 .iteye.com/iframe_ggbd/
 .itc.cn/.*_ad/src/.*\.swf
+.itc.cn/base/core/gg_
 .itc.cn/activity/activity_js/changyan_config_
 .itc.cn/\?prod=rtb&
 .itc.*./(.*[^\w%.-])?prod=ad&
@@ -13178,6 +13178,7 @@ tanchuan.htm*.
 .gugulonger.cn
 .gugeys.com
 .guduopu.com
+.guangzizai.com
 .gtmucs.cn
 .gso0.com
 .gs307.com
@@ -13970,7 +13971,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.guangzizai.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15217,6 +15217,7 @@ TAG:^adfilter-block-request$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.comesgo.com
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
@@ -15265,7 +15266,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.comesgo.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15299,6 +15299,7 @@ TAG:^adfilter-block-request$
 .w.xiaopiaoyou.com
 .vvv.ieduw.com
 .vi1.souid.com
+.vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
 .undm.qibulo.com
@@ -15564,11 +15565,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.vi1.ku6img.net
-.m1905.cn/images/vod/vod.*-90\.jpg
-.sssvd.china.com
-.setn.com/js/advertisement\?
-.itc.cn/base/core/gg_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16226,6 +16222,7 @@ a.kj-cy.cn
 .static-ssp.yidianzixun.com
 .starnnews.com/banner/
 .starbaby.cc/201608/36/f526d86de292e4\.jpg
+.sssvd.china.com
 .sss.sege.xxx
 .sspai.com/attachment/sponsor/
 .sspai.com/api/v1/advertisements\?.*=article_
@@ -16392,6 +16389,7 @@ a.kj-cy.cn
 .sgg.southcn.com
 .sextop.com.tw/upload/blocker/header_new\.gif
 .sexbarss.net/wap/
+.setn.com/js/advertisement\?
 .sesepa.com/topjs/
 .sejie2.us/images/.*\.gif
 .se533.com/template/new/css/.*\.js
@@ -16962,6 +16960,7 @@ a.kj-cy.cn
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
 .m1905.com/asp_js/k\.js
+.m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
 .m.mianbao99.com/js/detail\.js
 .m.kankanwu.com/js/
@@ -17288,6 +17287,7 @@ a.kj-cy.cn
 .itheat.com/\?show=
 .iteye.com/iframe_ggbd/
 .itc.cn/.*_ad/src/.*\.swf
+.itc.cn/base/core/gg_
 .itc.cn/activity/activity_js/changyan_config_
 .itc.cn/\?prod=rtb&
 .itc.*./(.*[^\w%.-])?prod=ad&
@@ -20213,6 +20213,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .guidashu.com
 .gugulonger.cn
 .guduopu.com
+.guangzizai.com
 .gtmucs.cn
 .gso0.com
 .gqswg.com
@@ -20658,7 +20659,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.guangzizai.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
