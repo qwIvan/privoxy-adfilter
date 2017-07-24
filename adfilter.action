@@ -486,6 +486,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.liuxue86.com/css/liuxue_output\.js
 .ettoday.net/style/hot-trip/js/travel-action\.js
 .120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
@@ -6406,6 +6407,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8063,6 +8065,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.liuxue86.com/css/liuxue_output\.js
 .ettoday.net/style/hot-trip/js/travel-action\.js
 .120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
@@ -13983,6 +13986,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15578,6 +15582,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.liuxue86.com/css/liuxue_output\.js
 .ettoday.net/style/hot-trip/js/travel-action\.js
 .120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
@@ -20677,6 +20682,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
