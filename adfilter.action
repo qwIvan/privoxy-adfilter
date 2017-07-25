@@ -14,6 +14,7 @@ TAG:^adfilter-block-dnt$
 .ztxbd.com
 .zsxpx.com
 .zizcy.com
+.zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -125,7 +126,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgfszs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -486,14 +486,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.jb51.net/image/idcjb51_1000\.gif
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.liuxue86.com/css/liuxue_output\.js
-.ettoday.net/style/hot-trip/js/travel-action\.js
-.120askimages.com/ask/js/askfrom\.js
-.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
-.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
-.qpic.ws/images/pk.*\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1496,6 +1488,7 @@ cpro.*.
 .qq.com/coral/ADS
 .qq.com/bbs/bbs_topgg\.htm
 .qq.com/article_qq/ad_article_qq/
+.qpic.ws/images/pk.*\.gif
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
@@ -1996,6 +1989,7 @@ cpro.*.
 .livefilestore.com/.*/imj160x200\.gif
 .liveany.com/images/8d8d\.gif
 .liuyandaima.net/.*\.js
+.liuxue86.com/css/liuxue_output\.js
 .liu16.com/yuyue\.jpg
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
@@ -2236,6 +2230,7 @@ cpro.*.
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
+.jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
@@ -2960,6 +2955,7 @@ cpro.*.
 .eweiqi.com/affiche\.
 .everyonepiano.cn/Public/.*0x
 .ettoday.net/.*/ad/
+.ettoday.net/style/hot-trip/js/travel-action\.js
 .ettoday.net/funfuntrip/
 .ettoday.net/events/ad-tab/
 .ettoday.net/banners/
@@ -3295,6 +3291,7 @@ cpro.*.
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
+.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
@@ -3902,6 +3899,7 @@ cpro.*.
 .act.chinatimes.com/aimg/
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
+.acglover.top/wp-content/uploads/2017/07/upupoo-
 .acglover.top/wp-content/uploads/.*-520-245\.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
@@ -4530,7 +4528,9 @@ cpro.*.
 .121.40.25.88/wap/
 .121.40.136.114/.*\.htm
 .120bo.com/ggimg/
+.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
 .120askimages.com/ask/js/q\.js
+.120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/js/.*x\.js
 .120.27.34.156
 .120.27.*./.*\.html
@@ -4730,6 +4730,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gd.189.cn/ad/
 .gd.189.cn*./(.*/)?push/
 .gamer.com.tw/adcounter\.
+.dilidili.wang/toGame\.
 .d6262.com
 .ctfile.com/popjump\.php\?
 .csaimall.com
@@ -4746,7 +4747,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
-.dilidili.wang/toGame\.
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
 /(.*/)?pushstart\.html\?
@@ -5952,6 +5952,7 @@ tanchuan.htm*.
 .alitianxia168.com
 .alisinak.com
 .aliqqjd.cn
+.alimama.alicdn.com
 .alicmayuns.com
 .akrwi.cn
 .ajuhd.com
@@ -6409,7 +6410,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7599,6 +7599,7 @@ TAG:^adfilter-block-elem$
 .ztxbd.com
 .zsxpx.com
 .zizcy.com
+.zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -7710,7 +7711,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgfszs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -8071,14 +8071,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.jb51.net/image/idcjb51_1000\.gif
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.liuxue86.com/css/liuxue_output\.js
-.ettoday.net/style/hot-trip/js/travel-action\.js
-.120askimages.com/ask/js/askfrom\.js
-.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
-.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
-.qpic.ws/images/pk.*\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9081,6 +9073,7 @@ cpro.*.
 .qq.com/coral/ADS
 .qq.com/bbs/bbs_topgg\.htm
 .qq.com/article_qq/ad_article_qq/
+.qpic.ws/images/pk.*\.gif
 .qpic.cn/qidian_common/
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
@@ -9581,6 +9574,7 @@ cpro.*.
 .livefilestore.com/.*/imj160x200\.gif
 .liveany.com/images/8d8d\.gif
 .liuyandaima.net/.*\.js
+.liuxue86.com/css/liuxue_output\.js
 .liu16.com/yuyue\.jpg
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
@@ -9821,6 +9815,7 @@ cpro.*.
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
+.jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
@@ -10545,6 +10540,7 @@ cpro.*.
 .eweiqi.com/affiche\.
 .everyonepiano.cn/Public/.*0x
 .ettoday.net/.*/ad/
+.ettoday.net/style/hot-trip/js/travel-action\.js
 .ettoday.net/funfuntrip/
 .ettoday.net/events/ad-tab/
 .ettoday.net/banners/
@@ -10880,6 +10876,7 @@ cpro.*.
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
+.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
@@ -11487,6 +11484,7 @@ cpro.*.
 .act.chinatimes.com/aimg/
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
+.acglover.top/wp-content/uploads/2017/07/upupoo-
 .acglover.top/wp-content/uploads/.*-520-245\.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
@@ -12115,7 +12113,9 @@ cpro.*.
 .121.40.25.88/wap/
 .121.40.136.114/.*\.htm
 .120bo.com/ggimg/
+.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
 .120askimages.com/ask/js/q\.js
+.120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/js/.*x\.js
 .120.27.34.156
 .120.27.*./.*\.html
@@ -12315,6 +12315,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gd.189.cn/ad/
 .gd.189.cn*./(.*/)?push/
 .gamer.com.tw/adcounter\.
+.dilidili.wang/toGame\.
 .d6262.com
 .ctfile.com/popjump\.php\?
 .csaimall.com
@@ -12331,7 +12332,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
-.dilidili.wang/toGame\.
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
 /(.*/)?pushstart\.html\?
@@ -13537,6 +13537,7 @@ tanchuan.htm*.
 .alitianxia168.com
 .alisinak.com
 .aliqqjd.cn
+.alimama.alicdn.com
 .alicmayuns.com
 .akrwi.cn
 .ajuhd.com
@@ -13994,7 +13995,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15185,6 +15185,7 @@ TAG:^adfilter-block-request$
 .ztxbd.com
 .zsxpx.com
 .zizcy.com
+.zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
 .xztms.com
@@ -15294,7 +15295,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgfszs.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15594,14 +15594,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.jb51.net/image/idcjb51_1000\.gif
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.liuxue86.com/css/liuxue_output\.js
-.ettoday.net/style/hot-trip/js/travel-action\.js
-.120askimages.com/ask/js/askfrom\.js
-.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
-.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
-.qpic.ws/images/pk.*\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16568,6 +16560,7 @@ a.kj-cy.cn
 .qq.com/coral/ADS
 .qq.com/bbs/bbs_topgg\.htm
 .qq.com/article_qq/ad_article_qq/
+.qpic.ws/images/pk.*\.gif
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
@@ -17050,6 +17043,7 @@ a.kj-cy.cn
 .livefilestore.com/.*/imj160x200\.gif
 .liveany.com/images/8d8d\.gif
 .liuyandaima.net/.*\.js
+.liuxue86.com/css/liuxue_output\.js
 .liu16.com/yuyue\.jpg
 .liu16.com/sfvpnn\.gif
 .linuxidc.com/linuxfile/list
@@ -17277,6 +17271,7 @@ a.kj-cy.cn
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
+.jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
 .javlibrary.com/js/bnr_
@@ -17974,6 +17969,7 @@ a.kj-cy.cn
 .eweiqi.com/affiche\.
 .everyonepiano.cn/Public/.*0x
 .ettoday.net/.*/ad/
+.ettoday.net/style/hot-trip/js/travel-action\.js
 .ettoday.net/funfuntrip/
 .ettoday.net/events/ad-tab/
 .ettoday.net/banners/
@@ -18287,6 +18283,7 @@ a.kj-cy.cn
 .cnblogs.com/blog/36987/201509/36987-20150913115252950-1736386654\.jpg
 .cnbetacdn.com/frontend/vipics/yijian
 .cnbetacdn.com/frontend/250x200\.png
+.cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
@@ -18877,6 +18874,7 @@ a.kj-cy.cn
 .act.chinatimes.com/aimg/
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
+.acglover.top/wp-content/uploads/2017/07/upupoo-
 .acglover.top/wp-content/uploads/.*-520-245\.
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
@@ -19475,7 +19473,9 @@ a.kj-cy.cn
 .121.40.25.88/wap/
 .121.40.136.114/.*\.htm
 .120bo.com/ggimg/
+.120askimages.com/ask/zhenshi/templates/pub/js/loadPart\.js
 .120askimages.com/ask/js/q\.js
+.120askimages.com/ask/js/askfrom\.js
 .120askimages.com/ask/js/.*x\.js
 .120.27.34.156
 .120.27.*./.*\.html
@@ -19657,6 +19657,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .greenet.cn/.*_popu_
 .gd.189.cn*./(.*/)?push/
 .gamer.com.tw/adcounter\.
+.dilidili.wang/toGame\.
 .d6262.com
 .ctfile.com/popjump\.php\?
 .c.admaster.com.cn
@@ -19671,7 +19672,6 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .550022.com
 .300.bilibilijj.com
 .133gp.com
-.dilidili.wang/toGame\.
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
 .zzrcz.com
@@ -20484,6 +20484,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .alitianxia168.com
 .alisinak.com
 .aliqqjd.cn
+.alimama.alicdn.com
 .alicmayuns.com
 .akrwi.cn
 .ajuhd.com
@@ -20697,7 +20698,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.alimama.alicdn.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22899,6 +22899,7 @@ TAG:^adfilter-block-xpopup$
 .greenet.cn/.*_popu_
 .gd.189.cn*./(.*/)?push/
 .gamer.com.tw/adcounter\.
+.dilidili.wang/toGame\.
 .d6262.com
 .ctfile.com/popjump\.php\?
 .c.admaster.com.cn
@@ -22913,7 +22914,6 @@ TAG:^adfilter-block-xpopup$
 .550022.com
 .300.bilibilijj.com
 .133gp.com
-.dilidili.wang/toGame\.
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
 
