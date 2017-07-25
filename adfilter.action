@@ -486,6 +486,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -6793,6 +6794,7 @@ ad-footer.js*.
 /(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -8072,6 +8074,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -14379,6 +14382,7 @@ ad-footer.js*.
 /(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -15596,6 +15600,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -21073,6 +21078,7 @@ ad-footer.js*.
 /(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
