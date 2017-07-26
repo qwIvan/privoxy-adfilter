@@ -6415,6 +6415,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.xuanmeiguoji.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14009,6 +14010,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.xuanmeiguoji.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20721,6 +20723,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.xuanmeiguoji.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -23425,6 +23428,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.benlailife.com/adpicture/subject/gift/gift_
 
 {+client-header-tagger{adfilter-unblock-dnt-R200} \
 }
@@ -24413,6 +24417,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.benlailife.com/adpicture/subject/gift/gift_
 
 {+client-header-tagger{adfilter-unblock-elem-R200} \
 }
@@ -25381,6 +25386,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.benlailife.com/adpicture/subject/gift/gift_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
