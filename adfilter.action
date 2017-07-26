@@ -368,6 +368,7 @@ TAG:^adfilter-block-dnt$
 .bd1.wowoqq.com
 .bd1.szhk.com
 .bd1.nxing.cn
+.bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
 .bd1.365qilu.com
@@ -486,9 +487,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.bd1.nipic.com
-.ctags.cn/9/j2\.js
-.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -3225,6 +3223,7 @@ cpro.*.
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
+.ctags.cn/9/j2\.js
 .cssqt.com/a/images/right
 .cssqt.com/a/images/indexsd\.gif
 .csdn.net/msg\.popup\.js
@@ -3365,6 +3364,7 @@ cpro.*.
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinabyte.com/w/a/201612/wangting\.jpg
 .chinabyte.com/w/
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
 .chinabidding.com.cn/public/cblcn/index3/images/gxyg_10\.jpg
@@ -5645,6 +5645,7 @@ tanchuan.htm*.
 .gf108.com
 .geryi.com
 .geotmt.com
+.geili.co
 .ge95.com
 .gdxxb.com
 .gdskywings.com
@@ -6413,7 +6414,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.geili.co
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6558,6 +6558,7 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/phonegameapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -6664,6 +6665,7 @@ diantan.js*.
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?clicktotal/ClickTotal\.js
+/(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
@@ -6794,10 +6796,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -7959,6 +7959,7 @@ TAG:^adfilter-block-elem$
 .bd1.wowoqq.com
 .bd1.szhk.com
 .bd1.nxing.cn
+.bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
 .bd1.365qilu.com
@@ -8077,9 +8078,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
-.bd1.nipic.com
-.ctags.cn/9/j2\.js
-.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10816,6 +10814,7 @@ cpro.*.
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
+.ctags.cn/9/j2\.js
 .cssqt.com/a/images/right
 .cssqt.com/a/images/indexsd\.gif
 .csdn.net/msg\.popup\.js
@@ -10956,6 +10955,7 @@ cpro.*.
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinabyte.com/w/a/201612/wangting\.jpg
 .chinabyte.com/w/
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
 .chinabidding.com.cn/public/cblcn/index3/images/gxyg_10\.jpg
@@ -13236,6 +13236,7 @@ tanchuan.htm*.
 .gf108.com
 .geryi.com
 .geotmt.com
+.geili.co
 .ge95.com
 .gdxxb.com
 .gdskywings.com
@@ -14004,7 +14005,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.geili.co
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14149,6 +14149,7 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/phonegameapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -14255,6 +14256,7 @@ diantan.js*.
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?clicktotal/ClickTotal\.js
+/(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
@@ -14385,10 +14387,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -15504,6 +15504,7 @@ TAG:^adfilter-block-request$
 .bd1.wowoqq.com
 .bd1.szhk.com
 .bd1.nxing.cn
+.bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
 .bd1.365qilu.com
@@ -15606,9 +15607,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.bd1.nipic.com
-.ctags.cn/9/j2\.js
-.chinabyte.com/w/a/201612/wangting\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18231,6 +18229,7 @@ a.kj-cy.cn
 .ctrip.com/amd/.*960x90\.
 .ctfile.com/iz\.php\?
 .ctanet.cn/aq/JS/
+.ctags.cn/9/j2\.js
 .cssqt.com/a/images/right
 .cssqt.com/a/images/indexsd\.gif
 .csdn.net/msg\.popup\.js
@@ -18366,6 +18365,7 @@ a.kj-cy.cn
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinabyte.com/w/a/201612/wangting\.jpg
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
 .chinabidding.com.cn/public/cblcn/index3/images/gxyg_10\.jpg
 .chinaacc.com/lamu/dl-
@@ -20284,6 +20284,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gf1352.com
 .gf108.com
 .geryi.com
+.geili.co
 .ge95.com
 .gdskywings.com
 .gdbly.com
@@ -20713,7 +20714,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.geili.co
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20854,6 +20854,7 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/phonegameapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -20957,6 +20958,7 @@ diantan.js*.
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
 /(.*/)?clicktotal/ClickTotal\.js
+/(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.humanding\.com
 /(.*/)?cdn-cgi/pe/bag2\?.*\.adm\.cnzz\.
@@ -21084,10 +21086,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?lapi/sign/phonegameapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?chinaByte2016/duhy
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
