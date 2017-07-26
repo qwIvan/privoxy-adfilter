@@ -6416,6 +6416,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .xuanmeiguoji.com
+.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14011,6 +14012,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .xuanmeiguoji.com
+.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -20724,6 +20726,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .xuanmeiguoji.com
+.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
