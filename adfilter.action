@@ -42,6 +42,7 @@ TAG:^adfilter-block-dnt$
 .oomyv.com
 .nwwap.com
 .netko0o.com
+.myycrw.com
 .mobiorg8.com
 .md0z4dh.com
 .lzjycy.com
@@ -126,7 +127,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.myycrw.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -4883,6 +4883,7 @@ tanchuan.htm*.
 .xxad.cc
 .xulizui6.com
 .xul478.com
+.xuanmeiguoji.com
 .xtxa.net
 .xtgreat.com
 .xsu.cc
@@ -4890,6 +4891,7 @@ tanchuan.htm*.
 .xq12.com
 .xpqfc.com
 .xp3366.com
+.xoredi.com
 .xnjpg.com
 .xmsqz.com
 .xmshqh.com
@@ -6415,8 +6417,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.xuanmeiguoji.com
-.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6838,9 +6838,9 @@ ad-footer.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R8} \
 }
-/(.*/)?ts\.js
-.imgur.com
 .tinypic.com
+.imgur.com
+/(.*/)?ts\.js
 
 {+client-header-tagger{adfilter-block-dnt-R9} \
 }
@@ -7638,6 +7638,7 @@ TAG:^adfilter-block-elem$
 .oomyv.com
 .nwwap.com
 .netko0o.com
+.myycrw.com
 .mobiorg8.com
 .md0z4dh.com
 .lzjycy.com
@@ -7722,7 +7723,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.myycrw.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -12479,6 +12479,7 @@ tanchuan.htm*.
 .xxad.cc
 .xulizui6.com
 .xul478.com
+.xuanmeiguoji.com
 .xtxa.net
 .xtgreat.com
 .xsu.cc
@@ -12486,6 +12487,7 @@ tanchuan.htm*.
 .xq12.com
 .xpqfc.com
 .xp3366.com
+.xoredi.com
 .xnjpg.com
 .xmsqz.com
 .xmshqh.com
@@ -14011,8 +14013,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.xuanmeiguoji.com
-.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14434,9 +14434,9 @@ ad-footer.js*.
 
 {+client-header-tagger{adfilter-block-elem-R8} \
 }
-/(.*/)?ts\.js
-.imgur.com
 .tinypic.com
+.imgur.com
+/(.*/)?ts\.js
 
 {+client-header-tagger{adfilter-block-elem-R9} \
 }
@@ -15235,6 +15235,7 @@ TAG:^adfilter-block-request$
 .oomyv.com
 .nwwap.com
 .netko0o.com
+.myycrw.com
 .mobiorg8.com
 .md0z4dh.com
 .lzjycy.com
@@ -15317,7 +15318,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.myycrw.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -19779,9 +19779,11 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xxad.cc
 .xulizui6.com
 .xul478.com
+.xuanmeiguoji.com
 .xtxa.net
 .xq199.com
 .xpqfc.com
+.xoredi.com
 .xnjpg.com
 .xmsqz.com
 .xmcmn.com
@@ -20725,8 +20727,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.xuanmeiguoji.com
-.xoredi.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22143,9 +22143,9 @@ pd2.js*.
 
 {+client-header-tagger{adfilter-block-request-R8} \
 }
-/(.*/)?ts\.js
-.imgur.com
 .tinypic.com
+.imgur.com
+/(.*/)?ts\.js
 
 {+client-header-tagger{adfilter-block-request-R9} \
 }
@@ -23335,6 +23335,7 @@ TAG:^adfilter-unblock-dnt$
 .bilibilijj.com/old
 .bilibilijj.com/APIword/
 .beyondsoft.com/dataservice/img/ad_
+.benlailife.com/adpicture/subject/gift/gift_
 .bdstatic.com/static/common/widget/ui/admanager/
 .bdstatic.com/\?\?.*,.*,.*,
 .bbs.muzhiwan.com/.*300.*250
@@ -23431,7 +23432,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.benlailife.com/adpicture/subject/gift/gift_
 
 {+client-header-tagger{adfilter-unblock-dnt-R200} \
 }
@@ -24325,6 +24325,7 @@ TAG:^adfilter-unblock-elem$
 .briian.com/advert\.
 .bingfeng.tw
 .beyondsoft.com/dataservice/img/ad_
+.benlailife.com/adpicture/subject/gift/gift_
 .bdstatic.com/static/common/widget/ui/admanager/
 .bdstatic.com/\?\?.*,.*,.*,
 .bbs.muzhiwan.com/.*300.*250
@@ -24420,7 +24421,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.benlailife.com/adpicture/subject/gift/gift_
 
 {+client-header-tagger{adfilter-unblock-elem-R200} \
 }
@@ -25303,6 +25303,7 @@ TAG:^adfilter-unblock-request$
 .bilibilijj.com/old
 .bilibilijj.com/APIword/
 .beyondsoft.com/dataservice/img/ad_
+.benlailife.com/adpicture/subject/gift/gift_
 .bdstatic.com/static/common/widget/ui/admanager/
 .bdstatic.com/\?\?.*,.*,.*,
 .bbs.muzhiwan.com/.*300.*250
@@ -25389,7 +25390,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.benlailife.com/adpicture/subject/gift/gift_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
