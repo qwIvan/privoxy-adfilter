@@ -130,6 +130,7 @@ TAG:^adfilter-block-dnt$
 .jxhcyc.com
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
+.ccmdgg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -492,6 +493,8 @@ cpro.*.
 .modzj.net
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .sc115.com/skin/style2013/sc126\.js
 .sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
 .baidu.com/po/api/configure/show\.jsonp
@@ -7734,6 +7737,7 @@ TAG:^adfilter-block-elem$
 .jxhcyc.com
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
+.ccmdgg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -8096,6 +8100,8 @@ cpro.*.
 .modzj.net
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .sc115.com/skin/style2013/sc126\.js
 .sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
 .baidu.com/po/api/configure/show\.jsonp
@@ -15337,6 +15343,7 @@ TAG:^adfilter-block-request$
 .jxhcyc.com
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
+.ccmdgg.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -21594,6 +21601,8 @@ gg.*.
 .1buymo.cn
 .100669.com
 .modzj.net
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
