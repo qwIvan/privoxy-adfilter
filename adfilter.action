@@ -488,6 +488,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -3089,8 +3090,6 @@ cpro.*.
 .downbank.cn/js/gong\.js
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
-.douyutv.com/upload/signs/.*\.swf
-.douyucdn.cn/upload/signs/.*\.swf
 .douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
@@ -6802,6 +6801,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?resource/common/tongzhuo/game_info\.json
+/(.*/)?lapi/sign/brandapi/getinfo
+/(.*/)?lapi/sign/signapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -8083,6 +8085,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{30,40\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}(?:=[^=]+){30,40}$
+.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10684,8 +10687,6 @@ cpro.*.
 .downbank.cn/js/gong\.js
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
-.douyutv.com/upload/signs/.*\.swf
-.douyucdn.cn/upload/signs/.*\.swf
 .douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
@@ -14397,6 +14398,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?resource/common/tongzhuo/game_info\.json
+/(.*/)?lapi/sign/brandapi/getinfo
+/(.*/)?lapi/sign/signapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15616,6 +15620,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18119,8 +18124,6 @@ a.kj-cy.cn
 .downbank.cn/js/gong\.js
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
-.douyutv.com/upload/signs/.*\.swf
-.douyucdn.cn/upload/signs/.*\.swf
 .douyu.com/member/gamegift/gameList/
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
@@ -21100,6 +21103,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?resource/common/tongzhuo/game_info\.json
+/(.*/)?lapi/sign/brandapi/getinfo
+/(.*/)?lapi/sign/signapi/getinfo
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
