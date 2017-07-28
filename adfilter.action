@@ -131,6 +131,7 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
 .ccmdgg.com
+.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7737,6 +7738,7 @@ TAG:^adfilter-block-elem$
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
 .ccmdgg.com
+.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15342,6 +15344,7 @@ TAG:^adfilter-block-request$
 /.*\.m\.boluoxs\.com[^\w%.-]
 .*.m.boluoxs.com
 .ccmdgg.com
+.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
