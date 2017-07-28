@@ -6814,6 +6814,7 @@ ad-footer.js*.
 /(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lapi/sign/signapi/getinfo
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -14421,6 +14422,7 @@ ad-footer.js*.
 /(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lapi/sign/signapi/getinfo
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21133,6 +21135,7 @@ ad-footer.js*.
 /(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lapi/sign/signapi/getinfo
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
