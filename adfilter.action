@@ -20,6 +20,7 @@ TAG:^adfilter-block-dnt$
 .xztms.com
 .xmcxz.com
 .xacqp.com
+.weboser.com
 .vichc.com
 .vers80.com
 .umyai.com
@@ -132,7 +133,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.weboser.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -497,7 +497,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bejson.com/static/imgs/submail
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2376,6 +2375,7 @@ cpro.*.
 .imgchili.net/media/image.*\.gif
 .img588.net/images/.*\.gif
 .img2.win007.com/image/.*\.jpg
+.img2.titan007.com
 .img2.plures.net/.*\.gif
 .img2.e0575.com*./(.*/)?upload/image/
 .img2.126.net
@@ -2399,7 +2399,6 @@ cpro.*.
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.hc360\.com[^\w%.-]
@@ -3590,6 +3589,7 @@ cpro.*.
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/submail
+.bejson.com/static/imgs/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -6727,6 +6727,7 @@ ad-footer.js*.
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
 /(.*/)?562723/7082094ff7346f23\.gif
+/(.*/)?500ad/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -6758,6 +6759,8 @@ ad-footer.js*.
 .*.com/pc/ad/
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*\.com/js/alls_top\.js
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
@@ -6799,9 +6802,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/js/bnr_
-.*.com/js/bnr_
-/(.*/)?500ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -6965,8 +6965,8 @@ gTool.js*.
 
 {+client-header-tagger{adfilter-block-dnt-R34} \
 }
-/(.*/)?js/layer\.js
 .sinaimg.cn
+/(.*/)?js/layer\.js
 /.*\.gif$
 .*.gif
 
@@ -7622,6 +7622,7 @@ TAG:^adfilter-block-elem$
 .xztms.com
 .xmcxz.com
 .xacqp.com
+.weboser.com
 .vichc.com
 .vers80.com
 .umyai.com
@@ -7734,7 +7735,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.weboser.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -8099,7 +8099,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bejson.com/static/imgs/submail
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9978,6 +9977,7 @@ cpro.*.
 .imgchili.net/media/image.*\.gif
 .img588.net/images/.*\.gif
 .img2.win007.com/image/.*\.jpg
+.img2.titan007.com
 .img2.plures.net/.*\.gif
 .img2.e0575.com*./(.*/)?upload/image/
 .img2.126.net
@@ -10001,7 +10001,6 @@ cpro.*.
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.hc360\.com[^\w%.-]
@@ -11192,6 +11191,7 @@ cpro.*.
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/submail
+.bejson.com/static/imgs/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -14329,6 +14329,7 @@ ad-footer.js*.
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
 /(.*/)?562723/7082094ff7346f23\.gif
+/(.*/)?500ad/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -14360,6 +14361,8 @@ ad-footer.js*.
 .*.com/pc/ad/
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*\.com/js/alls_top\.js
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
@@ -14401,9 +14404,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/js/bnr_
-.*.com/js/bnr_
-/(.*/)?500ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -14567,8 +14567,8 @@ gTool.js*.
 
 {+client-header-tagger{adfilter-block-elem-R34} \
 }
-/(.*/)?js/layer\.js
 .sinaimg.cn
+/(.*/)?js/layer\.js
 /.*\.gif$
 .*.gif
 
@@ -15225,6 +15225,7 @@ TAG:^adfilter-block-request$
 .xztms.com
 .xmcxz.com
 .xacqp.com
+.weboser.com
 .vichc.com
 .vers80.com
 .umyai.com
@@ -15335,7 +15336,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.weboser.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15636,7 +15636,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.bejson.com/static/imgs/submail
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17444,6 +17443,7 @@ a.kj-cy.cn
 .imgchili.net/media/image.*\.gif
 .img588.net/images/.*\.gif
 .img2.win007.com/image/.*\.jpg
+.img2.titan007.com
 .img2.plures.net/.*\.gif
 .img2.e0575.com*./(.*/)?upload/image/
 .img2.126.net
@@ -17466,7 +17466,6 @@ a.kj-cy.cn
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.bet007\.com/image/.*\.gif
@@ -18604,6 +18603,7 @@ a.kj-cy.cn
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/submail
+.bejson.com/static/imgs/submail
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -21039,6 +21039,7 @@ ad-footer.js*.
 /(.*/)?8drama_yahoo/.*
 /(.*/)?66bubu/ads/.*
 /(.*/)?562723/7082094ff7346f23\.gif
+/(.*/)?500ad/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
 /.*\.xyz/js/ads/
@@ -21070,6 +21071,8 @@ ad-footer.js*.
 .*.com/pc/ad/
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*\.com/js/alls_top\.js
 .*.com/js/alls_top\.js
 /.*\.com/js/alls_foot\.js
@@ -21109,9 +21112,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/js/bnr_
-.*.com/js/bnr_
-/(.*/)?500ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -22279,8 +22279,8 @@ gTool.js*.
 
 {+client-header-tagger{adfilter-block-request-R34} \
 }
-/(.*/)?js/layer\.js
 .sinaimg.cn
+/(.*/)?js/layer\.js
 /.*\.gif$
 .*.gif
 
