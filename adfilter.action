@@ -51,7 +51,9 @@ TAG:^adfilter-block-dnt$
 .legozu.com
 .ksdsuzhou.com
 .kafka8.com
+.jxhcyc.com
 .jundazulin.com
+.jollyspring.com
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
@@ -81,6 +83,7 @@ TAG:^adfilter-block-dnt$
 .cindy17club.com
 .changhehengqi.com
 .cdgxq.com
+.ccmdgg.com
 .book9.net
 .axkxy.com
 .awyys.com
@@ -117,6 +120,8 @@ TAG:^adfilter-block-dnt$
 .*.m.d8qu.com
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+/.*\.m\.boluoxs\.com[^\w%.-]
+.*.m.boluoxs.com
 /.*\.m\.blwen\.com[^\w%.-]
 .*.m.blwen.com
 /.*\.m\.biqugezw\.com[^\w%.-]
@@ -127,11 +132,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.jxhcyc.com
-/.*\.m\.boluoxs\.com[^\w%.-]
-.*.m.boluoxs.com
-.ccmdgg.com
-.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -222,6 +222,7 @@ TAG:^adfilter-block-dnt$
 .namedq.com
 .mxpwx.com
 .mpb1.iteye.com
+.modzj.net
 .mo-tuo.com
 .mnkan.com
 .mn586.com
@@ -307,6 +308,8 @@ TAG:^adfilter-block-dnt$
 .f1.bizhiku.net
 .f1.06ps.com
 .f.520tingshu.com
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .ent1.12584.cn
 .e.qiaoyuwang.com
 .dzais.com
@@ -491,15 +494,8 @@ a.kj-cy.cn
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
-.modzj.net
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.f*./.*\.baidu\.com/it/u=.*,.*&fm=
-.f*.baidu.com/it/u=.*,.*&fm=
-.sc115.com/skin/style2013/sc126\.js
-.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
-.baidu.com/po/api/configure/show\.jsonp
-.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1273,6 +1269,7 @@ cpro.*.
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
+.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
@@ -1376,6 +1373,7 @@ cpro.*.
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
 .scibook.cn/tuiguang\.
+.sc115.com/skin/style2013/sc126\.js
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
@@ -3102,6 +3100,7 @@ cpro.*.
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
 .douyu.com/member/gamegift/gameList/
+.douyu*./(.*/)?upload/signs/.*\.swf
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -3699,6 +3698,7 @@ cpro.*.
 .baidu.com/resource/tuisong/
 .baidu.com/resource/ads/
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
+.baidu.com/po/api/configure/show\.jsonp
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
 .baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
@@ -6523,6 +6523,7 @@ sogouAD.*.
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
 /(.*/)?router-firmware-update/dl/js/jr5/up\.js
+/(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -6568,7 +6569,9 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/signapi/getinfo
 /(.*/)?lapi/sign/phonegameapi/getinfo
+/(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -6612,6 +6615,7 @@ jdbanner2017618.jpg*.
 iscar.svc/getadvert\?
 /(.*/)?inc/g2g\.html
 /(.*/)?ina_ad_
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /(.*/)?images/ta1234\.js
 /(.*/)?images//ads/.*
 /(.*/)?huya_promotion_content_
@@ -6806,12 +6810,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?resource/common/tongzhuo/game_info\.json
-/(.*/)?lapi/sign/brandapi/getinfo
-/(.*/)?lapi/sign/signapi/getinfo
-/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -7658,7 +7659,9 @@ TAG:^adfilter-block-elem$
 .legozu.com
 .ksdsuzhou.com
 .kafka8.com
+.jxhcyc.com
 .jundazulin.com
+.jollyspring.com
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
@@ -7688,6 +7691,7 @@ TAG:^adfilter-block-elem$
 .cindy17club.com
 .changhehengqi.com
 .cdgxq.com
+.ccmdgg.com
 .book9.net
 .axkxy.com
 .awyys.com
@@ -7724,6 +7728,8 @@ TAG:^adfilter-block-elem$
 .*.m.d8qu.com
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+/.*\.m\.boluoxs\.com[^\w%.-]
+.*.m.boluoxs.com
 /.*\.m\.blwen\.com[^\w%.-]
 .*.m.blwen.com
 /.*\.m\.biqugezw\.com[^\w%.-]
@@ -7734,11 +7740,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.jxhcyc.com
-/.*\.m\.boluoxs\.com[^\w%.-]
-.*.m.boluoxs.com
-.ccmdgg.com
-.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7829,6 +7830,7 @@ TAG:^adfilter-block-elem$
 .namedq.com
 .mxpwx.com
 .mpb1.iteye.com
+.modzj.net
 .mo-tuo.com
 .mnkan.com
 .mn586.com
@@ -7914,6 +7916,8 @@ TAG:^adfilter-block-elem$
 .f1.bizhiku.net
 .f1.06ps.com
 .f.520tingshu.com
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .ent1.12584.cn
 .e.qiaoyuwang.com
 .dzais.com
@@ -8098,15 +8102,8 @@ a.kj-cy.cn
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
-.modzj.net
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.f*./.*\.baidu\.com/it/u=.*,.*&fm=
-.f*.baidu.com/it/u=.*,.*&fm=
-.sc115.com/skin/style2013/sc126\.js
-.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
-.baidu.com/po/api/configure/show\.jsonp
-.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8880,6 +8877,7 @@ cpro.*.
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
+.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
@@ -8983,6 +8981,7 @@ cpro.*.
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
 .scibook.cn/tuiguang\.
+.sc115.com/skin/style2013/sc126\.js
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
@@ -10709,6 +10708,7 @@ cpro.*.
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
 .douyu.com/member/gamegift/gameList/
+.douyu*./(.*/)?upload/signs/.*\.swf
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -11306,6 +11306,7 @@ cpro.*.
 .baidu.com/resource/tuisong/
 .baidu.com/resource/ads/
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
+.baidu.com/po/api/configure/show\.jsonp
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
 .baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
@@ -14130,6 +14131,7 @@ sogouAD.*.
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
 /(.*/)?router-firmware-update/dl/js/jr5/up\.js
+/(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -14175,7 +14177,9 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/signapi/getinfo
 /(.*/)?lapi/sign/phonegameapi/getinfo
+/(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -14219,6 +14223,7 @@ jdbanner2017618.jpg*.
 iscar.svc/getadvert\?
 /(.*/)?inc/g2g\.html
 /(.*/)?ina_ad_
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /(.*/)?images/ta1234\.js
 /(.*/)?images//ads/.*
 /(.*/)?huya_promotion_content_
@@ -14413,12 +14418,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?resource/common/tongzhuo/game_info\.json
-/(.*/)?lapi/sign/brandapi/getinfo
-/(.*/)?lapi/sign/signapi/getinfo
-/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -15266,7 +15268,9 @@ TAG:^adfilter-block-request$
 .legozu.com
 .ksdsuzhou.com
 .kafka8.com
+.jxhcyc.com
 .jundazulin.com
+.jollyspring.com
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
@@ -15296,6 +15300,7 @@ TAG:^adfilter-block-request$
 .cindy17club.com
 .changhehengqi.com
 .cdgxq.com
+.ccmdgg.com
 .axkxy.com
 .awyys.com
 .aikan6.com
@@ -15330,6 +15335,8 @@ TAG:^adfilter-block-request$
 .*.m.d8qu.com
 /.*\.m\.bookben\.com[^\w%.-]
 .*.m.bookben.com
+/.*\.m\.boluoxs\.com[^\w%.-]
+.*.m.boluoxs.com
 /.*\.m\.blwen\.com[^\w%.-]
 .*.m.blwen.com
 /.*\.m\.biqugezw\.com[^\w%.-]
@@ -15340,11 +15347,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.jxhcyc.com
-/.*\.m\.boluoxs\.com[^\w%.-]
-.*.m.boluoxs.com
-.ccmdgg.com
-.jollyspring.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15645,10 +15647,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.sc115.com/skin/style2013/sc126\.js
-.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
-.baidu.com/po/api/configure/show\.jsonp
-.douyu*./(.*/)?upload/signs/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16399,6 +16397,7 @@ a.kj-cy.cn
 .sinaimg.cn/large/61e74233ly1fdq6hcf5klg20hs023q7i\.gif
 .sinaimg.cn/large/5ff1c93agy1fff9tu8o7bj20xc09q78w\.jpg
 .sinaimg.cn/large/5ff1c93agy1ffexaksv8mj206o02it96\.jpg
+.sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm\.jpg
 .sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr\.gif
 .sinaimg.cn/large/006CZIQPgy1fbzjg10emag30ka02in2s\.gif
 .sinaimg.cn/large/006CZIQPgy1fbziwpw0b8g306y06yq7w\.gif
@@ -16499,6 +16498,7 @@ a.kj-cy.cn
 .sconline.com.tw/top/coolpc_
 .scol.com.cn/scol-3/js/08scol_text_
 .scibook.cn/tuiguang\.
+.sc115.com/skin/style2013/sc126\.js
 .sc.chinaiiss.com/do\.php\?do=ad&
 .sbpig.com/images/erweima\.jpg
 .sbo8.com/static/theme/js/bottom\.
@@ -18153,6 +18153,7 @@ a.kj-cy.cn
 .down12.com/common/js/bdvert\.js
 .down.admin5.com/z/
 .douyu.com/member/gamegift/gameList/
+.douyu*./(.*/)?upload/signs/.*\.swf
 .doupapa.com/js/swf/
 .douguo.net/upload/post/d/
 .doubleclick.tv002.com
@@ -18721,6 +18722,7 @@ a.kj-cy.cn
 .baidu.com/resource/tuisong/
 .baidu.com/resource/ads/
 .baidu.com/rec\?platform=wise&ms=1&rset=ad&
+.baidu.com/po/api/configure/show\.jsonp
 .baidu.com/img/iknow/wenku.*85\.
 .baidu.com/game/asset/common/performance\.
 .baidu.com/forum/pic/item/0cf431adcbef7609200cacc024dda3cc7cd99e6d\.jpg
@@ -20851,6 +20853,7 @@ sogouAD.*.
 /(.*/)?runtime/js/index960\.js
 /(.*/)?Runtime/js/banner_
 /(.*/)?router-firmware-update/dl/js/jr5/up\.js
+/(.*/)?resource/common/tongzhuo/game_info\.json
 /(.*/)?RenderLapinBlock\?
 /(.*/)?qqliveweb/.*\.swf
 /(.*/)?qqlive/conf/playerlottery/.*
@@ -20893,7 +20896,9 @@ lfadvertise.js*.
 lfAD2v1.1.js*.
 /(.*/)?lenovo/pc/top\.js
 /(.*/)?lenovo/pc/all\.js
+/(.*/)?lapi/sign/signapi/getinfo
 /(.*/)?lapi/sign/phonegameapi/getinfo
+/(.*/)?lapi/sign/brandapi/getinfo
 /(.*/)?lanye2015/images/qiniu\.jpg
 /(.*/)?lanye2015/images/lanyeht\.jpg
 /(.*/)?lanye2015/images/kuan\.jpg
@@ -20936,6 +20941,7 @@ jdbanner2017618.jpg*.
 iscar.svc/getadvert\?
 /(.*/)?inc/g2g\.html
 /(.*/)?ina_ad_
+/(.*/)?images/uploads/index_banner/a201.*\.gif
 /(.*/)?images/ta1234\.js
 /(.*/)?images//ads/.*
 /(.*/)?huya_promotion_content_
@@ -21125,12 +21131,9 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?resource/common/tongzhuo/game_info\.json
-/(.*/)?lapi/sign/brandapi/getinfo
-/(.*/)?lapi/sign/signapi/getinfo
-/(.*/)?images/uploads/index_banner/a201.*\.gif
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
@@ -21560,6 +21563,7 @@ gg.*.
 .qwxcs.com
 .nyhpyq.com
 .mxpwx.com
+.modzj.net
 .mn586.com
 .mj-medlab.com
 .miyudaquan.top
@@ -21581,6 +21585,8 @@ gg.*.
 .gsjdzx.com
 .fuz.cc
 .fjzimaoqu.cn
+.f*./.*\.baidu\.com/it/u=.*,.*&fm=
+.f*.baidu.com/it/u=.*,.*&fm=
 .dyscb.cn
 .chnci.com
 .cdyx-pcjy.com
@@ -21596,9 +21602,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.modzj.net
-.f*./.*\.baidu\.com/it/u=.*,.*&fm=
-.f*.baidu.com/it/u=.*,.*&fm=
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
@@ -23384,6 +23387,7 @@ TAG:^adfilter-unblock-dnt$
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
+.ali213.net/zpro/2017/07/26/2017072693508532\.png
 .airchina.com.cn/dynamicAd/
 .advert.kf5.com
 .adsense.woso.cn
@@ -23461,7 +23465,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ali213.net/zpro/2017/07/26/2017072693508532\.png
 
 {+client-header-tagger{adfilter-unblock-dnt-R200} \
 }
@@ -24375,6 +24378,7 @@ TAG:^adfilter-unblock-elem$
 .apk.tw
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
+.ali213.net/zpro/2017/07/26/2017072693508532\.png
 .airchina.com.cn/dynamicAd/
 .advert.kf5.com
 .adsense.woso.cn
@@ -24451,7 +24455,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ali213.net/zpro/2017/07/26/2017072693508532\.png
 
 {+client-header-tagger{adfilter-unblock-elem-R200} \
 }
@@ -25352,6 +25355,7 @@ TAG:^adfilter-unblock-request$
 .appledaily.com.tw/.*_ad_logo\.
 .angpic.3g.net.cn/ai/.*/
 .alicdn.com/mm/tb-page-peel/
+.ali213.net/zpro/2017/07/26/2017072693508532\.png
 .airchina.com.cn/dynamicAd/
 .advert.kf5.com
 .addon.discuz.com/resource/.*/ad
@@ -25421,7 +25425,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.ali213.net/zpro/2017/07/26/2017072693508532\.png
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
