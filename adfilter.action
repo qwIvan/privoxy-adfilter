@@ -2246,14 +2246,11 @@ cpro.*.
 .jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
-.javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
-.jav11b.com/js/bnr_
 .jandan.net/static/gg
 .ja1.gamersky.com
 .ja.gamersky.com
-.j12lib.com/js/bnr_
 .j.ccnovel.com
 .j.6avz.com
 .izzs.cc/wp-content/mm/
@@ -3497,7 +3494,6 @@ cpro.*.
 .bukade.com/js/.*_p_
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
-.buimg.com/1949/da2113bdb374cb7f\.gif
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btsou.net/static/image/.*\.gif
@@ -3967,17 +3963,11 @@ cpro.*.
 .9ht.com/skin2012/js/tlAd\.js
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
-.99vv1.com/img/.*\.gif
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
 .99shumeng.net/uudHK/
-.99re*./.*\.com/img/.*\.gif
-.99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
-.99ll1.com/img/.*\.gif
-.99kk*./.*\.com/img/.*\.gif
-.99kk*.com/img/.*\.gif
 .99danji.com/otherhtml/
 .99btgc01.info/uploads/.*\.gif
 .999v.me/cs
@@ -4673,7 +4663,6 @@ ifengRotatorAd.js*.
 /(.*/)?front/adv/getpmadvlist
 /(.*/)?dzwww/ad_dzw_inner\.js
 /(.*/)?dhfun_ad/.*
-/(.*/)?contents/other/player/.*\.gif
 /(.*/)?cari/daybanner/.*
 /(.*/)?cari/banner/.*
 /(.*/)?avshow_cn1\.gif
@@ -5501,7 +5490,6 @@ tanchuan.htm*.
 .jisucn.com
 .jindu179.com
 .jimeilm.com
-.jiexiyong.com
 .jiehantai.com
 .jianmei123.com
 .jiankang13.com
@@ -6810,9 +6798,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -6975,6 +6964,9 @@ gTool.js*.
 {+client-header-tagger{adfilter-block-dnt-R34} \
 }
 /(.*/)?js/layer\.js
+.sinaimg.cn
+/.*\.gif$
+.*.gif
 
 {+client-header-tagger{adfilter-block-dnt-R35} \
 }
@@ -9854,14 +9846,11 @@ cpro.*.
 .jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
-.javlibrary.com/js/bnr_
 .javjunkies.com/FL
 .javazhijia.com/skin/bysj\.jpg
-.jav11b.com/js/bnr_
 .jandan.net/static/gg
 .ja1.gamersky.com
 .ja.gamersky.com
-.j12lib.com/js/bnr_
 .j.ccnovel.com
 .j.6avz.com
 .izzs.cc/wp-content/mm/
@@ -11105,7 +11094,6 @@ cpro.*.
 .bukade.com/js/.*_p_
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
-.buimg.com/1949/da2113bdb374cb7f\.gif
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btsou.net/static/image/.*\.gif
@@ -11575,17 +11563,11 @@ cpro.*.
 .9ht.com/skin2012/js/tlAd\.js
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
-.99vv1.com/img/.*\.gif
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
 .99shumeng.net/uudHK/
-.99re*./.*\.com/img/.*\.gif
-.99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
-.99ll1.com/img/.*\.gif
-.99kk*./.*\.com/img/.*\.gif
-.99kk*.com/img/.*\.gif
 .99danji.com/otherhtml/
 .99btgc01.info/uploads/.*\.gif
 .999v.me/cs
@@ -12281,7 +12263,6 @@ ifengRotatorAd.js*.
 /(.*/)?front/adv/getpmadvlist
 /(.*/)?dzwww/ad_dzw_inner\.js
 /(.*/)?dhfun_ad/.*
-/(.*/)?contents/other/player/.*\.gif
 /(.*/)?cari/daybanner/.*
 /(.*/)?cari/banner/.*
 /(.*/)?avshow_cn1\.gif
@@ -13109,7 +13090,6 @@ tanchuan.htm*.
 .jisucn.com
 .jindu179.com
 .jimeilm.com
-.jiexiyong.com
 .jiehantai.com
 .jianmei123.com
 .jiankang13.com
@@ -14418,9 +14398,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -14583,6 +14564,9 @@ gTool.js*.
 {+client-header-tagger{adfilter-block-elem-R34} \
 }
 /(.*/)?js/layer\.js
+.sinaimg.cn
+/.*\.gif$
+.*.gif
 
 {+client-header-tagger{adfilter-block-elem-R35} \
 }
@@ -17330,13 +17314,10 @@ a.kj-cy.cn
 .jb51.net/image/idcjb51_1000\.gif
 .jb51.net/good/soft\.js
 .jb51.net/good/arc\.js
-.javlibrary.com/js/bnr_
 .javazhijia.com/skin/bysj\.jpg
-.jav11b.com/js/bnr_
 .jandan.net/static/gg
 .ja1.gamersky.com
 .ja.gamersky.com
-.j12lib.com/js/bnr_
 .j.ccnovel.com
 .j.6avz.com
 .izzs.cc/wp-content/mm/
@@ -18524,7 +18505,6 @@ a.kj-cy.cn
 .bukade.com/js/.*_p_
 .buimg.com/588755/360bfd3735e94b25\.jpg
 .buimg.com/562723/f54344b0cbbdff87\.png
-.buimg.com/1949/da2113bdb374cb7f\.gif
 .bttt99.com/style/s\.js
 .btspreadcn.com/images/x\.jpg
 .btsou.net/static/image/.*\.gif
@@ -18975,17 +18955,11 @@ a.kj-cy.cn
 .9ht.com/skin2012/js/tlAd\.js
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
-.99vv1.com/img/.*\.gif
 .99ting.cn/image/.*\.gif
 .99ting.cn/789uc/gg\.js
 .99tianji.com/hack/
 .99shumeng.net/uudHK/
-.99re*./.*\.com/img/.*\.gif
-.99re*.com/img/.*\.gif
 .99mst.com/upfiles/adv/main02\.jpg
-.99ll1.com/img/.*\.gif
-.99kk*./.*\.com/img/.*\.gif
-.99kk*.com/img/.*\.gif
 .99danji.com/otherhtml/
 .99btgc01.info/uploads/.*\.gif
 .999v.me/cs
@@ -19653,7 +19627,6 @@ ifengRotatorAd.js*.
 /(.*/)?front/adv/getpmadvlist
 /(.*/)?dzwww/ad_dzw_inner\.js
 /(.*/)?dhfun_ad/.*
-/(.*/)?contents/other/player/.*\.gif
 /(.*/)?cari/daybanner/.*
 /(.*/)?cari/banner/.*
 /(.*/)?avshow_cn1\.gif
@@ -21131,9 +21104,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*\.com/js/bnr_
+.*.com/js/bnr_
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/.*&is_need_ad=1&
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
@@ -21844,7 +21818,6 @@ gg.*.
 .jiuzhilan.com
 .jiudianhudong.com
 .jisucn.com
-.jiexiyong.com
 .jiankang13.com
 .jianglishi.cn
 .j8j9.com
@@ -22301,6 +22274,9 @@ gTool.js*.
 {+client-header-tagger{adfilter-block-request-R34} \
 }
 /(.*/)?js/layer\.js
+.sinaimg.cn
+/.*\.gif$
+.*.gif
 
 {+client-header-tagger{adfilter-block-request-R35} \
 }
