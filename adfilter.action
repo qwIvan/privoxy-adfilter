@@ -2399,8 +2399,7 @@ cpro.*.
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img*./.*\.titan007\.com/image/.*\.gif
-.img*.titan007.com/image/.*\.gif
+.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.hc360\.com[^\w%.-]
@@ -10002,8 +10001,7 @@ cpro.*.
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img*./.*\.titan007\.com/image/.*\.gif
-.img*.titan007.com/image/.*\.gif
+.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.hc360\.com[^\w%.-]
@@ -17468,8 +17466,7 @@ a.kj-cy.cn
 .img.0594.com/20.*\.gif
 .img*./.*\.win007\.com/image/.*\.gif
 .img*.win007.com/image/.*\.gif
-.img*./.*\.titan007\.com/image/.*\.gif
-.img*.titan007.com/image/.*\.gif
+.img2.titan007.com
 .img*./.*\.hc360\.com[^\w%.-].*\.swf
 .img*.hc360.com/.*\.swf
 .img*./.*\.bet007\.com/image/.*\.gif
