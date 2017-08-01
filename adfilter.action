@@ -499,6 +499,9 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.cod.southmoney.com
+.southmoney.com/page/pc/
+.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1198,7 +1201,6 @@ cpro.*.
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
 .southmoney.com/page/top
-.southmoney.com/page/inc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -8107,6 +8109,9 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.cod.southmoney.com
+.southmoney.com/page/pc/
+.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8806,7 +8811,6 @@ cpro.*.
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
 .southmoney.com/page/top
-.southmoney.com/page/inc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -15650,6 +15654,9 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.cod.southmoney.com
+.southmoney.com/page/pc/
+.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16328,7 +16335,6 @@ a.kj-cy.cn
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
 .southmoney.com/page/top
-.southmoney.com/page/inc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
