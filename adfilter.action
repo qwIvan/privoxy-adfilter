@@ -93,6 +93,7 @@ TAG:^adfilter-block-dnt$
 .aikan6.com
 .aicydb.com
 .aercxy.com
+.97paa.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -135,7 +136,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.97paa.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -353,6 +353,7 @@ TAG:^adfilter-block-dnt$
 .cpro1.edushi.com
 .cp.jfcdns.com
 .cp.greenxf.cn
+.cod.southmoney.com
 .cm.baidu.com
 .chnci.com
 .chinacsky.com
@@ -500,11 +501,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cod.southmoney.com
-.longhoo.net/images/mynews/2010float_
-.jiwu.com/ad
-.southmoney.com/page/pc/
-.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1203,7 +1199,9 @@ cpro.*.
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.southmoney.com/.*/Inc/
 .southmoney.com/page/top
+.southmoney.com/page/pc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -1998,6 +1996,7 @@ cpro.*.
 .lotour.net/bcef/388\.js
 .lookmw.cn/.*/default/js/union\.js
 .longzhu.com/i/api/playpage/recommendPop\?
+.longhoo.net/images/mynews/2010float_
 .longhoo.net/html/jzj/
 .longbahao.com/js/ad-
 .longbahao.com/asd\.js
@@ -2208,6 +2207,7 @@ cpro.*.
 .jj20.com/js/x
 .jj.5ccc.net/scripts/new/
 .jiyingdm.com/js/loadingshow\.html
+.jiwu.com/ad
 .jitapu.com/inc/adv
 .jisuxz.com/2747/
 .jisutiyu.com/images/sda/
@@ -5250,6 +5250,7 @@ tanchuan.htm*.
 .ptkhy.com
 .ptdrw.com
 .prohost.com.tw
+.prohibited.cn
 .pro.cn
 .pr00001.com
 .poyang.com
@@ -5987,6 +5988,7 @@ tanchuan.htm*.
 .adytx.com
 .adxiaozi.com
 .adver.com.tw
+.adunite.com
 .adunioncode.com
 .adt100.com
 .adsinstant.com
@@ -6424,8 +6426,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.adunite.com
-.prohibited.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7708,6 +7708,7 @@ TAG:^adfilter-block-elem$
 .aikan6.com
 .aicydb.com
 .aercxy.com
+.97paa.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -7750,7 +7751,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.97paa.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7968,6 +7968,7 @@ TAG:^adfilter-block-elem$
 .cpro1.edushi.com
 .cp.jfcdns.com
 .cp.greenxf.cn
+.cod.southmoney.com
 .cm.baidu.com
 .chnci.com
 .chinacsky.com
@@ -8115,11 +8116,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cod.southmoney.com
-.longhoo.net/images/mynews/2010float_
-.jiwu.com/ad
-.southmoney.com/page/pc/
-.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8818,7 +8814,9 @@ cpro.*.
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.southmoney.com/.*/Inc/
 .southmoney.com/page/top
+.southmoney.com/page/pc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -9613,6 +9611,7 @@ cpro.*.
 .lotour.net/bcef/388\.js
 .lookmw.cn/.*/default/js/union\.js
 .longzhu.com/i/api/playpage/recommendPop\?
+.longhoo.net/images/mynews/2010float_
 .longhoo.net/html/jzj/
 .longbahao.com/js/ad-
 .longbahao.com/asd\.js
@@ -9823,6 +9822,7 @@ cpro.*.
 .jj20.com/js/x
 .jj.5ccc.net/scripts/new/
 .jiyingdm.com/js/loadingshow\.html
+.jiwu.com/ad
 .jitapu.com/inc/adv
 .jisuxz.com/2747/
 .jisutiyu.com/images/sda/
@@ -12865,6 +12865,7 @@ tanchuan.htm*.
 .ptkhy.com
 .ptdrw.com
 .prohost.com.tw
+.prohibited.cn
 .pro.cn
 .pr00001.com
 .poyang.com
@@ -13602,6 +13603,7 @@ tanchuan.htm*.
 .adytx.com
 .adxiaozi.com
 .adver.com.tw
+.adunite.com
 .adunioncode.com
 .adt100.com
 .adsinstant.com
@@ -14039,8 +14041,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.adunite.com
-.prohibited.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15323,6 +15323,7 @@ TAG:^adfilter-block-request$
 .aikan6.com
 .aicydb.com
 .aercxy.com
+.97paa.com
 .24haitao.net
 /.*\.wap\.yb3\.cc[^\w%.-]
 .*.wap.yb3.cc
@@ -15364,7 +15365,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.97paa.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15537,6 +15537,7 @@ TAG:^adfilter-block-request$
 .cpro1.edushi.com
 .cp.jfcdns.com
 .cp.greenxf.cn
+.cod.southmoney.com
 .cm.baidu.com
 .chinacsky.com
 .chicken18.com
@@ -15665,11 +15666,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.cod.southmoney.com
-.longhoo.net/images/mynews/2010float_
-.jiwu.com/ad
-.southmoney.com/page/pc/
-.southmoney.com/.*/Inc/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16347,7 +16343,9 @@ a.kj-cy.cn
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.southmoney.com/.*/Inc/
 .southmoney.com/page/top
+.southmoney.com/page/pc/
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -17109,6 +17107,7 @@ a.kj-cy.cn
 .lotour.net/bcef/388\.js
 .lookmw.cn/.*/default/js/union\.js
 .longzhu.com/i/api/playpage/recommendPop\?
+.longhoo.net/images/mynews/2010float_
 .longhoo.net/html/jzj/
 .longbahao.com/js/ad-
 .longbahao.com/asd\.js
@@ -17306,6 +17305,7 @@ a.kj-cy.cn
 .jj20.com/js/x
 .jj.5ccc.net/scripts/new/
 .jiyingdm.com/js/loadingshow\.html
+.jiwu.com/ad
 .jitapu.com/inc/adv
 .jisuxz.com/2747/
 .jisutiyu.com/images/sda/
@@ -20065,6 +20065,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .pubbirdf.com
 .ptkhy.com
 .ptdrw.com
+.prohibited.cn
 .pr00001.com
 .poyang.com
 .powergg.top
@@ -20770,7 +20771,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.prohibited.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22013,6 +22013,7 @@ gg.*.
 .adyun.com
 .adxiaozi.com
 .adver.com.tw
+.adunite.com
 .adunioncode.com
 .adt100.com
 .adsbro.com
@@ -22157,7 +22158,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.adunite.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
