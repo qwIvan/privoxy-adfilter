@@ -23501,6 +23501,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R200} \
 }
@@ -24491,6 +24492,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R200} \
 }
@@ -25461,6 +25463,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
