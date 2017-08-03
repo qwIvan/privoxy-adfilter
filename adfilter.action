@@ -2448,7 +2448,7 @@ cpro.*.
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/youhuiq\.jpg
+.ifkjx.com/img/youhuiq
 .ifengimg.com/.*Float
 .ifengimg.com/.*couplet
 .ifengimg.com/.*600\.swf
@@ -6434,6 +6434,8 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .sjy-stone.com.cn
+.wywsdx.com
+.yamaidei.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -10077,7 +10079,7 @@ cpro.*.
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/youhuiq\.jpg
+.ifkjx.com/img/youhuiq
 .ifengimg.com/.*Float
 .ifengimg.com/.*couplet
 .ifengimg.com/.*600\.swf
@@ -14063,6 +14065,8 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .sjy-stone.com.cn
+.wywsdx.com
+.yamaidei.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -17563,7 +17567,7 @@ a.kj-cy.cn
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/youhuiq\.jpg
+.ifkjx.com/img/youhuiq
 .ifengimg.com/.*600\.swf
 .ifengimg.com/.*600-2\.swf
 .ifengimg.com/.*/yingguang-
@@ -20805,6 +20809,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .sjy-stone.com.cn
+.wywsdx.com
+.yamaidei.cn
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
