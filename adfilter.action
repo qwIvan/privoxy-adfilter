@@ -17,6 +17,7 @@ TAG:^adfilter-block-dnt$
 .zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
+.yisloda.com
 .xztms.com
 .xmcxz.com
 .xacqp.com
@@ -85,6 +86,7 @@ TAG:^adfilter-block-dnt$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
 .book9.net
@@ -136,8 +138,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cdqjmc.com
-.yisloda.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -406,6 +406,7 @@ TAG:^adfilter-block-dnt$
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .aiwen.cc
+.aili.com
 .adjb.5nd.com
 .add.mmyuer.com
 .adccoo.cn
@@ -503,9 +504,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.aili.com
-.haibao.com/js/article
-.newyx.newyx.net/js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1780,6 +1778,7 @@ cpro.*.
 .nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
+.newyx.newyx.net/js/
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -2717,6 +2716,7 @@ cpro.*.
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
+.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -5866,6 +5866,7 @@ tanchuan.htm*.
 .cmslayue.com
 .cmaxisolation.com
 .cloudad.asia
+.ckseeknew.com
 .cj-cy.com
 .cifenqi.com
 .ciajingman.com
@@ -6282,6 +6283,7 @@ tanchuan.htm*.
 .100cpc.com
 .1000dy.com
 .0xxd.com
+.0xiaoshuo.com
 .0756sjlm.com.cn
 .0756j.com
 .0592weixin.com
@@ -6430,8 +6432,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.0xiaoshuo.com
-.ckseeknew.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7638,6 +7638,7 @@ TAG:^adfilter-block-elem$
 .zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
+.yisloda.com
 .xztms.com
 .xmcxz.com
 .xacqp.com
@@ -7706,6 +7707,7 @@ TAG:^adfilter-block-elem$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
 .book9.net
@@ -7757,8 +7759,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cdqjmc.com
-.yisloda.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -8027,6 +8027,7 @@ TAG:^adfilter-block-elem$
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .aiwen.cc
+.aili.com
 .adjb.5nd.com
 .add.mmyuer.com
 .adccoo.cn
@@ -8124,9 +8125,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.aili.com
-.haibao.com/js/article
-.newyx.newyx.net/js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9401,6 +9399,7 @@ cpro.*.
 .nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
+.newyx.newyx.net/js/
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -10338,6 +10337,7 @@ cpro.*.
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
+.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -13487,6 +13487,7 @@ tanchuan.htm*.
 .cmslayue.com
 .cmaxisolation.com
 .cloudad.asia
+.ckseeknew.com
 .cj-cy.com
 .cifenqi.com
 .ciajingman.com
@@ -13903,6 +13904,7 @@ tanchuan.htm*.
 .100cpc.com
 .1000dy.com
 .0xxd.com
+.0xiaoshuo.com
 .0756sjlm.com.cn
 .0756j.com
 .0592weixin.com
@@ -14051,8 +14053,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.0xiaoshuo.com
-.ckseeknew.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15260,6 +15260,7 @@ TAG:^adfilter-block-request$
 .zgfszs.com
 .yxhxs.com
 .yunanfuwuqi.com
+.yisloda.com
 .xztms.com
 .xmcxz.com
 .xacqp.com
@@ -15328,6 +15329,7 @@ TAG:^adfilter-block-request$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
 .axkxy.com
@@ -15377,8 +15379,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cdqjmc.com
-.yisloda.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15680,8 +15680,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.haibao.com/js/article
-.newyx.newyx.net/js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16911,6 +16909,7 @@ a.kj-cy.cn
 .nimasou.info/static/xdm\.js
 .nga*./(.*/)?proxy/cache_attach/ds_list\.js
 .nga*./(.*/)?common_res/js_adscommon\.js
+.newyx.newyx.net/js/
 .newsmth.net/nForum/googlead/
 .newsmth.net/nForum/files/adv/
 .newsmth.net/nForum/baiduunion/
@@ -17810,6 +17809,7 @@ a.kj-cy.cn
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
+.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -20502,6 +20502,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cnbole.net
 .cmslayue.com
 .cmaxisolation.com
+.ckseeknew.com
 .cj-cy.com
 .ciajingman.com
 .chushoushijian.cn
@@ -20786,7 +20787,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ckseeknew.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21625,6 +21625,7 @@ gg.*.
 .chnci.com
 .cdyx-pcjy.com
 .cdeme.com
+.aili.com
 .aa808.com
 .999d.com
 .90370.com
@@ -21636,7 +21637,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.aili.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
@@ -22153,6 +22153,7 @@ gg.*.
 .110160.com
 .103.249.111.179
 .100cpc.com
+.0xiaoshuo.com
 .0756j.com
 .0591101.com
 .033.com
@@ -22175,7 +22176,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.0xiaoshuo.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -23396,6 +23396,7 @@ TAG:^adfilter-unblock-dnt$
 .chinamobile.com/.*/ad
 .chinamobile.com
 .china.com/dianbo/adv1\.xml
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 .changyou.com
 .cctv.com/js/cntv_Advertise\.js
 .ccb.com/.*[^\w%.-]ad
@@ -23504,7 +23505,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R200} \
 }
@@ -24390,6 +24390,7 @@ TAG:^adfilter-unblock-elem$
 .chinamobile.com/.*/ad
 .chinamobile.com
 .china.com/dianbo/adv1\.xml
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 .changyou.com
 .cctv.com/js/cntv_Advertise\.js
 .ccb.com/.*[^\w%.-]ad
@@ -24495,7 +24496,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R200} \
 }
@@ -25368,6 +25368,7 @@ TAG:^adfilter-unblock-request$
 .chinatimes.com/css-main/ad\.css
 .chinamobile.com
 .china.com/dianbo/adv1\.xml
+.cheshi-img.com/home/home_base/ad_index_2017\.js
 .changyou.com
 .cctv.com/js/cntv_Advertise\.js
 .ccb.com/.*[^\w%.-]ad
@@ -25466,7 +25467,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.cheshi-img.com/home/home_base/ad_index_2017\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
