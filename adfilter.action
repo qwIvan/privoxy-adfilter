@@ -96,6 +96,7 @@ TAG:^adfilter-block-dnt$
 .aicydb.com
 .aercxy.com
 .97paa.com
+.5dydk.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -138,13 +139,13 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.5dydk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+.zxw51.com
 .zuiceshi.net
 .zq84.com
 .zhuolaoshi.com
@@ -505,15 +506,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.zxw51.com
-.dragon-guide.net/pic001/pic/shangcheng/
-.dragon-guide.net/pic001/hezuo/
-.51zxw.net/news_vvvs_photos\.swf
-.u17i.com/readad/
-.olevod.com/poppagen\.php
-.wdzj.com/wdzj/images/hezuo/
-.yoka.com/s\?z=
-.qzone.cc/iframe/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -676,6 +668,7 @@ cpro.*.
 .youku.com/cms/tool/pub/get_putdata\.
 .youbiyao.org/gongyi\.gif
 .you85.*./(.*/)?ling/
+.yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
 .ylzx8.cn/style/js/sad\.js
 .ylnet.com.cn/inc/ad
@@ -898,6 +891,7 @@ cpro.*.
 .webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
+.wdzj.com/wdzj/images/hezuo/
 .wdstatic.cn/tg/v2ex/
 .wdown.cn/falala/
 .wdlm.cn/img/ad1/
@@ -1006,6 +1000,7 @@ cpro.*.
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
+.u17i.com/readad/
 .u148.net/images/sponsor-
 .u.riju.com/click\.php
 .u.ctrip.com/showcaseadvertisementsit/
@@ -1475,6 +1470,7 @@ cpro.*.
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
+.qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
 .qunaso.cn/Data/upload/ad/
@@ -1755,6 +1751,7 @@ cpro.*.
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
 .ok.432kkk.com
@@ -3102,6 +3099,8 @@ cpro.*.
 .dt123.net/fj/attachment/portal/201410/15/174736bs1sqrroxhsoz33q\.jpg
 .dsqnw.com/ac/
 .drupalchina.cn/sites/default/files/banner/
+.dragon-guide.net/pic001/pic/shangcheng/
+.dragon-guide.net/pic001/hezuo/
 .dpp2019.com/js/swf/
 .doyo.cn/upload/20170612/ac6797d909a158384a22\.png
 .doyo.cn/Tpl/web/Public/images/material/www_couplets/
@@ -4218,6 +4217,7 @@ cpro.*.
 .520xs.la/js/xf\.js
 .520cc.me/ad/
 .520bdy.com/images/888
+.51zxw.net/news_vvvs_photos\.swf
 .51zxw.net/fzsplayer/adtextzxw\.asp\?
 .51zxw.net/adad/
 .51ztzj.com/res/web/img/pic/inshow\.jpg
@@ -4854,6 +4854,7 @@ tanchuan.htm*.
 .yongkang6.com
 .ynmbz.com
 .yndianju.com
+.ynbojie.com
 .ymcqb.com
 .ylzx.net
 .ykjmy.com
@@ -5258,6 +5259,7 @@ tanchuan.htm*.
 .qingqu.la
 .qidou.com
 .qiailm.com
+.qi-duo.com
 .qhaif.com
 .qgss8.com
 .qdxrhg.com
@@ -6448,8 +6450,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.qi-duo.com
-.ynbojie.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7744,6 +7744,7 @@ TAG:^adfilter-block-elem$
 .aicydb.com
 .aercxy.com
 .97paa.com
+.5dydk.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -7786,13 +7787,13 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.5dydk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
+.zxw51.com
 .zuiceshi.net
 .zq84.com
 .zhuolaoshi.com
@@ -8153,15 +8154,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.zxw51.com
-.dragon-guide.net/pic001/pic/shangcheng/
-.dragon-guide.net/pic001/hezuo/
-.51zxw.net/news_vvvs_photos\.swf
-.u17i.com/readad/
-.olevod.com/poppagen\.php
-.wdzj.com/wdzj/images/hezuo/
-.yoka.com/s\?z=
-.qzone.cc/iframe/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8324,6 +8316,7 @@ cpro.*.
 .youku.com/cms/tool/pub/get_putdata\.
 .youbiyao.org/gongyi\.gif
 .you85.*./(.*/)?ling/
+.yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
 .ylzx8.cn/style/js/sad\.js
 .ylnet.com.cn/inc/ad
@@ -8546,6 +8539,7 @@ cpro.*.
 .webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
+.wdzj.com/wdzj/images/hezuo/
 .wdstatic.cn/tg/v2ex/
 .wdown.cn/falala/
 .wdlm.cn/img/ad1/
@@ -8654,6 +8648,7 @@ cpro.*.
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
+.u17i.com/readad/
 .u148.net/images/sponsor-
 .u.riju.com/click\.php
 .u.ctrip.com/showcaseadvertisementsit/
@@ -9123,6 +9118,7 @@ cpro.*.
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
+.qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
 .qunaso.cn/Data/upload/ad/
@@ -9403,6 +9399,7 @@ cpro.*.
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
 .ok.432kkk.com
@@ -10750,6 +10747,8 @@ cpro.*.
 .dt123.net/fj/attachment/portal/201410/15/174736bs1sqrroxhsoz33q\.jpg
 .dsqnw.com/ac/
 .drupalchina.cn/sites/default/files/banner/
+.dragon-guide.net/pic001/pic/shangcheng/
+.dragon-guide.net/pic001/hezuo/
 .dpp2019.com/js/swf/
 .doyo.cn/upload/20170612/ac6797d909a158384a22\.png
 .doyo.cn/Tpl/web/Public/images/material/www_couplets/
@@ -11866,6 +11865,7 @@ cpro.*.
 .520xs.la/js/xf\.js
 .520cc.me/ad/
 .520bdy.com/images/888
+.51zxw.net/news_vvvs_photos\.swf
 .51zxw.net/fzsplayer/adtextzxw\.asp\?
 .51zxw.net/adad/
 .51ztzj.com/res/web/img/pic/inshow\.jpg
@@ -12502,6 +12502,7 @@ tanchuan.htm*.
 .yongkang6.com
 .ynmbz.com
 .yndianju.com
+.ynbojie.com
 .ymcqb.com
 .ylzx.net
 .ykjmy.com
@@ -12906,6 +12907,7 @@ tanchuan.htm*.
 .qingqu.la
 .qidou.com
 .qiailm.com
+.qi-duo.com
 .qhaif.com
 .qgss8.com
 .qdxrhg.com
@@ -14096,8 +14098,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.qi-duo.com
-.ynbojie.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15392,6 +15392,7 @@ TAG:^adfilter-block-request$
 .aicydb.com
 .aercxy.com
 .97paa.com
+.5dydk.com
 .24haitao.net
 /.*\.wap\.yb3\.cc[^\w%.-]
 .*.wap.yb3.cc
@@ -15433,7 +15434,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.5dydk.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15735,14 +15735,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.dragon-guide.net/pic001/pic/shangcheng/
-.dragon-guide.net/pic001/hezuo/
-.51zxw.net/news_vvvs_photos\.swf
-.u17i.com/readad/
-.olevod.com/poppagen\.php
-.wdzj.com/wdzj/images/hezuo/
-.yoka.com/s\?z=
-.qzone.cc/iframe/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -15903,6 +15895,7 @@ a.kj-cy.cn
 .youku.com/cms/tool/pub/get_putdata\.
 .youbiyao.org/gongyi\.gif
 .you85.*./(.*/)?ling/
+.yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
 .ylzx8.cn/style/js/sad\.js
 .ylnet.com.cn/gj\.js
@@ -16118,6 +16111,7 @@ a.kj-cy.cn
 .webhek.com/1495717690\.jpg
 .web.900.la
 .weathercn.com/m_mobile/ad_image/
+.wdzj.com/wdzj/images/hezuo/
 .wdstatic.cn/tg/v2ex/
 .wdown.cn/falala/
 .wdlm.cn/img/ad1/
@@ -16220,6 +16214,7 @@ a.kj-cy.cn
 .uc.cn/s/uae/g/0s/ua\.js
 .u9yy.com/data/upload/image/.*\.gif
 .u9yy.com/cmp/ad_u9yy\.jpg
+.u17i.com/readad/
 .u148.net/images/sponsor-
 .u.riju.com/click\.php
 .u.ctrip.com/showcaseadvertisementsit/
@@ -16671,6 +16666,7 @@ a.kj-cy.cn
 .r3sub.com/images/banners/
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
+.qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
 .qunaso.cn/Data/upload/ad/
@@ -16939,6 +16935,7 @@ a.kj-cy.cn
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
 .ok.432kkk.com
@@ -18233,6 +18230,8 @@ a.kj-cy.cn
 .dt123.net/fj/attachment/portal/201410/15/174736bs1sqrroxhsoz33q\.jpg
 .dsqnw.com/ac/
 .drupalchina.cn/sites/default/files/banner/
+.dragon-guide.net/pic001/pic/shangcheng/
+.dragon-guide.net/pic001/hezuo/
 .dpp2019.com/js/swf/
 .doyo.cn/upload/20170612/ac6797d909a158384a22\.png
 .doyo.cn/Tpl/web/Public/images/material/www_couplets/
@@ -19296,6 +19295,7 @@ a.kj-cy.cn
 .520xs.la/js/xf\.js
 .520cc.me/ad/
 .520bdy.com/images/888
+.51zxw.net/news_vvvs_photos\.swf
 .51zxw.net/fzsplayer/adtextzxw\.asp\?
 .51zxw.net/adad/
 .51ztzj.com/res/web/img/pic/inshow\.jpg
@@ -19861,6 +19861,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .yongkang6.com
 .ynmbz.com
 .yndianju.com
+.ynbojie.com
 .ymcqb.com
 .ykjmy.com
 .yk0712.com
@@ -20139,6 +20140,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qiqivv.com
 .qingqu.la
 .qiailm.com
+.qi-duo.com
 .qhaif.com
 .qgss8.com
 .qdchunyu.com
@@ -20855,8 +20857,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.qi-duo.com
-.ynbojie.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21652,6 +21652,7 @@ gg.*.
 }
 .book9.net
 .23txt.com
+.zxw51.com
 .zhuolaoshi.com
 .zhongkaowu.com
 .zhantai.com
@@ -21712,7 +21713,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.zxw51.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
