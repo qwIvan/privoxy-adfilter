@@ -506,6 +506,9 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.c1.china.cn
+.acodes.b2b.cn
+.gold678.com/news/js/layer/layer\.js
 .ithome.com/newsuploadfiles/focus/67e46c4e-0a45-488a-a493-a836e3d4f4ce\.jpg
 .sina.com.cn/activity/promotion\?
 .962.net/show/down_
@@ -6454,6 +6457,7 @@ pd2.js*.
 .*.cn/show\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
+.xijinfa.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -8160,6 +8164,9 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.c1.china.cn
+.acodes.b2b.cn
+.gold678.com/news/js/layer/layer\.js
 .ithome.com/newsuploadfiles/focus/67e46c4e-0a45-488a-a493-a836e3d4f4ce\.jpg
 .sina.com.cn/activity/promotion\?
 .962.net/show/down_
@@ -14108,6 +14115,7 @@ pd2.js*.
 .*.cn/show\?id=
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
+.xijinfa.com
 ad.*.
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/tc\.js
@@ -15746,6 +15754,9 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.c1.china.cn
+.acodes.b2b.cn
+.gold678.com/news/js/layer/layer\.js
 .ithome.com/newsuploadfiles/focus/67e46c4e-0a45-488a-a493-a836e3d4f4ce\.jpg
 .sina.com.cn/activity/promotion\?
 .962.net/show/down_
@@ -22267,6 +22278,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.xijinfa.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -23606,6 +23618,7 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.lemall.com/adspace/
 
 {+client-header-tagger{adfilter-unblock-dnt-R204} \
 }
@@ -24595,6 +24608,7 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.lemall.com/adspace/
 
 {+client-header-tagger{adfilter-unblock-elem-R204} \
 }
@@ -25564,6 +25578,7 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+.lemall.com/adspace/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
