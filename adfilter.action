@@ -368,7 +368,6 @@ TAG:^adfilter-block-dnt$
 .c1.4qx.net
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
-.9669.cn
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -445,6 +444,7 @@ TAG:^adfilter-block-dnt$
 .a.5ykj.com
 .9wushuo.com
 .999d.com
+.9669.cn
 .90370.com
 .888.izhufu.net
 .7car.com.cn
@@ -506,6 +506,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.962.net/show/down_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8015,7 +8016,6 @@ TAG:^adfilter-block-elem$
 .c1.4qx.net
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
-.9669.cn
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -8092,6 +8092,7 @@ TAG:^adfilter-block-elem$
 .a.5ykj.com
 .9wushuo.com
 .999d.com
+.9669.cn
 .90370.com
 .888.izhufu.net
 .7car.com.cn
@@ -8153,6 +8154,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.962.net/show/down_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -15732,6 +15734,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.962.net/show/down_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -21697,10 +21700,10 @@ gg.*.
 .chnci.com
 .cdyx-pcjy.com
 .cdeme.com
-.9669.cn
 .aili.com
 .aa808.com
 .999d.com
+.9669.cn
 .90370.com
 .51yhzp.com
 .4name.com
