@@ -268,7 +268,7 @@ TAG:^adfilter-block-dnt$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.jiaoben.eastday.com
+.tt123.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -7924,7 +7924,7 @@ TAG:^adfilter-block-elem$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.jiaoben.eastday.com
+.tt123.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -15547,7 +15547,7 @@ TAG:^adfilter-block-request$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.jiaoben.eastday.com
+.tt123.eastday.com
 .jddaw.com
 .jc1.dayfund.cn
 .jb.tupianzj.com
@@ -23258,6 +23258,7 @@ TAG:^adfilter-unblock-dnt$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
+.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -24257,6 +24258,7 @@ TAG:^adfilter-unblock-elem$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
+.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -25245,6 +25247,7 @@ TAG:^adfilter-unblock-request$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
+.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
