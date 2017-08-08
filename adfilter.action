@@ -97,6 +97,7 @@ TAG:^adfilter-block-dnt$
 .aercxy.com
 .97paa.com
 .5dydk.com
+.51gpt.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -139,7 +140,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.51gpt.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -192,6 +192,7 @@ TAG:^adfilter-block-dnt$
 .uc2.atobo.com.cn
 .u1.shuaiku.com
 .tui98.cn
+.tt123.eastday.com
 .trebleperfect.com
 .tiexing.com
 .ticcdn.com
@@ -269,7 +270,6 @@ TAG:^adfilter-block-dnt$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.tt123.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -508,8 +508,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.kuaihou.com/js/new/xiazai
-.shenchuang.com/.*_haier
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1344,6 +1342,7 @@ cpro.*.
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
+.shenchuang.com/.*_haier
 .shehuitu.com/jsjs/
 .shbear.com/.*/ad/
 .share44.com/adad2014/
@@ -2113,6 +2112,7 @@ cpro.*.
 .kukudm.com/js/play-
 .kukudm.com/js/comic-
 .kuailiyu.com/templates/cyzonev3/js/m\.js
+.kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
@@ -7755,6 +7755,7 @@ TAG:^adfilter-block-elem$
 .aercxy.com
 .97paa.com
 .5dydk.com
+.51gpt.com
 .24haitao.net
 .23txt.com
 /.*\.wap\.yb3\.cc[^\w%.-]
@@ -7797,7 +7798,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.51gpt.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7850,6 +7850,7 @@ TAG:^adfilter-block-elem$
 .uc2.atobo.com.cn
 .u1.shuaiku.com
 .tui98.cn
+.tt123.eastday.com
 .trebleperfect.com
 .tiexing.com
 .ticcdn.com
@@ -7927,7 +7928,6 @@ TAG:^adfilter-block-elem$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.tt123.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -8166,8 +8166,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.kuaihou.com/js/new/xiazai
-.shenchuang.com/.*_haier
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9002,6 +9000,7 @@ cpro.*.
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
+.shenchuang.com/.*_haier
 .shehuitu.com/jsjs/
 .shbear.com/.*/ad/
 .share44.com/adad2014/
@@ -9771,6 +9770,7 @@ cpro.*.
 .kukudm.com/js/play-
 .kukudm.com/js/comic-
 .kuailiyu.com/templates/cyzonev3/js/m\.js
+.kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
@@ -15413,6 +15413,7 @@ TAG:^adfilter-block-request$
 .aercxy.com
 .97paa.com
 .5dydk.com
+.51gpt.com
 .24haitao.net
 /.*\.wap\.yb3\.cc[^\w%.-]
 .*.wap.yb3.cc
@@ -15454,7 +15455,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.51gpt.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15496,6 +15496,7 @@ TAG:^adfilter-block-request$
 .uc2.atobo.com.cn
 .u1.shuaiku.com
 .tui98.cn
+.tt123.eastday.com
 .ticcdn.com
 .thetestpage.39.net
 .static.ichehome.com
@@ -15552,7 +15553,6 @@ TAG:^adfilter-block-request$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
-.tt123.eastday.com
 .jddaw.com
 .jc1.dayfund.cn
 .jb.tupianzj.com
@@ -15756,8 +15756,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.kuaihou.com/js/new/xiazai
-.shenchuang.com/.*_haier
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16568,6 +16566,7 @@ a.kj-cy.cn
 .shguanhong.net/upfiles/file/201607/2016071614
 .shfq.com/data/attachment/portal/
 .shenleyuni.com
+.shenchuang.com/.*_haier
 .shehuitu.com/jsjs/
 .shbear.com/.*/ad/
 .share44.com/adad2014/
@@ -17299,6 +17298,7 @@ a.kj-cy.cn
 .kukudm.com/js/play-
 .kukudm.com/js/comic-
 .kuailiyu.com/templates/cyzonev3/js/m\.js
+.kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
 .kuaidi100.com/mobile/mobileapi\.do
@@ -23244,6 +23244,7 @@ TAG:^adfilter-unblock-dnt$
 .pingjs.qq.com
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
+.lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
 .jd.com/setCookie\?
 .ipip.net/ping\.php\?
@@ -23264,7 +23265,6 @@ TAG:^adfilter-unblock-dnt$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -24244,6 +24244,7 @@ TAG:^adfilter-unblock-elem$
 .pingjs.qq.com
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
+.lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
 .jd.com/setCookie\?
 .ipip.net/ping\.php\?
@@ -24264,7 +24265,6 @@ TAG:^adfilter-unblock-elem$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -25233,6 +25233,7 @@ TAG:^adfilter-unblock-request$
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
+.lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
 .jd.com/setCookie\?
 .ipip.net/ping\.php\?
@@ -25253,7 +25254,6 @@ TAG:^adfilter-unblock-request$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.lesports.com/pc/\?\?.*/click_statistics/
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
