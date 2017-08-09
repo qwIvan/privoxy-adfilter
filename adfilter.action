@@ -255,6 +255,7 @@ TAG:^adfilter-block-dnt$
 .kxji.com
 .kureader.com
 .kuku99.com
+.kuhou.com
 .jsm.9939.com
 .jsm.39yst.com
 .jskrnekewe.mofans.net
@@ -348,6 +349,7 @@ TAG:^adfilter-block-dnt$
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
+.daima.cnbanbao.com
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
@@ -508,8 +510,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.daima.cnbanbao.com
-.kuhou.com
+.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -4807,6 +4808,7 @@ tanchuan.htm*.
 .zqworks.com
 .zp265.com
 .zp22938576.com
+.zjhoudao.com
 .zjhim.com
 .zj66.net
 .zhybzp.cn
@@ -5776,6 +5778,7 @@ tanchuan.htm*.
 .e7001.com
 .dzsstye.com
 .dzjzg.com
+.dyhs52.com
 .dxssiyi.com
 .dxpmedia.com
 .dx1200.com
@@ -6080,6 +6083,7 @@ tanchuan.htm*.
 .96mob.com
 .9669.com
 .9665yx.com
+.9639927.com
 .95558000.com
 .9519.net
 .95105012.com
@@ -6181,6 +6185,7 @@ tanchuan.htm*.
 .51junpin.net
 .51jumintong.com
 .51ads.com
+.5188yy.com
 .517m.cn
 .5125129.com
 .4kt2.com
@@ -6460,10 +6465,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.5188yy.com
-.9639927.com
-.dyhs52.com
-.zjhoudao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6808,6 +6809,8 @@ ad-footer.js*.
 .*.com/vodad\.js
 /.*\.com/pc/ad/
 .*.com/pc/ad/
+/.*\.com/myjs/alljs\.js
+.*.com/myjs/alljs\.js
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
 /.*\.com/js/bnr_
@@ -6853,8 +6856,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/myjs/alljs\.js
-.*.com/myjs/alljs\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7919,6 +7920,7 @@ TAG:^adfilter-block-elem$
 .kxji.com
 .kureader.com
 .kuku99.com
+.kuhou.com
 .jsm.9939.com
 .jsm.39yst.com
 .jskrnekewe.mofans.net
@@ -8012,6 +8014,7 @@ TAG:^adfilter-block-elem$
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
+.daima.cnbanbao.com
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
@@ -8172,8 +8175,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.daima.cnbanbao.com
-.kuhou.com
+.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -12471,6 +12473,7 @@ tanchuan.htm*.
 .zqworks.com
 .zp265.com
 .zp22938576.com
+.zjhoudao.com
 .zjhim.com
 .zj66.net
 .zhybzp.cn
@@ -13440,6 +13443,7 @@ tanchuan.htm*.
 .e7001.com
 .dzsstye.com
 .dzjzg.com
+.dyhs52.com
 .dxssiyi.com
 .dxpmedia.com
 .dx1200.com
@@ -13744,6 +13748,7 @@ tanchuan.htm*.
 .96mob.com
 .9669.com
 .9665yx.com
+.9639927.com
 .95558000.com
 .9519.net
 .95105012.com
@@ -13845,6 +13850,7 @@ tanchuan.htm*.
 .51junpin.net
 .51jumintong.com
 .51ads.com
+.5188yy.com
 .517m.cn
 .5125129.com
 .4kt2.com
@@ -14124,10 +14130,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.5188yy.com
-.9639927.com
-.dyhs52.com
-.zjhoudao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14472,6 +14474,8 @@ ad-footer.js*.
 .*.com/vodad\.js
 /.*\.com/pc/ad/
 .*.com/pc/ad/
+/.*\.com/myjs/alljs\.js
+.*.com/myjs/alljs\.js
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
 /.*\.com/js/bnr_
@@ -14517,8 +14521,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/myjs/alljs\.js
-.*.com/myjs/alljs\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15629,6 +15631,7 @@ TAG:^adfilter-block-request$
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
+.daima.cnbanbao.com
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
@@ -15768,7 +15771,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.daima.cnbanbao.com
+.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -19867,6 +19870,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .zrpfk.com
 .zqworks.com
 .zp22938576.com
+.zjhoudao.com
 .zjhim.com
 .zhybzp.cn
 .zhudiaosz.com
@@ -20896,7 +20900,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.zjhoudao.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21233,6 +21236,8 @@ ad-footer.js*.
 .*.com/vodad\.js
 /.*\.com/pc/ad/
 .*.com/pc/ad/
+/.*\.com/myjs/alljs\.js
+.*.com/myjs/alljs\.js
 /.*\.com/jsbjl/zhanqun
 .*.com/jsbjl/zhanqun
 /.*\.com/js/bnr_
@@ -21276,8 +21281,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*\.com/myjs/alljs\.js
-.*.com/myjs/alljs\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21725,6 +21728,7 @@ gg.*.
 .kxji.com
 .kureader.com
 .kuku99.com
+.kuhou.com
 .jiliw.com
 .jeepyy.com
 .iy.com.cn
@@ -21756,7 +21760,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.kuhou.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
@@ -22077,6 +22080,7 @@ gg.*.
 .easou.com
 .ea3721.com
 .dzsstye.com
+.dyhs52.com
 .dxpmedia.com
 .dushimj.com
 .duomai.com
@@ -22185,6 +22189,7 @@ gg.*.
 .9ads.net
 .9718.com
 .9665yx.com
+.9639927.com
 .9519.net
 .941adu.com
 .9158918.com
@@ -22224,6 +22229,7 @@ gg.*.
 .525cm.com
 .51junpin.net
 .51ads.com
+.5188yy.com
 .49ko.com
 .4936.cn
 .44pv.com
@@ -22298,9 +22304,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.5188yy.com
-.9639927.com
-.dyhs52.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
