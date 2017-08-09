@@ -4799,6 +4799,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -7306,6 +7307,10 @@ jquery.*.
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
+.kfc.com.cn
+.miaozhen.com
+.taobao.com
+.tmall.com
 
 {+client-header-tagger{adfilter-block-dnt-R100} \
 }
@@ -7359,101 +7364,97 @@ da.aspx
 
 {+client-header-tagger{adfilter-block-dnt-R112} \
 }
-.iqiyi.com/show2\?
+.pchome.com.tw/iframe/
 
 {+client-header-tagger{adfilter-block-dnt-R113} \
 }
-.pchome.com.tw/iframe/
+.jiaoyou8.com
 
 {+client-header-tagger{adfilter-block-dnt-R114} \
 }
-.jiaoyou8.com
+.picuphost.com
 
 {+client-header-tagger{adfilter-block-dnt-R115} \
 }
-.picuphost.com
+.ffsky.net
 
 {+client-header-tagger{adfilter-block-dnt-R116} \
 }
-.ffsky.net
+.i.alipayobjects.com/i/ecmng/
 
 {+client-header-tagger{adfilter-block-dnt-R117} \
 }
-.i.alipayobjects.com/i/ecmng/
+/(.*/)?js/adBom\.js
 
 {+client-header-tagger{adfilter-block-dnt-R118} \
 }
-/(.*/)?js/adBom\.js
+.www.china.com.cn/node_
 
 {+client-header-tagger{adfilter-block-dnt-R119} \
 }
-.www.china.com.cn/node_
-
-{+client-header-tagger{adfilter-block-dnt-R120} \
-}
 .youtube.com/iframe_api
 
-{+client-header-tagger{adfilter-block-dnt-R121} \
+{+client-header-tagger{adfilter-block-dnt-R120} \
 }
 /.*\.com/tps/
 .*.com/tps/
 
-{+client-header-tagger{adfilter-block-dnt-R122} \
+{+client-header-tagger{adfilter-block-dnt-R121} \
 }
 /(.*/)?dealer1\.gif
 dealer1.gif*.
 
-{+client-header-tagger{adfilter-block-dnt-R123} \
+{+client-header-tagger{adfilter-block-dnt-R122} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R124} \
+{+client-header-tagger{adfilter-block-dnt-R123} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-dnt-R125} \
+{+client-header-tagger{adfilter-block-dnt-R124} \
 }
 /(.*/)?img/br650\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R126} \
+{+client-header-tagger{adfilter-block-dnt-R125} \
 }
 /.*\.oeya\.com/
 .*.oeya.com
 
-{+client-header-tagger{adfilter-block-dnt-R127} \
+{+client-header-tagger{adfilter-block-dnt-R126} \
 }
 .bpimg.com
 
-{+client-header-tagger{adfilter-block-dnt-R128} \
+{+client-header-tagger{adfilter-block-dnt-R127} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-dnt-R129} \
+{+client-header-tagger{adfilter-block-dnt-R128} \
 }
 .url.cn
 
-{+client-header-tagger{adfilter-block-dnt-R130} \
+{+client-header-tagger{adfilter-block-dnt-R129} \
 }
 .click.taobao.com
 
-{+client-header-tagger{adfilter-block-dnt-R131} \
+{+client-header-tagger{adfilter-block-dnt-R130} \
 }
 .facebook.com/v2\.6/plugins/video\.
 
-{+client-header-tagger{adfilter-block-dnt-R132} \
+{+client-header-tagger{adfilter-block-dnt-R131} \
 }
 /(.*/)?sungg/.*
 
-{+client-header-tagger{adfilter-block-dnt-R133} \
+{+client-header-tagger{adfilter-block-dnt-R132} \
 }
 .baidu.com/tb/zt/
 /(.*/)?11431a7ff0f5\.swf
 11431a7ff0f5.swf*.
 
-{+client-header-tagger{adfilter-block-dnt-R134} \
+{+client-header-tagger{adfilter-block-dnt-R133} \
 }
 .junph.cn
 
-{+client-header-tagger{adfilter-block-dnt-R135} \
+{+client-header-tagger{adfilter-block-dnt-R134} \
 }
 .xmds.opd2c.com
 .moezone.taobao.com
@@ -7461,44 +7462,44 @@ dealer1.gif*.
 .acgpost.taobao.com
 /(.*/)?item\.htm\?
 
-{+client-header-tagger{adfilter-block-dnt-R136} \
+{+client-header-tagger{adfilter-block-dnt-R135} \
 }
 /(.*/)?[^\w%.-]http://www\\\.tt1069\\\.com\\/\(\?!bbs\)/
 /^http://www\.tt1069\.com\/(?!bbs)
 .img999.com
 
-{+client-header-tagger{adfilter-block-dnt-R137} \
+{+client-header-tagger{adfilter-block-dnt-R136} \
 }
 /(.*/)?ipower\.htm
 ipower.htm*.
 
-{+client-header-tagger{adfilter-block-dnt-R138} \
+{+client-header-tagger{adfilter-block-dnt-R137} \
 }
 /(.*/)?img/.*
 /(.*/)?gif/.*
 
-{+client-header-tagger{adfilter-block-dnt-R139} \
+{+client-header-tagger{adfilter-block-dnt-R138} \
 }
 /(.*/)?bannerpic/.*
 
-{+client-header-tagger{adfilter-block-dnt-R140} \
+{+client-header-tagger{adfilter-block-dnt-R139} \
 }
 .goo.gl
 
-{+client-header-tagger{adfilter-block-dnt-R141} \
+{+client-header-tagger{adfilter-block-dnt-R140} \
 }
 /(.*/)?friends/.*
 /(.*/)?assets/sidebar/.*
 
-{+client-header-tagger{adfilter-block-dnt-R142} \
+{+client-header-tagger{adfilter-block-dnt-R141} \
 }
 .xuehi.cn
 
-{+client-header-tagger{adfilter-block-dnt-R143} \
+{+client-header-tagger{adfilter-block-dnt-R142} \
 }
 .uploadhouse.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R144} \
+{+client-header-tagger{adfilter-block-dnt-R143} \
 }
 .zsg.kimi.com.tw
 .bahamut.com.tw/s01/
@@ -7507,166 +7508,166 @@ ipower.htm*.
 /.*\.html$
 .*.html
 
-{+client-header-tagger{adfilter-block-dnt-R145} \
+{+client-header-tagger{adfilter-block-dnt-R144} \
 }
 .nmgnews.com.cn/swf/0/11/
 
-{+client-header-tagger{adfilter-block-dnt-R146} \
+{+client-header-tagger{adfilter-block-dnt-R145} \
 }
 .img*./.*\.itiexue\.net/2.*\.gif
 .img*.itiexue.net/2.*\.gif
 
-{+client-header-tagger{adfilter-block-dnt-R147} \
+{+client-header-tagger{adfilter-block-dnt-R146} \
 }
 .pic.zol-img.com.cn
 
-{+client-header-tagger{adfilter-block-dnt-R148} \
+{+client-header-tagger{adfilter-block-dnt-R147} \
 }
 .mbd.baidu.com
 
-{+client-header-tagger{adfilter-block-dnt-R149} \
+{+client-header-tagger{adfilter-block-dnt-R148} \
 }
 .crvtrk.com
 
-{+client-header-tagger{adfilter-block-dnt-R150} \
+{+client-header-tagger{adfilter-block-dnt-R149} \
 }
 
-{+client-header-tagger{adfilter-block-dnt-R151} \
+{+client-header-tagger{adfilter-block-dnt-R150} \
 }
 .yytcdn.com/swf/plugins_new\.xml\?
 
-{+client-header-tagger{adfilter-block-dnt-R152} \
+{+client-header-tagger{adfilter-block-dnt-R151} \
 }
 /(.*/)?r/video/.*
 
-{+client-header-tagger{adfilter-block-dnt-R153} \
+{+client-header-tagger{adfilter-block-dnt-R152} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-dnt-R154} \
+{+client-header-tagger{adfilter-block-dnt-R153} \
 }
 .srcdd.com
 
-{+client-header-tagger{adfilter-block-dnt-R155} \
+{+client-header-tagger{adfilter-block-dnt-R154} \
 }
 .ip.ws.126.net
 
-{+client-header-tagger{adfilter-block-dnt-Rn156} \
+{+client-header-tagger{adfilter-block-dnt-Rn155} \
 }
 /(.*/)?gg/
 
-{+client-header-tagger{adfilter-block-dnt-Rn157} \
+{+client-header-tagger{adfilter-block-dnt-Rn156} \
 }
 .img.uu1001.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn158} \
+{+client-header-tagger{adfilter-block-dnt-Rn157} \
 }
 .tanx.com
 
-{+client-header-tagger{adfilter-block-dnt-Rn159} \
+{+client-header-tagger{adfilter-block-dnt-Rn158} \
 }
 /(.*/)?duilian\.
 duilian.*.
 
-{+client-header-tagger{adfilter-block-dnt-Rn160} \
+{+client-header-tagger{adfilter-block-dnt-Rn159} \
 }
 /.*\.me/ad/
 .*.me/ad/
 
-{+client-header-tagger{adfilter-block-dnt-Rn161} \
+{+client-header-tagger{adfilter-block-dnt-Rn160} \
 }
 .taobao.com/go/
 
-{+client-header-tagger{adfilter-block-dnt-Rn162} \
+{+client-header-tagger{adfilter-block-dnt-Rn161} \
 }
 .alimama.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn163} \
+{+client-header-tagger{adfilter-block-dnt-Rn162} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
-{+client-header-tagger{adfilter-block-dnt-Rn164} \
+{+client-header-tagger{adfilter-block-dnt-Rn163} \
 }
 /(.*/)?js/ad\.
 
-{+client-header-tagger{adfilter-block-dnt-Rn165} \
+{+client-header-tagger{adfilter-block-dnt-Rn164} \
 }
 .acg.178.com/.*/t_
 
-{+client-header-tagger{adfilter-block-dnt-Rn166} \
+{+client-header-tagger{adfilter-block-dnt-Rn165} \
 }
 .offcn.com
 
-{+client-header-tagger{adfilter-block-dnt-Rn167} \
+{+client-header-tagger{adfilter-block-dnt-Rn166} \
 }
 /(.*/)?floatad\.
 floatad.*.
 
-{+client-header-tagger{adfilter-block-dnt-Rn168} \
+{+client-header-tagger{adfilter-block-dnt-Rn167} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 
-{+client-header-tagger{adfilter-block-dnt-Rn169} \
+{+client-header-tagger{adfilter-block-dnt-Rn168} \
 }
 gg.*.
 
-{+client-header-tagger{adfilter-block-dnt-Rn170} \
+{+client-header-tagger{adfilter-block-dnt-Rn169} \
 }
 /(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
-{+client-header-tagger{adfilter-block-dnt-Rn171} \
+{+client-header-tagger{adfilter-block-dnt-Rn170} \
 }
 .inte.sogoucdn.com
 
-{+client-header-tagger{adfilter-block-dnt-Rn172} \
+{+client-header-tagger{adfilter-block-dnt-Rn171} \
 }
 .p0y.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn173} \
+{+client-header-tagger{adfilter-block-dnt-Rn172} \
 }
 .lianmeng.360.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn174} \
+{+client-header-tagger{adfilter-block-dnt-Rn173} \
 }
 /.*\.tw/ad/
 .*.tw/ad/
 
-{+client-header-tagger{adfilter-block-dnt-Rn175} \
+{+client-header-tagger{adfilter-block-dnt-Rn174} \
 }
 .dotmore.com.tw
 
-{+client-header-tagger{adfilter-block-dnt-Rn176} \
+{+client-header-tagger{adfilter-block-dnt-Rn175} \
 }
 .rm.sina.com.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn177} \
+{+client-header-tagger{adfilter-block-dnt-Rn176} \
 }
 .wan.sogoucdn.com/cdn/flash/
 
-{+client-header-tagger{adfilter-block-dnt-Rn178} \
+{+client-header-tagger{adfilter-block-dnt-Rn177} \
 }
 .s.yimg.com/.*/flash_general_
 
-{+client-header-tagger{adfilter-block-dnt-Rn179} \
+{+client-header-tagger{adfilter-block-dnt-Rn178} \
 }
 .news.sina.com.cn/pfpnews/js/libweb\.js
 .d5.sina.com.cn
 
-{+client-header-tagger{adfilter-block-dnt-Rn180} \
+{+client-header-tagger{adfilter-block-dnt-Rn179} \
 }
 /(.*/)?.*_ad\.js
 
-{+client-header-tagger{adfilter-block-dnt-Rn181} \
+{+client-header-tagger{adfilter-block-dnt-Rn180} \
 }
 .yimg.com/no/
 
-{+client-header-tagger{adfilter-block-dnt-Rn182} \
+{+client-header-tagger{adfilter-block-dnt-Rn181} \
 }
 /(.*/)?picad/.*
 
-{+client-header-tagger{adfilter-block-dnt-Rn183} \
+{+client-header-tagger{adfilter-block-dnt-Rn182} \
 }
 .114la.com
 
@@ -12470,6 +12471,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -14977,6 +14979,10 @@ jquery.*.
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
+.kfc.com.cn
+.miaozhen.com
+.taobao.com
+.tmall.com
 
 {+client-header-tagger{adfilter-block-elem-R100} \
 }
@@ -15030,101 +15036,97 @@ da.aspx
 
 {+client-header-tagger{adfilter-block-elem-R112} \
 }
-.iqiyi.com/show2\?
+.pchome.com.tw/iframe/
 
 {+client-header-tagger{adfilter-block-elem-R113} \
 }
-.pchome.com.tw/iframe/
+.jiaoyou8.com
 
 {+client-header-tagger{adfilter-block-elem-R114} \
 }
-.jiaoyou8.com
+.picuphost.com
 
 {+client-header-tagger{adfilter-block-elem-R115} \
 }
-.picuphost.com
+.ffsky.net
 
 {+client-header-tagger{adfilter-block-elem-R116} \
 }
-.ffsky.net
+.i.alipayobjects.com/i/ecmng/
 
 {+client-header-tagger{adfilter-block-elem-R117} \
 }
-.i.alipayobjects.com/i/ecmng/
+/(.*/)?js/adBom\.js
 
 {+client-header-tagger{adfilter-block-elem-R118} \
 }
-/(.*/)?js/adBom\.js
+.www.china.com.cn/node_
 
 {+client-header-tagger{adfilter-block-elem-R119} \
 }
-.www.china.com.cn/node_
-
-{+client-header-tagger{adfilter-block-elem-R120} \
-}
 .youtube.com/iframe_api
 
-{+client-header-tagger{adfilter-block-elem-R121} \
+{+client-header-tagger{adfilter-block-elem-R120} \
 }
 /.*\.com/tps/
 .*.com/tps/
 
-{+client-header-tagger{adfilter-block-elem-R122} \
+{+client-header-tagger{adfilter-block-elem-R121} \
 }
 /(.*/)?dealer1\.gif
 dealer1.gif*.
 
-{+client-header-tagger{adfilter-block-elem-R123} \
+{+client-header-tagger{adfilter-block-elem-R122} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R124} \
+{+client-header-tagger{adfilter-block-elem-R123} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-elem-R125} \
+{+client-header-tagger{adfilter-block-elem-R124} \
 }
 /(.*/)?img/br650\.gif
 
-{+client-header-tagger{adfilter-block-elem-R126} \
+{+client-header-tagger{adfilter-block-elem-R125} \
 }
 /.*\.oeya\.com/
 .*.oeya.com
 
-{+client-header-tagger{adfilter-block-elem-R127} \
+{+client-header-tagger{adfilter-block-elem-R126} \
 }
 .bpimg.com
 
-{+client-header-tagger{adfilter-block-elem-R128} \
+{+client-header-tagger{adfilter-block-elem-R127} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-elem-R129} \
+{+client-header-tagger{adfilter-block-elem-R128} \
 }
 .url.cn
 
-{+client-header-tagger{adfilter-block-elem-R130} \
+{+client-header-tagger{adfilter-block-elem-R129} \
 }
 .click.taobao.com
 
-{+client-header-tagger{adfilter-block-elem-R131} \
+{+client-header-tagger{adfilter-block-elem-R130} \
 }
 .facebook.com/v2\.6/plugins/video\.
 
-{+client-header-tagger{adfilter-block-elem-R132} \
+{+client-header-tagger{adfilter-block-elem-R131} \
 }
 /(.*/)?sungg/.*
 
-{+client-header-tagger{adfilter-block-elem-R133} \
+{+client-header-tagger{adfilter-block-elem-R132} \
 }
 .baidu.com/tb/zt/
 /(.*/)?11431a7ff0f5\.swf
 11431a7ff0f5.swf*.
 
-{+client-header-tagger{adfilter-block-elem-R134} \
+{+client-header-tagger{adfilter-block-elem-R133} \
 }
 .junph.cn
 
-{+client-header-tagger{adfilter-block-elem-R135} \
+{+client-header-tagger{adfilter-block-elem-R134} \
 }
 .xmds.opd2c.com
 .moezone.taobao.com
@@ -15132,44 +15134,44 @@ dealer1.gif*.
 .acgpost.taobao.com
 /(.*/)?item\.htm\?
 
-{+client-header-tagger{adfilter-block-elem-R136} \
+{+client-header-tagger{adfilter-block-elem-R135} \
 }
 /(.*/)?[^\w%.-]http://www\\\.tt1069\\\.com\\/\(\?!bbs\)/
 /^http://www\.tt1069\.com\/(?!bbs)
 .img999.com
 
-{+client-header-tagger{adfilter-block-elem-R137} \
+{+client-header-tagger{adfilter-block-elem-R136} \
 }
 /(.*/)?ipower\.htm
 ipower.htm*.
 
-{+client-header-tagger{adfilter-block-elem-R138} \
+{+client-header-tagger{adfilter-block-elem-R137} \
 }
 /(.*/)?img/.*
 /(.*/)?gif/.*
 
-{+client-header-tagger{adfilter-block-elem-R139} \
+{+client-header-tagger{adfilter-block-elem-R138} \
 }
 /(.*/)?bannerpic/.*
 
-{+client-header-tagger{adfilter-block-elem-R140} \
+{+client-header-tagger{adfilter-block-elem-R139} \
 }
 .goo.gl
 
-{+client-header-tagger{adfilter-block-elem-R141} \
+{+client-header-tagger{adfilter-block-elem-R140} \
 }
 /(.*/)?friends/.*
 /(.*/)?assets/sidebar/.*
 
-{+client-header-tagger{adfilter-block-elem-R142} \
+{+client-header-tagger{adfilter-block-elem-R141} \
 }
 .xuehi.cn
 
-{+client-header-tagger{adfilter-block-elem-R143} \
+{+client-header-tagger{adfilter-block-elem-R142} \
 }
 .uploadhouse.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R144} \
+{+client-header-tagger{adfilter-block-elem-R143} \
 }
 .zsg.kimi.com.tw
 .bahamut.com.tw/s01/
@@ -15178,166 +15180,166 @@ ipower.htm*.
 /.*\.html$
 .*.html
 
-{+client-header-tagger{adfilter-block-elem-R145} \
+{+client-header-tagger{adfilter-block-elem-R144} \
 }
 .nmgnews.com.cn/swf/0/11/
 
-{+client-header-tagger{adfilter-block-elem-R146} \
+{+client-header-tagger{adfilter-block-elem-R145} \
 }
 .img*./.*\.itiexue\.net/2.*\.gif
 .img*.itiexue.net/2.*\.gif
 
-{+client-header-tagger{adfilter-block-elem-R147} \
+{+client-header-tagger{adfilter-block-elem-R146} \
 }
 .pic.zol-img.com.cn
 
-{+client-header-tagger{adfilter-block-elem-R148} \
+{+client-header-tagger{adfilter-block-elem-R147} \
 }
 .mbd.baidu.com
 
-{+client-header-tagger{adfilter-block-elem-R149} \
+{+client-header-tagger{adfilter-block-elem-R148} \
 }
 .crvtrk.com
 
-{+client-header-tagger{adfilter-block-elem-R150} \
+{+client-header-tagger{adfilter-block-elem-R149} \
 }
 
-{+client-header-tagger{adfilter-block-elem-R151} \
+{+client-header-tagger{adfilter-block-elem-R150} \
 }
 .yytcdn.com/swf/plugins_new\.xml\?
 
-{+client-header-tagger{adfilter-block-elem-R152} \
+{+client-header-tagger{adfilter-block-elem-R151} \
 }
 /(.*/)?r/video/.*
 
-{+client-header-tagger{adfilter-block-elem-R153} \
+{+client-header-tagger{adfilter-block-elem-R152} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-elem-R154} \
+{+client-header-tagger{adfilter-block-elem-R153} \
 }
 .srcdd.com
 
-{+client-header-tagger{adfilter-block-elem-R155} \
+{+client-header-tagger{adfilter-block-elem-R154} \
 }
 .ip.ws.126.net
 
-{+client-header-tagger{adfilter-block-elem-Rn156} \
+{+client-header-tagger{adfilter-block-elem-Rn155} \
 }
 /(.*/)?gg/
 
-{+client-header-tagger{adfilter-block-elem-Rn157} \
+{+client-header-tagger{adfilter-block-elem-Rn156} \
 }
 .img.uu1001.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn158} \
+{+client-header-tagger{adfilter-block-elem-Rn157} \
 }
 .tanx.com
 
-{+client-header-tagger{adfilter-block-elem-Rn159} \
+{+client-header-tagger{adfilter-block-elem-Rn158} \
 }
 /(.*/)?duilian\.
 duilian.*.
 
-{+client-header-tagger{adfilter-block-elem-Rn160} \
+{+client-header-tagger{adfilter-block-elem-Rn159} \
 }
 /.*\.me/ad/
 .*.me/ad/
 
-{+client-header-tagger{adfilter-block-elem-Rn161} \
+{+client-header-tagger{adfilter-block-elem-Rn160} \
 }
 .taobao.com/go/
 
-{+client-header-tagger{adfilter-block-elem-Rn162} \
+{+client-header-tagger{adfilter-block-elem-Rn161} \
 }
 .alimama.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn163} \
+{+client-header-tagger{adfilter-block-elem-Rn162} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
-{+client-header-tagger{adfilter-block-elem-Rn164} \
+{+client-header-tagger{adfilter-block-elem-Rn163} \
 }
 /(.*/)?js/ad\.
 
-{+client-header-tagger{adfilter-block-elem-Rn165} \
+{+client-header-tagger{adfilter-block-elem-Rn164} \
 }
 .acg.178.com/.*/t_
 
-{+client-header-tagger{adfilter-block-elem-Rn166} \
+{+client-header-tagger{adfilter-block-elem-Rn165} \
 }
 .offcn.com
 
-{+client-header-tagger{adfilter-block-elem-Rn167} \
+{+client-header-tagger{adfilter-block-elem-Rn166} \
 }
 /(.*/)?floatad\.
 floatad.*.
 
-{+client-header-tagger{adfilter-block-elem-Rn168} \
+{+client-header-tagger{adfilter-block-elem-Rn167} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
 
-{+client-header-tagger{adfilter-block-elem-Rn169} \
+{+client-header-tagger{adfilter-block-elem-Rn168} \
 }
 gg.*.
 
-{+client-header-tagger{adfilter-block-elem-Rn170} \
+{+client-header-tagger{adfilter-block-elem-Rn169} \
 }
 /(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
-{+client-header-tagger{adfilter-block-elem-Rn171} \
+{+client-header-tagger{adfilter-block-elem-Rn170} \
 }
 .inte.sogoucdn.com
 
-{+client-header-tagger{adfilter-block-elem-Rn172} \
+{+client-header-tagger{adfilter-block-elem-Rn171} \
 }
 .p0y.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn173} \
+{+client-header-tagger{adfilter-block-elem-Rn172} \
 }
 .lianmeng.360.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn174} \
+{+client-header-tagger{adfilter-block-elem-Rn173} \
 }
 /.*\.tw/ad/
 .*.tw/ad/
 
-{+client-header-tagger{adfilter-block-elem-Rn175} \
+{+client-header-tagger{adfilter-block-elem-Rn174} \
 }
 .dotmore.com.tw
 
-{+client-header-tagger{adfilter-block-elem-Rn176} \
+{+client-header-tagger{adfilter-block-elem-Rn175} \
 }
 .rm.sina.com.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn177} \
+{+client-header-tagger{adfilter-block-elem-Rn176} \
 }
 .wan.sogoucdn.com/cdn/flash/
 
-{+client-header-tagger{adfilter-block-elem-Rn178} \
+{+client-header-tagger{adfilter-block-elem-Rn177} \
 }
 .s.yimg.com/.*/flash_general_
 
-{+client-header-tagger{adfilter-block-elem-Rn179} \
+{+client-header-tagger{adfilter-block-elem-Rn178} \
 }
 .news.sina.com.cn/pfpnews/js/libweb\.js
 .d5.sina.com.cn
 
-{+client-header-tagger{adfilter-block-elem-Rn180} \
+{+client-header-tagger{adfilter-block-elem-Rn179} \
 }
 /(.*/)?.*_ad\.js
 
-{+client-header-tagger{adfilter-block-elem-Rn181} \
+{+client-header-tagger{adfilter-block-elem-Rn180} \
 }
 .yimg.com/no/
 
-{+client-header-tagger{adfilter-block-elem-Rn182} \
+{+client-header-tagger{adfilter-block-elem-Rn181} \
 }
 /(.*/)?picad/.*
 
-{+client-header-tagger{adfilter-block-elem-Rn183} \
+{+client-header-tagger{adfilter-block-elem-Rn182} \
 }
 .114la.com
 
@@ -21384,7 +21386,7 @@ TAG:^adfilter-block-request-Aasv-Casv$
 .adm*.autoimg.cn
 .5dmail.net/image/
 
-{+client-header-tagger{adfilter-block-request-Aasv-Casv-when-R145} \
+{+client-header-tagger{adfilter-block-request-Aasv-Casv-when-R144} \
 }
 .nmgnews.com.cn/swf/0/11/
 
@@ -21428,28 +21430,28 @@ TAG:^adfilter-block-request-Ai-Ci$
 }
 .s.pacn.ws/.*\?
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R117} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R116} \
 }
 .i.alipayobjects.com/i/ecmng/
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R138} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R137} \
 }
 /(.*/)?img/.*
 /(.*/)?gif/.*
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R141} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R140} \
 }
 /(.*/)?friends/.*
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R147} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-R146} \
 }
 .pic.zol-img.com.cn
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-Rn172} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-Rn171} \
 }
 .p0y.cn
 
-{+client-header-tagger{adfilter-block-request-Ai-Ci-when-Rn179} \
+{+client-header-tagger{adfilter-block-request-Ai-Ci-when-Rn178} \
 }
 .d5.sina.com.cn
 
@@ -21512,6 +21514,9 @@ tk.*./.*\.php\?id=.*&s=
 }
 TAG:^adfilter-block-request-Aj-Cj-Xx$
 
+{+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R183t} \
+}
+
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R184t} \
 }
 
@@ -21519,9 +21524,6 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 }
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R186t} \
-}
-
-{+client-header-tagger{adfilter-block-request-Aj-Cj-Xx-when-R187t} \
 }
 
 {+client-header-tagger{adfilter-block-request-Aj-Cj-when-R5} \
@@ -21540,20 +21542,20 @@ TAG:^adfilter-block-request-Aj-Cj-Xx$
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R136} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R135} \
 }
 /(.*/)?[^\w%.-]http://www\\\.tt1069\\\.com\\/\(\?!bbs\)/
 /^http://www\.tt1069\.com\/(?!bbs)
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R188t} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-R187t} \
 }
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn163} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn162} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\)\(\?=\[0-9a-z\].*\[0-9\]\)\[0-9a-z\]\{40,62\}\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z])(?=[0-9a-z]*[0-9])[0-9a-z]{40,62}\.js$
 
-{+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn168} \
+{+client-header-tagger{adfilter-block-request-Aj-Cj-when-Rn167} \
 }
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\(\?=\[0-9a-z\].*\[a-z\]\[0-9\]\+\[a-z\]\)\(\?:\[0-9a-z\]\{10\}\|\[0-9a-z\]\{26\}\)\\\.js\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9]+[a-z])(?:[0-9a-z]{10}|[0-9a-z]{26})\.js$
@@ -21671,43 +21673,43 @@ js*./(.*/)?i\.js\?
 }
 TAG:^adfilter-block-request-Anhm-Cnhm$
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-R189t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-R188t} \
 }
 /.*\.gif$
 .*.gif
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-R190t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-R189t} \
 }
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn191t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn190t} \
 }
 .tanx.com
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn192t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn191t} \
 }
 .img.uu1001.cn
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn193t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn192t} \
 }
 .taobao.com/go/
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn194t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn193t} \
 }
 .alimama.cn
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn195t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn194t} \
 }
 .offcn.com
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn196t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn195t} \
 }
 gg.*.
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn197t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn196t} \
 }
 .dotmore.com.tw
 
-{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn198t} \
+{+client-header-tagger{adfilter-block-request-Anhm-Cnhm-when-Rn197t} \
 }
 .114la.com
 
@@ -22444,7 +22446,7 @@ gTool.js*.
 }
 .picasion.com
 
-{+client-header-tagger{adfilter-block-request-R199t} \
+{+client-header-tagger{adfilter-block-request-R198t} \
 }
 
 {+client-header-tagger{adfilter-block-request-R26} \
@@ -22716,15 +22718,16 @@ jquery.*.
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
 .miaozhen.com
-
-{+client-header-tagger{adfilter-block-request-R200t} \
-}
+.kfc.com.cn
+.miaozhen.com
+.taobao.com
+.tmall.com
 
 {+client-header-tagger{adfilter-block-request-R100} \
 }
 .imgchr.com
 
-{+client-header-tagger{adfilter-block-request-R201t} \
+{+client-header-tagger{adfilter-block-request-R199t} \
 }
 
 {+client-header-tagger{adfilter-block-request-R102} \
@@ -22769,93 +22772,89 @@ da.aspx
 
 {+client-header-tagger{adfilter-block-request-R112} \
 }
-.iqiyi.com/show2\?
+.pchome.com.tw/iframe/
 
 {+client-header-tagger{adfilter-block-request-R113} \
 }
-.pchome.com.tw/iframe/
+.jiaoyou8.com
 
 {+client-header-tagger{adfilter-block-request-R114} \
 }
-.jiaoyou8.com
+.picuphost.com
 
 {+client-header-tagger{adfilter-block-request-R115} \
 }
-.picuphost.com
-
-{+client-header-tagger{adfilter-block-request-R116} \
-}
 .ffsky.net
 
-{+client-header-tagger{adfilter-block-request-R118} \
+{+client-header-tagger{adfilter-block-request-R117} \
 }
 /(.*/)?js/adBom\.js
 
-{+client-header-tagger{adfilter-block-request-R119} \
+{+client-header-tagger{adfilter-block-request-R118} \
 }
 .www.china.com.cn/node_
 
-{+client-header-tagger{adfilter-block-request-R120} \
+{+client-header-tagger{adfilter-block-request-R119} \
 }
 .youtube.com/iframe_api
 
-{+client-header-tagger{adfilter-block-request-R121} \
+{+client-header-tagger{adfilter-block-request-R120} \
 }
 /.*\.com/tps/
 .*.com/tps/
 
-{+client-header-tagger{adfilter-block-request-R122} \
+{+client-header-tagger{adfilter-block-request-R121} \
 }
 /(.*/)?dealer1\.gif
 dealer1.gif*.
 
-{+client-header-tagger{adfilter-block-request-R124} \
+{+client-header-tagger{adfilter-block-request-R123} \
 }
 .baidu.com
 
-{+client-header-tagger{adfilter-block-request-R125} \
+{+client-header-tagger{adfilter-block-request-R124} \
 }
 /(.*/)?img/br650\.gif
 
-{+client-header-tagger{adfilter-block-request-R126} \
+{+client-header-tagger{adfilter-block-request-R125} \
 }
 /.*\.oeya\.com/
 .*.oeya.com
 
-{+client-header-tagger{adfilter-block-request-R127} \
+{+client-header-tagger{adfilter-block-request-R126} \
 }
 .bpimg.com
 
-{+client-header-tagger{adfilter-block-request-R128} \
+{+client-header-tagger{adfilter-block-request-R127} \
 }
 /(.*/)?images/20
 
-{+client-header-tagger{adfilter-block-request-R129} \
+{+client-header-tagger{adfilter-block-request-R128} \
 }
 .url.cn
 
-{+client-header-tagger{adfilter-block-request-R130} \
+{+client-header-tagger{adfilter-block-request-R129} \
 }
 .click.taobao.com
 
-{+client-header-tagger{adfilter-block-request-R131} \
+{+client-header-tagger{adfilter-block-request-R130} \
 }
 .facebook.com/v2\.6/plugins/video\.
 
-{+client-header-tagger{adfilter-block-request-R132} \
+{+client-header-tagger{adfilter-block-request-R131} \
 }
 /(.*/)?sungg/.*
 
-{+client-header-tagger{adfilter-block-request-R133} \
+{+client-header-tagger{adfilter-block-request-R132} \
 }
 /(.*/)?11431a7ff0f5\.swf
 11431a7ff0f5.swf*.
 
-{+client-header-tagger{adfilter-block-request-R134} \
+{+client-header-tagger{adfilter-block-request-R133} \
 }
 .junph.cn
 
-{+client-header-tagger{adfilter-block-request-R135} \
+{+client-header-tagger{adfilter-block-request-R134} \
 }
 .xmds.opd2c.com
 .moezone.taobao.com
@@ -22863,36 +22862,36 @@ dealer1.gif*.
 .acgpost.taobao.com
 /(.*/)?item\.htm\?
 
-{+client-header-tagger{adfilter-block-request-R136} \
+{+client-header-tagger{adfilter-block-request-R135} \
 }
 .img999.com
 
-{+client-header-tagger{adfilter-block-request-R137} \
+{+client-header-tagger{adfilter-block-request-R136} \
 }
 /(.*/)?ipower\.htm
 ipower.htm*.
 
-{+client-header-tagger{adfilter-block-request-R139} \
+{+client-header-tagger{adfilter-block-request-R138} \
 }
 /(.*/)?bannerpic/.*
 
-{+client-header-tagger{adfilter-block-request-R140} \
+{+client-header-tagger{adfilter-block-request-R139} \
 }
 .goo.gl
 
-{+client-header-tagger{adfilter-block-request-R141} \
+{+client-header-tagger{adfilter-block-request-R140} \
 }
 /(.*/)?assets/sidebar/.*
 
-{+client-header-tagger{adfilter-block-request-R142} \
+{+client-header-tagger{adfilter-block-request-R141} \
 }
 .xuehi.cn
 
-{+client-header-tagger{adfilter-block-request-R143} \
+{+client-header-tagger{adfilter-block-request-R142} \
 }
 .uploadhouse.com/.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R144} \
+{+client-header-tagger{adfilter-block-request-R143} \
 }
 .zsg.kimi.com.tw
 .bahamut.com.tw/s01/
@@ -22901,104 +22900,104 @@ ipower.htm*.
 /.*\.html$
 .*.html
 
-{+client-header-tagger{adfilter-block-request-R146} \
+{+client-header-tagger{adfilter-block-request-R145} \
 }
 .img*./.*\.itiexue\.net/2.*\.gif
 .img*.itiexue.net/2.*\.gif
 
-{+client-header-tagger{adfilter-block-request-R148} \
+{+client-header-tagger{adfilter-block-request-R147} \
 }
 .mbd.baidu.com
 
-{+client-header-tagger{adfilter-block-request-R149} \
+{+client-header-tagger{adfilter-block-request-R148} \
 }
 .crvtrk.com
 
-{+client-header-tagger{adfilter-block-request-R151} \
+{+client-header-tagger{adfilter-block-request-R150} \
 }
 .yytcdn.com/swf/plugins_new\.xml\?
 
-{+client-header-tagger{adfilter-block-request-R152} \
+{+client-header-tagger{adfilter-block-request-R151} \
 }
 /(.*/)?r/video/.*
 
-{+client-header-tagger{adfilter-block-request-R153} \
+{+client-header-tagger{adfilter-block-request-R152} \
 }
 .taobaocdn.com
 
-{+client-header-tagger{adfilter-block-request-R154} \
+{+client-header-tagger{adfilter-block-request-R153} \
 }
 .srcdd.com
 
-{+client-header-tagger{adfilter-block-request-R155} \
+{+client-header-tagger{adfilter-block-request-R154} \
 }
 .ip.ws.126.net
 
-{+client-header-tagger{adfilter-block-request-Rn156} \
+{+client-header-tagger{adfilter-block-request-Rn155} \
 }
 /(.*/)?gg/
 
-{+client-header-tagger{adfilter-block-request-Rn159} \
+{+client-header-tagger{adfilter-block-request-Rn158} \
 }
 /(.*/)?duilian\.
 duilian.*.
 
-{+client-header-tagger{adfilter-block-request-Rn160} \
+{+client-header-tagger{adfilter-block-request-Rn159} \
 }
 /.*\.me/ad/
 .*.me/ad/
 
-{+client-header-tagger{adfilter-block-request-Rn164} \
+{+client-header-tagger{adfilter-block-request-Rn163} \
 }
 /(.*/)?js/ad\.
 
-{+client-header-tagger{adfilter-block-request-Rn167} \
+{+client-header-tagger{adfilter-block-request-Rn166} \
 }
 /(.*/)?floatad\.
 floatad.*.
 
-{+client-header-tagger{adfilter-block-request-Rn170} \
+{+client-header-tagger{adfilter-block-request-Rn169} \
 }
 /(.*/)?cdn-cgi/pe/bag2\?.*p\.tanx\.com
 
-{+client-header-tagger{adfilter-block-request-Rn171} \
+{+client-header-tagger{adfilter-block-request-Rn170} \
 }
 .inte.sogoucdn.com
 
-{+client-header-tagger{adfilter-block-request-Rn173} \
+{+client-header-tagger{adfilter-block-request-Rn172} \
 }
 .lianmeng.360.cn
 
-{+client-header-tagger{adfilter-block-request-Rn174} \
+{+client-header-tagger{adfilter-block-request-Rn173} \
 }
 /.*\.tw/ad/
 .*.tw/ad/
 
-{+client-header-tagger{adfilter-block-request-Rn176} \
+{+client-header-tagger{adfilter-block-request-Rn175} \
 }
 .rm.sina.com.cn
 
-{+client-header-tagger{adfilter-block-request-Rn177} \
+{+client-header-tagger{adfilter-block-request-Rn176} \
 }
 .wan.sogoucdn.com/cdn/flash/
 
-{+client-header-tagger{adfilter-block-request-Rn178} \
+{+client-header-tagger{adfilter-block-request-Rn177} \
 }
 .s.yimg.com/.*/flash_general_
 
-{+client-header-tagger{adfilter-block-request-Rn179} \
+{+client-header-tagger{adfilter-block-request-Rn178} \
 }
 .news.sina.com.cn/pfpnews/js/libweb\.js
 
-{+client-header-tagger{adfilter-block-request-Rn180} \
+{+client-header-tagger{adfilter-block-request-Rn179} \
 }
 /(.*/)?.*_ad\.js
 
-{+client-header-tagger{adfilter-block-request-Rn181} \
+{+client-header-tagger{adfilter-block-request-Rn180} \
 }
 .yimg.com/no/
 
-{+client-header-tagger{adfilter-block-request-Rn182} \
+{+client-header-tagger{adfilter-block-request-Rn181} \
 }
 /(.*/)?picad/.*
 
@@ -23029,6 +23028,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
@@ -23125,14 +23125,14 @@ TAG:^adfilter-block-xframe$
 }
 .s.yimg.com/ja/ap/
 
-{+client-header-tagger{adfilter-block-xframe-R123} \
+{+client-header-tagger{adfilter-block-xframe-R122} \
 }
 
-{+client-header-tagger{adfilter-block-xframe-R133} \
+{+client-header-tagger{adfilter-block-xframe-R132} \
 }
 .baidu.com/tb/zt/
 
-{+client-header-tagger{adfilter-block-xframe-Rn165} \
+{+client-header-tagger{adfilter-block-xframe-Rn164} \
 }
 .acg.178.com/.*/t_
 
@@ -23178,7 +23178,7 @@ TAG:^adfilter-block-xpopup$
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
 
-{+client-header-tagger{adfilter-block-xpopup-R199t} \
+{+client-header-tagger{adfilter-block-xpopup-R198t} \
 }
 
 {+client-header-tagger{adfilter-block-xpopup-R53} \
@@ -23192,22 +23192,23 @@ TAG:^adfilter-block-xpopup$
 {+client-header-tagger{adfilter-block-xpopup-R99} \
 }
 .miaozhen.com
+.kfc.com.cn
+.miaozhen.com
+.taobao.com
+.tmall.com
 
-{+client-header-tagger{adfilter-block-xpopup-R200t} \
-}
-
-{+client-header-tagger{adfilter-block-xpopup-R201t} \
+{+client-header-tagger{adfilter-block-xpopup-R199t} \
 }
 
 {+client-header-tagger{adfilter-block-xpopup-R104} \
 }
 /(.*/)?\?
 
-{+client-header-tagger{adfilter-block-xpopup-R130} \
+{+client-header-tagger{adfilter-block-xpopup-R129} \
 }
 .click.taobao.com
 
-{+client-header-tagger{adfilter-block-xpopup-R135} \
+{+client-header-tagger{adfilter-block-xpopup-R134} \
 }
 .xmds.opd2c.com
 .moezone.taobao.com
@@ -23215,11 +23216,11 @@ TAG:^adfilter-block-xpopup$
 .acgpost.taobao.com
 /(.*/)?item\.htm\?
 
-{+client-header-tagger{adfilter-block-xpopup-R136} \
+{+client-header-tagger{adfilter-block-xpopup-R135} \
 }
 .img999.com
 
-{+client-header-tagger{adfilter-block-xpopup-R140} \
+{+client-header-tagger{adfilter-block-xpopup-R139} \
 }
 .goo.gl
 
@@ -23250,6 +23251,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
@@ -23662,84 +23664,84 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 
-{+client-header-tagger{adfilter-unblock-dnt-R204} \
+{+client-header-tagger{adfilter-unblock-dnt-R202} \
 }
 /(.*/)?images/ad
 
-{+client-header-tagger{adfilter-unblock-dnt-R205} \
+{+client-header-tagger{adfilter-unblock-dnt-R203} \
 }
 /(.*/)?advertise\.
 advertise.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R206} \
+{+client-header-tagger{adfilter-unblock-dnt-R204} \
 }
 /(.*/)?adview_pic_
 
-{+client-header-tagger{adfilter-unblock-dnt-R207} \
+{+client-header-tagger{adfilter-unblock-dnt-R205} \
 }
 .pagead2.googlesyndication.com/pagead/js/adsbygoogle\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R208} \
+{+client-header-tagger{adfilter-unblock-dnt-R206} \
 }
 /.*\?sid=ads
 
-{+client-header-tagger{adfilter-unblock-dnt-R209} \
+{+client-header-tagger{adfilter-unblock-dnt-R207} \
 }
 .127.0.0.1/admin/admin_ad\.php\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R210} \
+{+client-header-tagger{adfilter-unblock-dnt-R208} \
 }
 /(.*/)?adjs_pic_
 
-{+client-header-tagger{adfilter-unblock-dnt-R211} \
+{+client-header-tagger{adfilter-unblock-dnt-R209} \
 }
 /(.*/)?cms/ads/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R212} \
+{+client-header-tagger{adfilter-unblock-dnt-R210} \
 }
 /(.*/)?ads/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R213} \
+{+client-header-tagger{adfilter-unblock-dnt-R211} \
 }
 /(.*/)?pop\.js$
 pop.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R214} \
+{+client-header-tagger{adfilter-unblock-dnt-R212} \
 }
 /(.*/)?adfile/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R215} \
+{+client-header-tagger{adfilter-unblock-dnt-R213} \
 }
 .e70123.com
 .e701.net/.*=300&
 .e701.net
 
-{+client-header-tagger{adfilter-unblock-dnt-R216} \
+{+client-header-tagger{adfilter-unblock-dnt-R214} \
 }
 /(.*/)?advertising/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R217} \
+{+client-header-tagger{adfilter-unblock-dnt-R215} \
 }
 /.*&adurl=http://
 
-{+client-header-tagger{adfilter-unblock-dnt-R218} \
+{+client-header-tagger{adfilter-unblock-dnt-R216} \
 }
 /(.*/)?assets/adv/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R219} \
+{+client-header-tagger{adfilter-unblock-dnt-R217} \
 }
 .csbew.com/creative/
 .adm.cnzz.net/material/
 
-{+client-header-tagger{adfilter-unblock-dnt-R220} \
+{+client-header-tagger{adfilter-unblock-dnt-R218} \
 }
 /(.*/)?ad/ads\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R221} \
+{+client-header-tagger{adfilter-unblock-dnt-R219} \
 }
 .5i5j.*./(.*/)?images/ad
 
-{+client-header-tagger{adfilter-unblock-dnt-R222} \
+{+client-header-tagger{adfilter-unblock-dnt-R220} \
 }
 /(.*/)?common/cf/.*
 
@@ -23747,125 +23749,125 @@ pop.js
 }
 /(.*/)?images/.*/.*\.gif
 
-{+client-header-tagger{adfilter-unblock-dnt-R223} \
+{+client-header-tagger{adfilter-unblock-dnt-R221} \
 }
 /(.*/)?ad_file/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R224} \
+{+client-header-tagger{adfilter-unblock-dnt-R222} \
 }
 .l.qq.com/lview\?
 .j.wit.qq.com/sc/crystal_ad\.js\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R225} \
+{+client-header-tagger{adfilter-unblock-dnt-R223} \
 }
 .ad.12306.cn
 
-{+client-header-tagger{adfilter-unblock-dnt-R226} \
+{+client-header-tagger{adfilter-unblock-dnt-R224} \
 }
 /(.*/)?images/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R227} \
+{+client-header-tagger{adfilter-unblock-dnt-R225} \
 }
 .012.tw
 
-{+client-header-tagger{adfilter-unblock-dnt-R228} \
+{+client-header-tagger{adfilter-unblock-dnt-R226} \
 }
 .inskinmedia.com/.*/js/base/api/
 
-{+client-header-tagger{adfilter-unblock-dnt-R229} \
+{+client-header-tagger{adfilter-unblock-dnt-R227} \
 }
 .ifengimg.com/ifeng/sources/inice_
 
-{+client-header-tagger{adfilter-unblock-dnt-R230} \
+{+client-header-tagger{adfilter-unblock-dnt-R228} \
 }
 .ifengimg.com/ifeng/sources/region_
 
-{+client-header-tagger{adfilter-unblock-dnt-R231} \
+{+client-header-tagger{adfilter-unblock-dnt-R229} \
 }
 /(.*/)?pub1/\?\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R232} \
+{+client-header-tagger{adfilter-unblock-dnt-R230} \
 }
 .cb.baidu.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R233} \
+{+client-header-tagger{adfilter-unblock-dnt-R231} \
 }
 .yktj.yzz.cn/htmldata/mds/yzz_single_gg\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R234} \
+{+client-header-tagger{adfilter-unblock-dnt-R232} \
 }
 /(.*/)?unadblock/adjs_
 
+{+client-header-tagger{adfilter-unblock-dnt-R233} \
+}
+/(.*/)?adbanner/.*
+
+{+client-header-tagger{adfilter-unblock-dnt-R234} \
+}
+/(.*/)?adbanner/.*
+
 {+client-header-tagger{adfilter-unblock-dnt-R235} \
-}
-/(.*/)?adbanner/.*
-
-{+client-header-tagger{adfilter-unblock-dnt-R236} \
-}
-/(.*/)?adbanner/.*
-
-{+client-header-tagger{adfilter-unblock-dnt-R237} \
 }
 /(.*/)?iplookup\.
 iplookup.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R238} \
+{+client-header-tagger{adfilter-unblock-dnt-R236} \
 }
 /(.*/)?advert/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R239} \
+{+client-header-tagger{adfilter-unblock-dnt-R237} \
 }
 /(.*/)?advert_
 
-{+client-header-tagger{adfilter-unblock-dnt-R240} \
+{+client-header-tagger{adfilter-unblock-dnt-R238} \
 }
 /(.*/)?advs/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R241} \
+{+client-header-tagger{adfilter-unblock-dnt-R239} \
 }
 /(.*/)?advertisement/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R242} \
+{+client-header-tagger{adfilter-unblock-dnt-R240} \
 }
 /(.*/)?fuckadblock\.
 fuckadblock.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R243} \
+{+client-header-tagger{adfilter-unblock-dnt-R241} \
 }
 .pos.baidu.com/.*\?di=u2164214&
 
-{+client-header-tagger{adfilter-unblock-dnt-R244} \
+{+client-header-tagger{adfilter-unblock-dnt-R242} \
 }
 .cpro.baidustatic.com/cpro/ui/c\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R245} \
+{+client-header-tagger{adfilter-unblock-dnt-R243} \
 }
 .alicdn.com/g/mm/afp-cdn/JS/k\.js
 .afpeng.alimama.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R246} \
+{+client-header-tagger{adfilter-unblock-dnt-R244} \
 }
 /(.*/)?setCookie\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R247} \
+{+client-header-tagger{adfilter-unblock-dnt-R245} \
 }
 /(.*/)?adpic/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R248} \
+{+client-header-tagger{adfilter-unblock-dnt-R246} \
 }
 /(.*/)?advertisement\.
 advertisement.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R249} \
+{+client-header-tagger{adfilter-unblock-dnt-R247} \
 }
 /(.*/)?dfp\.js
 dfp.js*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R250} \
+{+client-header-tagger{adfilter-unblock-dnt-R248} \
 }
 .mediav.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R251} \
+{+client-header-tagger{adfilter-unblock-dnt-R249} \
 }
 /(.*/)?adimage/.*
 
@@ -23873,11 +23875,11 @@ dfp.js*.
 }
 .s.pacn.ws/.*/generate-captcha\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R252} \
+{+client-header-tagger{adfilter-unblock-dnt-R250} \
 }
 .pagead2.googlesyndication.com/pagead/
 
-{+client-header-tagger{adfilter-unblock-dnt-R253} \
+{+client-header-tagger{adfilter-unblock-dnt-R251} \
 }
 .pos.baidu.com/.*\?di=90417&
 .pos.baidu.com/.*\?di=739405&
@@ -23887,29 +23889,29 @@ dfp.js*.
 .pos.baidu.com/.*=u1331029&
 .dup.baidustatic.com/js/ds\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R254} \
+{+client-header-tagger{adfilter-unblock-dnt-R252} \
 }
 .cbjs.baidu.com/js/m\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R255} \
+{+client-header-tagger{adfilter-unblock-dnt-R253} \
 }
 .pagead2.googlesyndication.com/pagead/show_ads\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R256} \
+{+client-header-tagger{adfilter-unblock-dnt-R254} \
 }
 /(.*/)?home/ads/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R257} \
+{+client-header-tagger{adfilter-unblock-dnt-R255} \
 }
 .ubmcmm.baidustatic.com
 .pos.baidu.com/.*\?di=
 .cbjs.baidu.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R258} \
+{+client-header-tagger{adfilter-unblock-dnt-R256} \
 }
 /(.*/)?img/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R259} \
+{+client-header-tagger{adfilter-unblock-dnt-R257} \
 }
 /(.*/)?ima/.*ad\.
 
@@ -23918,33 +23920,33 @@ dfp.js*.
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
 
-{+client-header-tagger{adfilter-unblock-dnt-R260} \
+{+client-header-tagger{adfilter-unblock-dnt-R258} \
 }
 /(.*/)?advertisement\.js
 advertisement.js*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R261} \
+{+client-header-tagger{adfilter-unblock-dnt-R259} \
 }
 .sinaimg.cn/cj/deco/
 
-{+client-header-tagger{adfilter-unblock-dnt-R262} \
+{+client-header-tagger{adfilter-unblock-dnt-R260} \
 }
 .itc.cn/public_photo/advert/
 
-{+client-header-tagger{adfilter-unblock-dnt-R263} \
+{+client-header-tagger{adfilter-unblock-dnt-R261} \
 }
 /(.*/)?bag2\?r\[\]=.*&r\[\]=
 
-{+client-header-tagger{adfilter-unblock-dnt-R264} \
+{+client-header-tagger{adfilter-unblock-dnt-R262} \
 }
 /.*\.google-analytics\.com%2Fanalytics\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R265} \
+{+client-header-tagger{adfilter-unblock-dnt-R263} \
 }
 .pos.baidu.com/.*\?di=1147178&
 .pos.baidu.com/.*\?di=1147177&
 
-{+client-header-tagger{adfilter-unblock-dnt-R266} \
+{+client-header-tagger{adfilter-unblock-dnt-R264} \
 }
 .cbjs.baidu.com/js/o\.js
 
@@ -23952,20 +23954,20 @@ advertisement.js*.
 }
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R267} \
+{+client-header-tagger{adfilter-unblock-dnt-R265} \
 }
 /(.*/)?adgpt\.
 adgpt.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R268} \
+{+client-header-tagger{adfilter-unblock-dnt-R266} \
 }
 /(.*/)?flash/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R269} \
+{+client-header-tagger{adfilter-unblock-dnt-R267} \
 }
 .omtrdc.net/m2/hsbcbankhase/mbox/ajax\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R270} \
+{+client-header-tagger{adfilter-unblock-dnt-R268} \
 }
 .vast.btrll.com
 
@@ -23973,134 +23975,134 @@ adgpt.*.
 }
 .s.yimg.com/ja/ap/.*/jquery\.
 
-{+client-header-tagger{adfilter-unblock-dnt-R271} \
+{+client-header-tagger{adfilter-unblock-dnt-R269} \
 }
 .scorecardresearch.com/beacon\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R272} \
+{+client-header-tagger{adfilter-unblock-dnt-R270} \
 }
 .ifeng.com/.*\?new=.*\?new=
 
-{+client-header-tagger{adfilter-unblock-dnt-R273} \
+{+client-header-tagger{adfilter-unblock-dnt-R271} \
 }
 /(.*/)?guanggao/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R274} \
+{+client-header-tagger{adfilter-unblock-dnt-R272} \
 }
 .a.alimama.cn/tkapi
 
-{+client-header-tagger{adfilter-unblock-dnt-R275} \
+{+client-header-tagger{adfilter-unblock-dnt-R273} \
 }
 .hm.baidu.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R276} \
+{+client-header-tagger{adfilter-unblock-dnt-R274} \
 }
 /(.*/)?ADmediaJS/panda0305_1972_11454_12120_
 
-{+client-header-tagger{adfilter-unblock-dnt-R277} \
+{+client-header-tagger{adfilter-unblock-dnt-R275} \
 }
 /(.*/)?advert\.
 advert.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R278} \
+{+client-header-tagger{adfilter-unblock-dnt-R276} \
 }
 .ad.3.cn/ads/mgets\?
 .360buyimg.com/ads/
 .360buyimg.com/ad/
 
-{+client-header-tagger{adfilter-unblock-dnt-R279} \
+{+client-header-tagger{adfilter-unblock-dnt-R277} \
 }
 .pos.baidu.com/.*\?di=1167512&
 
-{+client-header-tagger{adfilter-unblock-dnt-R280} \
+{+client-header-tagger{adfilter-unblock-dnt-R278} \
 }
 .google-analytics.com/analytics\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R281} \
+{+client-header-tagger{adfilter-unblock-dnt-R279} \
 }
 /(.*/)?adshow/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R282} \
+{+client-header-tagger{adfilter-unblock-dnt-R280} \
 }
 /(.*/)?adimg/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R283} \
+{+client-header-tagger{adfilter-unblock-dnt-R281} \
 }
 /(.*/)?adsame\.
 adsame.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R284} \
+{+client-header-tagger{adfilter-unblock-dnt-R282} \
 }
 /.*\.adserver\.
 .*.adserver.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R285} \
+{+client-header-tagger{adfilter-unblock-dnt-R283} \
 }
 /(.*/)?adsbox\.
 adsbox.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R286} \
+{+client-header-tagger{adfilter-unblock-dnt-R284} \
 }
 .cnzz.com/c\.php\?id=30070167
 
-{+client-header-tagger{adfilter-unblock-dnt-R287} \
+{+client-header-tagger{adfilter-unblock-dnt-R285} \
 }
 .csbew.com/k\.js
 .csbew.com/a\.htm\?pv=1&sp=121857,
 .csbew.com/a\.htm\?pv=1&sp=121743,
 
-{+client-header-tagger{adfilter-unblock-dnt-R288} \
+{+client-header-tagger{adfilter-unblock-dnt-R286} \
 }
 .pos.baidu.com/.*\?di=943217&
 
-{+client-header-tagger{adfilter-unblock-dnt-R289} \
+{+client-header-tagger{adfilter-unblock-dnt-R287} \
 }
 .ad.unimhk.com/show\.php\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R290} \
+{+client-header-tagger{adfilter-unblock-dnt-R288} \
 }
 /(.*/)?adsbygoogle\.
 adsbygoogle.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R291} \
+{+client-header-tagger{adfilter-unblock-dnt-R289} \
 }
 .sohu.com/cityjson\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R292} \
+{+client-header-tagger{adfilter-unblock-dnt-R290} \
 }
 /(.*/)?ads_new/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R293} \
+{+client-header-tagger{adfilter-unblock-dnt-R291} \
 }
 .scupio.com/adpinline/ADmediaJS/
 
-{+client-header-tagger{adfilter-unblock-dnt-R294} \
+{+client-header-tagger{adfilter-unblock-dnt-R292} \
 }
 .bdimg.com/advert/js/advert\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R295} \
+{+client-header-tagger{adfilter-unblock-dnt-R293} \
 }
 /.*\.com/adv/
 .*.com/adv/
 
-{+client-header-tagger{adfilter-unblock-dnt-R296} \
+{+client-header-tagger{adfilter-unblock-dnt-R294} \
 }
 /.*=mywebloadt1&
 
-{+client-header-tagger{adfilter-unblock-dnt-R297} \
+{+client-header-tagger{adfilter-unblock-dnt-R295} \
 }
 /(.*/)?mobileads\.
 mobileads.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R298} \
+{+client-header-tagger{adfilter-unblock-dnt-R296} \
 }
 .noahedu.com/ad/
 
-{+client-header-tagger{adfilter-unblock-dnt-R299} \
+{+client-header-tagger{adfilter-unblock-dnt-R297} \
 }
 .imasdk.googleapis.com/js/sdkloader/ima3\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R300} \
+{+client-header-tagger{adfilter-unblock-dnt-R298} \
 }
 /(.*/)?urchin\.js
 urchin.js*.
@@ -24109,170 +24111,170 @@ urchin.js*.
 hitCount.*.
 .stickyadstv.com/vast/vpaid-adapter/
 
-{+client-header-tagger{adfilter-unblock-dnt-R301} \
+{+client-header-tagger{adfilter-unblock-dnt-R299} \
 }
 /(.*/)?adverts/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R302} \
+{+client-header-tagger{adfilter-unblock-dnt-R300} \
 }
 /(.*/)?img/ad_
 
-{+client-header-tagger{adfilter-unblock-dnt-R303} \
+{+client-header-tagger{adfilter-unblock-dnt-R301} \
 }
 /(.*/)?store_ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R304} \
+{+client-header-tagger{adfilter-unblock-dnt-R302} \
 }
 .pos.baidu.com/.*=965707&
 .pos.baidu.com/.*=965703&
 
-{+client-header-tagger{adfilter-unblock-dnt-R305} \
+{+client-header-tagger{adfilter-unblock-dnt-R303} \
 }
 /(.*/)?adsense/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R306} \
+{+client-header-tagger{adfilter-unblock-dnt-R304} \
 }
 .ads.rakuya.com.tw
 
-{+client-header-tagger{adfilter-unblock-dnt-R307} \
+{+client-header-tagger{adfilter-unblock-dnt-R305} \
 }
 /(.*/)?pub/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R308} \
+{+client-header-tagger{adfilter-unblock-dnt-R306} \
 }
 .netsh.org
 /(.*/)?show_ads_impl\.js
 /(.*/)?adlogger_tracker\.php
 
-{+client-header-tagger{adfilter-unblock-dnt-R309} \
+{+client-header-tagger{adfilter-unblock-dnt-R307} \
 }
 /(.*/)?advertise/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R310} \
+{+client-header-tagger{adfilter-unblock-dnt-R308} \
 }
 .gg.woniu.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R311} \
+{+client-header-tagger{adfilter-unblock-dnt-R309} \
 }
 .googletagmanager.com/gtm\.js\?
 .google-analytics.com/plugins/ua/linkid\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R312} \
+{+client-header-tagger{adfilter-unblock-dnt-R310} \
 }
 .alimama.com
 /(.*/)?adx\.
 adx.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R313} \
+{+client-header-tagger{adfilter-unblock-dnt-R311} \
 }
 /.*=mm_33231655_8000000_
 
-{+client-header-tagger{adfilter-unblock-dnt-R314} \
+{+client-header-tagger{adfilter-unblock-dnt-R312} \
 }
 .atanx.alicdn.com/t/tanxssp\.js
 /.*=mm_12852562_1778064_
 
-{+client-header-tagger{adfilter-unblock-dnt-R315} \
+{+client-header-tagger{adfilter-unblock-dnt-R313} \
 }
 /.*\?adType=
 
-{+client-header-tagger{adfilter-unblock-dnt-R316} \
+{+client-header-tagger{adfilter-unblock-dnt-R314} \
 }
 .zbjimg.com/\?\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R317} \
+{+client-header-tagger{adfilter-unblock-dnt-R315} \
 }
 /(.*/)?img_ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R318} \
+{+client-header-tagger{adfilter-unblock-dnt-R316} \
 }
 .show.g.mediav.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R319} \
+{+client-header-tagger{adfilter-unblock-dnt-R317} \
 }
 .ads.ttx.cn/attachment/
 
-{+client-header-tagger{adfilter-unblock-dnt-R320} \
+{+client-header-tagger{adfilter-unblock-dnt-R318} \
 }
 .mmstat.com/eg\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R321} \
+{+client-header-tagger{adfilter-unblock-dnt-R319} \
 }
 .partner.googleadservices.com/gpt/pubads_impl_
 .ads.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R322} \
+{+client-header-tagger{adfilter-unblock-dnt-R320} \
 }
 .geo.query.yahoo.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R323} \
+{+client-header-tagger{adfilter-unblock-dnt-R321} \
 }
 .tw.m.yimg.com/res/ads/
 
-{+client-header-tagger{adfilter-unblock-dnt-R140} \
+{+client-header-tagger{adfilter-unblock-dnt-R139} \
 }
 /(.*/)?popunderv2\.
 popunderv2.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R324} \
+{+client-header-tagger{adfilter-unblock-dnt-R322} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 .g.doubleclick.net/gampad/adx\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R325} \
+{+client-header-tagger{adfilter-unblock-dnt-R323} \
 }
 /(.*/)?adsshow/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R326} \
+{+client-header-tagger{adfilter-unblock-dnt-R324} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R327} \
+{+client-header-tagger{adfilter-unblock-dnt-R325} \
 }
 /(.*/)?pop\.php\?id=
 
-{+client-header-tagger{adfilter-unblock-dnt-R328} \
+{+client-header-tagger{adfilter-unblock-dnt-R326} \
 }
 /(.*/)?show_ad_
 
-{+client-header-tagger{adfilter-unblock-dnt-R329} \
+{+client-header-tagger{adfilter-unblock-dnt-R327} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R330} \
+{+client-header-tagger{adfilter-unblock-dnt-R328} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R331} \
+{+client-header-tagger{adfilter-unblock-dnt-R329} \
 }
 .simba.taobao.com/\?name=tcmad&
 
-{+client-header-tagger{adfilter-unblock-dnt-R332} \
+{+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
 /(.*/)?analytics\.php\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R333} \
+{+client-header-tagger{adfilter-unblock-dnt-R331} \
 }
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-dnt-R334} \
+{+client-header-tagger{adfilter-unblock-dnt-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R335} \
+{+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R336} \
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
 .*u-ads.adap.tv*youku.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-Rn202} \
+{+client-header-tagger{adfilter-unblock-dnt-Rn200} \
  +client-header-tagger{adfilter-unblock-dnt-nR} \
 }
 .yimg.com/zz/combo\?.*&.*\.css
@@ -24653,84 +24655,84 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 
-{+client-header-tagger{adfilter-unblock-elem-R204} \
+{+client-header-tagger{adfilter-unblock-elem-R202} \
 }
 /(.*/)?images/ad
 
-{+client-header-tagger{adfilter-unblock-elem-R205} \
+{+client-header-tagger{adfilter-unblock-elem-R203} \
 }
 /(.*/)?advertise\.
 advertise.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R206} \
+{+client-header-tagger{adfilter-unblock-elem-R204} \
 }
 /(.*/)?adview_pic_
 
-{+client-header-tagger{adfilter-unblock-elem-R207} \
+{+client-header-tagger{adfilter-unblock-elem-R205} \
 }
 .pagead2.googlesyndication.com/pagead/js/adsbygoogle\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R208} \
+{+client-header-tagger{adfilter-unblock-elem-R206} \
 }
 /.*\?sid=ads
 
-{+client-header-tagger{adfilter-unblock-elem-R209} \
+{+client-header-tagger{adfilter-unblock-elem-R207} \
 }
 .127.0.0.1/admin/admin_ad\.php\?
 
-{+client-header-tagger{adfilter-unblock-elem-R210} \
+{+client-header-tagger{adfilter-unblock-elem-R208} \
 }
 /(.*/)?adjs_pic_
 
-{+client-header-tagger{adfilter-unblock-elem-R211} \
+{+client-header-tagger{adfilter-unblock-elem-R209} \
 }
 /(.*/)?cms/ads/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R212} \
+{+client-header-tagger{adfilter-unblock-elem-R210} \
 }
 /(.*/)?ads/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R213} \
+{+client-header-tagger{adfilter-unblock-elem-R211} \
 }
 /(.*/)?pop\.js$
 pop.js
 
-{+client-header-tagger{adfilter-unblock-elem-R214} \
+{+client-header-tagger{adfilter-unblock-elem-R212} \
 }
 /(.*/)?adfile/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R215} \
+{+client-header-tagger{adfilter-unblock-elem-R213} \
 }
 .e70123.com
 .e701.net/.*=300&
 .e701.net
 
-{+client-header-tagger{adfilter-unblock-elem-R216} \
+{+client-header-tagger{adfilter-unblock-elem-R214} \
 }
 /(.*/)?advertising/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R217} \
+{+client-header-tagger{adfilter-unblock-elem-R215} \
 }
 /.*&adurl=http://
 
-{+client-header-tagger{adfilter-unblock-elem-R218} \
+{+client-header-tagger{adfilter-unblock-elem-R216} \
 }
 /(.*/)?assets/adv/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R219} \
+{+client-header-tagger{adfilter-unblock-elem-R217} \
 }
 .csbew.com/creative/
 .adm.cnzz.net/material/
 
-{+client-header-tagger{adfilter-unblock-elem-R220} \
+{+client-header-tagger{adfilter-unblock-elem-R218} \
 }
 /(.*/)?ad/ads\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R221} \
+{+client-header-tagger{adfilter-unblock-elem-R219} \
 }
 .5i5j.*./(.*/)?images/ad
 
-{+client-header-tagger{adfilter-unblock-elem-R222} \
+{+client-header-tagger{adfilter-unblock-elem-R220} \
 }
 /(.*/)?common/cf/.*
 
@@ -24738,121 +24740,121 @@ pop.js
 }
 /(.*/)?images/.*/.*\.gif
 
-{+client-header-tagger{adfilter-unblock-elem-R223} \
+{+client-header-tagger{adfilter-unblock-elem-R221} \
 }
 /(.*/)?ad_file/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R224} \
+{+client-header-tagger{adfilter-unblock-elem-R222} \
 }
 .l.qq.com/lview\?
 .j.wit.qq.com/sc/crystal_ad\.js\?
 
-{+client-header-tagger{adfilter-unblock-elem-R226} \
+{+client-header-tagger{adfilter-unblock-elem-R224} \
 }
 /(.*/)?images/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R227} \
+{+client-header-tagger{adfilter-unblock-elem-R225} \
 }
 .012.tw
 
-{+client-header-tagger{adfilter-unblock-elem-R228} \
+{+client-header-tagger{adfilter-unblock-elem-R226} \
 }
 .inskinmedia.com/.*/js/base/api/
 
-{+client-header-tagger{adfilter-unblock-elem-R229} \
+{+client-header-tagger{adfilter-unblock-elem-R227} \
 }
 .ifengimg.com/ifeng/sources/inice_
 
-{+client-header-tagger{adfilter-unblock-elem-R230} \
+{+client-header-tagger{adfilter-unblock-elem-R228} \
 }
 .ifengimg.com/ifeng/sources/region_
 
-{+client-header-tagger{adfilter-unblock-elem-R231} \
+{+client-header-tagger{adfilter-unblock-elem-R229} \
 }
 /(.*/)?pub1/\?\?
 
-{+client-header-tagger{adfilter-unblock-elem-R232} \
+{+client-header-tagger{adfilter-unblock-elem-R230} \
 }
 .cb.baidu.com
 
-{+client-header-tagger{adfilter-unblock-elem-R233} \
+{+client-header-tagger{adfilter-unblock-elem-R231} \
 }
 .yktj.yzz.cn/htmldata/mds/yzz_single_gg\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R234} \
+{+client-header-tagger{adfilter-unblock-elem-R232} \
 }
 /(.*/)?unadblock/adjs_
 
+{+client-header-tagger{adfilter-unblock-elem-R233} \
+}
+/(.*/)?adbanner/.*
+
+{+client-header-tagger{adfilter-unblock-elem-R234} \
+}
+/(.*/)?adbanner/.*
+
 {+client-header-tagger{adfilter-unblock-elem-R235} \
-}
-/(.*/)?adbanner/.*
-
-{+client-header-tagger{adfilter-unblock-elem-R236} \
-}
-/(.*/)?adbanner/.*
-
-{+client-header-tagger{adfilter-unblock-elem-R237} \
 }
 /(.*/)?iplookup\.
 iplookup.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R238} \
+{+client-header-tagger{adfilter-unblock-elem-R236} \
 }
 /(.*/)?advert/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R239} \
+{+client-header-tagger{adfilter-unblock-elem-R237} \
 }
 /(.*/)?advert_
 
-{+client-header-tagger{adfilter-unblock-elem-R240} \
+{+client-header-tagger{adfilter-unblock-elem-R238} \
 }
 /(.*/)?advs/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R241} \
+{+client-header-tagger{adfilter-unblock-elem-R239} \
 }
 /(.*/)?advertisement/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R242} \
+{+client-header-tagger{adfilter-unblock-elem-R240} \
 }
 /(.*/)?fuckadblock\.
 fuckadblock.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R243} \
+{+client-header-tagger{adfilter-unblock-elem-R241} \
 }
 .pos.baidu.com/.*\?di=u2164214&
 
-{+client-header-tagger{adfilter-unblock-elem-R244} \
+{+client-header-tagger{adfilter-unblock-elem-R242} \
 }
 .cpro.baidustatic.com/cpro/ui/c\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R245} \
+{+client-header-tagger{adfilter-unblock-elem-R243} \
 }
 .alicdn.com/g/mm/afp-cdn/JS/k\.js
 .afpeng.alimama.com
 
-{+client-header-tagger{adfilter-unblock-elem-R246} \
+{+client-header-tagger{adfilter-unblock-elem-R244} \
 }
 /(.*/)?setCookie\?
 
-{+client-header-tagger{adfilter-unblock-elem-R247} \
+{+client-header-tagger{adfilter-unblock-elem-R245} \
 }
 /(.*/)?adpic/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R248} \
+{+client-header-tagger{adfilter-unblock-elem-R246} \
 }
 /(.*/)?advertisement\.
 advertisement.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R249} \
+{+client-header-tagger{adfilter-unblock-elem-R247} \
 }
 /(.*/)?dfp\.js
 dfp.js*.
 
-{+client-header-tagger{adfilter-unblock-elem-R250} \
+{+client-header-tagger{adfilter-unblock-elem-R248} \
 }
 .mediav.com
 
-{+client-header-tagger{adfilter-unblock-elem-R251} \
+{+client-header-tagger{adfilter-unblock-elem-R249} \
 }
 /(.*/)?adimage/.*
 
@@ -24860,11 +24862,11 @@ dfp.js*.
 }
 .s.pacn.ws/.*/generate-captcha\?
 
-{+client-header-tagger{adfilter-unblock-elem-R252} \
+{+client-header-tagger{adfilter-unblock-elem-R250} \
 }
 .pagead2.googlesyndication.com/pagead/
 
-{+client-header-tagger{adfilter-unblock-elem-R253} \
+{+client-header-tagger{adfilter-unblock-elem-R251} \
 }
 .pos.baidu.com/.*\?di=90417&
 .pos.baidu.com/.*\?di=739405&
@@ -24874,29 +24876,29 @@ dfp.js*.
 .pos.baidu.com/.*=u1331029&
 .dup.baidustatic.com/js/ds\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R254} \
+{+client-header-tagger{adfilter-unblock-elem-R252} \
 }
 .cbjs.baidu.com/js/m\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R255} \
+{+client-header-tagger{adfilter-unblock-elem-R253} \
 }
 .pagead2.googlesyndication.com/pagead/show_ads\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R256} \
+{+client-header-tagger{adfilter-unblock-elem-R254} \
 }
 /(.*/)?home/ads/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R257} \
+{+client-header-tagger{adfilter-unblock-elem-R255} \
 }
 .ubmcmm.baidustatic.com
 .pos.baidu.com/.*\?di=
 .cbjs.baidu.com
 
-{+client-header-tagger{adfilter-unblock-elem-R258} \
+{+client-header-tagger{adfilter-unblock-elem-R256} \
 }
 /(.*/)?img/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R259} \
+{+client-header-tagger{adfilter-unblock-elem-R257} \
 }
 /(.*/)?ima/.*ad\.
 
@@ -24905,33 +24907,33 @@ dfp.js*.
 /(.*/)?view\.php\?what=zone:94&
 /(.*/)?view\.php\?what=zone:93&
 
-{+client-header-tagger{adfilter-unblock-elem-R260} \
+{+client-header-tagger{adfilter-unblock-elem-R258} \
 }
 /(.*/)?advertisement\.js
 advertisement.js*.
 
-{+client-header-tagger{adfilter-unblock-elem-R261} \
+{+client-header-tagger{adfilter-unblock-elem-R259} \
 }
 .sinaimg.cn/cj/deco/
 
-{+client-header-tagger{adfilter-unblock-elem-R262} \
+{+client-header-tagger{adfilter-unblock-elem-R260} \
 }
 .itc.cn/public_photo/advert/
 
-{+client-header-tagger{adfilter-unblock-elem-R263} \
+{+client-header-tagger{adfilter-unblock-elem-R261} \
 }
 /(.*/)?bag2\?r\[\]=.*&r\[\]=
 
-{+client-header-tagger{adfilter-unblock-elem-R264} \
+{+client-header-tagger{adfilter-unblock-elem-R262} \
 }
 /.*\.google-analytics\.com%2Fanalytics\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R265} \
+{+client-header-tagger{adfilter-unblock-elem-R263} \
 }
 .pos.baidu.com/.*\?di=1147178&
 .pos.baidu.com/.*\?di=1147177&
 
-{+client-header-tagger{adfilter-unblock-elem-R266} \
+{+client-header-tagger{adfilter-unblock-elem-R264} \
 }
 .cbjs.baidu.com/js/o\.js
 
@@ -24939,20 +24941,20 @@ advertisement.js*.
 }
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R267} \
+{+client-header-tagger{adfilter-unblock-elem-R265} \
 }
 /(.*/)?adgpt\.
 adgpt.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R268} \
+{+client-header-tagger{adfilter-unblock-elem-R266} \
 }
 /(.*/)?flash/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R269} \
+{+client-header-tagger{adfilter-unblock-elem-R267} \
 }
 .omtrdc.net/m2/hsbcbankhase/mbox/ajax\?
 
-{+client-header-tagger{adfilter-unblock-elem-R270} \
+{+client-header-tagger{adfilter-unblock-elem-R268} \
 }
 .vast.btrll.com
 
@@ -24960,134 +24962,134 @@ adgpt.*.
 }
 .s.yimg.com/ja/ap/.*/jquery\.
 
-{+client-header-tagger{adfilter-unblock-elem-R271} \
+{+client-header-tagger{adfilter-unblock-elem-R269} \
 }
 .scorecardresearch.com/beacon\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R272} \
+{+client-header-tagger{adfilter-unblock-elem-R270} \
 }
 .ifeng.com/.*\?new=.*\?new=
 
-{+client-header-tagger{adfilter-unblock-elem-R273} \
+{+client-header-tagger{adfilter-unblock-elem-R271} \
 }
 /(.*/)?guanggao/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R274} \
+{+client-header-tagger{adfilter-unblock-elem-R272} \
 }
 .a.alimama.cn/tkapi
 
-{+client-header-tagger{adfilter-unblock-elem-R275} \
+{+client-header-tagger{adfilter-unblock-elem-R273} \
 }
 .hm.baidu.com
 
-{+client-header-tagger{adfilter-unblock-elem-R276} \
+{+client-header-tagger{adfilter-unblock-elem-R274} \
 }
 /(.*/)?ADmediaJS/panda0305_1972_11454_12120_
 
-{+client-header-tagger{adfilter-unblock-elem-R277} \
+{+client-header-tagger{adfilter-unblock-elem-R275} \
 }
 /(.*/)?advert\.
 advert.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R278} \
+{+client-header-tagger{adfilter-unblock-elem-R276} \
 }
 .ad.3.cn/ads/mgets\?
 .360buyimg.com/ads/
 .360buyimg.com/ad/
 
-{+client-header-tagger{adfilter-unblock-elem-R279} \
+{+client-header-tagger{adfilter-unblock-elem-R277} \
 }
 .pos.baidu.com/.*\?di=1167512&
 
-{+client-header-tagger{adfilter-unblock-elem-R280} \
+{+client-header-tagger{adfilter-unblock-elem-R278} \
 }
 .google-analytics.com/analytics\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R281} \
+{+client-header-tagger{adfilter-unblock-elem-R279} \
 }
 /(.*/)?adshow/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R282} \
+{+client-header-tagger{adfilter-unblock-elem-R280} \
 }
 /(.*/)?adimg/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R283} \
+{+client-header-tagger{adfilter-unblock-elem-R281} \
 }
 /(.*/)?adsame\.
 adsame.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R284} \
+{+client-header-tagger{adfilter-unblock-elem-R282} \
 }
 /.*\.adserver\.
 .*.adserver.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R285} \
+{+client-header-tagger{adfilter-unblock-elem-R283} \
 }
 /(.*/)?adsbox\.
 adsbox.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R286} \
+{+client-header-tagger{adfilter-unblock-elem-R284} \
 }
 .cnzz.com/c\.php\?id=30070167
 
-{+client-header-tagger{adfilter-unblock-elem-R287} \
+{+client-header-tagger{adfilter-unblock-elem-R285} \
 }
 .csbew.com/k\.js
 .csbew.com/a\.htm\?pv=1&sp=121857,
 .csbew.com/a\.htm\?pv=1&sp=121743,
 
-{+client-header-tagger{adfilter-unblock-elem-R288} \
+{+client-header-tagger{adfilter-unblock-elem-R286} \
 }
 .pos.baidu.com/.*\?di=943217&
 
-{+client-header-tagger{adfilter-unblock-elem-R289} \
+{+client-header-tagger{adfilter-unblock-elem-R287} \
 }
 .ad.unimhk.com/show\.php\?
 
-{+client-header-tagger{adfilter-unblock-elem-R290} \
+{+client-header-tagger{adfilter-unblock-elem-R288} \
 }
 /(.*/)?adsbygoogle\.
 adsbygoogle.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R291} \
+{+client-header-tagger{adfilter-unblock-elem-R289} \
 }
 .sohu.com/cityjson\?
 
-{+client-header-tagger{adfilter-unblock-elem-R292} \
+{+client-header-tagger{adfilter-unblock-elem-R290} \
 }
 /(.*/)?ads_new/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R293} \
+{+client-header-tagger{adfilter-unblock-elem-R291} \
 }
 .scupio.com/adpinline/ADmediaJS/
 
-{+client-header-tagger{adfilter-unblock-elem-R294} \
+{+client-header-tagger{adfilter-unblock-elem-R292} \
 }
 .bdimg.com/advert/js/advert\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R295} \
+{+client-header-tagger{adfilter-unblock-elem-R293} \
 }
 /.*\.com/adv/
 .*.com/adv/
 
-{+client-header-tagger{adfilter-unblock-elem-R296} \
+{+client-header-tagger{adfilter-unblock-elem-R294} \
 }
 /.*=mywebloadt1&
 
-{+client-header-tagger{adfilter-unblock-elem-R297} \
+{+client-header-tagger{adfilter-unblock-elem-R295} \
 }
 /(.*/)?mobileads\.
 mobileads.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R298} \
+{+client-header-tagger{adfilter-unblock-elem-R296} \
 }
 .noahedu.com/ad/
 
-{+client-header-tagger{adfilter-unblock-elem-R299} \
+{+client-header-tagger{adfilter-unblock-elem-R297} \
 }
 .imasdk.googleapis.com/js/sdkloader/ima3\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R300} \
+{+client-header-tagger{adfilter-unblock-elem-R298} \
 }
 /(.*/)?urchin\.js
 urchin.js*.
@@ -25096,170 +25098,170 @@ urchin.js*.
 hitCount.*.
 .stickyadstv.com/vast/vpaid-adapter/
 
-{+client-header-tagger{adfilter-unblock-elem-R301} \
+{+client-header-tagger{adfilter-unblock-elem-R299} \
 }
 /(.*/)?adverts/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R302} \
+{+client-header-tagger{adfilter-unblock-elem-R300} \
 }
 /(.*/)?img/ad_
 
-{+client-header-tagger{adfilter-unblock-elem-R303} \
+{+client-header-tagger{adfilter-unblock-elem-R301} \
 }
 /(.*/)?store_ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R304} \
+{+client-header-tagger{adfilter-unblock-elem-R302} \
 }
 .pos.baidu.com/.*=965707&
 .pos.baidu.com/.*=965703&
 
-{+client-header-tagger{adfilter-unblock-elem-R305} \
+{+client-header-tagger{adfilter-unblock-elem-R303} \
 }
 /(.*/)?adsense/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R306} \
+{+client-header-tagger{adfilter-unblock-elem-R304} \
 }
 .ads.rakuya.com.tw
 
-{+client-header-tagger{adfilter-unblock-elem-R307} \
+{+client-header-tagger{adfilter-unblock-elem-R305} \
 }
 /(.*/)?pub/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R308} \
+{+client-header-tagger{adfilter-unblock-elem-R306} \
 }
 .netsh.org
 /(.*/)?show_ads_impl\.js
 /(.*/)?adlogger_tracker\.php
 
-{+client-header-tagger{adfilter-unblock-elem-R309} \
+{+client-header-tagger{adfilter-unblock-elem-R307} \
 }
 /(.*/)?advertise/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R310} \
+{+client-header-tagger{adfilter-unblock-elem-R308} \
 }
 .gg.woniu.com
 
-{+client-header-tagger{adfilter-unblock-elem-R311} \
+{+client-header-tagger{adfilter-unblock-elem-R309} \
 }
 .googletagmanager.com/gtm\.js\?
 .google-analytics.com/plugins/ua/linkid\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R312} \
+{+client-header-tagger{adfilter-unblock-elem-R310} \
 }
 .alimama.com
 /(.*/)?adx\.
 adx.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R313} \
+{+client-header-tagger{adfilter-unblock-elem-R311} \
 }
 /.*=mm_33231655_8000000_
 
-{+client-header-tagger{adfilter-unblock-elem-R314} \
+{+client-header-tagger{adfilter-unblock-elem-R312} \
 }
 .atanx.alicdn.com/t/tanxssp\.js
 /.*=mm_12852562_1778064_
 
-{+client-header-tagger{adfilter-unblock-elem-R315} \
+{+client-header-tagger{adfilter-unblock-elem-R313} \
 }
 /.*\?adType=
 
-{+client-header-tagger{adfilter-unblock-elem-R316} \
+{+client-header-tagger{adfilter-unblock-elem-R314} \
 }
 .zbjimg.com/\?\?
 
-{+client-header-tagger{adfilter-unblock-elem-R317} \
+{+client-header-tagger{adfilter-unblock-elem-R315} \
 }
 /(.*/)?img_ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R318} \
+{+client-header-tagger{adfilter-unblock-elem-R316} \
 }
 .show.g.mediav.com
 
-{+client-header-tagger{adfilter-unblock-elem-R319} \
+{+client-header-tagger{adfilter-unblock-elem-R317} \
 }
 .ads.ttx.cn/attachment/
 
-{+client-header-tagger{adfilter-unblock-elem-R320} \
+{+client-header-tagger{adfilter-unblock-elem-R318} \
 }
 .mmstat.com/eg\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R321} \
+{+client-header-tagger{adfilter-unblock-elem-R319} \
 }
 .partner.googleadservices.com/gpt/pubads_impl_
 .ads.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R322} \
+{+client-header-tagger{adfilter-unblock-elem-R320} \
 }
 .geo.query.yahoo.com
 
-{+client-header-tagger{adfilter-unblock-elem-R323} \
+{+client-header-tagger{adfilter-unblock-elem-R321} \
 }
 .tw.m.yimg.com/res/ads/
 
-{+client-header-tagger{adfilter-unblock-elem-R140} \
+{+client-header-tagger{adfilter-unblock-elem-R139} \
 }
 /(.*/)?popunderv2\.
 popunderv2.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R324} \
+{+client-header-tagger{adfilter-unblock-elem-R322} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 .g.doubleclick.net/gampad/adx\?
 
-{+client-header-tagger{adfilter-unblock-elem-R325} \
+{+client-header-tagger{adfilter-unblock-elem-R323} \
 }
 /(.*/)?adsshow/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R326} \
+{+client-header-tagger{adfilter-unblock-elem-R324} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R327} \
+{+client-header-tagger{adfilter-unblock-elem-R325} \
 }
 /(.*/)?pop\.php\?id=
 
-{+client-header-tagger{adfilter-unblock-elem-R328} \
+{+client-header-tagger{adfilter-unblock-elem-R326} \
 }
 /(.*/)?show_ad_
 
-{+client-header-tagger{adfilter-unblock-elem-R329} \
+{+client-header-tagger{adfilter-unblock-elem-R327} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R330} \
+{+client-header-tagger{adfilter-unblock-elem-R328} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R331} \
+{+client-header-tagger{adfilter-unblock-elem-R329} \
 }
 .simba.taobao.com/\?name=tcmad&
 
-{+client-header-tagger{adfilter-unblock-elem-R332} \
+{+client-header-tagger{adfilter-unblock-elem-R330} \
 }
 /(.*/)?analytics\.php\?
 
-{+client-header-tagger{adfilter-unblock-elem-R333} \
+{+client-header-tagger{adfilter-unblock-elem-R331} \
 }
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-elem-R334} \
+{+client-header-tagger{adfilter-unblock-elem-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-elem-R335} \
+{+client-header-tagger{adfilter-unblock-elem-R333} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R336} \
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
 .*u-ads.adap.tv*./.*youku\.
 .*u-ads.adap.tv*youku.*.
 
-{+client-header-tagger{adfilter-unblock-elem-Rn202} \
+{+client-header-tagger{adfilter-unblock-elem-Rn200} \
  +client-header-tagger{adfilter-unblock-elem-nR} \
 }
 .yimg.com/zz/combo\?.*&.*\.css
@@ -25633,7 +25635,7 @@ TAG:^adfilter-unblock-request-Aaov-Caov$
 .appledaily.com.hk/admedia/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aaov-Caov-when-R232} \
+ +client-header-tagger{adfilter-unblock-request-Aaov-Caov-when-R230} \
 }
 .cb.baidu.com
 
@@ -25659,7 +25661,7 @@ TAG:^adfilter-unblock-request-Ai-Ci$
 .poster.weather.com.cn/p_files/base/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Ai-Ci-when-R235} \
+ +client-header-tagger{adfilter-unblock-request-Ai-Ci-when-R233} \
 }
 /(.*/)?adbanner/.*
 
@@ -25682,34 +25684,34 @@ TAG:^adfilter-unblock-request-Aj-Cj-Xx$
 .ad4.on.cc/web/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-Xx-when-R203nt} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-Xx-when-R201nt} \
  +client-header-tagger{adfilter-unblock-request-Aj-Cj-Xx-when-nR} \
 }
 .netsh.org
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R215} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R213} \
 }
 .e70123.com
 .e701.net
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R227} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R225} \
 }
 .012.tw
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R252} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R250} \
 }
 .pagead2.googlesyndication.com/pagead/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R261} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R259} \
 }
 .sinaimg.cn/cj/deco/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R300} \
+ +client-header-tagger{adfilter-unblock-request-Aj-Cj-when-R298} \
 }
 /(.*/)?hitCount\.
 hitCount.*.
@@ -25730,95 +25732,95 @@ hitCount.*.
 .sdc.pingan.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R204} \
+ +client-header-tagger{adfilter-unblock-request-R202} \
 }
 /(.*/)?images/ad
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R205} \
+ +client-header-tagger{adfilter-unblock-request-R203} \
 }
 /(.*/)?advertise\.
 advertise.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R206} \
+ +client-header-tagger{adfilter-unblock-request-R204} \
 }
 /(.*/)?adview_pic_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R207} \
+ +client-header-tagger{adfilter-unblock-request-R205} \
 }
 .pagead2.googlesyndication.com/pagead/js/adsbygoogle\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R208} \
+ +client-header-tagger{adfilter-unblock-request-R206} \
 }
 /.*\?sid=ads
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R209} \
+ +client-header-tagger{adfilter-unblock-request-R207} \
 }
 .127.0.0.1/admin/admin_ad\.php\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R210} \
+ +client-header-tagger{adfilter-unblock-request-R208} \
 }
 /(.*/)?adjs_pic_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R211} \
+ +client-header-tagger{adfilter-unblock-request-R209} \
 }
 /(.*/)?cms/ads/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R212} \
+ +client-header-tagger{adfilter-unblock-request-R210} \
 }
 /(.*/)?ads/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R213} \
+ +client-header-tagger{adfilter-unblock-request-R211} \
 }
 /(.*/)?pop\.js$
 pop.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R214} \
+ +client-header-tagger{adfilter-unblock-request-R212} \
 }
 /(.*/)?adfile/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R216} \
+ +client-header-tagger{adfilter-unblock-request-R214} \
 }
 /(.*/)?advertising/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R217} \
+ +client-header-tagger{adfilter-unblock-request-R215} \
 }
 /.*&adurl=http://
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R218} \
+ +client-header-tagger{adfilter-unblock-request-R216} \
 }
 /(.*/)?assets/adv/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R219} \
+ +client-header-tagger{adfilter-unblock-request-R217} \
 }
 .csbew.com/creative/
 .adm.cnzz.net/material/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R220} \
+ +client-header-tagger{adfilter-unblock-request-R218} \
 }
 /(.*/)?ad/ads\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R221} \
+ +client-header-tagger{adfilter-unblock-request-R219} \
 }
 .5i5j.*./(.*/)?images/ad
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R222} \
+ +client-header-tagger{adfilter-unblock-request-R220} \
 }
 /(.*/)?common/cf/.*
 
@@ -25828,133 +25830,133 @@ pop.js
 /(.*/)?images/.*/.*\.gif
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R223} \
+ +client-header-tagger{adfilter-unblock-request-R221} \
 }
 /(.*/)?ad_file/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R224} \
+ +client-header-tagger{adfilter-unblock-request-R222} \
 }
 .l.qq.com/lview\?
 .j.wit.qq.com/sc/crystal_ad\.js\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R226} \
+ +client-header-tagger{adfilter-unblock-request-R224} \
 }
 /(.*/)?images/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R228} \
+ +client-header-tagger{adfilter-unblock-request-R226} \
 }
 .inskinmedia.com/.*/js/base/api/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R229} \
+ +client-header-tagger{adfilter-unblock-request-R227} \
 }
 .ifengimg.com/ifeng/sources/inice_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R230} \
+ +client-header-tagger{adfilter-unblock-request-R228} \
 }
 .ifengimg.com/ifeng/sources/region_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R231} \
+ +client-header-tagger{adfilter-unblock-request-R229} \
 }
 /(.*/)?pub1/\?\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R233} \
+ +client-header-tagger{adfilter-unblock-request-R231} \
 }
 .yktj.yzz.cn/htmldata/mds/yzz_single_gg\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R234} \
+ +client-header-tagger{adfilter-unblock-request-R232} \
 }
 /(.*/)?unadblock/adjs_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R236} \
+ +client-header-tagger{adfilter-unblock-request-R234} \
 }
 /(.*/)?adbanner/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R237} \
+ +client-header-tagger{adfilter-unblock-request-R235} \
 }
 /(.*/)?iplookup\.
 iplookup.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R238} \
+ +client-header-tagger{adfilter-unblock-request-R236} \
 }
 /(.*/)?advert/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R239} \
+ +client-header-tagger{adfilter-unblock-request-R237} \
 }
 /(.*/)?advert_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R240} \
+ +client-header-tagger{adfilter-unblock-request-R238} \
 }
 /(.*/)?advs/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R241} \
+ +client-header-tagger{adfilter-unblock-request-R239} \
 }
 /(.*/)?advertisement/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R242} \
+ +client-header-tagger{adfilter-unblock-request-R240} \
 }
 /(.*/)?fuckadblock\.
 fuckadblock.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R243} \
+ +client-header-tagger{adfilter-unblock-request-R241} \
 }
 .pos.baidu.com/.*\?di=u2164214&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R244} \
+ +client-header-tagger{adfilter-unblock-request-R242} \
 }
 .cpro.baidustatic.com/cpro/ui/c\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R245} \
+ +client-header-tagger{adfilter-unblock-request-R243} \
 }
 .alicdn.com/g/mm/afp-cdn/JS/k\.js
 .afpeng.alimama.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R246} \
+ +client-header-tagger{adfilter-unblock-request-R244} \
 }
 /(.*/)?setCookie\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R247} \
+ +client-header-tagger{adfilter-unblock-request-R245} \
 }
 /(.*/)?adpic/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R248} \
+ +client-header-tagger{adfilter-unblock-request-R246} \
 }
 /(.*/)?advertisement\.
 advertisement.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R249} \
+ +client-header-tagger{adfilter-unblock-request-R247} \
 }
 /(.*/)?dfp\.js
 dfp.js*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R250} \
+ +client-header-tagger{adfilter-unblock-request-R248} \
 }
 .mediav.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R251} \
+ +client-header-tagger{adfilter-unblock-request-R249} \
 }
 /(.*/)?adimage/.*
 
@@ -25964,7 +25966,7 @@ dfp.js*.
 .s.pacn.ws/.*/generate-captcha\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R253} \
+ +client-header-tagger{adfilter-unblock-request-R251} \
 }
 .pos.baidu.com/.*\?di=90417&
 .pos.baidu.com/.*\?di=739405&
@@ -25975,34 +25977,34 @@ dfp.js*.
 .dup.baidustatic.com/js/ds\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R254} \
+ +client-header-tagger{adfilter-unblock-request-R252} \
 }
 .cbjs.baidu.com/js/m\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R255} \
+ +client-header-tagger{adfilter-unblock-request-R253} \
 }
 .pagead2.googlesyndication.com/pagead/show_ads\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R256} \
+ +client-header-tagger{adfilter-unblock-request-R254} \
 }
 /(.*/)?home/ads/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R257} \
+ +client-header-tagger{adfilter-unblock-request-R255} \
 }
 .ubmcmm.baidustatic.com
 .pos.baidu.com/.*\?di=
 .cbjs.baidu.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R258} \
+ +client-header-tagger{adfilter-unblock-request-R256} \
 }
 /(.*/)?img/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R259} \
+ +client-header-tagger{adfilter-unblock-request-R257} \
 }
 /(.*/)?ima/.*ad\.
 
@@ -26013,34 +26015,34 @@ dfp.js*.
 /(.*/)?view\.php\?what=zone:93&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R260} \
+ +client-header-tagger{adfilter-unblock-request-R258} \
 }
 /(.*/)?advertisement\.js
 advertisement.js*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R262} \
+ +client-header-tagger{adfilter-unblock-request-R260} \
 }
 .itc.cn/public_photo/advert/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R263} \
+ +client-header-tagger{adfilter-unblock-request-R261} \
 }
 /(.*/)?bag2\?r\[\]=.*&r\[\]=
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R264} \
+ +client-header-tagger{adfilter-unblock-request-R262} \
 }
 /.*\.google-analytics\.com%2Fanalytics\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R265} \
+ +client-header-tagger{adfilter-unblock-request-R263} \
 }
 .pos.baidu.com/.*\?di=1147178&
 .pos.baidu.com/.*\?di=1147177&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R266} \
+ +client-header-tagger{adfilter-unblock-request-R264} \
 }
 .cbjs.baidu.com/js/o\.js
 
@@ -26050,23 +26052,23 @@ advertisement.js*.
 .pagead2.googlesyndication.com/pagead/js/.*/show_ads_impl\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R267} \
+ +client-header-tagger{adfilter-unblock-request-R265} \
 }
 /(.*/)?adgpt\.
 adgpt.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R268} \
+ +client-header-tagger{adfilter-unblock-request-R266} \
 }
 /(.*/)?flash/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R269} \
+ +client-header-tagger{adfilter-unblock-request-R267} \
 }
 .omtrdc.net/m2/hsbcbankhase/mbox/ajax\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R270} \
+ +client-header-tagger{adfilter-unblock-request-R268} \
 }
 .vast.btrll.com
 
@@ -26076,355 +26078,355 @@ adgpt.*.
 .s.yimg.com/ja/ap/.*/jquery\.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R271} \
+ +client-header-tagger{adfilter-unblock-request-R269} \
 }
 .scorecardresearch.com/beacon\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R272} \
+ +client-header-tagger{adfilter-unblock-request-R270} \
 }
 .ifeng.com/.*\?new=.*\?new=
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R273} \
+ +client-header-tagger{adfilter-unblock-request-R271} \
 }
 /(.*/)?guanggao/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R274} \
+ +client-header-tagger{adfilter-unblock-request-R272} \
 }
 .a.alimama.cn/tkapi
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R275} \
+ +client-header-tagger{adfilter-unblock-request-R273} \
 }
 .hm.baidu.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R276} \
+ +client-header-tagger{adfilter-unblock-request-R274} \
 }
 /(.*/)?ADmediaJS/panda0305_1972_11454_12120_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R277} \
+ +client-header-tagger{adfilter-unblock-request-R275} \
 }
 /(.*/)?advert\.
 advert.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R278} \
+ +client-header-tagger{adfilter-unblock-request-R276} \
 }
 .ad.3.cn/ads/mgets\?
 .360buyimg.com/ads/
 .360buyimg.com/ad/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R279} \
+ +client-header-tagger{adfilter-unblock-request-R277} \
 }
 .pos.baidu.com/.*\?di=1167512&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R280} \
+ +client-header-tagger{adfilter-unblock-request-R278} \
 }
 .google-analytics.com/analytics\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R281} \
+ +client-header-tagger{adfilter-unblock-request-R279} \
 }
 /(.*/)?adshow/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R282} \
+ +client-header-tagger{adfilter-unblock-request-R280} \
 }
 /(.*/)?adimg/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R283} \
+ +client-header-tagger{adfilter-unblock-request-R281} \
 }
 /(.*/)?adsame\.
 adsame.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R284} \
+ +client-header-tagger{adfilter-unblock-request-R282} \
 }
 /.*\.adserver\.
 .*.adserver.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R285} \
+ +client-header-tagger{adfilter-unblock-request-R283} \
 }
 /(.*/)?adsbox\.
 adsbox.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R286} \
+ +client-header-tagger{adfilter-unblock-request-R284} \
 }
 .cnzz.com/c\.php\?id=30070167
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R287} \
+ +client-header-tagger{adfilter-unblock-request-R285} \
 }
 .csbew.com/k\.js
 .csbew.com/a\.htm\?pv=1&sp=121857,
 .csbew.com/a\.htm\?pv=1&sp=121743,
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R288} \
+ +client-header-tagger{adfilter-unblock-request-R286} \
 }
 .pos.baidu.com/.*\?di=943217&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R289} \
+ +client-header-tagger{adfilter-unblock-request-R287} \
 }
 .ad.unimhk.com/show\.php\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R290} \
+ +client-header-tagger{adfilter-unblock-request-R288} \
 }
 /(.*/)?adsbygoogle\.
 adsbygoogle.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R291} \
+ +client-header-tagger{adfilter-unblock-request-R289} \
 }
 .sohu.com/cityjson\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R292} \
+ +client-header-tagger{adfilter-unblock-request-R290} \
 }
 /(.*/)?ads_new/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R293} \
+ +client-header-tagger{adfilter-unblock-request-R291} \
 }
 .scupio.com/adpinline/ADmediaJS/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R294} \
+ +client-header-tagger{adfilter-unblock-request-R292} \
 }
 .bdimg.com/advert/js/advert\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R295} \
+ +client-header-tagger{adfilter-unblock-request-R293} \
 }
 /.*\.com/adv/
 .*.com/adv/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R296} \
+ +client-header-tagger{adfilter-unblock-request-R294} \
 }
 /.*=mywebloadt1&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R297} \
+ +client-header-tagger{adfilter-unblock-request-R295} \
 }
 /(.*/)?mobileads\.
 mobileads.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R298} \
+ +client-header-tagger{adfilter-unblock-request-R296} \
 }
 .noahedu.com/ad/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R299} \
+ +client-header-tagger{adfilter-unblock-request-R297} \
 }
 .imasdk.googleapis.com/js/sdkloader/ima3\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R300} \
+ +client-header-tagger{adfilter-unblock-request-R298} \
 }
 /(.*/)?urchin\.js
 urchin.js*.
 .stickyadstv.com/vast/vpaid-adapter/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R301} \
+ +client-header-tagger{adfilter-unblock-request-R299} \
 }
 /(.*/)?adverts/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R302} \
+ +client-header-tagger{adfilter-unblock-request-R300} \
 }
 /(.*/)?img/ad_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R303} \
+ +client-header-tagger{adfilter-unblock-request-R301} \
 }
 /(.*/)?store_ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R304} \
+ +client-header-tagger{adfilter-unblock-request-R302} \
 }
 .pos.baidu.com/.*=965707&
 .pos.baidu.com/.*=965703&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R305} \
+ +client-header-tagger{adfilter-unblock-request-R303} \
 }
 /(.*/)?adsense/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R306} \
+ +client-header-tagger{adfilter-unblock-request-R304} \
 }
 .ads.rakuya.com.tw
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R307} \
+ +client-header-tagger{adfilter-unblock-request-R305} \
 }
 /(.*/)?pub/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R308} \
+ +client-header-tagger{adfilter-unblock-request-R306} \
 }
 /(.*/)?show_ads_impl\.js
 /(.*/)?adlogger_tracker\.php
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R309} \
+ +client-header-tagger{adfilter-unblock-request-R307} \
 }
 /(.*/)?advertise/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R310} \
+ +client-header-tagger{adfilter-unblock-request-R308} \
 }
 .gg.woniu.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R311} \
+ +client-header-tagger{adfilter-unblock-request-R309} \
 }
 .googletagmanager.com/gtm\.js\?
 .google-analytics.com/plugins/ua/linkid\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R312} \
+ +client-header-tagger{adfilter-unblock-request-R310} \
 }
 .alimama.com
 /(.*/)?adx\.
 adx.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R313} \
+ +client-header-tagger{adfilter-unblock-request-R311} \
 }
 /.*=mm_33231655_8000000_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R314} \
+ +client-header-tagger{adfilter-unblock-request-R312} \
 }
 .atanx.alicdn.com/t/tanxssp\.js
 /.*=mm_12852562_1778064_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R315} \
+ +client-header-tagger{adfilter-unblock-request-R313} \
 }
 /.*\?adType=
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R316} \
+ +client-header-tagger{adfilter-unblock-request-R314} \
 }
 .zbjimg.com/\?\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R317} \
+ +client-header-tagger{adfilter-unblock-request-R315} \
 }
 /(.*/)?img_ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R318} \
+ +client-header-tagger{adfilter-unblock-request-R316} \
 }
 .show.g.mediav.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R319} \
+ +client-header-tagger{adfilter-unblock-request-R317} \
 }
 .ads.ttx.cn/attachment/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R320} \
+ +client-header-tagger{adfilter-unblock-request-R318} \
 }
 .mmstat.com/eg\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R321} \
+ +client-header-tagger{adfilter-unblock-request-R319} \
 }
 .partner.googleadservices.com/gpt/pubads_impl_
 .ads.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R323} \
+ +client-header-tagger{adfilter-unblock-request-R321} \
 }
 .tw.m.yimg.com/res/ads/
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R140} \
+ +client-header-tagger{adfilter-unblock-request-R139} \
 }
 /(.*/)?popunderv2\.
 popunderv2.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R324} \
+ +client-header-tagger{adfilter-unblock-request-R322} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R325} \
+ +client-header-tagger{adfilter-unblock-request-R323} \
 }
 /(.*/)?adsshow/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R326} \
+ +client-header-tagger{adfilter-unblock-request-R324} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R327} \
+ +client-header-tagger{adfilter-unblock-request-R325} \
 }
 /(.*/)?pop\.php\?id=
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R328} \
+ +client-header-tagger{adfilter-unblock-request-R326} \
 }
 /(.*/)?show_ad_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R329} \
+ +client-header-tagger{adfilter-unblock-request-R327} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R330} \
+ +client-header-tagger{adfilter-unblock-request-R328} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R331} \
+ +client-header-tagger{adfilter-unblock-request-R329} \
 }
 .simba.taobao.com/\?name=tcmad&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R332} \
+ +client-header-tagger{adfilter-unblock-request-R330} \
 }
 /(.*/)?analytics\.php\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R333} \
+ +client-header-tagger{adfilter-unblock-request-R331} \
 }
 /(.*/)?adblock_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R334} \
+ +client-header-tagger{adfilter-unblock-request-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R335} \
+ +client-header-tagger{adfilter-unblock-request-R333} \
 }
 /(.*/)?pic/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R336} \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -26437,22 +26439,22 @@ Loadads.*.
 TAG:^adfilter-unblock-request-Xx$
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Xx-when-R300} \
+ +client-header-tagger{adfilter-unblock-request-Xx-when-R298} \
 }
 /(.*/)?hitCount_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Xx-when-R322} \
+ +client-header-tagger{adfilter-unblock-request-Xx-when-R320} \
 }
 .geo.query.yahoo.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Xx-when-R324} \
+ +client-header-tagger{adfilter-unblock-request-Xx-when-R322} \
 }
 .g.doubleclick.net/gampad/adx\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Rn202} \
+ +client-header-tagger{adfilter-unblock-request-Rn200} \
  +client-header-tagger{adfilter-unblock-request-nR} \
 }
 .yimg.com/zz/combo\?.*&.*\.css
@@ -26480,11 +26482,11 @@ TAG:^adfilter-unblock-xframe$
 .letv.com/tuiguang/
 .118.26.145.7:8083/page/adv\.html\?advId=
 
-{+client-header-tagger{adfilter-unblock-xframe-R215} \
+{+client-header-tagger{adfilter-unblock-xframe-R213} \
 }
 .e701.net/.*=300&
 
-{+client-header-tagger{adfilter-unblock-xframe-R225} \
+{+client-header-tagger{adfilter-unblock-xframe-R223} \
 }
 .ad.12306.cn
 {+set-image-blocker{blank} \
