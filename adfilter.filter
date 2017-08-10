@@ -309,7 +309,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R52
 s@^referer(?=:[^\n]*[./](?:bilibili\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R53
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com|iqiyi\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R54
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@adfilter-block-dnt@Ti
@@ -855,7 +855,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R52
 s@^referer(?=:[^\n]*[./](?:bilibili\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R53
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com|iqiyi\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R54
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@adfilter-block-elem@Ti
@@ -1572,7 +1572,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R51
 s@^referer(?=:[^\n]*[./](?:bejson\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R53
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com|iqiyi\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R54
 s@^referer(?=:[^\n]*[./](?:bjmama\.com)):.*@adfilter-block-request@Ti
@@ -1810,7 +1810,7 @@ s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:jandown\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-xpopup@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-xpopup-R53
-s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com)):.*@adfilter-block-xpopup@Ti
+s@^referer(?=:[^\n]*[./](?:bilibilijj\.com|dlkoo\.com|gaoqingkong\.com|iqiyi\.com)):.*@adfilter-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-xpopup-R90
 s@^referer(?=:[^\n]*[./](?:henbt\.com)):.*@adfilter-block-xpopup@Ti

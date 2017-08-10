@@ -510,12 +510,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.newasp.net/misc/js/foot_
-.lvse.com/fb
-.xp510.com/statics/v2/img/201
-.9ht.com/images/1200p\.gif
-.wwuuoo.com/11bb/
-.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -765,6 +759,7 @@ cpro.*.
 .xp85.com/common/js/allpage\.js
 .xp85.com/common/images/downAD\.gif
 .xp811.com/img/xitong\.gif
+.xp510.com/statics/v2/img/201
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
 .xntk.net
@@ -848,6 +843,7 @@ cpro.*.
 .wwwcdn.kimiss.net/btn/
 .www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
+.wwuuoo.com/11bb/
 .wwp5.com/ps/
 .ww7814.win/pic/
 .wuyou.*./(.*/)?0000/banner\.gif
@@ -1808,6 +1804,7 @@ cpro.*.
 .news.hz66.com/IAA/201111/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
+.newasp.net/misc/js/foot_
 .newasp.net/apps/misc\.php\?action=advert&
 .new-icon.ol-img.com/jslib/ad_new\.js
 .new-icon.ol-img.com/jslib/ad\.down\.js
@@ -2001,6 +1998,7 @@ cpro.*.
 .lxty66.com/js/float\.js
 .lxting.com
 .lvse.com/vip
+.lvse.com/fb
 .lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
@@ -2222,6 +2220,7 @@ cpro.*.
 .jkforum.net/template/default/common/attachAD
 .jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
+.jjr123.com/javascript/dl\.js
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
 .jj59.com/sy/ibanner\.js
@@ -3999,6 +3998,7 @@ cpro.*.
 .9ihome.com/info/ADTopvnet/
 .9ihome.com/adimgs/
 .9ht.com/skin2012/js/tlAd\.js
+.9ht.com/images/1200p\.gif
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
 .99ting.cn/image/.*\.gif
@@ -4748,6 +4748,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .*.543evv.com/js/config\.js
 .yy18.info/.*thanks
 .xiyouhope.com
+.xiyouence.com
 .xingshenfang.cn
 .wy213.com
 .vnet.cn/.*\.html\?
@@ -4799,7 +4800,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -5661,6 +5661,7 @@ tanchuan.htm*.
 .gzmjnx.cn
 .gzktpf.com
 .gzbywl.com
+.gygdmy.com
 .gydag.com
 .guoshennet.com
 .guidashu.com
@@ -6471,7 +6472,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gygdmy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7306,11 +7306,9 @@ jquery.*.
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
+.tmall.com
 .miaozhen.com
 .kfc.com.cn
-.miaozhen.com
-.taobao.com
-.tmall.com
 
 {+client-header-tagger{adfilter-block-dnt-R100} \
 }
@@ -8182,12 +8180,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.newasp.net/misc/js/foot_
-.lvse.com/fb
-.xp510.com/statics/v2/img/201
-.9ht.com/images/1200p\.gif
-.wwuuoo.com/11bb/
-.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8437,6 +8429,7 @@ cpro.*.
 .xp85.com/common/js/allpage\.js
 .xp85.com/common/images/downAD\.gif
 .xp811.com/img/xitong\.gif
+.xp510.com/statics/v2/img/201
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
 .xntk.net
@@ -8520,6 +8513,7 @@ cpro.*.
 .wwwcdn.kimiss.net/btn/
 .www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
+.wwuuoo.com/11bb/
 .wwp5.com/ps/
 .ww7814.win/pic/
 .wuyou.*./(.*/)?0000/banner\.gif
@@ -9480,6 +9474,7 @@ cpro.*.
 .news.hz66.com/IAA/201111/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
+.newasp.net/misc/js/foot_
 .newasp.net/apps/misc\.php\?action=advert&
 .new-icon.ol-img.com/jslib/ad_new\.js
 .new-icon.ol-img.com/jslib/ad\.down\.js
@@ -9673,6 +9668,7 @@ cpro.*.
 .lxty66.com/js/float\.js
 .lxting.com
 .lvse.com/vip
+.lvse.com/fb
 .lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
@@ -9894,6 +9890,7 @@ cpro.*.
 .jkforum.net/template/default/common/attachAD
 .jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
+.jjr123.com/javascript/dl\.js
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
 .jj59.com/sy/ibanner\.js
@@ -11671,6 +11668,7 @@ cpro.*.
 .9ihome.com/info/ADTopvnet/
 .9ihome.com/adimgs/
 .9ht.com/skin2012/js/tlAd\.js
+.9ht.com/images/1200p\.gif
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
 .99ting.cn/image/.*\.gif
@@ -12420,6 +12418,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .*.543evv.com/js/config\.js
 .yy18.info/.*thanks
 .xiyouhope.com
+.xiyouence.com
 .xingshenfang.cn
 .wy213.com
 .vnet.cn/.*\.html\?
@@ -12471,7 +12470,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -13333,6 +13331,7 @@ tanchuan.htm*.
 .gzmjnx.cn
 .gzktpf.com
 .gzbywl.com
+.gygdmy.com
 .gydag.com
 .guoshennet.com
 .guidashu.com
@@ -14143,7 +14142,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gygdmy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14978,11 +14976,9 @@ jquery.*.
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
+.tmall.com
 .miaozhen.com
 .kfc.com.cn
-.miaozhen.com
-.taobao.com
-.tmall.com
 
 {+client-header-tagger{adfilter-block-elem-R100} \
 }
@@ -15785,12 +15781,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.newasp.net/misc/js/foot_
-.lvse.com/fb
-.xp510.com/statics/v2/img/201
-.9ht.com/images/1200p\.gif
-.wwuuoo.com/11bb/
-.jjr123.com/javascript/dl\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16034,6 +16024,7 @@ a.kj-cy.cn
 .xp85.com/common/js/allpage\.js
 .xp85.com/common/images/downAD\.gif
 .xp811.com/img/xitong\.gif
+.xp510.com/statics/v2/img/201
 .xp510.com/statics/swf/
 .xp510.com/images/.*\.gif
 .xnnews.com.cn/Templets/js/.*link
@@ -16116,6 +16107,7 @@ a.kj-cy.cn
 .wwwcdn.kimiss.net/btn/
 .www1.wi.to/.*\.gif
 .www-dnwx-com.anquanbao.cn/pic
+.wwuuoo.com/11bb/
 .wwp5.com/ps/
 .ww7814.win/pic/
 .wuyou.*./(.*/)?0000/banner\.gif
@@ -17038,6 +17030,7 @@ a.kj-cy.cn
 .news.hz66.com/IAA/201111/
 .news.0898.net/NMediaFile/.*\.swf
 .news.0898.net/NMediaFile/.*\.gif
+.newasp.net/misc/js/foot_
 .newasp.net/apps/misc\.php\?action=advert&
 .new-icon.ol-img.com/jslib/ad_new\.js
 .new-icon.ol-img.com/jslib/ad\.down\.js
@@ -17222,6 +17215,7 @@ a.kj-cy.cn
 .lxty66.com/js/float\.js
 .lxting.com
 .lvse.com/vip
+.lvse.com/fb
 .lvse.com/980x
 .luuu1.com/g/
 .luckstatic.v1.cn/st/10000/
@@ -17430,6 +17424,7 @@ a.kj-cy.cn
 .jkforum.net/template/default/common/attachAD
 .jjxsw.com/js/common\.js
 .jjwxc.net/jjPopup\.php
+.jjr123.com/javascript/dl\.js
 .jjjgame.com/images/ad11\.jpg
 .jjjaaa.com/aaa/
 .jj59.com/sy/ibanner\.js
@@ -19131,6 +19126,7 @@ a.kj-cy.cn
 .9ihome.com/info/ADTopvnet/
 .9ihome.com/adimgs/
 .9ht.com/skin2012/js/tlAd\.js
+.9ht.com/images/1200p\.gif
 .9ez.me/embd\.php\?type=
 .9duw.com/pic/
 .99ting.cn/image/.*\.gif
@@ -20463,6 +20459,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gzqudou.com
 .gzmjnx.cn
 .gzktpf.com
+.gygdmy.com
 .gydag.com
 .guoshennet.com
 .guidashu.com
@@ -20919,7 +20916,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.gygdmy.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22717,11 +22713,9 @@ jquery.*.
 }
 /(.*/)?[^\w%.-]http://www\\\.iqiyi\\\.com\\/common\\/flashplayer\\/\[0-9\]\{8\}/\[0-9a-z\]\{32\}\.swf/
 /^http://www\.iqiyi\.com\/common\/flashplayer\/[0-9]{8}/[0-9a-z]{32}.swf
+.tmall.com
 .miaozhen.com
 .kfc.com.cn
-.miaozhen.com
-.taobao.com
-.tmall.com
 
 {+client-header-tagger{adfilter-block-request-R100} \
 }
@@ -23006,6 +23000,7 @@ floatad.*.
 /(.*/)?cpro\.
 cpro.*.
 .xiyouhope.com
+.xiyouence.com
 .wy213.com
 .vnet.cn/.*\.html\?
 .u26u.com
@@ -23028,7 +23023,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
@@ -23191,11 +23185,9 @@ TAG:^adfilter-block-xpopup$
 
 {+client-header-tagger{adfilter-block-xpopup-R99} \
 }
+.tmall.com
 .miaozhen.com
 .kfc.com.cn
-.miaozhen.com
-.taobao.com
-.tmall.com
 
 {+client-header-tagger{adfilter-block-xpopup-R199t} \
 }
@@ -23229,6 +23221,7 @@ TAG:^adfilter-block-xpopup$
 /(.*/)?cpro\.
 cpro.*.
 .xiyouhope.com
+.xiyouence.com
 .wy213.com
 .vnet.cn/.*\.html\?
 .u26u.com
@@ -23251,7 +23244,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-.xiyouence.com
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 
