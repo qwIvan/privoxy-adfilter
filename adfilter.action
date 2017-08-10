@@ -511,6 +511,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .jqkan.com
+.xiaoz.me/wp-content/uploads/.*_banner_
 .btc38.com/statics/img/partner/
 .asp300.net/2017js/
 .zzzyk.com/js/
@@ -3447,7 +3448,6 @@ cpro.*.
 .cdyee.com/external/5070\.files/ad/
 .cdnxiazai.com/img/
 .cdndm.com/.*/js/newtc\.js
-.cdn.xiaoz.me/wp-content/uploads/
 .cdn.shdsp.net/ad
 .cdn.galacg.me/img/.*\.jpg
 .cdn.galacg.me/img/.*\.gif
@@ -8184,6 +8184,7 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .jqkan.com
+.xiaoz.me/wp-content/uploads/.*_banner_
 .btc38.com/statics/img/partner/
 .asp300.net/2017js/
 .zzzyk.com/js/
@@ -11120,7 +11121,6 @@ cpro.*.
 .cdyee.com/external/5070\.files/ad/
 .cdnxiazai.com/img/
 .cdndm.com/.*/js/newtc\.js
-.cdn.xiaoz.me/wp-content/uploads/
 .cdn.shdsp.net/ad
 .cdn.galacg.me/img/.*\.jpg
 .cdn.galacg.me/img/.*\.gif
@@ -15787,6 +15787,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.xiaoz.me/wp-content/uploads/.*_banner_
 .btc38.com/statics/img/partner/
 .asp300.net/2017js/
 .zzzyk.com/js/
@@ -18603,7 +18604,6 @@ a.kj-cy.cn
 .cdyee.com/external/5070\.files/ad/
 .cdnxiazai.com/img/
 .cdndm.com/.*/js/newtc\.js
-.cdn.xiaoz.me/wp-content/uploads/
 .cdn.shdsp.net/ad
 .cdn.galacg.me/img/.*\.jpg
 .cdn.galacg.me/img/.*\.gif
@@ -24257,18 +24257,22 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?adview_pic_
 
 {+client-header-tagger{adfilter-unblock-dnt-R332} \
+}
+/(.*/)?adblock_
+
+{+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R333} \
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R334} \
+{+client-header-tagger{adfilter-unblock-dnt-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -25244,18 +25248,22 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?adview_pic_
 
 {+client-header-tagger{adfilter-unblock-elem-R332} \
+}
+/(.*/)?adblock_
+
+{+client-header-tagger{adfilter-unblock-elem-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-elem-R333} \
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R334} \
+{+client-header-tagger{adfilter-unblock-elem-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -26413,21 +26421,26 @@ Loadads.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?adview_pic_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R332} \
+}
+/(.*/)?adblock_
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R333} \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 /(.*/)?pic/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R334} \
+ +client-header-tagger{adfilter-unblock-request-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
