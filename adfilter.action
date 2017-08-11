@@ -265,6 +265,7 @@ TAG:^adfilter-block-dnt$
 .js1.2abc8.com
 .js.ubaike.cn
 .js-bd.86huoche.com
+.jqkan.com
 .jnsz.net.cn
 .jinghuazhijia.com
 .jiliw.com
@@ -510,11 +511,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.jqkan.com
-.azhibo.com/images/leisu\.png
-.xiaoz.me/wp-content/uploads/.*_banner_
-.btc38.com/statics/img/partner/
-.asp300.net/2017js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -806,6 +802,7 @@ cpro.*.
 .xigua110.com/a/
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
+.xiaoz.me/wp-content/uploads/.*_banner_
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
@@ -3546,6 +3543,7 @@ cpro.*.
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.*./(.*/)?adm\.js
+.btc38.com/statics/img/partner/
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -3759,6 +3757,7 @@ cpro.*.
 .b7yy.com/ad/
 .b.baiy.net
 .b.77vcd.com
+.azhibo.com/images/leisu\.png
 .ayxz.com/images/enkj_small\.gif
 .ayxz.com/images/
 .awaker.cn/Uploads/Bew/c\.js
@@ -3789,6 +3788,7 @@ cpro.*.
 .astrill.com/bnrs/
 .aspku.com/z/
 .aspjzy.com/jsweb/js/
+.asp300.net/2017js/
 .asp300.net/2012js/
 .asimgs.pplive.cn
 .asia-home.com.cn/js/yt/ytadshow
@@ -5708,6 +5708,7 @@ tanchuan.htm*.
 .gameone.com
 .gamecps.com
 .game3737.com
+.g3user.com
 .g35.cc
 .g1f5.com
 .g1c5.com
@@ -6475,7 +6476,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.g3user.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7939,6 +7939,7 @@ TAG:^adfilter-block-elem$
 .js1.2abc8.com
 .js.ubaike.cn
 .js-bd.86huoche.com
+.jqkan.com
 .jnsz.net.cn
 .jinghuazhijia.com
 .jiliw.com
@@ -8184,11 +8185,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.jqkan.com
-.azhibo.com/images/leisu\.png
-.xiaoz.me/wp-content/uploads/.*_banner_
-.btc38.com/statics/img/partner/
-.asp300.net/2017js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8480,6 +8476,7 @@ cpro.*.
 .xigua110.com/a/
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
+.xiaoz.me/wp-content/uploads/.*_banner_
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
@@ -11220,6 +11217,7 @@ cpro.*.
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.*./(.*/)?adm\.js
+.btc38.com/statics/img/partner/
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -11433,6 +11431,7 @@ cpro.*.
 .b7yy.com/ad/
 .b.baiy.net
 .b.77vcd.com
+.azhibo.com/images/leisu\.png
 .ayxz.com/images/enkj_small\.gif
 .ayxz.com/images/
 .awaker.cn/Uploads/Bew/c\.js
@@ -11463,6 +11462,7 @@ cpro.*.
 .astrill.com/bnrs/
 .aspku.com/z/
 .aspjzy.com/jsweb/js/
+.asp300.net/2017js/
 .asp300.net/2012js/
 .asimgs.pplive.cn
 .asia-home.com.cn/js/yt/ytadshow
@@ -13382,6 +13382,7 @@ tanchuan.htm*.
 .gameone.com
 .gamecps.com
 .game3737.com
+.g3user.com
 .g35.cc
 .g1f5.com
 .g1c5.com
@@ -14149,7 +14150,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.g3user.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15789,10 +15789,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.azhibo.com/images/leisu\.png
-.xiaoz.me/wp-content/uploads/.*_banner_
-.btc38.com/statics/img/partner/
-.asp300.net/2017js/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16077,6 +16073,7 @@ a.kj-cy.cn
 .xigua110.com/a/
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
+.xiaoz.me/wp-content/uploads/.*_banner_
 .xiaoshuotxt.*./(.*/)?skin/v3/js/
 .xiaopi.com/statics/skin_js/jquery\.posrj\.js
 .xiaopi.com/500/
@@ -18700,6 +18697,7 @@ a.kj-cy.cn
 .btks.me/ac/
 .btexe.cc/static/js/
 .btcherry.*./(.*/)?adm\.js
+.btc38.com/statics/img/partner/
 .btbtt.*./(.*/)?view/image/QT_
 .btbtt.*./(.*/)?view/image/backimg\.jpg
 .btbtt.*./(.*/)?upload/lilaixy\.gif
@@ -18909,6 +18907,7 @@ a.kj-cy.cn
 .b7yy.com/ad/
 .b.baiy.net
 .b.77vcd.com
+.azhibo.com/images/leisu\.png
 .ayxz.com/images/enkj_small\.gif
 .awaker.cn/Uploads/Bew/c\.js
 .awaker.cn/Uploads/Bew/58
@@ -18938,6 +18937,7 @@ a.kj-cy.cn
 .astrill.com/bnrs/
 .aspku.com/z/
 .aspjzy.com/jsweb/js/
+.asp300.net/2017js/
 .asp300.net/2012js/
 .asia-home.com.cn/js/yt/ytadshow
 .ashow.pcpop.com
@@ -21755,6 +21755,7 @@ gg.*.
 .kureader.com
 .kuku99.com
 .kuhou.com
+.jqkan.com
 .jiliw.com
 .jeepyy.com
 .iy.com.cn
@@ -21786,7 +21787,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.jqkan.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
@@ -22084,6 +22084,7 @@ gg.*.
 .gameone.com
 .gamecps.com
 .game3737.com
+.g3user.com
 .g35.cc
 .fxxgw.com
 .food5.net
@@ -22331,7 +22332,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.g3user.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -24260,22 +24260,18 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R331} \
 }
-/(.*/)?adview_pic_
-
-{+client-header-tagger{adfilter-unblock-dnt-R332} \
-}
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-dnt-R333} \
+{+client-header-tagger{adfilter-unblock-dnt-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R334} \
+{+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R335} \
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -25251,22 +25247,18 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R331} \
 }
-/(.*/)?adview_pic_
-
-{+client-header-tagger{adfilter-unblock-elem-R332} \
-}
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-elem-R333} \
+{+client-header-tagger{adfilter-unblock-elem-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-elem-R334} \
+{+client-header-tagger{adfilter-unblock-elem-R333} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R335} \
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -26424,26 +26416,21 @@ Loadads.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R331} \
 }
-/(.*/)?adview_pic_
-
-{-block \
- +client-header-tagger{adfilter-unblock-request-R332} \
-}
 /(.*/)?adblock_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R333} \
+ +client-header-tagger{adfilter-unblock-request-R332} \
 }
 .pos.baidu.com
 .baidustatic.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R334} \
+ +client-header-tagger{adfilter-unblock-request-R333} \
 }
 /(.*/)?pic/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R335} \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
