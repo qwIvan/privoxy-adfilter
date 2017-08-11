@@ -6870,6 +6870,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?js/btdigg\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -14547,6 +14548,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?js/btdigg\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21316,6 +21318,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?js/btdigg\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
