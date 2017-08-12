@@ -514,6 +514,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2473,7 +2474,7 @@ cpro.*.
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/yhq
+.ifkjx.com/img/abc\.jpg
 .ifengimg.com/.*Float
 .ifengimg.com/.*couplet
 .ifengimg.com/.*600\.swf
@@ -8201,6 +8202,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10160,7 +10162,7 @@ cpro.*.
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/yhq
+.ifkjx.com/img/abc\.jpg
 .ifengimg.com/.*Float
 .ifengimg.com/.*couplet
 .ifengimg.com/.*600\.swf
@@ -15818,6 +15820,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17700,7 +17703,7 @@ a.kj-cy.cn
 .iii.6park.com
 .ii-i.org/wp-content/uploads/2016/05/xiaofeijijiasu\.jpg
 .ii-i.org/wp-content/plugins/wp-adblock-dedect/
-.ifkjx.com/img/yhq
+.ifkjx.com/img/abc\.jpg
 .ifengimg.com/.*600\.swf
 .ifengimg.com/.*600-2\.swf
 .ifengimg.com/.*/yingguang-
