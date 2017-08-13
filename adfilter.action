@@ -173,6 +173,7 @@ TAG:^adfilter-block-dnt$
 .xiaoyutiao.com
 .xbtw.com
 .wuliao.juqingba.cn
+.wshufa.com
 .wenshenbang.com
 .weilianjie.com
 .weibomingzi.com
@@ -232,6 +233,7 @@ TAG:^adfilter-block-dnt$
 .nyhpyq.com
 .namedq.com
 .mxpwx.com
+.mxitie.com
 .mpb1.iteye.com
 .modzj.net
 .mo-tuo.com
@@ -349,6 +351,7 @@ TAG:^adfilter-block-dnt$
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.youbian.com
+.daima.niubb.net
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
@@ -384,6 +387,7 @@ TAG:^adfilter-block-dnt$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdjiaoben.wmxa.cn
+.bdjb.gai001.com
 .bdcode.youke.com
 .bdcode.gaosan.com
 .bdad.hao224.com
@@ -514,16 +518,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bdjb.gai001.com
-.mxitie.com
-.daima.niubb.net
-.wshufa.com
-.xiangshengw.com/cp\.js
-.bd-film.com/cooperation/
-.qzone.la/Scripts/m\.js
-.xmfish.com/shw/
-.shouji56.com/pc/cj/js/
-.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -780,6 +774,7 @@ cpro.*.
 .xntk.net
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
+.xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
@@ -824,6 +819,7 @@ cpro.*.
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
 .xianliao.me/etoron/get\?
+.xiangshengw.com/cp\.js
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -1349,6 +1345,7 @@ cpro.*.
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
+.shouji56.com/pc/cj/js/
 .shoudian.org/diantong/laoma
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -1495,6 +1492,7 @@ cpro.*.
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
+.qzone.la/Scripts/m\.js
 .qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
@@ -3237,6 +3235,7 @@ cpro.*.
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
 .dealmoon.com/hotdeals/hotdeals_scroller\.php
@@ -3684,6 +3683,7 @@ cpro.*.
 .bdimg.com/brands/yxtg/source/juhe-v2\.js
 .bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .bd-film.com/r/cms/www/movie/js/cms-download
+.bd-film.com/cooperation/
 .bccnsoft.com/aab/
 .bccn.net/aab/
 .bcc.com.tw/imgs/adv/
@@ -7873,6 +7873,7 @@ TAG:^adfilter-block-elem$
 .xiaoyutiao.com
 .xbtw.com
 .wuliao.juqingba.cn
+.wshufa.com
 .wenshenbang.com
 .weilianjie.com
 .weibomingzi.com
@@ -7932,6 +7933,7 @@ TAG:^adfilter-block-elem$
 .nyhpyq.com
 .namedq.com
 .mxpwx.com
+.mxitie.com
 .mpb1.iteye.com
 .modzj.net
 .mo-tuo.com
@@ -8049,6 +8051,7 @@ TAG:^adfilter-block-elem$
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.youbian.com
+.daima.niubb.net
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
@@ -8084,6 +8087,7 @@ TAG:^adfilter-block-elem$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdjiaoben.wmxa.cn
+.bdjb.gai001.com
 .bdcode.youke.com
 .bdcode.gaosan.com
 .bdad.hao224.com
@@ -8214,16 +8218,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bdjb.gai001.com
-.mxitie.com
-.daima.niubb.net
-.wshufa.com
-.xiangshengw.com/cp\.js
-.bd-film.com/cooperation/
-.qzone.la/Scripts/m\.js
-.xmfish.com/shw/
-.shouji56.com/pc/cj/js/
-.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8480,6 +8474,7 @@ cpro.*.
 .xntk.net
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
+.xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
@@ -8524,6 +8519,7 @@ cpro.*.
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
 .xianliao.me/etoron/get\?
+.xiangshengw.com/cp\.js
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -9049,6 +9045,7 @@ cpro.*.
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
+.shouji56.com/pc/cj/js/
 .shoudian.org/diantong/laoma
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -9195,6 +9192,7 @@ cpro.*.
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
 .qzs.qq.com/qzone/biz/res/v\.swf\?loc=
+.qzone.la/Scripts/m\.js
 .qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
@@ -10937,6 +10935,7 @@ cpro.*.
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
 .dealmoon.com/hotdeals/hotdeals_scroller\.php
@@ -11384,6 +11383,7 @@ cpro.*.
 .bdimg.com/brands/yxtg/source/juhe-v2\.js
 .bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .bd-film.com/r/cms/www/movie/js/cms-download
+.bd-film.com/cooperation/
 .bccnsoft.com/aab/
 .bccn.net/aab/
 .bcc.com.tw/imgs/adv/
@@ -15700,6 +15700,7 @@ TAG:^adfilter-block-request$
 .dm.388g.cc
 .dejing.laobanfa.com
 .daima.youbian.com
+.daima.niubb.net
 .daima.ijq.tv
 .daima.huoche.net
 .daima.diaoben.net
@@ -15732,6 +15733,7 @@ TAG:^adfilter-block-request$
 .bdjs.99.com.cn
 .bdjs.120askimages.com
 .bdjiaoben.wmxa.cn
+.bdjb.gai001.com
 .bdcode.youke.com
 .bdcode.gaosan.com
 .bdad.hao224.com
@@ -15844,14 +15846,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.bdjb.gai001.com
-.daima.niubb.net
-.xiangshengw.com/cp\.js
-.bd-film.com/cooperation/
-.qzone.la/Scripts/m\.js
-.xmfish.com/shw/
-.shouji56.com/pc/cj/js/
-.deliver.ifeng.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16101,6 +16095,7 @@ a.kj-cy.cn
 .xp510.com/images/.*\.gif
 .xnnews.com.cn/Templets/js/.*link
 .xnnews.com.cn/Templets/image/zyyy\.swf
+.xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
@@ -16145,6 +16140,7 @@ a.kj-cy.cn
 .xiaodao.la/upload/1/146486/images/20170223/20170223000126702670\.gif
 .xianzhenyuan.cn/data/attachment/common/
 .xianliao.me/etoron/get\?
+.xiangshengw.com/cp\.js
 .xiangai365.com/ad_js/
 .xiancn.com/.*/adv_content/
 .xiami.com/player/iframe-adm\?
@@ -16653,6 +16649,7 @@ a.kj-cy.cn
 .showbean.net/cpma\.js
 .shouyoutv.com/assets/api/web/v4/js/global_head\.js
 .shouyoutan.com/Runtime/js/
+.shouji56.com/pc/cj/js/
 .shoudian.org/diantong/laoma
 .shmet.com/images/1000x90newshmet\.swf
 .shm.com.cn/js/load\.swf
@@ -16790,6 +16787,7 @@ a.kj-cy.cn
 .r3sub.com/images/banners/
 .qzwb.com/gb/img/9465\.files/1G3G\.gif
 .qzss.cn/ssad
+.qzone.la/Scripts/m\.js
 .qzone.cc/iframe/
 .qz828.com/css/2010/script/.*ad
 .qvocd.org/view/ad/
@@ -18457,6 +18455,7 @@ a.kj-cy.cn
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
 .dealmoon.com/hotdeals/hotdeals_scroller\.php
@@ -18887,6 +18886,7 @@ a.kj-cy.cn
 .bdimg.com/brands/yxtg/source/juhe-v2\.js
 .bd-film.com/r/cms/www/movie/js/cms-sidebar-
 .bd-film.com/r/cms/www/movie/js/cms-download
+.bd-film.com/cooperation/
 .bccnsoft.com/aab/
 .bccn.net/aab/
 .bcc.com.tw/imgs/adv/
@@ -21798,6 +21798,7 @@ gg.*.
 .yunzuowen.com
 .yihubaiying.com
 .yetu.net
+.wshufa.com
 .wenshenbang.com
 .weilianjie.com
 .web8.net
@@ -21812,6 +21813,7 @@ gg.*.
 .qwxcs.com
 .nyhpyq.com
 .mxpwx.com
+.mxitie.com
 .modzj.net
 .mn586.com
 .mj-medlab.com
@@ -21855,8 +21857,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.mxitie.com
-.wshufa.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
