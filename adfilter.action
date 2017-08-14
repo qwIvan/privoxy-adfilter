@@ -525,6 +525,9 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .dm.huochepiao.com
+.78dm.net/test\.png
+.78dm.net/channel/test\?
+.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -6894,8 +6897,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?dm78ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -8230,6 +8235,9 @@ cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .dm.huochepiao.com
+.78dm.net/test\.png
+.78dm.net/channel/test\?
+.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -14599,8 +14607,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?dm78ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -15859,6 +15869,9 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .dm.huochepiao.com
+.78dm.net/test\.png
+.78dm.net/channel/test\?
+.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -21390,8 +21403,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?dm78ad/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
+/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
