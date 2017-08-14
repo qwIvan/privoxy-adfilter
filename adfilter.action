@@ -150,6 +150,7 @@ TAG:^adfilter-block-dnt$
 .zxw51.com
 .zuiceshi.net
 .zq84.com
+.zichenit.com
 .zhuolaoshi.com
 .zhongkaowu.com
 .zhongchouyan.com
@@ -169,6 +170,7 @@ TAG:^adfilter-block-dnt$
 .yetu.net
 .y.damifan.cn
 .xue.zbyw.cn
+.xttianning.com
 .xinju.cc
 .xiaoyutiao.com
 .xbtw.com
@@ -203,6 +205,7 @@ TAG:^adfilter-block-dnt$
 .static.ichehome.com
 .star-media.cn
 .ss.shicimingju.com
+.shuqw.com
 .shop265.com
 .shili.wanyx.com
 .shili.downxia.com
@@ -232,6 +235,7 @@ TAG:^adfilter-block-dnt$
 .okkkk.com
 .nyhpyq.com
 .namedq.com
+.mzcsdf.com
 .mxpwx.com
 .mxitie.com
 .mpb1.iteye.com
@@ -350,6 +354,7 @@ TAG:^adfilter-block-dnt$
 .dm.51okc.com
 .dm.388g.cc
 .dejing.laobanfa.com
+.daxishi.com
 .daima.youbian.com
 .daima.niubb.net
 .daima.ijq.tv
@@ -377,6 +382,7 @@ TAG:^adfilter-block-dnt$
 .c1.4qx.net
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
+.bjs.9669.cn
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -518,16 +524,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.zichenit.com
-.mzcsdf.com
-.shuqw.com
-.daxishi.com
-.bjs.9669.cn
-.xttianning.com
-.amazonaws.com/s\?z=
-.xmcimg.com/js/m\.js
-.dajiazhao.com/login/reg\.js
-.sobaidupan.com/top_txtad\.asp
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -786,6 +782,7 @@ cpro.*.
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
+.xmcimg.com/js/m\.js
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
 .xkhouse.com/display/displaygg/
@@ -1260,6 +1257,7 @@ cpro.*.
 .soft.mumayi.net/js/
 .soft.mumayi.net/images/download\.gif
 .soduso.com/js/sat\.js
+.sobaidupan.com/top_txtad\.asp
 .soaspx.com/images/js/dropdown\.js
 .soaspx.com/images/iiszj\.gif
 .soaspx.com/images/hws\.gif
@@ -3265,6 +3263,7 @@ cpro.*.
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .danlan.org/KFC/
 .danji6.com/xingg/
+.dajiazhao.com/login/reg\.js
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dagougou.cc/js/item950\.js
@@ -3858,6 +3857,7 @@ cpro.*.
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com/s\?z=
 .amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.zhiding.cn/www/images/
 .am.szhome.com
@@ -5679,6 +5679,7 @@ tanchuan.htm*.
 .hao222.com
 .hao123union.baidu.com
 .hao123rt.com
+.hanqidq.com
 .hanju18.net
 .haiyunx.com
 .haiyunpush.com
@@ -6501,7 +6502,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.hanqidq.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7856,6 +7856,7 @@ TAG:^adfilter-block-elem$
 .zxw51.com
 .zuiceshi.net
 .zq84.com
+.zichenit.com
 .zhuolaoshi.com
 .zhongkaowu.com
 .zhongchouyan.com
@@ -7875,6 +7876,7 @@ TAG:^adfilter-block-elem$
 .yetu.net
 .y.damifan.cn
 .xue.zbyw.cn
+.xttianning.com
 .xinju.cc
 .xiaoyutiao.com
 .xbtw.com
@@ -7909,6 +7911,7 @@ TAG:^adfilter-block-elem$
 .static.ichehome.com
 .star-media.cn
 .ss.shicimingju.com
+.shuqw.com
 .shop265.com
 .shili.wanyx.com
 .shili.downxia.com
@@ -7938,6 +7941,7 @@ TAG:^adfilter-block-elem$
 .okkkk.com
 .nyhpyq.com
 .namedq.com
+.mzcsdf.com
 .mxpwx.com
 .mxitie.com
 .mpb1.iteye.com
@@ -8056,6 +8060,7 @@ TAG:^adfilter-block-elem$
 .dm.51okc.com
 .dm.388g.cc
 .dejing.laobanfa.com
+.daxishi.com
 .daima.youbian.com
 .daima.niubb.net
 .daima.ijq.tv
@@ -8083,6 +8088,7 @@ TAG:^adfilter-block-elem$
 .c1.4qx.net
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
+.bjs.9669.cn
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -8224,16 +8230,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.zichenit.com
-.mzcsdf.com
-.shuqw.com
-.daxishi.com
-.bjs.9669.cn
-.xttianning.com
-.amazonaws.com/s\?z=
-.xmcimg.com/js/m\.js
-.dajiazhao.com/login/reg\.js
-.sobaidupan.com/top_txtad\.asp
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8492,6 +8488,7 @@ cpro.*.
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
+.xmcimg.com/js/m\.js
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
 .xkhouse.com/display/displaygg/
@@ -8966,6 +8963,7 @@ cpro.*.
 .soft.mumayi.net/js/
 .soft.mumayi.net/images/download\.gif
 .soduso.com/js/sat\.js
+.sobaidupan.com/top_txtad\.asp
 .soaspx.com/images/js/dropdown\.js
 .soaspx.com/images/iiszj\.gif
 .soaspx.com/images/hws\.gif
@@ -10971,6 +10969,7 @@ cpro.*.
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .danlan.org/KFC/
 .danji6.com/xingg/
+.dajiazhao.com/login/reg\.js
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dagougou.cc/js/item950\.js
@@ -11564,6 +11563,7 @@ cpro.*.
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com/s\?z=
 .amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.zhiding.cn/www/images/
 .am.szhome.com
@@ -13385,6 +13385,7 @@ tanchuan.htm*.
 .hao222.com
 .hao123union.baidu.com
 .hao123rt.com
+.hanqidq.com
 .hanju18.net
 .haiyunx.com
 .haiyunpush.com
@@ -14207,7 +14208,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.hanqidq.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15573,6 +15573,7 @@ TAG:^adfilter-block-request$
 .yhzm.cc
 .y.damifan.cn
 .xue.zbyw.cn
+.xttianning.com
 .xinju.cc
 .xiaoyutiao.com
 .xbtw.com
@@ -15735,6 +15736,7 @@ TAG:^adfilter-block-request$
 .c1.4qx.net
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
+.bjs.9669.cn
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -15858,12 +15860,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.bjs.9669.cn
-.xttianning.com
-.amazonaws.com/s\?z=
-.xmcimg.com/js/m\.js
-.dajiazhao.com/login/reg\.js
-.sobaidupan.com/top_txtad\.asp
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16115,6 +16111,7 @@ a.kj-cy.cn
 .xnnews.com.cn/Templets/image/zyyy\.swf
 .xmfish.com/shw/
 .xmfish.com/chanel/www/cpm\.html
+.xmcimg.com/js/m\.js
 .xm9x.net/includes/js/dl\.js
 .xlpu.cc/adv/
 .xkhouse.com/display/displaygg/
@@ -16575,6 +16572,7 @@ a.kj-cy.cn
 .soft.mumayi.net/js/
 .soft.mumayi.net/images/download\.gif
 .soduso.com/js/sat\.js
+.sobaidupan.com/top_txtad\.asp
 .soaspx.com/images/js/dropdown\.js
 .soaspx.com/images/iiszj\.gif
 .soaspx.com/images/hws\.gif
@@ -18493,6 +18491,7 @@ a.kj-cy.cn
 .daqianduan.com/wp-content/uploads/.*/ads.*\.jpg
 .danlan.org/KFC/
 .danji6.com/xingg/
+.dajiazhao.com/login/reg\.js
 .dailynews.sina.com/gb/ads/
 .dailyfx.com.hk/ext/ad/cn\.js
 .dagougou.cc/js/item950\.js
@@ -19064,6 +19063,7 @@ a.kj-cy.cn
 .ams.fx678.com
 .amfi.gou.sogou.com
 .amd.cn/yyets\.js
+.amazonaws.com/s\?z=
 .amazonaws.com.cn/static-documents/marketing/uda_banner_
 .am.szhome.com
 .am.6park.com
@@ -20545,6 +20545,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .haohaowan8.com
 .hao61.net
 .hao123rt.com
+.hanqidq.com
 .hanju18.net
 .haiyunpush.com
 .haiwengji.net
@@ -21009,7 +21010,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.hanqidq.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21810,6 +21810,7 @@ gg.*.
 .book9.net
 .23txt.com
 .zxw51.com
+.zichenit.com
 .zhuolaoshi.com
 .zhongkaowu.com
 .zhantai.com
@@ -21825,11 +21826,13 @@ gg.*.
 .tiexing.com
 .sundxs.com
 .star-media.cn
+.shuqw.com
 .sg92.com
 .s11.cn
 .redmx.cn
 .qwxcs.com
 .nyhpyq.com
+.mzcsdf.com
 .mxpwx.com
 .mxitie.com
 .modzj.net
@@ -21859,6 +21862,7 @@ gg.*.
 .f*./.*\.baidu\.com/it/u=.*,.*&fm=
 .f*.baidu.com/it/u=.*,.*&fm=
 .dyscb.cn
+.daxishi.com
 .chnci.com
 .cdyx-pcjy.com
 .cdeme.com
@@ -21875,10 +21879,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.zichenit.com
-.mzcsdf.com
-.shuqw.com
-.daxishi.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
@@ -23726,6 +23726,7 @@ TAG:^adfilter-unblock-dnt$
 .58.com/adJump\?adType=
 .56img.com/modjs/app/page/www/play-pgc/.*/so-ads\.js\?
 .52zy.com/gg/
+.520cc.me
 .51job.com
 .51img1.com/\?\?.*/adsys\.
 .51hanhua.com/2013/brtxt\.js
@@ -23762,7 +23763,6 @@ TAG:^adfilter-unblock-dnt$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.520cc.me
 
 {+client-header-tagger{adfilter-unblock-dnt-R203} \
 }
@@ -24717,6 +24717,7 @@ TAG:^adfilter-unblock-elem$
 .58.com/adJump\?adType=
 .56img.com/modjs/app/page/www/play-pgc/.*/so-ads\.js\?
 .52zy.com/gg/
+.520cc.me
 .51job.com
 .51img1.com/\?\?.*/adsys\.
 .51hanhua.com/2013/brtxt\.js
@@ -24753,7 +24754,6 @@ TAG:^adfilter-unblock-elem$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.520cc.me
 
 {+client-header-tagger{adfilter-unblock-elem-R203} \
 }
@@ -25692,6 +25692,7 @@ TAG:^adfilter-unblock-request$
 .58.com/adJump\?adType=
 .56img.com/modjs/app/page/www/play-pgc/.*/so-ads\.js\?
 .52zy.com/gg/
+.520cc.me
 .51job.com
 .51img1.com/\?\?.*/adsys\.
 .51hanhua.com/2013/brtxt\.js
@@ -25724,7 +25725,6 @@ TAG:^adfilter-unblock-request$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
-.520cc.me
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
