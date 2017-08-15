@@ -528,6 +528,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.ifeng.com/showcode\?
+.ifengimg.com/a/o\.js
 .nen.com.cn/swf/0/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -2536,7 +2538,7 @@ cpro.*.
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
-.ifeng.com/.*/wapifeng
+.ifeng.com*./(.*/)?wapifeng
 .ifeng.com/.*&ADUNITID=
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
@@ -8256,6 +8258,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.ifeng.com/showcode\?
+.ifengimg.com/a/o\.js
 .nen.com.cn/swf/0/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -10264,7 +10268,7 @@ cpro.*.
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
-.ifeng.com/.*/wapifeng
+.ifeng.com*./(.*/)?wapifeng
 .ifeng.com/.*&ADUNITID=
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
@@ -15908,6 +15912,8 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.ifeng.com/showcode\?
+.ifengimg.com/a/o\.js
 .nen.com.cn/swf/0/.*\.swf
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -17837,7 +17843,7 @@ a.kj-cy.cn
 .ifengimg.com/29daa33abbbc4bbc/2015/7/titad\.gif
 .ifengimg.com/29daa33abbbc4bbc/2015/7/aogute\.gif
 .ifengimg.com/.*/taobaopudi/
-.ifeng.com/.*/wapifeng
+.ifeng.com*./(.*/)?wapifeng
 .ifeng.com/.*&ADUNITID=
 .ifeng.com/wapAdversApi\?
 .ifeng.com/statics/comment_baidu\.html
