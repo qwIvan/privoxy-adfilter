@@ -486,7 +486,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-Rn162
 s@^referer(?!:[^\n]*[./](?:alimama\.com|foctop\.com|meidebi\.com|qinqintejia\.com|tanx\.com|taobao\.com|youhuiyouhui\.com\.cn)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-Rn163
-s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@adfilter-block-dnt@Ti
+s@^referer(?!:[^\n]*[./](?:bittiger\.io|payoneer\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-Rn164
 s@^referer(?!:[^\n]*[./](?:coolpc\.com\.tw|sac\.net\.cn)):.*@adfilter-block-dnt@Ti
@@ -1038,7 +1038,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-Rn162
 s@^referer(?!:[^\n]*[./](?:alimama\.com|foctop\.com|meidebi\.com|qinqintejia\.com|tanx\.com|taobao\.com|youhuiyouhui\.com\.cn)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-Rn163
-s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@adfilter-block-elem@Ti
+s@^referer(?!:[^\n]*[./](?:bittiger\.io|payoneer\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-Rn164
 s@^referer(?!:[^\n]*[./](?:coolpc\.com\.tw|sac\.net\.cn)):.*@adfilter-block-elem@Ti
@@ -1210,7 +1210,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-R93
 s@^referer(?=:[^\n]*[./](?:hk\.news\.yahoo\.com|hk\.yahoo\.com|tw\.news\.yahoo\.com|tw\.stock\.yahoo\.com|tw\.yahoo\.com)):.*@adfilter-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-Rn163
-s@^referer(?!:[^\n]*[./](?:bittiger\.io)):.*@adfilter-block-request-Aj-Cj@Ti
+s@^referer(?!:[^\n]*[./](?:bittiger\.io|payoneer\.com)):.*@adfilter-block-request-Aj-Cj@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-when-Rn168
 s@^referer(?!:[^\n]*[./](?:github\.io)):.*@adfilter-block-request-Aj-Cj@Ti
