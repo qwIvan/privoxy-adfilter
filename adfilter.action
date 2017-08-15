@@ -14,8 +14,10 @@ TAG:^adfilter-block-dnt$
 .zxhymh.com
 .ztxbd.com
 .zsxpx.com
+.zpoder.com
 .zizcy.com
 .zgfszs.com
+.yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
 .yisloda.com
@@ -141,8 +143,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.yyhqch.com
-.zpoder.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -268,6 +268,7 @@ TAG:^adfilter-block-dnt$
 .jsm.9939.com
 .jsm.39yst.com
 .jskrnekewe.mofans.net
+.jsf.cnlinfo.net
 .jsb.qianzhan.com
 .js1.zuocai.tv
 .js1.xbaixing.com
@@ -351,6 +352,7 @@ TAG:^adfilter-block-dnt$
 .dm.jy135.com
 .dm.jsyst.cn
 .dm.jb51.net
+.dm.huochepiao.com
 .dm.chalook.net
 .dm.92to.com
 .dm.51okc.com
@@ -526,16 +528,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.dm.huochepiao.com
-.jsf.cnlinfo.net
-.6k.com/g1000/
-.zbjimg.com/static/union/
-.eepw.com.cn/pub/js/TopFullScreen\.js
-.e4dy.com/style/
-.e4dy.com/wj/
-.78dm.net/test\.png
-.78dm.net/channel/test\?
-.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -633,6 +625,7 @@ cpro.*.
 .zc173.com/173fee/
 .zbwmy.com/upfile/20.*\.swf
 .zbwmy.com/upfile/20.*\.gif
+.zbjimg.com/static/union/
 .zb.nxing.cn
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
@@ -3077,6 +3070,7 @@ cpro.*.
 .eeyy.com/templates/js/other/yxj\.js
 .eeyy.com/otherhtml/js/ad650\.js
 .eeyy.cc/style/yxj\.js
+.eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
@@ -3100,6 +3094,8 @@ cpro.*.
 .easou.com/brandImage/ad/
 .eap.enorth.com.cn
 .eap.big5.enorth.com.cn
+.e4dy.com/wj/
+.e4dy.com/style/
 .e3ol.com/inc/
 .e23.cn/js/aaa\.js
 .e0575.com/pic/AD_
@@ -3938,6 +3934,7 @@ cpro.*.
 .adpubs.yaolan.com
 .adpub.yaolan.com
 .adp.cnool.net
+.adp.cnki.net
 .adnetpub.yaolan.com
 .admx.baixing.com
 .adminbuy.cn/images/
@@ -4144,7 +4141,9 @@ cpro.*.
 .78dm.net/uploads/imgs/2013/.*980
 .78dm.net/uploads/imgs/2013/.*760
 .78dm.net/uploads/imgs/2013/.*250
+.78dm.net/test\.png
 .78dm.net/images/mingren250\.jpg
+.78dm.net/channel/test\?
 .789xz.com/index2/img/xiazai
 .77kp.com/gg123/
 .77kp.com/bd/
@@ -4173,6 +4172,7 @@ cpro.*.
 .6park.com/img/15\.png
 .6park.com/img/.*0\.gif
 .6park.com/img/.*/.*\.gif
+.6k.com/g1000/
 .6ddd.com/js/myfiles/down_
 .6ddd.com/js/myfiles/banner\.js
 .6candy.com/commons/6/6f/Ermiao-merchandise\.jpg
@@ -6346,6 +6346,7 @@ tanchuan.htm*.
 .114yeah.com
 .114lm.com
 .114.95.102.77
+.11370090.net
 .1133.cc
 .112.74.95.46
 .111111qb.com
@@ -6512,7 +6513,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.11370090.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6701,6 +6701,7 @@ k120g270.*.
 /(.*/)?jkbd-app/resources/images/a123/maiche
 /(.*/)?jinhuatv/ad
 /(.*/)?jfjs/ad\.js
+/(.*/)?jdzjgg/.*
 /(.*/)?jdbanner2017618\.jpg
 jdbanner2017618.jpg*.
 /(.*/)?iscar\.svc/getadvert\?
@@ -6755,6 +6756,7 @@ floatad2.*.
 /(.*/)?duilian2\.
 duilian2.*.
 /(.*/)?dreamads/.*
+/(.*/)?dm78ad/.*
 /(.*/)?diantan\.js
 diantan.js*.
 /(.*/)?detail_gg\.js
@@ -6770,6 +6772,7 @@ diantan.js*.
 /(.*/)?common/cf/.*
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
+/(.*/)?cnki/js/adDetail1124\.js
 /(.*/)?clicktotal/ClickTotal\.js
 /(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
@@ -6906,11 +6909,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?dm78ad/.*
-/(.*/)?jdzjgg/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-dnt-R1} \
 }
@@ -7734,8 +7734,10 @@ TAG:^adfilter-block-elem$
 .zxhymh.com
 .ztxbd.com
 .zsxpx.com
+.zpoder.com
 .zizcy.com
 .zgfszs.com
+.yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
 .yisloda.com
@@ -7861,8 +7863,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.yyhqch.com
-.zpoder.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7988,6 +7988,7 @@ TAG:^adfilter-block-elem$
 .jsm.9939.com
 .jsm.39yst.com
 .jskrnekewe.mofans.net
+.jsf.cnlinfo.net
 .jsb.qianzhan.com
 .js1.zuocai.tv
 .js1.xbaixing.com
@@ -8071,6 +8072,7 @@ TAG:^adfilter-block-elem$
 .dm.jy135.com
 .dm.jsyst.cn
 .dm.jb51.net
+.dm.huochepiao.com
 .dm.chalook.net
 .dm.92to.com
 .dm.51okc.com
@@ -8246,16 +8248,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.dm.huochepiao.com
-.jsf.cnlinfo.net
-.6k.com/g1000/
-.zbjimg.com/static/union/
-.eepw.com.cn/pub/js/TopFullScreen\.js
-.e4dy.com/style/
-.e4dy.com/wj/
-.78dm.net/test\.png
-.78dm.net/channel/test\?
-.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8353,6 +8345,7 @@ cpro.*.
 .zc173.com/173fee/
 .zbwmy.com/upfile/20.*\.swf
 .zbwmy.com/upfile/20.*\.gif
+.zbjimg.com/static/union/
 .zb.nxing.cn
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
@@ -10797,6 +10790,7 @@ cpro.*.
 .eeyy.com/templates/js/other/yxj\.js
 .eeyy.com/otherhtml/js/ad650\.js
 .eeyy.cc/style/yxj\.js
+.eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
@@ -10820,6 +10814,8 @@ cpro.*.
 .easou.com/brandImage/ad/
 .eap.enorth.com.cn
 .eap.big5.enorth.com.cn
+.e4dy.com/wj/
+.e4dy.com/style/
 .e3ol.com/inc/
 .e23.cn/js/aaa\.js
 .e0575.com/pic/AD_
@@ -11658,6 +11654,7 @@ cpro.*.
 .adpubs.yaolan.com
 .adpub.yaolan.com
 .adp.cnool.net
+.adp.cnki.net
 .adnetpub.yaolan.com
 .admx.baixing.com
 .adminbuy.cn/images/
@@ -11864,7 +11861,9 @@ cpro.*.
 .78dm.net/uploads/imgs/2013/.*980
 .78dm.net/uploads/imgs/2013/.*760
 .78dm.net/uploads/imgs/2013/.*250
+.78dm.net/test\.png
 .78dm.net/images/mingren250\.jpg
+.78dm.net/channel/test\?
 .789xz.com/index2/img/xiazai
 .77kp.com/gg123/
 .77kp.com/bd/
@@ -11893,6 +11892,7 @@ cpro.*.
 .6park.com/img/15\.png
 .6park.com/img/.*0\.gif
 .6park.com/img/.*/.*\.gif
+.6k.com/g1000/
 .6ddd.com/js/myfiles/down_
 .6ddd.com/js/myfiles/banner\.js
 .6candy.com/commons/6/6f/Ermiao-merchandise\.jpg
@@ -14066,6 +14066,7 @@ tanchuan.htm*.
 .114yeah.com
 .114lm.com
 .114.95.102.77
+.11370090.net
 .1133.cc
 .112.74.95.46
 .111111qb.com
@@ -14232,7 +14233,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.11370090.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14421,6 +14421,7 @@ k120g270.*.
 /(.*/)?jkbd-app/resources/images/a123/maiche
 /(.*/)?jinhuatv/ad
 /(.*/)?jfjs/ad\.js
+/(.*/)?jdzjgg/.*
 /(.*/)?jdbanner2017618\.jpg
 jdbanner2017618.jpg*.
 /(.*/)?iscar\.svc/getadvert\?
@@ -14475,6 +14476,7 @@ floatad2.*.
 /(.*/)?duilian2\.
 duilian2.*.
 /(.*/)?dreamads/.*
+/(.*/)?dm78ad/.*
 /(.*/)?diantan\.js
 diantan.js*.
 /(.*/)?detail_gg\.js
@@ -14490,6 +14492,7 @@ diantan.js*.
 /(.*/)?common/cf/.*
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
+/(.*/)?cnki/js/adDetail1124\.js
 /(.*/)?clicktotal/ClickTotal\.js
 /(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
@@ -14626,11 +14629,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?dm78ad/.*
-/(.*/)?jdzjgg/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-elem-R1} \
 }
@@ -15455,8 +15455,10 @@ TAG:^adfilter-block-request$
 .zxhymh.com
 .ztxbd.com
 .zsxpx.com
+.zpoder.com
 .zizcy.com
 .zgfszs.com
+.yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
 .yisloda.com
@@ -15580,8 +15582,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.yyhqch.com
-.zpoder.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15670,6 +15670,7 @@ TAG:^adfilter-block-request$
 .jsm.9939.com
 .jsm.39yst.com
 .jskrnekewe.mofans.net
+.jsf.cnlinfo.net
 .jsb.qianzhan.com
 .js1.zuocai.tv
 .js1.xbaixing.com
@@ -15737,6 +15738,7 @@ TAG:^adfilter-block-request$
 .dm.jy135.com
 .dm.jsyst.cn
 .dm.jb51.net
+.dm.huochepiao.com
 .dm.chalook.net
 .dm.92to.com
 .dm.51okc.com
@@ -15890,16 +15892,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.dm.huochepiao.com
-.jsf.cnlinfo.net
-.6k.com/g1000/
-.zbjimg.com/static/union/
-.eepw.com.cn/pub/js/TopFullScreen\.js
-.e4dy.com/style/
-.e4dy.com/wj/
-.78dm.net/test\.png
-.78dm.net/channel/test\?
-.adp.cnki.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -15997,6 +15989,7 @@ a.kj-cy.cn
 .zc173.com/173fee/
 .zbwmy.com/upfile/20.*\.swf
 .zbwmy.com/upfile/20.*\.gif
+.zbjimg.com/static/union/
 .zb.nxing.cn
 .zasv.net/baiya\.jpg
 .z63.org/wp-content/themes/z63/img/s-
@@ -18345,6 +18338,7 @@ a.kj-cy.cn
 .eeyy.com/templates/js/other/yxj\.js
 .eeyy.com/otherhtml/js/ad650\.js
 .eeyy.cc/style/yxj\.js
+.eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
@@ -18367,6 +18361,8 @@ a.kj-cy.cn
 .easou.com/brandImage/ad/
 .eap.enorth.com.cn
 .eap.big5.enorth.com.cn
+.e4dy.com/wj/
+.e4dy.com/style/
 .e3ol.com/inc/
 .e23.cn/js/aaa\.js
 .e0575.com/pic/AD_
@@ -19171,6 +19167,7 @@ a.kj-cy.cn
 .adpubs.yaolan.com
 .adpub.yaolan.com
 .adp.cnool.net
+.adp.cnki.net
 .adnetpub.yaolan.com
 .admx.baixing.com
 .adminbuy.cn/images/
@@ -19361,7 +19358,9 @@ a.kj-cy.cn
 .78dm.net/uploads/imgs/2013/.*980
 .78dm.net/uploads/imgs/2013/.*760
 .78dm.net/uploads/imgs/2013/.*250
+.78dm.net/test\.png
 .78dm.net/images/mingren250\.jpg
+.78dm.net/channel/test\?
 .789xz.com/index2/img/xiazai
 .77kp.com/gg123/
 .77kp.com/bd/
@@ -19387,6 +19386,7 @@ a.kj-cy.cn
 .6park.com/img/15\.png
 .6park.com/img/.*0\.gif
 .6park.com/img/.*/.*\.gif
+.6k.com/g1000/
 .6ddd.com/js/myfiles/down_
 .6ddd.com/js/myfiles/banner\.js
 .6candy.com/commons/6/6f/Ermiao-merchandise\.jpg
@@ -20996,6 +20996,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .116.55.227.242
 .115.238.246.181
 .114.95.102.77
+.11370090.net
 .112.74.95.46
 .111111qb.com
 .111.73.45.147
@@ -21048,7 +21049,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.11370090.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21232,6 +21232,7 @@ k120g270.*.
 /(.*/)?jkbd-app/resources/images/a123/maiche
 /(.*/)?jinhuatv/ad
 /(.*/)?jfjs/ad\.js
+/(.*/)?jdzjgg/.*
 /(.*/)?jdbanner2017618\.jpg
 jdbanner2017618.jpg*.
 /(.*/)?iscar\.svc/getadvert\?
@@ -21285,6 +21286,7 @@ floatad2.*.
 /(.*/)?duilian2\.
 duilian2.*.
 /(.*/)?dreamads/.*
+/(.*/)?dm78ad/.*
 /(.*/)?diantan\.js
 diantan.js*.
 /(.*/)?detail_gg\.js
@@ -21299,6 +21301,7 @@ diantan.js*.
 /(.*/)?content/plugins/em_ad/.*
 /(.*/)?comiis_kmsjx3hlx/ads/.*
 /(.*/)?comiis_19lou/ads/.*
+/(.*/)?cnki/js/adDetail1124\.js
 /(.*/)?clicktotal/ClickTotal\.js
 /(.*/)?chinaByte2016/duhy
 /(.*/)?cdn-cgi/pe/bag2\?.*\.overture\.com
@@ -21432,11 +21435,8 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?dm78ad/.*
-/(.*/)?jdzjgg/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
-/(.*/)?cnki/js/adDetail1124\.js
 
 {+client-header-tagger{adfilter-block-request-Aaisv} \
  +server-header-tagger{adfilter-block-request-Caisv} \
