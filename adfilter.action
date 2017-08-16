@@ -291,7 +291,7 @@ TAG:^adfilter-block-dnt$
 .j1.piaobing.com
 .j.yjbys.com
 .iy.com.cn
-.ixpub.net
+.ixpub.net/.*\.js
 .img1.jintang114.org
 .img.zuowen8.com
 .img.xuenb.com
@@ -8020,7 +8020,7 @@ TAG:^adfilter-block-elem$
 .j1.piaobing.com
 .j.yjbys.com
 .iy.com.cn
-.ixpub.net
+.ixpub.net/.*\.js
 .img1.jintang114.org
 .img.zuowen8.com
 .img.xuenb.com
@@ -15707,7 +15707,7 @@ TAG:^adfilter-block-request$
 .jb.dianshu119.com
 .j1.piaobing.com
 .j.yjbys.com
-.ixpub.net
+.ixpub.net/.*\.js
 .img1.jintang114.org
 .img.zuowen8.com
 .img.xuenb.com
