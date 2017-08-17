@@ -89,6 +89,7 @@ TAG:^adfilter-block-dnt$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cgxxmy.com
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
@@ -143,7 +144,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cgxxmy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -162,6 +162,7 @@ TAG:^adfilter-block-dnt$
 .zhifenjie.com
 .zhaoshang8.com
 .zhantai.com
+.yx1.managershare.com
 .yunzuowen.com
 .yun1.yahoo001.com
 .yulzs.com
@@ -388,6 +389,7 @@ TAG:^adfilter-block-dnt$
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
 .bjs.9669.cn
+.becode.xiao84.com
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -529,10 +531,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.yx1.managershare.com
-.becode.xiao84.com
-.xiexingcun.com/tyong\.js
-.vipcn.com/js/indexfoot\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -826,6 +824,7 @@ cpro.*.
 .xilu.com/iframe/pagepic/
 .xilinjie.com/partner/
 .xigua110.com/a/
+.xiexingcun.com/tyong\.js
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
 .xiaoz.me/wp-content/uploads/.*_banner_
@@ -971,6 +970,7 @@ cpro.*.
 .vista.tgbus.com/s\.js
 .vista.tgbus.com/data\.ashx[^\w%.-].*_SINGLE_SETJSONADSLOT
 .visit-japan.jp/parts/visitjapan_f35_170_170\.jpg
+.vipcn.com/js/indexfoot\.js
 .vipcn.com/hz/down_r\.js
 .vipcn.com/hezuo/
 .vip.luanren.com/data/.*\.gif
@@ -5066,6 +5066,7 @@ tanchuan.htm*.
 .wangsufast.com
 .wangdq.com
 .wangdaizao.com
+.waihui518.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -6515,7 +6516,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.waihui518.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7271,8 +7271,6 @@ merchant.php*.
 {+client-header-tagger{adfilter-block-dnt-R79} \
 }
 .z4a.net
-.buimg.com
-.sinaimg.cn
 
 {+client-header-tagger{adfilter-block-dnt-R80} \
 }
@@ -7819,6 +7817,7 @@ TAG:^adfilter-block-elem$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cgxxmy.com
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
@@ -7873,7 +7872,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cgxxmy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7892,6 +7890,7 @@ TAG:^adfilter-block-elem$
 .zhifenjie.com
 .zhaoshang8.com
 .zhantai.com
+.yx1.managershare.com
 .yunzuowen.com
 .yun1.yahoo001.com
 .yulzs.com
@@ -8118,6 +8117,7 @@ TAG:^adfilter-block-elem$
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
 .bjs.9669.cn
+.becode.xiao84.com
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -8259,10 +8259,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.yx1.managershare.com
-.becode.xiao84.com
-.xiexingcun.com/tyong\.js
-.vipcn.com/js/indexfoot\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8556,6 +8552,7 @@ cpro.*.
 .xilu.com/iframe/pagepic/
 .xilinjie.com/partner/
 .xigua110.com/a/
+.xiexingcun.com/tyong\.js
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
 .xiaoz.me/wp-content/uploads/.*_banner_
@@ -8701,6 +8698,7 @@ cpro.*.
 .vista.tgbus.com/s\.js
 .vista.tgbus.com/data\.ashx[^\w%.-].*_SINGLE_SETJSONADSLOT
 .visit-japan.jp/parts/visitjapan_f35_170_170\.jpg
+.vipcn.com/js/indexfoot\.js
 .vipcn.com/hz/down_r\.js
 .vipcn.com/hezuo/
 .vip.luanren.com/data/.*\.gif
@@ -12796,6 +12794,7 @@ tanchuan.htm*.
 .wangsufast.com
 .wangdq.com
 .wangdaizao.com
+.waihui518.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -14245,7 +14244,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.waihui518.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15001,8 +14999,6 @@ merchant.php*.
 {+client-header-tagger{adfilter-block-elem-R79} \
 }
 .z4a.net
-.buimg.com
-.sinaimg.cn
 
 {+client-header-tagger{adfilter-block-elem-R80} \
 }
@@ -15550,6 +15546,7 @@ TAG:^adfilter-block-request$
 .cnzhqs.com
 .cindy17club.com
 .changhehengqi.com
+.cgxxmy.com
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
@@ -15602,7 +15599,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cgxxmy.com
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15616,6 +15612,7 @@ TAG:^adfilter-block-request$
 .zhihu.xmcimg.com
 .zhifenjie.com
 .zhaoshang8.com
+.yx1.managershare.com
 .yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
@@ -15790,6 +15787,7 @@ TAG:^adfilter-block-request$
 .bstatic.diyifanwen.com
 .bstatic.1kejian.com
 .bjs.9669.cn
+.becode.xiao84.com
 .becode.qiushibaike.com
 .bdlncs1.familydoctor.com.cn
 .bdlm1.hc360.com
@@ -15913,10 +15911,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.yx1.managershare.com
-.becode.xiao84.com
-.xiexingcun.com/tyong\.js
-.vipcn.com/js/indexfoot\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16203,6 +16197,7 @@ a.kj-cy.cn
 .xilu.com/iframe/pagepic/
 .xilinjie.com/partner/
 .xigua110.com/a/
+.xiexingcun.com/tyong\.js
 .xiepp.com/JS/topshow\.js
 .xiazaiba.com/uploadfiles/ads/
 .xiaoz.me/wp-content/uploads/.*_banner_
@@ -16343,6 +16338,7 @@ a.kj-cy.cn
 .vista.tgbus.com/s\.js
 .vista.tgbus.com/data\.ashx[^\w%.-].*_SINGLE_SETJSONADSLOT
 .visit-japan.jp/parts/visitjapan_f35_170_170\.jpg
+.vipcn.com/js/indexfoot\.js
 .vipcn.com/hz/down_r\.js
 .vipcn.com/hezuo/
 .vip.luanren.com/data/.*\.gif
@@ -20188,6 +20184,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .wangsufast.com
 .wangdq.com
 .wangdaizao.com
+.waihui518.com
 .w65p.com
 .w3989.com
 .vwws6.net
@@ -21071,7 +21068,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.waihui518.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22815,8 +22811,6 @@ merchant.php*.
 {+client-header-tagger{adfilter-block-request-R79} \
 }
 .z4a.net
-.buimg.com
-.sinaimg.cn
 
 {+client-header-tagger{adfilter-block-request-R80} \
 }
