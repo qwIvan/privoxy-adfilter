@@ -452,6 +452,7 @@ TAG:^adfilter-block-dnt$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -531,8 +532,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.a.thn21.com
-.paopaoche.net/skins/count\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1751,6 +1750,7 @@ cpro.*.
 .patmm.com/ad/
 .partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
+.paopaoche.net/skins/count\.js
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
 .panpan.org/other/
@@ -5456,6 +5456,7 @@ tanchuan.htm*.
 .mainbx.com
 .maibahe300cc.com
 .lzmm8.com
+.lyztdz.com
 .lytubaobao.com
 .lyrymy.com
 .lyhdream.com
@@ -6520,7 +6521,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.lyztdz.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8185,6 +8185,7 @@ TAG:^adfilter-block-elem$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -8264,8 +8265,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.a.thn21.com
-.paopaoche.net/skins/count\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9484,6 +9483,7 @@ cpro.*.
 .patmm.com/ad/
 .partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
+.paopaoche.net/skins/count\.js
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
 .panpan.org/other/
@@ -13189,6 +13189,7 @@ tanchuan.htm*.
 .mainbx.com
 .maibahe300cc.com
 .lzmm8.com
+.lyztdz.com
 .lytubaobao.com
 .lyrymy.com
 .lyhdream.com
@@ -14253,7 +14254,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.lyztdz.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15858,6 +15858,7 @@ TAG:^adfilter-block-request$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
 .a.qinghua5.com
@@ -15921,8 +15922,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.a.thn21.com
-.paopaoche.net/skins/count\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17096,6 +17095,7 @@ a.kj-cy.cn
 .patmm.com/ad/
 .partner.toutiao.com
 .paopaoku.com/js/loadingshow\.html
+.paopaoche.net/skins/count\.js
 .panpan.org/templets/ad/
 .panpan.org/plus/img/
 .panpan.org/other/
@@ -20457,6 +20457,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mainbx.com
 .maibahe300cc.com
 .lzmm8.com
+.lyztdz.com
 .lytubaobao.com
 .lyrymy.com
 .lyhdream.com
@@ -21082,7 +21083,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.lyztdz.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
