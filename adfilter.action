@@ -532,6 +532,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2081,7 +2082,6 @@ cpro.*.
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
-.lieqi.com/templates/.*/js/_banner\.js
 .liepin.com/event/jobadver/
 .licai18.com/pic/.*\.swf
 .licai18.com/images/Licai-
@@ -3727,7 +3727,6 @@ cpro.*.
 .bbs.hotavxxx.com/images/201.*\.gif
 .bbs.fengbao.com/image/bingzuan925X80\.jpg
 .bbs.a9vg.com/showit/img_show\.php
-.bbcss.com/templates/haijun5/js/_banner\.js
 .bb999.net/pic/n/agents/C-79\.gif
 .bb.tuku.cc
 .baxue.me/ad2016/
@@ -6569,7 +6568,6 @@ ad.*.
 /(.*/)?zahuishi/images/show38070\.js
 /(.*/)?z63/img/88\.jpg
 /(.*/)?ys_77jjss/.*
-/(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
@@ -6917,6 +6915,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -8265,6 +8264,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9814,7 +9814,6 @@ cpro.*.
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
-.lieqi.com/templates/.*/js/_banner\.js
 .liepin.com/event/jobadver/
 .licai18.com/pic/.*\.swf
 .licai18.com/images/Licai-
@@ -11460,7 +11459,6 @@ cpro.*.
 .bbs.hotavxxx.com/images/201.*\.gif
 .bbs.fengbao.com/image/bingzuan925X80\.jpg
 .bbs.a9vg.com/showit/img_show\.php
-.bbcss.com/templates/haijun5/js/_banner\.js
 .bb999.net/pic/n/agents/C-79\.gif
 .bb.tuku.cc
 .baxue.me/ad2016/
@@ -14302,7 +14300,6 @@ ad.*.
 /(.*/)?zahuishi/images/show38070\.js
 /(.*/)?z63/img/88\.jpg
 /(.*/)?ys_77jjss/.*
-/(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
@@ -14650,6 +14647,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15922,6 +15920,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17416,7 +17415,6 @@ a.kj-cy.cn
 .liisex.com/images/banners/
 .lihuasoft.net/images/ad_
 .life.e0575.com
-.lieqi.com/templates/.*/js/_banner\.js
 .liepin.com/event/jobadver/
 .licai18.com/pic/.*\.swf
 .licai18.com/images/Licai-
@@ -18991,7 +18989,6 @@ a.kj-cy.cn
 .bbs.hotavxxx.com/images/201.*\.gif
 .bbs.fengbao.com/image/bingzuan925X80\.jpg
 .bbs.a9vg.com/showit/img_show\.php
-.bbcss.com/templates/haijun5/js/_banner\.js
 .bb999.net/pic/n/agents/C-79\.gif
 .bb.tuku.cc
 .baxue.me/ad2016/
@@ -21130,7 +21127,6 @@ ad.*.
 /(.*/)?zahuishi/images/show38070\.js
 /(.*/)?z63/img/88\.jpg
 /(.*/)?ys_77jjss/.*
-/(.*/)?yangsheng/js/_banner\.js
 /(.*/)?xxx169\.php\?
 /(.*/)?xiaoyi/960_
 /(.*/)?xiaoyi/360_
@@ -21469,6 +21465,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
