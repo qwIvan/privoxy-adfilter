@@ -535,6 +535,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .94ab.com
 .jiaoben.eastday.com
+.ym.2liang.com
 .bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -8270,6 +8271,7 @@ cpro.*.
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
 .94ab.com
 .jiaoben.eastday.com
+.ym.2liang.com
 .bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -15928,6 +15930,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .jiaoben.eastday.com
+.ym.2liang.com
 .bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
