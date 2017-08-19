@@ -195,7 +195,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R16
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R17
-s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|baofee\.com|baoxee\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R18
 s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|btshoufa\.net|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@adfilter-block-dnt@Ti
@@ -747,7 +747,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R16
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R17
-s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|baofee\.com|baoxee\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R18
 s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|btshoufa\.net|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@adfilter-block-elem@Ti
@@ -1477,7 +1477,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R16
 s@^referer(?=:[^\n]*[./](?:28188\.com|28188\.net)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R17
-s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:2c2\.website|2p8\.space|adultcao\.com|adultgao\.com|baofee\.com|baoxee\.com|cao\.pe|caoaee\.com|caodee\.com|caofoo\.top|caohot\.club|caopee\.com|caoporn\.club|caoporn\.com|caoporn\.wales|caosee\.club|caouoo\.com|gaohot\.pro|h3e\.pw|h3y\.pw|k88\.club|me88\.pw|p5p\.space|qq88\.space|se88\.space|t2p\.space|tb001\.xyz|te88\.pw|vgao\.xyz|vlang\.xyz|vwan\.xyz|wan1024\.com|wan41\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R18
 s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|btshoufa\.net|chakd\.com|qqlubo\.net|zhainanfulishe\.net)):.*@adfilter-block-request@Ti

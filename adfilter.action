@@ -39,6 +39,7 @@ TAG:^adfilter-block-dnt$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.represented.cn
 .rbywg.com
 .qzdag.com
 .qlonglong.com
@@ -145,7 +146,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.represented.cn
+.haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7780,6 +7781,7 @@ TAG:^adfilter-block-elem$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.represented.cn
 .rbywg.com
 .qzdag.com
 .qlonglong.com
@@ -7886,7 +7888,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.represented.cn
+.haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15522,6 +15524,7 @@ TAG:^adfilter-block-request$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.represented.cn
 .rbywg.com
 .qzdag.com
 .qlonglong.com
@@ -15626,7 +15629,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.represented.cn
+.haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
