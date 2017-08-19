@@ -23,6 +23,7 @@ TAG:^adfilter-block-dnt$
 .yisloda.com
 .xztms.com
 .xmcxz.com
+.xcbmwx.com
 .xacqp.com
 .weboser.com
 .vichc.com
@@ -144,7 +145,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xcbmwx.com
+.represented.cn
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -168,6 +169,7 @@ TAG:^adfilter-block-dnt$
 .yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
+.ym.2liang.com
 .ykxwn.com
 .yin1.zgpingshu.com
 .yihubaiying.com
@@ -285,6 +287,7 @@ TAG:^adfilter-block-dnt$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
+.jiaoben.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -349,6 +352,7 @@ TAG:^adfilter-block-dnt$
 .dm.sb580.com
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ruiwen.com
 .dm.riji.cn
 .dm.pw0.cn
 .dm.ppzuowen.com
@@ -385,6 +389,7 @@ TAG:^adfilter-block-dnt$
 .cdyx-pcjy.com
 .cdeme.com
 .cc.yac8.com
+.cby521.cn
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -471,6 +476,7 @@ TAG:^adfilter-block-dnt$
 .9wushuo.com
 .999d.com
 .9669.cn
+.94ab.com
 .90370.com
 .888.izhufu.net
 .7car.com.cn
@@ -533,13 +539,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.94ab.com
-.jiaoben.eastday.com
-.ym.2liang.com
-.cby521.cn
-.dm.ruiwen.com
-.12999.com/JS/
-.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2578,7 +2577,6 @@ cpro.*.
 .ickd.cn/act/
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
-.44hd.cc/js/
 .ibook8.com/xia.*\.js
 .ibook8.com/js/b.*\.js
 .ibook8.com*./(.*/)?piao.*\.js
@@ -3666,6 +3664,7 @@ cpro.*.
 .bilibili.com/x/web-show/res/loc\?pf=0&id=128
 .bilibili.com/x/web-show/res/loc\?.*&aid=
 .biketo.com/d/file/p/
+.bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
@@ -4334,6 +4333,7 @@ cpro.*.
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
+.44hd.cc/js/
 .4399.com/loadimg/loading\.htm
 .4399.com/loadimg/iframe_
 .4399.com/expire1day/
@@ -4598,6 +4598,7 @@ cpro.*.
 .131.com/home/resouces/js/
 .131.com/common/alertwindow\.html
 .12img.com/ad/
+.12999.com/JS/
 .127.net/m/.*/promPic\.jpg
 .127.net/external/js6promote
 .126xiazai.com/static/rili-
@@ -5673,6 +5674,7 @@ tanchuan.htm*.
 .housefun.com.tw
 .houdaolj.com
 .hnyny.com
+.hntymg.com
 .hnctsm.com
 .hnasd.com
 .hn163fck.com
@@ -6527,7 +6529,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.hntymg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6597,6 +6598,7 @@ UyvHEGg1Hezr0yhlI.*.
 /(.*/)?tigtag_custom/include/popup\.
 /(.*/)?tigtag_custom/include/couplet\.
 /(.*/)?tigtag_custom/.*_banner
+/(.*/)?templates/.*/js/_banner\.js
 /(.*/)?template/paody/aaaa/all-top\.js
 /(.*/)?template/html5/ads/.*
 /(.*/)?template/gg\.js
@@ -6923,7 +6925,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7763,6 +7764,7 @@ TAG:^adfilter-block-elem$
 .yisloda.com
 .xztms.com
 .xmcxz.com
+.xcbmwx.com
 .xacqp.com
 .weboser.com
 .vichc.com
@@ -7884,7 +7886,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xcbmwx.com
+.represented.cn
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -7908,6 +7910,7 @@ TAG:^adfilter-block-elem$
 .yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
+.ym.2liang.com
 .ykxwn.com
 .yin1.zgpingshu.com
 .yihubaiying.com
@@ -8025,6 +8028,7 @@ TAG:^adfilter-block-elem$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
+.jiaoben.eastday.com
 .jeepyy.com
 .jddaw.com
 .jc1.dayfund.cn
@@ -8089,6 +8093,7 @@ TAG:^adfilter-block-elem$
 .dm.sb580.com
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ruiwen.com
 .dm.riji.cn
 .dm.pw0.cn
 .dm.ppzuowen.com
@@ -8125,6 +8130,7 @@ TAG:^adfilter-block-elem$
 .cdyx-pcjy.com
 .cdeme.com
 .cc.yac8.com
+.cby521.cn
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -8211,6 +8217,7 @@ TAG:^adfilter-block-elem$
 .9wushuo.com
 .999d.com
 .9669.cn
+.94ab.com
 .90370.com
 .888.izhufu.net
 .7car.com.cn
@@ -8273,13 +8280,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.94ab.com
-.jiaoben.eastday.com
-.ym.2liang.com
-.cby521.cn
-.dm.ruiwen.com
-.12999.com/JS/
-.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10318,7 +10318,6 @@ cpro.*.
 .ickd.cn/act/
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
-.44hd.cc/js/
 .ibook8.com/xia.*\.js
 .ibook8.com/js/b.*\.js
 .ibook8.com*./(.*/)?piao.*\.js
@@ -11406,6 +11405,7 @@ cpro.*.
 .bilibili.com/x/web-show/res/loc\?pf=0&id=128
 .bilibili.com/x/web-show/res/loc\?.*&aid=
 .biketo.com/d/file/p/
+.bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
@@ -12074,6 +12074,7 @@ cpro.*.
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
+.44hd.cc/js/
 .4399.com/loadimg/loading\.htm
 .4399.com/loadimg/iframe_
 .4399.com/expire1day/
@@ -12338,6 +12339,7 @@ cpro.*.
 .131.com/home/resouces/js/
 .131.com/common/alertwindow\.html
 .12img.com/ad/
+.12999.com/JS/
 .127.net/m/.*/promPic\.jpg
 .127.net/external/js6promote
 .126xiazai.com/static/rili-
@@ -13413,6 +13415,7 @@ tanchuan.htm*.
 .housefun.com.tw
 .houdaolj.com
 .hnyny.com
+.hntymg.com
 .hnctsm.com
 .hnasd.com
 .hn163fck.com
@@ -14267,7 +14270,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.hntymg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14337,6 +14339,7 @@ UyvHEGg1Hezr0yhlI.*.
 /(.*/)?tigtag_custom/include/popup\.
 /(.*/)?tigtag_custom/include/couplet\.
 /(.*/)?tigtag_custom/.*_banner
+/(.*/)?templates/.*/js/_banner\.js
 /(.*/)?template/paody/aaaa/all-top\.js
 /(.*/)?template/html5/ads/.*
 /(.*/)?template/gg\.js
@@ -14663,7 +14666,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15504,6 +15506,7 @@ TAG:^adfilter-block-request$
 .yisloda.com
 .xztms.com
 .xmcxz.com
+.xcbmwx.com
 .xacqp.com
 .weboser.com
 .vichc.com
@@ -15623,7 +15626,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xcbmwx.com
+.represented.cn
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
 .caoimgs.com/images/.*\.gif
@@ -15641,6 +15644,7 @@ TAG:^adfilter-block-request$
 .yun1.yahoo001.com
 .yulzs.com
 .ypmeiwen.com
+.ym.2liang.com
 .ykxwn.com
 .yin1.zgpingshu.com
 .yhzm.cc
@@ -15725,6 +15729,7 @@ TAG:^adfilter-block-request$
 .jiaoben.junmeng.com
 .jiaoben.jucanw.com
 .jiaoben.ganji.cn
+.jiaoben.eastday.com
 .jddaw.com
 .jc1.dayfund.cn
 .jb.tupianzj.com
@@ -15775,6 +15780,7 @@ TAG:^adfilter-block-request$
 .dm.sb580.com
 .dm.sanwen8.com
 .dm.sanwen.net
+.dm.ruiwen.com
 .dm.riji.cn
 .dm.pw0.cn
 .dm.ppzuowen.com
@@ -15807,6 +15813,7 @@ TAG:^adfilter-block-request$
 .chinacsky.com
 .chicken18.com
 .cc.yac8.com
+.cby521.cn
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -15937,12 +15944,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.jiaoben.eastday.com
-.ym.2liang.com
-.cby521.cn
-.dm.ruiwen.com
-.12999.com/JS/
-.bianzhirensheng.com/img/banner\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17902,7 +17903,6 @@ a.kj-cy.cn
 .ickd.cn/act/
 .iciba.com/www/img/activity/common/active-11-11\.js
 .iciba.com/web/co/ci/
-.44hd.cc/js/
 .ibook8.com/xia.*\.js
 .ibook8.com/js/b.*\.js
 .ibook8.com*./(.*/)?piao.*\.js
@@ -18944,6 +18944,7 @@ a.kj-cy.cn
 .bilibili.com/x/web-show/res/loc\?pf=0&id=128
 .bilibili.com/x/web-show/res/loc\?.*&aid=
 .biketo.com/d/file/p/
+.bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
@@ -19584,6 +19585,7 @@ a.kj-cy.cn
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
+.44hd.cc/js/
 .4399.com/loadimg/loading\.htm
 .4399.com/loadimg/iframe_
 .4399.com/expire1day/
@@ -19839,6 +19841,7 @@ a.kj-cy.cn
 .131.com/home/resouces/js/
 .131.com/common/alertwindow\.html
 .12img.com/ad/
+.12999.com/JS/
 .127.net/m/.*/promPic\.jpg
 .127.net/external/js6promote
 .126xiazai.com/static/rili-
@@ -20615,6 +20618,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hr41.cn
 .houdaolj.com
 .hnyny.com
+.hntymg.com
 .hnctsm.com
 .hnasd.com
 .hmp33.com
@@ -21102,7 +21106,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.hntymg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21171,6 +21174,7 @@ UyvHEGg1Hezr0yhlI.*.
 /(.*/)?tigtag_custom/include/popup\.
 /(.*/)?tigtag_custom/include/couplet\.
 /(.*/)?tigtag_custom/.*_banner
+/(.*/)?templates/.*/js/_banner\.js
 /(.*/)?template/paody/aaaa/all-top\.js
 /(.*/)?template/html5/ads/.*
 /(.*/)?template/gg\.js
@@ -21488,7 +21492,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?templates/.*/js/_banner\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21966,6 +21969,7 @@ gg.*.
 .aa808.com
 .999d.com
 .9669.cn
+.94ab.com
 .90370.com
 .51yhzp.com
 .4name.com
@@ -21975,7 +21979,6 @@ gg.*.
 .200218.com
 .1buymo.cn
 .100669.com
-.94ab.com
 .xxx169.org
 .piclect.com/.*\.gif
 .kokojia.com
