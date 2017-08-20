@@ -537,6 +537,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.a1.qqjay.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8231,6 +8232,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.a1.qqjay.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -15852,6 +15854,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.a1.qqjay.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
