@@ -1210,7 +1210,7 @@ cpro.*.
 .supfree.net/images/otop\.js
 .super.kdnet.net
 .super.cat898.com
-.sunrtb.cn/s\?m=
+.sunrtb.*./(.*/)?s\?m=
 .suimeng.la/modules/article/scripts/pagehead\.js
 .sufile.com/jsa/
 .sudupan.com/.*\.gif
@@ -8914,7 +8914,7 @@ cpro.*.
 .supfree.net/images/otop\.js
 .super.kdnet.net
 .super.cat898.com
-.sunrtb.cn/s\?m=
+.sunrtb.*./(.*/)?s\?m=
 .suimeng.la/modules/article/scripts/pagehead\.js
 .sufile.com/jsa/
 .sudupan.com/.*\.gif
@@ -16522,7 +16522,7 @@ a.kj-cy.cn
 .supfree.net/images/otop\.js
 .super.kdnet.net
 .super.cat898.com
-.sunrtb.cn/s\?m=
+.sunrtb.*./(.*/)?s\?m=
 .suimeng.la/modules/article/scripts/pagehead\.js
 .sufile.com/jsa/
 .sudupan.com/.*\.gif
