@@ -542,6 +542,7 @@ TAG:^adfilter-block-dnt$
 a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
+.newscname1.e23.cn
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -7279,7 +7280,6 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-dnt-R84} \
 }
-.8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
@@ -7535,9 +7535,6 @@ ipower.htm*.
 {+client-header-tagger{adfilter-block-dnt-R142} \
 }
 .zsg.kimi.com.tw
-.bahamut.com.tw/s01/
-.bahamut.com.tw/M/2KU/
-.bahamut.com.tw/B/2KU/
 /.*\.html$
 .*.html
 
@@ -8246,6 +8243,7 @@ TAG:^adfilter-block-elem$
 a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
+.newscname1.e23.cn
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -14983,7 +14981,6 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-elem-R84} \
 }
-.8kele.com
 /(.*/)?web/ad/.*
 /(.*/)?gamer/.*
 /(.*/)?baha/.*
@@ -15239,9 +15236,6 @@ ipower.htm*.
 {+client-header-tagger{adfilter-block-elem-R142} \
 }
 .zsg.kimi.com.tw
-.bahamut.com.tw/s01/
-.bahamut.com.tw/M/2KU/
-.bahamut.com.tw/B/2KU/
 /.*\.html$
 .*.html
 
@@ -15877,6 +15871,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
+.newscname1.e23.cn
 .497.com/pc/js/global_latest\.js
 .497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
@@ -22761,7 +22756,6 @@ jquery.*.
 
 {+client-header-tagger{adfilter-block-request-R84} \
 }
-.8kele.com
 /(.*/)?web/ad/.*
 
 {+client-header-tagger{adfilter-block-request-R85} \
@@ -22985,9 +22979,6 @@ ipower.htm*.
 {+client-header-tagger{adfilter-block-request-R142} \
 }
 .zsg.kimi.com.tw
-.bahamut.com.tw/s01/
-.bahamut.com.tw/M/2KU/
-.bahamut.com.tw/B/2KU/
 /.*\.html$
 .*.html
 
