@@ -147,6 +147,8 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.travlcen.com
+.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -545,6 +547,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
 .tengtv.com/skin/xin/Picture/800-70\.gif
 .fh21.com.cn/partners/
@@ -7847,6 +7851,8 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.travlcen.com
+.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8245,6 +8251,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
 .tengtv.com/skin/xin/Picture/800-70\.gif
 .fh21.com.cn/partners/
@@ -15546,6 +15554,8 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.travlcen.com
+.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15867,6 +15877,8 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
 .tengtv.com/skin/xin/Picture/800-70\.gif
 .fh21.com.cn/partners/
