@@ -543,11 +543,13 @@ a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
 .newscname1.e23.cn
+.union1.cnbetacdn.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .497.com/pc/js/global_latest\.js
 .497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
@@ -8244,11 +8246,13 @@ a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
 .newscname1.e23.cn
+.union1.cnbetacdn.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .497.com/pc/js/global_latest\.js
 .497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
@@ -15872,6 +15876,8 @@ a.kj-cy.cn
 /.*&uc=
 .1.sj33.net
 .newscname1.e23.cn
+.union1.cnbetacdn.com
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .497.com/pc/js/global_latest\.js
 .497.com/pc/js/g_top_ban\.js
 .tengtv.com/skin/xin/Picture/img
