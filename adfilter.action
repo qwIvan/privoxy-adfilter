@@ -22,6 +22,7 @@ TAG:^adfilter-block-dnt$
 .yunanfuwuqi.com
 .yisloda.com
 .xztms.com
+.xujx8.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -31,6 +32,7 @@ TAG:^adfilter-block-dnt$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.travlcen.com
 .tajxgs.com
 .sytsr.com
 .sycbbs.com
@@ -147,8 +149,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.travlcen.com
-.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -202,6 +202,7 @@ TAG:^adfilter-block-dnt$
 .vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.union1.cnbetacdn.com
 .undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
@@ -245,6 +246,7 @@ TAG:^adfilter-block-dnt$
 .one.520319.cn
 .okkkk.com
 .nyhpyq.com
+.newscname1.e23.cn
 .namedq.com
 .mzcsdf.com
 .mxpwx.com
@@ -523,6 +525,7 @@ TAG:^adfilter-block-dnt$
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
+.1.sj33.net
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
@@ -541,20 +544,11 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.1.sj33.net
-.newscname1.e23.cn
-.union1.cnbetacdn.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
-.497.com/pc/js/global_latest\.js
-.497.com/pc/js/g_top_ban\.js
-.tengtv.com/skin/xin/Picture/img
-.tengtv.com/skin/xin/Picture/800-70\.gif
-.fh21.com.cn/partners/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1177,6 +1171,8 @@ cpro.*.
 .tf.360.cn
 .texnet.com.cn/images/cnbanner/
 .tesetu.com/m/.*\.php
+.tengtv.com/skin/xin/Picture/img
+.tengtv.com/skin/xin/Picture/800-70\.gif
 .techweb.com.cn/.*aliyun
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
@@ -3030,6 +3026,7 @@ cpro.*.
 .file.ws.126.net/house/.*/js/tc_
 .file.cloud.sogou.com/.*/superzone/
 .fharr.com/assets/plugins/BlockAdBlock/
+.fh21.com.cn/partners/
 .fff.yuyouge.com
 .fenglan.oss-cn-shenzhen.aliyuncs.com/.*\.gif
 .feesoon.com/js/cnzz_
@@ -3407,6 +3404,7 @@ cpro.*.
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
 .cnbeta.com/js/pages/inteladv\.js
@@ -4324,6 +4322,8 @@ cpro.*.
 .4kong.com/xk\.jpg
 .4hw.com.cn/4hw
 .4hu8.com/js/jquery\.js
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
@@ -7725,6 +7725,7 @@ TAG:^adfilter-block-elem$
 .yunanfuwuqi.com
 .yisloda.com
 .xztms.com
+.xujx8.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -7734,6 +7735,7 @@ TAG:^adfilter-block-elem$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.travlcen.com
 .tajxgs.com
 .sytsr.com
 .sycbbs.com
@@ -7850,8 +7852,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.travlcen.com
-.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -7905,6 +7905,7 @@ TAG:^adfilter-block-elem$
 .vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.union1.cnbetacdn.com
 .undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
@@ -7948,6 +7949,7 @@ TAG:^adfilter-block-elem$
 .one.520319.cn
 .okkkk.com
 .nyhpyq.com
+.newscname1.e23.cn
 .namedq.com
 .mzcsdf.com
 .mxpwx.com
@@ -8226,6 +8228,7 @@ TAG:^adfilter-block-elem$
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
+.1.sj33.net
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
@@ -8244,20 +8247,11 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.1.sj33.net
-.newscname1.e23.cn
-.union1.cnbetacdn.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
-.497.com/pc/js/global_latest\.js
-.497.com/pc/js/g_top_ban\.js
-.tengtv.com/skin/xin/Picture/img
-.tengtv.com/skin/xin/Picture/800-70\.gif
-.fh21.com.cn/partners/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8880,6 +8874,8 @@ cpro.*.
 .tf.360.cn
 .texnet.com.cn/images/cnbanner/
 .tesetu.com/m/.*\.php
+.tengtv.com/skin/xin/Picture/img
+.tengtv.com/skin/xin/Picture/800-70\.gif
 .techweb.com.cn/.*aliyun
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
@@ -10733,6 +10729,7 @@ cpro.*.
 .file.ws.126.net/house/.*/js/tc_
 .file.cloud.sogou.com/.*/superzone/
 .fharr.com/assets/plugins/BlockAdBlock/
+.fh21.com.cn/partners/
 .fff.yuyouge.com
 .fenglan.oss-cn-shenzhen.aliyuncs.com/.*\.gif
 .feesoon.com/js/cnzz_
@@ -11110,6 +11107,7 @@ cpro.*.
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
 .cnbeta.com/js/pages/inteladv\.js
@@ -12027,6 +12025,8 @@ cpro.*.
 .4kong.com/xk\.jpg
 .4hw.com.cn/4hw
 .4hu8.com/js/jquery\.js
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
@@ -15429,6 +15429,7 @@ TAG:^adfilter-block-request$
 .yunanfuwuqi.com
 .yisloda.com
 .xztms.com
+.xujx8.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -15438,6 +15439,7 @@ TAG:^adfilter-block-request$
 .umyai.com
 .tuadong.com
 .tsrc8.com
+.travlcen.com
 .tajxgs.com
 .sytsr.com
 .sycbbs.com
@@ -15552,8 +15554,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.travlcen.com
-.xujx8.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15594,6 +15594,7 @@ TAG:^adfilter-block-request$
 .vi1.ku6img.net
 .vad1.jianshen8.com
 .uniondm.cz88.net
+.union1.cnbetacdn.com
 .undm.qibulo.com
 .un1.takefoto.cn
 .uc2.atobo.com.cn
@@ -15627,6 +15628,7 @@ TAG:^adfilter-block-request$
 .p1.18zhongyao.com
 .one.520319.cn
 .okkkk.com
+.newscname1.e23.cn
 .namedq.com
 .mpb1.iteye.com
 .mo-tuo.com
@@ -15856,6 +15858,7 @@ TAG:^adfilter-block-request$
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
+.1.sj33.net
 .1.rengshu.com
 .1.panduoduo.net
 .1.mgff.com
@@ -15874,15 +15877,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.1.sj33.net
-.newscname1.e23.cn
-.union1.cnbetacdn.com
-.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
-.497.com/pc/js/global_latest\.js
-.497.com/pc/js/g_top_ban\.js
-.tengtv.com/skin/xin/Picture/img
-.tengtv.com/skin/xin/Picture/800-70\.gif
-.fh21.com.cn/partners/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16488,6 +16482,8 @@ a.kj-cy.cn
 .tf.360.cn
 .texnet.com.cn/images/cnbanner/
 .tesetu.com/m/.*\.php
+.tengtv.com/skin/xin/Picture/img
+.tengtv.com/skin/xin/Picture/800-70\.gif
 .techweb.com.cn/.*aliyun
 .techug.com/pad-linux\.jpg
 .techug.com/mug/
@@ -18267,6 +18263,7 @@ a.kj-cy.cn
 .file.ws.126.net/house/.*/js/tc_
 .file.cloud.sogou.com/.*/superzone/
 .fharr.com/assets/plugins/BlockAdBlock/
+.fh21.com.cn/partners/
 .fff.yuyouge.com
 .fenglan.oss-cn-shenzhen.aliyuncs.com/.*\.gif
 .feesoon.com/js/cnzz_
@@ -18621,6 +18618,7 @@ a.kj-cy.cn
 .cnbetacdn.com/frontend/250x200\.png
 .cnbetacdn.com/frontend/201707/be63731d1650680_285x360\.jpg
 .cnbetacdn.com/banner
+.cnbetacdn.com/article/2017/0820/8f2e0217733f842\.jpg
 .cnbetacdn.com/320x50\.
 .cnbetacdn.com/320-50\.
 .cnbeta.com/js/pages/inteladv\.js
@@ -19513,6 +19511,8 @@ a.kj-cy.cn
 .4kong.com/xk\.jpg
 .4hw.com.cn/4hw
 .4hu8.com/js/jquery\.js
+.497.com/pc/js/global_latest\.js
+.497.com/pc/js/g_top_ban\.js
 .46g.cn/images/top\.gif
 .464mnk.com/templets/new/static/js/common\.js
 .44pd.com/.*xds/
