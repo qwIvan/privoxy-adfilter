@@ -452,6 +452,7 @@ TAG:^adfilter-block-dnt$
 .a4.b2b168.com
 .a1.yuuedu.com
 .a1.vdolady.com
+.a1.qqjay.com
 .a1.liuxue86.com
 .a1.huanqiumil.com
 .a1.gexing.me
@@ -492,6 +493,7 @@ TAG:^adfilter-block-dnt$
 .52lubo.cn
 .51yhzp.com
 .51gxqm.com
+.51dengshan.cn
 .4name.com
 .360640.com
 .301848.com
@@ -537,15 +539,11 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.51dengshan.cn
-.a1.qqjay.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bf99.com/User/Images/bg_Blued\.jpg
-.bf99.com/User.*/Ad_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2141,11 +2139,11 @@ cpro.*.
 .lawtv.com.cn/skin/newplayer/ads_dianshi\.php
 .lawtv.com.cn/jd_ceshi\.html
 .law-lib.com/2009_ad/
-.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/sidebar
 .laozuo.org/wp-content/themes/weisaysimple/js/index-top\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
+.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/linode125\.jpg
 .laod.cn/wp-content/uploads/.*/ad-
 .lanseshuba.com/react\.js
@@ -3678,6 +3676,8 @@ cpro.*.
 .bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
+.bf99.com/User/Images/bg_Blued\.jpg
+.bf99.com/User.*/Ad_
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
 .bestvogue.com/fans/
 .besc.baidustatic.com
@@ -8150,6 +8150,7 @@ TAG:^adfilter-block-elem$
 .a4.b2b168.com
 .a1.yuuedu.com
 .a1.vdolady.com
+.a1.qqjay.com
 .a1.liuxue86.com
 .a1.huanqiumil.com
 .a1.gexing.me
@@ -8190,6 +8191,7 @@ TAG:^adfilter-block-elem$
 .52lubo.cn
 .51yhzp.com
 .51gxqm.com
+.51dengshan.cn
 .4name.com
 .360640.com
 .301848.com
@@ -8235,15 +8237,11 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.51dengshan.cn
-.a1.qqjay.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.bf99.com/User/Images/bg_Blued\.jpg
-.bf99.com/User.*/Ad_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9839,11 +9837,11 @@ cpro.*.
 .lawtv.com.cn/skin/newplayer/ads_dianshi\.php
 .lawtv.com.cn/jd_ceshi\.html
 .law-lib.com/2009_ad/
-.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/sidebar
 .laozuo.org/wp-content/themes/weisaysimple/js/index-top\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
+.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/linode125\.jpg
 .laod.cn/wp-content/uploads/.*/ad-
 .lanseshuba.com/react\.js
@@ -11376,6 +11374,8 @@ cpro.*.
 .bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
+.bf99.com/User/Images/bg_Blued\.jpg
+.bf99.com/User.*/Ad_
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
 .bestvogue.com/fans/
 .besc.baidustatic.com
@@ -15787,6 +15787,7 @@ TAG:^adfilter-block-request$
 .a4.b2b168.com
 .a1.yuuedu.com
 .a1.vdolady.com
+.a1.qqjay.com
 .a1.liuxue86.com
 .a1.huanqiumil.com
 .a1.gexing.me
@@ -15822,6 +15823,7 @@ TAG:^adfilter-block-request$
 .55lu.com
 .52lubo.cn
 .51gxqm.com
+.51dengshan.cn
 .360640.com
 .3.ssqzj.com
 .3.guidaye.com
@@ -15860,10 +15862,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.51dengshan.cn
-.a1.qqjay.com
-.bf99.com/User/Images/bg_Blued\.jpg
-.bf99.com/User.*/Ad_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17401,11 +17399,11 @@ a.kj-cy.cn
 .lawtv.com.cn/skin/newplayer/ads_dianshi\.php
 .lawtv.com.cn/jd_ceshi\.html
 .law-lib.com/2009_ad/
-.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/sidebar
 .laozuo.org/wp-content/themes/weisaysimple/js/index-top\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/content40width\.js
 .laozuo.org/wp-content/themes/weisaysimple/js/banner\.js
+.laozuo.org/wp-content/themes/weisaysimple/js/.*-bottom\.js
 .laozuo.org/linode125\.jpg
 .laod.cn/wp-content/uploads/.*/ad-
 .lanseshuba.com/react\.js
@@ -18874,6 +18872,8 @@ a.kj-cy.cn
 .bianzhirensheng.com/img/banner\.jpg
 .bian-min.com/javascript/a/detail\.js
 .bfpgf.com/wp-content/uploads/2015/08/360dxs\.jpg
+.bf99.com/User/Images/bg_Blued\.jpg
+.bf99.com/User.*/Ad_
 .beva.cn/erge/images/paster\.swf\?.*&ad_data_url=
 .bestvogue.com/fans/
 .besc.baidustatic.com
