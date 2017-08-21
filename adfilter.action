@@ -539,6 +539,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.sj33.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8238,6 +8239,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.sj33.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -15864,6 +15866,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.sj33.net
 .tengtv.com/skin/xin/Picture/img
 .tengtv.com/skin/xin/Picture/800-70\.gif
 .fh21.com.cn/partners/
