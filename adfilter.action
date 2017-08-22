@@ -545,6 +545,7 @@ TAG:^adfilter-block-dnt$
 a.kj-cy.cn
 /.*&uc=
 .gg1.jc001.cn
+.a.yuzhainan.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8249,6 +8250,7 @@ TAG:^adfilter-block-elem$
 a.kj-cy.cn
 /.*&uc=
 .gg1.jc001.cn
+.a.yuzhainan.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -15880,6 +15882,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .gg1.jc001.cn
+.a.yuzhainan.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
