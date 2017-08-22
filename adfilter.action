@@ -23782,6 +23782,7 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .techroomage.com
+.quanzhi.cn/v3/images/index_ad/
 
 {+client-header-tagger{adfilter-unblock-dnt-R202} \
 }
@@ -24774,6 +24775,7 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .techroomage.com
+.quanzhi.cn/v3/images/index_ad/
 
 {+client-header-tagger{adfilter-unblock-elem-R202} \
 }
@@ -25746,6 +25748,7 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 .techroomage.com
+.quanzhi.cn/v3/images/index_ad/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
