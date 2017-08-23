@@ -548,6 +548,7 @@ TAG:^adfilter-block-dnt$
 a.kj-cy.cn
 /.*&uc=
 .1.qt86.com
+.h1.tvhome.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8265,6 +8266,7 @@ TAG:^adfilter-block-elem$
 a.kj-cy.cn
 /.*&uc=
 .1.qt86.com
+.h1.tvhome.com
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -15909,6 +15911,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .1.qt86.com
+.h1.tvhome.com
 .nphoto.net/media/camfi/camfi_
 .rxdsj.com/Runtime/js/vod960\.js
 .188bifen.com/customer_wordlink\.js
