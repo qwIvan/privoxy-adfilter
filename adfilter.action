@@ -91,6 +91,7 @@ TAG:^adfilter-block-dnt$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.cqgya.com
 .comesgo.com
 .cnzhqs.com
 .cindy17club.com
@@ -99,6 +100,7 @@ TAG:^adfilter-block-dnt$
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
+.bueson.com
 .book9.net
 .axkxy.com
 .awyys.com
@@ -150,8 +152,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cqgya.com
-.bueson.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -1589,6 +1589,7 @@ cpro.*.
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
+.qn.bejson.com
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
 .qiyue.com/statics/js/3g\.js
@@ -3706,7 +3707,6 @@ cpro.*.
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/static/imgs/
-.qn.bejson.com
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -7812,6 +7812,7 @@ TAG:^adfilter-block-elem$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.cqgya.com
 .comesgo.com
 .cnzhqs.com
 .cindy17club.com
@@ -7820,6 +7821,7 @@ TAG:^adfilter-block-elem$
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
+.bueson.com
 .book9.net
 .axkxy.com
 .awyys.com
@@ -7871,8 +7873,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cqgya.com
-.bueson.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -9310,6 +9310,7 @@ cpro.*.
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
+.qn.bejson.com
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
 .qiyue.com/statics/js/3g\.js
@@ -11427,7 +11428,6 @@ cpro.*.
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/static/imgs/
-.qn.bejson.com
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -15534,6 +15534,7 @@ TAG:^adfilter-block-request$
 .ddanq.com
 .dbwmjj.com
 .cyylove.com
+.cqgya.com
 .comesgo.com
 .cnzhqs.com
 .cindy17club.com
@@ -15542,6 +15543,7 @@ TAG:^adfilter-block-request$
 .cdqjmc.com
 .cdgxq.com
 .ccmdgg.com
+.bueson.com
 .axkxy.com
 .awyys.com
 .aikan6.com
@@ -15591,8 +15593,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.cqgya.com
-.bueson.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16917,6 +16917,7 @@ a.kj-cy.cn
 .qpic.cn/mblogpic/47a05e3dca9d6bc9e20e/2000
 .qnsb.com/news/index\.php\?m=poster&
 .qncye.com/templets/default/js/mb\.js
+.qn.bejson.com
 .qk101.com/life/
 .qiyun.org/images/js/.*\.htm
 .qiyue.com/statics/js/3g\.js
@@ -18948,7 +18949,6 @@ a.kj-cy.cn
 .bendibao.com/mo/adm_iframe\.htm\?
 .bendibao.com*./(.*/)?tuangou\.gif
 .bejson.com/static/imgs/
-.qn.bejson.com
 .beiwo.tv/Runtime/js/list01\.js
 .beijing-air.com/images/a/j
 .bego.cc/img/
@@ -23428,6 +23428,7 @@ TAG:^adfilter-unblock-dnt$
 .tajs.qq.com/stats\?
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
 .pingjs.qq.com
+.panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
@@ -23451,7 +23452,6 @@ TAG:^adfilter-unblock-dnt$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.panda.tv/ajax_login\?.*&refer=http
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -24431,6 +24431,7 @@ TAG:^adfilter-unblock-elem$
 .tajs.qq.com/stats\?
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
 .pingjs.qq.com
+.panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
@@ -24454,7 +24455,6 @@ TAG:^adfilter-unblock-elem$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.panda.tv/ajax_login\?.*&refer=http
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
@@ -25423,6 +25423,7 @@ TAG:^adfilter-unblock-request$
 .tmall.com/add\?
 .tbcdn.cn/.*/click_track\.js
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
+.panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
@@ -25446,7 +25447,6 @@ TAG:^adfilter-unblock-request$
 .7m.cn/v2/js/analyse\.js
 .126.net/images/blank\.gif
 .120.132.57.41/pjk/pag/
-.panda.tv/ajax_login\?.*&refer=http
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
