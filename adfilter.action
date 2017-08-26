@@ -23,6 +23,7 @@ TAG:^adfilter-block-dnt$
 .yisloda.com
 .xztms.com
 .xujx8.com
+.xnjzsn.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -152,7 +153,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xnjzsn.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -558,10 +558,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.dnvod.tv/g/
-.ikankanwu.com/xuxu/
-.3344xu.com/js/
-.eduuu.com/website/public_js/pc_aso\.js
+.gougou2018.com/js/item
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2536,6 +2533,7 @@ cpro.*.
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
+.ikankanwu.com/xuxu/
 .ikaka.com/globalad/
 .ik123.com/js/dd\.js
 .ijia360.com/data/poster/
@@ -3122,6 +3120,7 @@ cpro.*.
 .eeyy.cc/style/yxj\.js
 .eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
+.eduuu.com/website/public_js/pc_aso\.js
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
 .edu24ol.com/web_news/js/1100\.jpg
@@ -3244,6 +3243,7 @@ cpro.*.
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
 .dnvod.tv/upload/mycontent/
+.dnvod.tv/g/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -4429,6 +4429,7 @@ cpro.*.
 .3399.com/Common/OnlineServer\.html
 .3399.com/act/fk/
 .3399.com/act/5599/js/kuang
+.3344xu.com/js/
 .33.autoimg.cn/t/Adhtmlnet/.*\.swf
 .33.autoimg.cn/t/Adhtmlnet/.*\.jpg
 .33.autoimg.cn/homeurl/.*\.js
@@ -5865,6 +5866,7 @@ tanchuan.htm*.
 .duyihu.net
 .duusuu.com
 .dushimj.com
+.duoqumanhua.com
 .duomai.com
 .duiwai.baidu.com
 .dugbvb.com
@@ -6543,7 +6545,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.duoqumanhua.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7750,6 +7751,7 @@ TAG:^adfilter-block-elem$
 .yisloda.com
 .xztms.com
 .xujx8.com
+.xnjzsn.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -7879,7 +7881,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xnjzsn.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8285,10 +8286,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.dnvod.tv/g/
-.ikankanwu.com/xuxu/
-.3344xu.com/js/
-.eduuu.com/website/public_js/pc_aso\.js
+.gougou2018.com/js/item
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10263,6 +10261,7 @@ cpro.*.
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
+.ikankanwu.com/xuxu/
 .ikaka.com/globalad/
 .ik123.com/js/dd\.js
 .ijia360.com/data/poster/
@@ -10849,6 +10848,7 @@ cpro.*.
 .eeyy.cc/style/yxj\.js
 .eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
+.eduuu.com/website/public_js/pc_aso\.js
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
 .edu24ol.com/web_news/js/1100\.jpg
@@ -10971,6 +10971,7 @@ cpro.*.
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
 .dnvod.tv/upload/mycontent/
+.dnvod.tv/g/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -12156,6 +12157,7 @@ cpro.*.
 .3399.com/Common/OnlineServer\.html
 .3399.com/act/fk/
 .3399.com/act/5599/js/kuang
+.3344xu.com/js/
 .33.autoimg.cn/t/Adhtmlnet/.*\.swf
 .33.autoimg.cn/t/Adhtmlnet/.*\.jpg
 .33.autoimg.cn/homeurl/.*\.js
@@ -13592,6 +13594,7 @@ tanchuan.htm*.
 .duyihu.net
 .duusuu.com
 .dushimj.com
+.duoqumanhua.com
 .duomai.com
 .duiwai.baidu.com
 .dugbvb.com
@@ -14270,7 +14273,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.duoqumanhua.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15478,6 +15480,7 @@ TAG:^adfilter-block-request$
 .yisloda.com
 .xztms.com
 .xujx8.com
+.xnjzsn.com
 .xmcxz.com
 .xcbmwx.com
 .xacqp.com
@@ -15605,7 +15608,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.xnjzsn.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15934,10 +15936,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.dnvod.tv/g/
-.ikankanwu.com/xuxu/
-.3344xu.com/js/
-.eduuu.com/website/public_js/pc_aso\.js
+.gougou2018.com/js/item
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17836,6 +17835,7 @@ a.kj-cy.cn
 .image-shop.baidu.com/n/imageproduct\?
 .im286.net/286/
 .im1g.6park.com/img/
+.ikankanwu.com/xuxu/
 .ikaka.com/globalad/
 .ik123.com/js/dd\.js
 .ijia360.com/data/poster/
@@ -18403,6 +18403,7 @@ a.kj-cy.cn
 .eeyy.cc/style/yxj\.js
 .eepw.com.cn/pub/js/TopFullScreen\.js
 .eeee42.com/Ads/
+.eduuu.com/website/public_js/pc_aso\.js
 .eduuu.com/gaokao/2015/bannerDaili\.js
 .educity.cn/self_text/text_disp\.aspx\?id=
 .edu24ol.com/web_news/js/1100\.jpg
@@ -18516,6 +18517,7 @@ a.kj-cy.cn
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
 .dnvod.tv/upload/mycontent/
+.dnvod.tv/g/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
@@ -19665,6 +19667,7 @@ a.kj-cy.cn
 .3399.com/Common/OnlineServer\.html
 .3399.com/act/fk/
 .3399.com/act/5599/js/kuang
+.3344xu.com/js/
 .33.autoimg.cn/t/Adhtmlnet/.*\.swf
 .33.autoimg.cn/t/Adhtmlnet/.*\.jpg
 .33.autoimg.cn/homeurl/.*\.js
@@ -20740,6 +20743,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .dvr8.com
 .duyihu.net
 .duusuu.com
+.duoqumanhua.com
 .duiwai.baidu.com
 .dugbvb.com
 .dshrx.com
@@ -21106,7 +21110,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.duoqumanhua.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -23688,7 +23691,6 @@ TAG:^adfilter-unblock-dnt$
 .dolc.de/source/plugin/unadblock/
 .dmhy.org/common/generate-captcha\?
 .disney.com.tw/tv/global/swf/banner728x90\.swf
-www.dilidili.wang/$
 .digiland.tw/advert\.js
 .daoju.qq.com/time/.*/js/ad/
 .damai.cn/.*/TopAd/
@@ -23823,6 +23825,7 @@ www.dilidili.wang/$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+www.dilidili.wang/$
 
 {+client-header-tagger{adfilter-unblock-dnt-R201} \
 }
@@ -24690,7 +24693,6 @@ TAG:^adfilter-unblock-elem$
 .dolc.de/source/plugin/unadblock/
 .dmhy.org/common/generate-captcha\?
 .disney.com.tw/tv/global/swf/banner728x90\.swf
-www.dilidili.wang/$
 .digiland.tw/advert\.js
 .daoju.qq.com/time/.*/js/ad/
 .damai.cn/.*/TopAd/
@@ -24822,6 +24824,7 @@ www.dilidili.wang/$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+www.dilidili.wang/$
 
 {+client-header-tagger{adfilter-unblock-elem-R201} \
 }
@@ -25677,7 +25680,6 @@ TAG:^adfilter-unblock-request$
 .dolc.de/source/plugin/unadblock/
 .dmhy.org/common/generate-captcha\?
 .disney.com.tw/tv/global/swf/banner728x90\.swf
-www.dilidili.wang/$
 .digiland.tw/advert\.js
 .daoju.qq.com/time/.*/js/ad/
 .damai.cn/.*/TopAd/
@@ -25801,6 +25803,7 @@ www.dilidili.wang/$
 .073img.com/.*,.*,
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
+www.dilidili.wang/$
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
