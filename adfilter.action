@@ -553,6 +553,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.zou114.com
 .tansuo70.com
 .a1.zhanzhang.net
 /(.*/)?link\?c=
@@ -8284,6 +8285,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.zou114.com
 .tansuo70.com
 .a1.zhanzhang.net
 /(.*/)?link\?c=
@@ -15942,6 +15944,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+.1.zou114.com
 .tansuo70.com
 .a1.zhanzhang.net
 .chinaz.com/sc_images/sc_font\.js
