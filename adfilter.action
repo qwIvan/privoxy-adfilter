@@ -553,7 +553,8 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.zhanzhang.net
+.tansuo70.com
+.a1.zhanzhang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8283,7 +8284,8 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.zhanzhang.net
+.tansuo70.com
+.a1.zhanzhang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -15940,7 +15942,8 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.zhanzhang.net
+.tansuo70.com
+.a1.zhanzhang.net
 .chinaz.com/sc_images/sc_font\.js
 .gougou2018.com/js/item
 .zzzyk.com/js/
