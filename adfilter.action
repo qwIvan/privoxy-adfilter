@@ -4894,6 +4894,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+/.*:701/gd_xueersi/
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -6967,6 +6968,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -12657,6 +12659,7 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
+/.*:701/gd_xueersi/
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -14730,6 +14733,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -20162,6 +20166,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .133gp.com
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
+/.*:701/gd_xueersi/
 .zzrcz.com
 .zzbaowen.com
 .zymro.com
@@ -21592,6 +21597,7 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -23450,6 +23456,7 @@ TAG:^adfilter-block-xpopup$
 .133gp.com
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
+/.*:701/gd_xueersi/
 
 {+client-header-tagger{adfilter-block-xpopup-R197t} \
 }
