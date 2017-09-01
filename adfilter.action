@@ -573,6 +573,7 @@ TAG:^adfilter-block-dnt$
 a.kj-cy.cn
 /.*&uc=
 .milk.7dapei.com
+.cc.shixunwang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -8340,6 +8341,7 @@ TAG:^adfilter-block-elem$
 a.kj-cy.cn
 /.*&uc=
 .milk.7dapei.com
+.cc.shixunwang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -16034,6 +16036,7 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .milk.7dapei.com
+.cc.shixunwang.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
