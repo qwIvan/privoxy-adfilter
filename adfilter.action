@@ -57,6 +57,7 @@ TAG:^adfilter-block-dnt$
 .pdfbs.com
 .passwz.com
 .oomyv.com
+.nyhnx.com
 .nwwap.com
 .netko0o.com
 .myycrw.com
@@ -165,7 +166,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.nyhnx.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -574,10 +574,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.qconbeijing.com/js/infoqcn\.js
-.quanji.la/Runtime/js/sytc\.js
-.aolusb.com/forever/
-.afzhan.com/JavaScript/ad_Couplet\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1573,6 +1569,7 @@ cpro.*.
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
+.quanji.la/Runtime/js/sytc\.js
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
 .qt.biqugezw.com
@@ -1681,6 +1678,7 @@ cpro.*.
 .qd.wanjuanba.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
+.qconbeijing.com/js/infoqcn\.js
 .qbox.me/ftq_
 .q.cn/images/notepad\.gif
 .q.cn/images/floater_
@@ -3918,6 +3916,7 @@ cpro.*.
 .apihousefun.yam.com/news\.php
 .apic.in/mmd\.gif
 .api.bilibili.com/x/ad/
+.aolusb.com/forever/
 .anzhuotan.com/Runtime/js/bofangye\.js
 .anzhuan.net/wp-content/uploads/2015/01/huizhe\.jpg
 .anzhuan.net/wp-content/uploads/2014/10/yangmao
@@ -3992,6 +3991,7 @@ cpro.*.
 .ahlife.com/api\.php\?mod=adv&
 .ah.sina.com.cn/iframe/
 .agogo.tv/images//uploads/ad/
+.afzhan.com/JavaScript/ad_Couplet\.js
 .afpcreative.wasu.cn
 .afp.wasu.cn
 .afp.chinanews.com
@@ -5332,6 +5332,7 @@ tanchuan.htm*.
 .rpaulfrank.com
 .rnfrfxqztlno.com
 .riqu2015.com
+.rideraid.net
 .rhgyg.com
 .resetgey.com
 .rencai56.com
@@ -6576,7 +6577,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.rideraid.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7820,6 +7820,7 @@ TAG:^adfilter-block-elem$
 .pdfbs.com
 .passwz.com
 .oomyv.com
+.nyhnx.com
 .nwwap.com
 .netko0o.com
 .myycrw.com
@@ -7928,7 +7929,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.nyhnx.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8337,10 +8337,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.qconbeijing.com/js/infoqcn\.js
-.quanji.la/Runtime/js/sytc\.js
-.aolusb.com/forever/
-.afzhan.com/JavaScript/ad_Couplet\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9336,6 +9332,7 @@ cpro.*.
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
+.quanji.la/Runtime/js/sytc\.js
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
 .qt.biqugezw.com
@@ -9444,6 +9441,7 @@ cpro.*.
 .qd.wanjuanba.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
+.qconbeijing.com/js/infoqcn\.js
 .qbox.me/ftq_
 .q.cn/images/notepad\.gif
 .q.cn/images/floater_
@@ -11681,6 +11679,7 @@ cpro.*.
 .apihousefun.yam.com/news\.php
 .apic.in/mmd\.gif
 .api.bilibili.com/x/ad/
+.aolusb.com/forever/
 .anzhuotan.com/Runtime/js/bofangye\.js
 .anzhuan.net/wp-content/uploads/2015/01/huizhe\.jpg
 .anzhuan.net/wp-content/uploads/2014/10/yangmao
@@ -11755,6 +11754,7 @@ cpro.*.
 .ahlife.com/api\.php\?mod=adv&
 .ah.sina.com.cn/iframe/
 .agogo.tv/images//uploads/ad/
+.afzhan.com/JavaScript/ad_Couplet\.js
 .afpcreative.wasu.cn
 .afp.wasu.cn
 .afp.chinanews.com
@@ -13095,6 +13095,7 @@ tanchuan.htm*.
 .rpaulfrank.com
 .rnfrfxqztlno.com
 .riqu2015.com
+.rideraid.net
 .rhgyg.com
 .resetgey.com
 .rencai56.com
@@ -14339,7 +14340,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.rideraid.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15584,6 +15584,7 @@ TAG:^adfilter-block-request$
 .pdfbs.com
 .passwz.com
 .oomyv.com
+.nyhnx.com
 .nwwap.com
 .netko0o.com
 .myycrw.com
@@ -15690,7 +15691,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.nyhnx.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16022,10 +16022,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.qconbeijing.com/js/infoqcn\.js
-.quanji.la/Runtime/js/sytc\.js
-.aolusb.com/forever/
-.afzhan.com/JavaScript/ad_Couplet\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16989,6 +16985,7 @@ a.kj-cy.cn
 .qunar.com/render/.*Advertisement\.jsp\?
 .qulishi.com/js/.*Adv\.js
 .quanmin.tv/static/pages/adranktit\.html
+.quanji.la/Runtime/js/sytc\.js
 .qtfy30.cn/980-90\.gif
 .qtfy30.cn/680_.*\.gif
 .qt.biqugezw.com
@@ -17092,6 +17089,7 @@ a.kj-cy.cn
 .qd.wanjuanba.com
 .qd.js.sanjiangge.com
 .qd.dhzw.org
+.qconbeijing.com/js/infoqcn\.js
 .qbox.me/ftq_
 .q.cn/images/notepad\.gif
 .q.cn/images/floater_
@@ -19240,6 +19238,7 @@ a.kj-cy.cn
 .apihousefun.yam.com/news\.php
 .apic.in/mmd\.gif
 .api.bilibili.com/x/ad/
+.aolusb.com/forever/
 .anzhuotan.com/Runtime/js/bofangye\.js
 .anzhuan.net/wp-content/uploads/2015/01/huizhe\.jpg
 .anzhuan.net/wp-content/uploads/2014/10/yangmao
@@ -19313,6 +19312,7 @@ a.kj-cy.cn
 .ahlife.com/api\.php\?mod=adv&
 .ah.sina.com.cn/iframe/
 .agogo.tv/images//uploads/ad/
+.afzhan.com/JavaScript/ad_Couplet\.js
 .afpcreative.wasu.cn
 .afp.wasu.cn
 .afp.chinanews.com
@@ -20455,6 +20455,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .rpaulfrank.com
 .rnfrfxqztlno.com
 .riqu2015.com
+.rideraid.net
 .rhgyg.com
 .resetgey.com
 .rencai56.com
@@ -21211,7 +21212,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.rideraid.net
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
