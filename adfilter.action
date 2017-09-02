@@ -576,6 +576,8 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+/(.*/)?vd/.*\?c=
+/(.*/)?vd/.*\?c=
 .fpb1.chinacar.asia
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
@@ -8349,6 +8351,8 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
+/(.*/)?vd/.*\?c=
+/(.*/)?vd/.*\?c=
 .fpb1.chinacar.asia
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
@@ -21724,6 +21728,8 @@ TAG:^adfilter-block-request-Acj-Ccj-Xx$
  +server-header-tagger{adfilter-block-request-Ci} \
 }
 TAG:^adfilter-block-request-Ai-Ci$
+/(.*/)?vd/.*\?c=
+/(.*/)?vd/.*\?c=
 /(.*/)?link\?c=
 .yjhas.net
 .webkaka.com*./(.*/)?click/
