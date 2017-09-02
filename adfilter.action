@@ -1506,7 +1506,8 @@ cpro.*.
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
 .s.go.sohu.com/.*/\?callback=
-.s.abcache.com
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -9281,7 +9282,8 @@ cpro.*.
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
 .s.go.sohu.com/.*/\?callback=
-.s.abcache.com
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -16950,7 +16952,8 @@ a.kj-cy.cn
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.go.sohu.com/.*/\?callback=
-.s.abcache.com
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
