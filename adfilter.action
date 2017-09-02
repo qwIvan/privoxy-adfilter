@@ -76,11 +76,14 @@ TAG:^adfilter-block-dnt$
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
+.internerl.com
+.increased.cn
 .inccnd.com
 .identified.cn
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
 .hmttoly.com
@@ -166,9 +169,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.internerl.com
-.increased.cn
-.hqsjc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -284,6 +284,7 @@ TAG:^adfilter-block-dnt$
 .miyudaquan.top
 .mipujia.com
 .milk.yesky.com.cn
+.milk.7dapei.com
 .meishiba.com.cn
 .mbs.weathercn.com
 .ma1.meishij.net
@@ -419,6 +420,7 @@ TAG:^adfilter-block-dnt$
 .cdyx-pcjy.com
 .cdeme.com
 .cc.yac8.com
+.cc.shixunwang.net
 .cby521.cn
 .c1.china.cn
 .c1.4qx.net
@@ -572,8 +574,6 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.milk.7dapei.com
-.cc.shixunwang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -4884,6 +4884,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
+/.*:701/gd_xueersi/
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
 /(.*/)?pushstart\.html\?
@@ -4897,7 +4898,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-/.*:701/gd_xueersi/
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -6623,6 +6623,7 @@ ad.*.
 /.*:8080/advserver/
 /.*:8080/ad/
 /.*:7701/load\.cw\.js
+/.*:701/Pus/pus\.js
 /.*:1010/openV5\.js
 /(.*/)?zzhzad/.*
 /(.*/)?zhidiy_m_ad_
@@ -6971,7 +6972,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7844,11 +7844,14 @@ TAG:^adfilter-block-elem$
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
+.internerl.com
+.increased.cn
 .inccnd.com
 .identified.cn
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
 .hmttoly.com
@@ -7934,9 +7937,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.internerl.com
-.increased.cn
-.hqsjc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8052,6 +8052,7 @@ TAG:^adfilter-block-elem$
 .miyudaquan.top
 .mipujia.com
 .milk.yesky.com.cn
+.milk.7dapei.com
 .meishiba.com.cn
 .mbs.weathercn.com
 .ma1.meishij.net
@@ -8187,6 +8188,7 @@ TAG:^adfilter-block-elem$
 .cdyx-pcjy.com
 .cdeme.com
 .cc.yac8.com
+.cc.shixunwang.net
 .cby521.cn
 .c1.china.cn
 .c1.4qx.net
@@ -8340,8 +8342,6 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.milk.7dapei.com
-.cc.shixunwang.net
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
@@ -12652,6 +12652,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .300.bilibilijj.com
 .189.cn/actpush/
 .133gp.com
+/.*:701/gd_xueersi/
 /(.*/)?tanchuan\.htm
 tanchuan.htm*.
 /(.*/)?pushstart\.html\?
@@ -12665,7 +12666,6 @@ tanchuan.htm*.
 .*.com/\?Intr=
 /.*\.com/\?aff=
 .*.com/\?aff=
-/.*:701/gd_xueersi/
 /.*\.189\.gd[^\w%.-].*\.html\?p=
 .*.189.gd/.*\.html\?p=
 .zzrcz.com
@@ -14391,6 +14391,7 @@ ad.*.
 /.*:8080/advserver/
 /.*:8080/ad/
 /.*:7701/load\.cw\.js
+/.*:701/Pus/pus\.js
 /.*:1010/openV5\.js
 /(.*/)?zzhzad/.*
 /(.*/)?zhidiy_m_ad_
@@ -14739,7 +14740,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15613,11 +15613,14 @@ TAG:^adfilter-block-request$
 .jnsdkjzs.com
 .jndczg.com
 .jifeidandar.com
+.internerl.com
+.increased.cn
 .inccnd.com
 .identified.cn
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
 .hmttoly.com
@@ -15701,9 +15704,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.internerl.com
-.increased.cn
-.hqsjc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15787,6 +15787,7 @@ TAG:^adfilter-block-request$
 .mmcc.yxlady.com
 .mm.anqu.com
 .milk.yesky.com.cn
+.milk.7dapei.com
 .mbs.weathercn.com
 .ma1.meishij.net
 .ll38.com
@@ -15896,6 +15897,7 @@ TAG:^adfilter-block-request$
 .chinacsky.com
 .chicken18.com
 .cc.yac8.com
+.cc.shixunwang.net
 .cby521.cn
 .c1.china.cn
 .c1.4qx.net
@@ -16035,8 +16037,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.milk.7dapei.com
-.cc.shixunwang.net
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -20173,9 +20173,9 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .550022.com
 .300.bilibilijj.com
 .133gp.com
+/.*:701/gd_xueersi/
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
-/.*:701/gd_xueersi/
 .zzrcz.com
 .zzbaowen.com
 .zymro.com
@@ -21267,6 +21267,7 @@ ad.*.
 /.*:8080/advserver/
 /.*:8080/ad/
 /.*:7701/load\.cw\.js
+/.*:701/Pus/pus\.js
 /.*:1010/openV5\.js
 /(.*/)?zzhzad/.*
 /(.*/)?zhidiy_m_ad_
@@ -21606,7 +21607,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/.*:701/Pus/pus\.js
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -23463,9 +23463,9 @@ TAG:^adfilter-block-xpopup$
 .550022.com
 .300.bilibilijj.com
 .133gp.com
+/.*:701/gd_xueersi/
 /(.*/)?portalwlanad/pages/.*
 /(.*/)?htmm/2022\.php
-/.*:701/gd_xueersi/
 
 {+client-header-tagger{adfilter-block-xpopup-R197t} \
 }
