@@ -171,6 +171,7 @@ TAG:^adfilter-block-dnt$
 .*.m.23sw.net
 /.*\.m\.yuyouge\.com[^\w%.-]
 .*.m.yuyouge.com
+.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -579,6 +580,7 @@ a.kj-cy.cn
 .fpb1.chinacar.asia
 .1.arpun.com
 .1.kuaidiwo.cn
+.a.75111.com
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
 /(.*/)?cpro\.
@@ -7950,6 +7952,7 @@ TAG:^adfilter-block-elem$
 .*.m.23sw.net
 /.*\.m\.yuyouge\.com[^\w%.-]
 .*.m.yuyouge.com
+.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8358,6 +8361,7 @@ a.kj-cy.cn
 .fpb1.chinacar.asia
 .1.arpun.com
 .1.kuaidiwo.cn
+.a.75111.com
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
 /(.*/)?cpro\.
@@ -15728,6 +15732,7 @@ TAG:^adfilter-block-request$
 .*.m.23sw.net
 /.*\.m\.yuyouge\.com[^\w%.-]
 .*.m.yuyouge.com
+.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16064,6 +16069,7 @@ a.kj-cy.cn
 .fpb1.chinacar.asia
 .1.arpun.com
 .1.kuaidiwo.cn
+.a.75111.com
 /(.*/)?tps/noexpire/.*
 .kuaidiwo.cn/kdwkxmlt\.jpg
 .kuaidiwo.cn/kuaidiwo\.jpg
