@@ -576,15 +576,15 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-/(.*/)?vd/.*\?c=
-/(.*/)?vd/.*\?c=
 .fpb1.chinacar.asia
+.1.arpun.com
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.timedate.cn/comm/ad_
 .chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -8351,15 +8351,15 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-/(.*/)?vd/.*\?c=
-/(.*/)?vd/.*\?c=
 .fpb1.chinacar.asia
+.1.arpun.com
 /(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.timedate.cn/comm/ad_
 .chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -16054,7 +16054,9 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 /.*&uc=
 .fpb1.chinacar.asia
+.1.arpun.com
 /(.*/)?tps/noexpire/.*
+.timedate.cn/comm/ad_
 .chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
@@ -21728,8 +21730,6 @@ TAG:^adfilter-block-request-Acj-Ccj-Xx$
  +server-header-tagger{adfilter-block-request-Ci} \
 }
 TAG:^adfilter-block-request-Ai-Ci$
-/(.*/)?vd/.*\?c=
-/(.*/)?vd/.*\?c=
 /(.*/)?link\?c=
 .yjhas.net
 .webkaka.com*./(.*/)?click/
