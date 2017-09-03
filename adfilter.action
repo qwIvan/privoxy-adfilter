@@ -96,6 +96,7 @@ TAG:^adfilter-block-dnt$
 .gadwhy.com
 .fqzds.com
 .feifish66.com
+.fcrdb.com
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
@@ -135,6 +136,8 @@ TAG:^adfilter-block-dnt$
 .*.m.zwdu.com
 /.*\.m\.zineworm\.com[^\w%.-]
 .*.m.zineworm.com
+/.*\.m\.yuyouge\.com[^\w%.-]
+.*.m.yuyouge.com
 /.*\.m\.xs222\.com[^\w%.-]
 .*.m.xs222.com
 /.*\.m\.x81zw\.com[^\w%.-]
@@ -169,9 +172,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-/.*\.m\.yuyouge\.com[^\w%.-]
-.*.m.yuyouge.com
-.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -357,6 +357,7 @@ TAG:^adfilter-block-dnt$
 .gd.jqgc.com
 .g1.taijuba.com
 .fuz.cc
+.fpb1.chinacar.asia
 .fpb.51edu.com
 .fotao9.com
 .fmgoal.com
@@ -510,6 +511,7 @@ TAG:^adfilter-block-dnt$
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
+.a.75111.com
 .a.5ykj.com
 .9wushuo.com
 .999d.com
@@ -562,6 +564,7 @@ TAG:^adfilter-block-dnt$
 .1.qt86.com
 .1.panduoduo.net
 .1.mgff.com
+.1.kuaidiwo.cn
 .1.jeasyui.net
 .1.iqeq.com.cn
 .1.i1766.com
@@ -570,6 +573,7 @@ TAG:^adfilter-block-dnt$
 .1.feihua.com
 .1.codesdq.com
 .1.cjcp.cn
+.1.arpun.com
 .1.51sxue.cn
 .1.201980.com
 .1.1010pic.com
@@ -577,20 +581,12 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.fpb1.chinacar.asia
-.1.arpun.com
-.1.kuaidiwo.cn
-.a.75111.com
-/(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
+/(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.kuaidiwo.cn/kdwkxmlt\.jpg
-.kuaidiwo.cn/kuaidiwo\.jpg
-.timedate.cn/comm/ad_
-.chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1179,6 +1175,7 @@ cpro.*.
 .tingchina.com/js/990
 .tingchina.com/js/760
 .tingchina.com/js/.*220-
+.timedate.cn/comm/ad_
 .tigtag.com/styles/phpcms/js/tigtag/ads\.js
 .tigtag.com/images/pic2017/.*/index\.html
 .tigtag.com/images/pic1/
@@ -1511,8 +1508,6 @@ cpro.*.
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
 .s.go.sohu.com/.*/\?callback=
-.abcache.com/youlaohu/
-.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -2234,6 +2229,8 @@ cpro.*.
 .kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
+.kuaidiwo.cn/kuaidiwo\.jpg
+.kuaidiwo.cn/kdwkxmlt\.jpg
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
 .kuaidi100.com/images/kuaidi/201612081.*4
@@ -3534,6 +3531,7 @@ cpro.*.
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinacar.com.cn/Public/index/images/banner_
 .chinabyte.com/w/a/201612/wangting\.jpg
 .chinabyte.com/w/
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
@@ -4073,6 +4071,8 @@ cpro.*.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .abc.hkepc.com
 .abbao.cn/.*adblock
 .ab.ahlife.com/.*\.swf
@@ -7877,6 +7877,7 @@ TAG:^adfilter-block-elem$
 .gadwhy.com
 .fqzds.com
 .feifish66.com
+.fcrdb.com
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
@@ -7916,6 +7917,8 @@ TAG:^adfilter-block-elem$
 .*.m.zwdu.com
 /.*\.m\.zineworm\.com[^\w%.-]
 .*.m.zineworm.com
+/.*\.m\.yuyouge\.com[^\w%.-]
+.*.m.yuyouge.com
 /.*\.m\.xs222\.com[^\w%.-]
 .*.m.xs222.com
 /.*\.m\.x81zw\.com[^\w%.-]
@@ -7950,9 +7953,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-/.*\.m\.yuyouge\.com[^\w%.-]
-.*.m.yuyouge.com
-.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8138,6 +8138,7 @@ TAG:^adfilter-block-elem$
 .gd.jqgc.com
 .g1.taijuba.com
 .fuz.cc
+.fpb1.chinacar.asia
 .fpb.51edu.com
 .fotao9.com
 .fmgoal.com
@@ -8291,6 +8292,7 @@ TAG:^adfilter-block-elem$
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
+.a.75111.com
 .a.5ykj.com
 .9wushuo.com
 .999d.com
@@ -8343,6 +8345,7 @@ TAG:^adfilter-block-elem$
 .1.qt86.com
 .1.panduoduo.net
 .1.mgff.com
+.1.kuaidiwo.cn
 .1.jeasyui.net
 .1.iqeq.com.cn
 .1.i1766.com
@@ -8351,6 +8354,7 @@ TAG:^adfilter-block-elem$
 .1.feihua.com
 .1.codesdq.com
 .1.cjcp.cn
+.1.arpun.com
 .1.51sxue.cn
 .1.201980.com
 .1.1010pic.com
@@ -8358,20 +8362,12 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.fpb1.chinacar.asia
-.1.arpun.com
-.1.kuaidiwo.cn
-.a.75111.com
-/(.*/)?link\?c=
 /(.*/)?tps/noexpire/.*
+/(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.kuaidiwo.cn/kdwkxmlt\.jpg
-.kuaidiwo.cn/kuaidiwo\.jpg
-.timedate.cn/comm/ad_
-.chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8960,6 +8956,7 @@ cpro.*.
 .tingchina.com/js/990
 .tingchina.com/js/760
 .tingchina.com/js/.*220-
+.timedate.cn/comm/ad_
 .tigtag.com/styles/phpcms/js/tigtag/ads\.js
 .tigtag.com/images/pic2017/.*/index\.html
 .tigtag.com/images/pic1/
@@ -9292,8 +9289,6 @@ cpro.*.
 .s.yimg.com/gs/apex/
 .s.yimg.com/.*_160x800_
 .s.go.sohu.com/.*/\?callback=
-.abcache.com/youlaohu/
-.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -10015,6 +10010,8 @@ cpro.*.
 .kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
+.kuaidiwo.cn/kuaidiwo\.jpg
+.kuaidiwo.cn/kdwkxmlt\.jpg
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
 .kuaidi100.com/images/kuaidi/201612081.*4
@@ -11315,6 +11312,7 @@ cpro.*.
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinacar.com.cn/Public/index/images/banner_
 .chinabyte.com/w/a/201612/wangting\.jpg
 .chinabyte.com/w/
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
@@ -11854,6 +11852,8 @@ cpro.*.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .abc.hkepc.com
 .abbao.cn/.*adblock
 .ab.ahlife.com/.*\.swf
@@ -15659,6 +15659,7 @@ TAG:^adfilter-block-request$
 .gadwhy.com
 .fqzds.com
 .feifish66.com
+.fcrdb.com
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
@@ -15696,6 +15697,8 @@ TAG:^adfilter-block-request$
 .*.m.zwdu.com
 /.*\.m\.zineworm\.com[^\w%.-]
 .*.m.zineworm.com
+/.*\.m\.yuyouge\.com[^\w%.-]
+.*.m.yuyouge.com
 /.*\.m\.xs222\.com[^\w%.-]
 .*.m.xs222.com
 /.*\.m\.x81zw\.com[^\w%.-]
@@ -15730,9 +15733,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-/.*\.m\.yuyouge\.com[^\w%.-]
-.*.m.yuyouge.com
-.fcrdb.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15868,6 +15868,7 @@ TAG:^adfilter-block-request$
 .gewuwen.com
 .gd.jqgc.com
 .g1.taijuba.com
+.fpb1.chinacar.asia
 .fpb.51edu.com
 .fotao9.com
 .fmgoal.com
@@ -16011,6 +16012,7 @@ TAG:^adfilter-block-request$
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
+.a.75111.com
 .a.5ykj.com
 .9wushuo.com
 .888.izhufu.net
@@ -16051,6 +16053,7 @@ TAG:^adfilter-block-request$
 .1.qt86.com
 .1.panduoduo.net
 .1.mgff.com
+.1.kuaidiwo.cn
 .1.jeasyui.net
 .1.iqeq.com.cn
 .1.i1766.com
@@ -16059,6 +16062,7 @@ TAG:^adfilter-block-request$
 .1.feihua.com
 .1.codesdq.com
 .1.cjcp.cn
+.1.arpun.com
 .1.51sxue.cn
 .1.201980.com
 .1.1010pic.com
@@ -16066,15 +16070,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /.*&uc=
-.fpb1.chinacar.asia
-.1.arpun.com
-.1.kuaidiwo.cn
-.a.75111.com
 /(.*/)?tps/noexpire/.*
-.kuaidiwo.cn/kdwkxmlt\.jpg
-.kuaidiwo.cn/kuaidiwo\.jpg
-.timedate.cn/comm/ad_
-.chinacar.com.cn/Public/index/images/banner_
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16647,6 +16643,7 @@ a.kj-cy.cn
 .tingchina.com/js/990
 .tingchina.com/js/760
 .tingchina.com/js/.*220-
+.timedate.cn/comm/ad_
 .tigtag.com/styles/phpcms/js/tigtag/ads\.js
 .tigtag.com/images/pic2017/.*/index\.html
 .tigtag.com/images/pic1/
@@ -16967,8 +16964,6 @@ a.kj-cy.cn
 .s.yimg.com/ja/ap/tw/js/
 .s.yimg.com/gs/apex/
 .s.go.sohu.com/.*/\?callback=
-.abcache.com/youlaohu/
-.abcache.com/tg/
 .s-msn.com/portal/xiatui\.js
 .s-msn.com/portal/hp/2015/807\.html
 .s-msn.com/msnportal/hp/luckyday/
@@ -17657,6 +17652,8 @@ a.kj-cy.cn
 .kuaihou.com/js/new/xiazai
 .kuaihou.com/c/you1\.js
 .kuaihou.com/c/shuoming\.js
+.kuaidiwo.cn/kuaidiwo\.jpg
+.kuaidiwo.cn/kdwkxmlt\.jpg
 .kuaidi100.com/mobile/mobileapi\.do
 .kuaidi100.com/js/share/i_new\.js
 .kuaidi100.com/images/kuaidi/201612081.*4
@@ -18901,6 +18898,7 @@ a.kj-cy.cn
 .chinadaily.com.cn/micro-reading/dzh/bd-taofang\.gif
 .chinaconcrete.cn/ggImg/
 .chinachugui.com/jsfiles/aods/
+.chinacar.com.cn/Public/index/images/banner_
 .chinabyte.com/w/a/201612/wangting\.jpg
 .chinabidding.com.cn/public/static/images/lg296x265\.jpg
 .chinabidding.com.cn/public/cblcn/index3/images/gxyg_10\.jpg
@@ -19427,6 +19425,8 @@ a.kj-cy.cn
 .acglover.top/wp-content/uploads/.*-520-245\.
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
+.abcache.com/youlaohu/
+.abcache.com/tg/
 .abc.hkepc.com
 .abbao.cn/.*adblock
 .ab.ahlife.com/.*\.swf
