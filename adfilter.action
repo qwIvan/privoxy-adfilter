@@ -580,7 +580,6 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-/.*&uc=
 .abcj.dooccn.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
@@ -8364,7 +8363,6 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-/.*&uc=
 .abcj.dooccn.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
@@ -16075,7 +16073,6 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-/.*&uc=
 .abcj.dooccn.com
 /(.*/)?tps/noexpire/.*
 .m2.lelemh.com
