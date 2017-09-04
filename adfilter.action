@@ -172,6 +172,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.chersc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -191,6 +192,7 @@ TAG:^adfilter-block-dnt$
 .zhifenjie.com
 .zhaoshang8.com
 .zhantai.com
+.z1.zyjjqxw.com
 .yx1.managershare.com
 .yunzuowen.com
 .yun1.yahoo001.com
@@ -477,6 +479,7 @@ TAG:^adfilter-block-dnt$
 .adjb.5nd.com
 .add.mmyuer.com
 .adccoo.cn
+.abcj.dooccn.com
 .ab.sc115.com
 .aa808.com
 .aa.xiangxiangmf.com
@@ -552,10 +555,12 @@ TAG:^adfilter-block-dnt$
 .1.zw3e.com
 .1.zouning.net
 .1.zou114.com
+.1.xuejiazhao.com
 .1.xilu.com
 .1.xiaopin5.com
 .1.win7sky.com
 .1.win7china.com
+.1.ufc123.com
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
@@ -580,20 +585,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.abcj.dooccn.com
-.1.xuejiazhao.com
-.1.ufc123.com
-.z1.zyjjqxw.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.runsky.com/flash/dalian_content_top_flash_
-.om.cn/api/ad-om/
-.jrzj.com/img_index/guanggao
-.m2.lelemh.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1524,6 +1521,7 @@ cpro.*.
 .ruten.com.tw/js/gads_
 .ruten.com.tw/js/ahd_
 .runsky.com/html/.*_index_
+.runsky.com/flash/dalian_content_top_flash_
 .runsky.com/bbsadv-
 .runmang.com/img/
 .ruian.com/img/y13/
@@ -1863,6 +1861,7 @@ cpro.*.
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.om.cn/api/ad-om/
 .olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
@@ -2078,6 +2077,7 @@ cpro.*.
 .mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
+.m2.lelemh.com
 .m1905.com/asp_js/k\.js
 .m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
@@ -2322,6 +2322,7 @@ cpro.*.
 .js.45bubu.com
 .js.05sun.com
 .js-1.pchome.net
+.jrzj.com/img_index/guanggao
 .jrjimg.cn/zqt-red-1000/js/v3/itg-widget\.
 .jrjimg.cn/common/foot/allfc\.js
 .jpwind.com/.*/scroll\.js
@@ -5251,6 +5252,7 @@ tanchuan.htm*.
 .tangoutianxia.com
 .tanchuang002.info
 .tad.suning.com
+.taboola.com
 .tab20.com
 .taat00889.com
 .ta80.com
@@ -6601,7 +6603,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.taboola.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7961,6 +7962,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.chersc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -7980,6 +7982,7 @@ TAG:^adfilter-block-elem$
 .zhifenjie.com
 .zhaoshang8.com
 .zhantai.com
+.z1.zyjjqxw.com
 .yx1.managershare.com
 .yunzuowen.com
 .yun1.yahoo001.com
@@ -8266,6 +8269,7 @@ TAG:^adfilter-block-elem$
 .adjb.5nd.com
 .add.mmyuer.com
 .adccoo.cn
+.abcj.dooccn.com
 .ab.sc115.com
 .aa808.com
 .aa.xiangxiangmf.com
@@ -8341,10 +8345,12 @@ TAG:^adfilter-block-elem$
 .1.zw3e.com
 .1.zouning.net
 .1.zou114.com
+.1.xuejiazhao.com
 .1.xilu.com
 .1.xiaopin5.com
 .1.win7sky.com
 .1.win7china.com
+.1.ufc123.com
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
@@ -8369,20 +8375,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.abcj.dooccn.com
-.1.xuejiazhao.com
-.1.ufc123.com
-.z1.zyjjqxw.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.runsky.com/flash/dalian_content_top_flash_
-.om.cn/api/ad-om/
-.jrzj.com/img_index/guanggao
-.m2.lelemh.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9313,6 +9311,7 @@ cpro.*.
 .ruten.com.tw/js/gads_
 .ruten.com.tw/js/ahd_
 .runsky.com/html/.*_index_
+.runsky.com/flash/dalian_content_top_flash_
 .runsky.com/bbsadv-
 .runmang.com/img/
 .ruian.com/img/y13/
@@ -9652,6 +9651,7 @@ cpro.*.
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.om.cn/api/ad-om/
 .olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
@@ -9867,6 +9867,7 @@ cpro.*.
 .mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
+.m2.lelemh.com
 .m1905.com/asp_js/k\.js
 .m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
@@ -10111,6 +10112,7 @@ cpro.*.
 .js.45bubu.com
 .js.05sun.com
 .js-1.pchome.net
+.jrzj.com/img_index/guanggao
 .jrjimg.cn/zqt-red-1000/js/v3/itg-widget\.
 .jrjimg.cn/common/foot/allfc\.js
 .jpwind.com/.*/scroll\.js
@@ -13040,6 +13042,7 @@ tanchuan.htm*.
 .tangoutianxia.com
 .tanchuang002.info
 .tad.suning.com
+.taboola.com
 .tab20.com
 .taat00889.com
 .ta80.com
@@ -14390,7 +14393,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.taboola.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15749,6 +15751,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.chersc.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15763,6 +15766,7 @@ TAG:^adfilter-block-request$
 .zhihu.xmcimg.com
 .zhifenjie.com
 .zhaoshang8.com
+.z1.zyjjqxw.com
 .yx1.managershare.com
 .yun1.yahoo001.com
 .yulzs.com
@@ -15995,6 +15999,7 @@ TAG:^adfilter-block-request$
 .adjb.5nd.com
 .add.mmyuer.com
 .adccoo.cn
+.abcj.dooccn.com
 .ab.sc115.com
 .aa.xiangxiangmf.com
 .aa.tianya999.com
@@ -16057,10 +16062,12 @@ TAG:^adfilter-block-request$
 .1.zw3e.com
 .1.zouning.net
 .1.zou114.com
+.1.xuejiazhao.com
 .1.xilu.com
 .1.xiaopin5.com
 .1.win7sky.com
 .1.win7china.com
+.1.ufc123.com
 .1.uc129.com
 .1.tulaoshi.com
 .1.soufy.cn
@@ -16085,15 +16092,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.abcj.dooccn.com
-.1.xuejiazhao.com
-.1.ufc123.com
-.z1.zyjjqxw.com
 /(.*/)?tps/noexpire/.*
-.runsky.com/flash/dalian_content_top_flash_
-.om.cn/api/ad-om/
-.jrzj.com/img_index/guanggao
-.m2.lelemh.com
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16996,6 +16995,7 @@ a.kj-cy.cn
 .ruten.com.tw/js/gads_
 .ruten.com.tw/js/ahd_
 .runsky.com/html/.*_index_
+.runsky.com/flash/dalian_content_top_flash_
 .runsky.com/bbsadv-
 .runmang.com/img/
 .ruian.com/img/y13/
@@ -17319,6 +17319,7 @@ a.kj-cy.cn
 .onegreen.net/MyFile/
 .onedala.tv/uploads/banner/
 .on.cc/js/v2/iframe_ysm_
+.om.cn/api/ad-om/
 .olevod.com/poppagen\.php
 .oldpig.org/live\.html
 .okbmf.com/.*950_120
@@ -17527,6 +17528,7 @@ a.kj-cy.cn
 .mahoupao.net/api\.php\?mod=ad&
 .macd.cn/macd-topads\.html
 .ma.baiducdn2.com/.*/main\.js\?t=
+.m2.lelemh.com
 .m1905.com/asp_js/k\.js
 .m1905.cn/images/vod/vod.*-90\.jpg
 .m1905.cn/afp/mdsfw\.js
@@ -17756,6 +17758,7 @@ a.kj-cy.cn
 .js.45bubu.com
 .js.05sun.com
 .js-1.pchome.net
+.jrzj.com/img_index/guanggao
 .jrjimg.cn/zqt-red-1000/js/v3/itg-widget\.
 .jrjimg.cn/common/foot/allfc\.js
 .jpwind.com/.*/scroll\.js
@@ -22261,6 +22264,7 @@ gg.*.
 .taojingu.cn
 .tanwanyx.com
 .tanchuang002.info
+.taboola.com
 .tab20.com
 .ta80.com
 .t3nlink.com
@@ -22683,7 +22687,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.taboola.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
