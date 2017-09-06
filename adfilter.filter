@@ -1116,13 +1116,6 @@ s@^accept(?=:[\s\w]*(?:video\/|audio\/|\/(?:x-)?shockwave-flash)):.*@adfilter-bl
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aasv-Casv-when-R143
 s@^referer(?=:[^\n]*[./](?:www\.nmgnews\.com\.cn)):.*@adfilter-block-request-Aasv-Casv@Ti
 
-CLIENT-HEADER-TAGGER: adfilter-block-request-Acj
-s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript|\/css)):.*@adfilter-block-request@Ti
-
-CLIENT-HEADER-TAGGER: adfilter-block-request-Acj-Ccj-Xx-when-R182t
-s@^referer:.*@$&\t$host@Di
-s@^referer(?=:[^\n]*[./](?:btdb\.to))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Acj-Ccj-Xx@i
-
 CLIENT-HEADER-TAGGER: adfilter-block-request-Ai
 s@^accept(?=:[\s\w]*(?:image\/)):.*@adfilter-block-request@Ti
 
@@ -1160,9 +1153,13 @@ s@^accept(?=:[\s\w]*(?:image\/|\/(?:x-)?javascript)):.*@adfilter-block-request@T
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj
 s@^accept(?=:[\s\w]*(?:\/(?:x-)?javascript)):.*@adfilter-block-request@Ti
 
-CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R183t
+CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R182t
 s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:alicili\.org|btdigg\.co|btkitty\.pet|btlibrary\.co|cilidaquan\.me|diggbt\.biz|savebt\.com|storebt\.pw|torrentkitty\.red|zhongzicili\.net))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
+
+CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R183t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?=:[^\n]*[./](?:btdb\.to))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request-Aj-Cj-Xx@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-Aj-Cj-Xx-when-R184t
 s@^referer:.*@$&\t$host@Di
@@ -1268,9 +1265,6 @@ s@^content-type(?=:[\s\w]*(?:video\/|audio\/|\/octet-stream)):.*@adfilter-block-
 
 SERVER-HEADER-TAGGER: adfilter-block-request-Casv
 s@^content-type(?=:[\s\w]*(?:video\/|audio\/|\/(?:x-)?shockwave-flash)):.*@adfilter-block-request@Ti
-
-SERVER-HEADER-TAGGER: adfilter-block-request-Ccj
-s@^content-type(?=:[\s\w]*(?:\/(?:x-)?javascript|\/css)):.*@adfilter-block-request@Ti
 
 SERVER-HEADER-TAGGER: adfilter-block-request-Ci
 s@^content-type(?=:[\s\w]*(?:image\/)):.*@adfilter-block-request@Ti
@@ -1454,6 +1448,10 @@ s@^referer(?=:[^\n]*[./](?:360zhibo\.com|ballive\.com|btshoufa\.net|chakd\.com|q
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R18
 s@^referer(?=:[^\n]*[./](?:3g\.cn)):.*@adfilter-block-request@Ti
+
+CLIENT-HEADER-TAGGER: adfilter-block-request-R183t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?=:[^\n]*[./](?:btdb\.to))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R19
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@adfilter-block-request@Ti
@@ -1791,6 +1789,10 @@ s@^referer(?=:[^\n]*[./](?:tt1069\.com)):.*@adfilter-block-xpopup@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-xpopup-R138
 s@^referer(?=:[^\n]*[./](?:up2stream\.com)):.*@adfilter-block-xpopup@Ti
+
+CLIENT-HEADER-TAGGER: adfilter-block-xpopup-R183t
+s@^referer:.*@$&\t$host@Di
+s@^referer(?=:[^\n]*[./](?:btdb\.to))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-xpopup@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-xpopup-R197t
 s@^referer:.*@$&\t$host@Di
