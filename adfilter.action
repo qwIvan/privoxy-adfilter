@@ -596,6 +596,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.niaishe.com/topjs/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -6612,10 +6613,13 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.yinoo.cn
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.partner-safe.men
+.x6z6.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8400,6 +8404,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.niaishe.com/topjs/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -14416,10 +14421,13 @@ pd2.js*.
 .*.com/code\.php\?z=
 /.*\.cn/vs\.php\?id=
 .*.cn/vs\.php\?id=
+.yinoo.cn
 /.*\.cn/showpage\.asp\?u=
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.partner-safe.men
+.x6z6.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -16126,6 +16134,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
+.niaishe.com/topjs/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -21331,6 +21340,8 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.partner-safe.men
+.x6z6.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22722,6 +22733,7 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
+.yinoo.cn
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -23671,6 +23683,7 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
+.tracklog.58.com/referrer
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tmall.com/add\?
@@ -24680,6 +24693,7 @@ Loadads.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
+.tracklog.58.com/referrer
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tmall.com/add\?
@@ -25680,6 +25694,7 @@ Loadads.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
+.tracklog.58.com/referrer
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tmall.com/add\?
