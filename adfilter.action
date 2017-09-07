@@ -6626,6 +6626,9 @@ pd2.js*.
 .*.cn/show\?id=
 .partner-safe.men
 .x6z6.com
+/.*\.vip/vs\.php\?id=
+.*.vip/vs\.php\?id=
+.3xx.vip
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14440,6 +14443,9 @@ pd2.js*.
 .*.cn/show\?id=
 .partner-safe.men
 .x6z6.com
+/.*\.vip/vs\.php\?id=
+.*.vip/vs\.php\?id=
+.3xx.vip
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21360,6 +21366,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adposid/.*
 .partner-safe.men
 .x6z6.com
+.3xx.vip
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22077,6 +22084,8 @@ js*./(.*/)?i\.js\?
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+/.*\.vip/vs\.php\?id=
+.*.vip/vs\.php\?id=
 
 {+client-header-tagger{adfilter-block-request-Anaov} \
  +server-header-tagger{adfilter-block-request-Cnaov} \
