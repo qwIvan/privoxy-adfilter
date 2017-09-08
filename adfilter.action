@@ -176,6 +176,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -7995,6 +7996,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15813,6 +15815,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -23716,6 +23719,7 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
+.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -24726,6 +24730,7 @@ Loadads.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
+.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -25727,6 +25732,7 @@ Loadads.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
+.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
