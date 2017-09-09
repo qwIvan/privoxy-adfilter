@@ -103,6 +103,7 @@ TAG:^adfilter-block-dnt$
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
+.dtzysm.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -176,7 +177,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -599,9 +599,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.delivery-pc.wasu.cn
-.white-plus.net/images/men
-.96.44.141.133/960x90\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -979,6 +976,7 @@ cpro.*.
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
+.white-plus.net/images/men
 .whinfo.net.cn/ad20
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
@@ -3304,8 +3302,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/upload/mycontent/
-.dnvod.tv/g/
+.dnvod.tv/w/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -3362,6 +3359,7 @@ cpro.*.
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.delivery-pc.wasu.cn
 .deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
@@ -4164,6 +4162,7 @@ cpro.*.
 .962.net/show/bt\.js
 .962.net/show/all_
 .962.net/show/all\.js
+.96.44.141.133/960x90\.gif
 .9553.com/otherhtml/
 .949d.com/960-90\.gif
 .949949.com/2013/end/hot_news\.js
@@ -6039,6 +6038,7 @@ tanchuan.htm*.
 .couqm.com.cn
 .cosoyoo.com
 .corocksi.com
+.coostack.com
 .cooolyi.cn
 .coolnay.com
 .compass-fit.jp
@@ -6122,6 +6122,7 @@ tanchuan.htm*.
 .billionfocus.com
 .bigbos.top
 .biddingx.com
+.bench-life.me
 .behe.com
 .beeho.site
 .bebelait.com
@@ -6633,8 +6634,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.bench-life.me
-.coostack.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7927,6 +7926,7 @@ TAG:^adfilter-block-elem$
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
+.dtzysm.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -8000,7 +8000,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8423,9 +8422,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.delivery-pc.wasu.cn
-.white-plus.net/images/men
-.96.44.141.133/960x90\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8803,6 +8799,7 @@ cpro.*.
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
+.white-plus.net/images/men
 .whinfo.net.cn/ad20
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
@@ -11128,8 +11125,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/upload/mycontent/
-.dnvod.tv/g/
+.dnvod.tv/w/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -11186,6 +11182,7 @@ cpro.*.
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.delivery-pc.wasu.cn
 .deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
@@ -11988,6 +11985,7 @@ cpro.*.
 .962.net/show/bt\.js
 .962.net/show/all_
 .962.net/show/all\.js
+.96.44.141.133/960x90\.gif
 .9553.com/otherhtml/
 .949d.com/960-90\.gif
 .949949.com/2013/end/hot_news\.js
@@ -13863,6 +13861,7 @@ tanchuan.htm*.
 .couqm.com.cn
 .cosoyoo.com
 .corocksi.com
+.coostack.com
 .cooolyi.cn
 .coolnay.com
 .compass-fit.jp
@@ -13946,6 +13945,7 @@ tanchuan.htm*.
 .billionfocus.com
 .bigbos.top
 .biddingx.com
+.bench-life.me
 .behe.com
 .beeho.site
 .bebelait.com
@@ -14457,8 +14457,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.bench-life.me
-.coostack.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15752,6 +15750,7 @@ TAG:^adfilter-block-request$
 .esyzdb.com
 .dzisou.com
 .duoyidd.com
+.dtzysm.com
 .dkdlsj.com
 .dezfu.com
 .ddg1277.com
@@ -15823,7 +15822,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dtzysm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16169,9 +16167,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.delivery-pc.wasu.cn
-.white-plus.net/images/men
-.96.44.141.133/960x90\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16542,6 +16537,7 @@ a.kj-cy.cn
 .whnews.cn/wh_public/xuxu/
 .whnews.cn/wh_public/dl/
 .whnews.cn/news/data/.*gg
+.white-plus.net/images/men
 .whinfo.net.cn/ad20
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
@@ -18770,8 +18766,7 @@ a.kj-cy.cn
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
-.dnvod.tv/upload/mycontent/
-.dnvod.tv/g/
+.dnvod.tv/w/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
@@ -18825,6 +18820,7 @@ a.kj-cy.cn
 .demaxiya.com/v4/dd/
 .delivery.wasu.cn
 .delivery.playallvideos.com
+.delivery-pc.wasu.cn
 .deliver.ifeng.com
 .debugease.com/static/images/qcloud/
 .dealmoon.com/upload/dealmoon_app\.jpg
@@ -19601,6 +19597,7 @@ a.kj-cy.cn
 .962.net/show/down_
 .962.net/show/bt\.js
 .962.net/show/all\.js
+.96.44.141.133/960x90\.gif
 .9553.com/otherhtml/
 .949d.com/960-90\.gif
 .949949.com/2013/end/hot_news\.js
@@ -21139,6 +21136,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .bingyinq.com
 .billionfocus.com
 .bigbos.top
+.bench-life.me
 .beeho.site
 .bebelait.com
 .bdtongfei.cn
@@ -21385,7 +21383,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.bench-life.me
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22584,6 +22581,7 @@ gg.*.
 .cr-nielsen.com
 .cpm360.com
 .cpc.cc
+.coostack.com
 .coolnay.com
 .coinadv.com
 .cnxad.com
@@ -22781,7 +22779,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.coostack.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
@@ -23731,7 +23728,6 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
-.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -23742,6 +23738,7 @@ TAG:^adfilter-unblock-dnt$
 .pingjs.qq.com
 .panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
+.meituan.net/bs/js/.*/js/tracker\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
@@ -24742,7 +24739,6 @@ Loadads.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
-.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -24753,6 +24749,7 @@ TAG:^adfilter-unblock-elem$
 .pingjs.qq.com
 .panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
+.meituan.net/bs/js/.*/js/tracker\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
@@ -25744,7 +25741,6 @@ Loadads.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
-.meituan.net/bs/js/.*/js/tracker\.js
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -25753,6 +25749,7 @@ TAG:^adfilter-unblock-request$
 .stjscn.s-msn.com/portal/hp/2011/udctrack\.
 .panda.tv/ajax_login\?.*&refer=http
 .msn.wrating.com/a1\.js
+.meituan.net/bs/js/.*/js/tracker\.js
 .lobi.co/1/track/event/
 .lesports.com/pc/\?\?.*/click_statistics/
 .kfcorder.com.tw/web/Script/Analytics\.js
