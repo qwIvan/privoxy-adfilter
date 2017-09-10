@@ -419,6 +419,7 @@ TAG:^adfilter-block-dnt$
 .daima.23yy.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.xaoyo.com
 .d.tonghua5.com
 .d.mingyihui.net
 .cpro1.edushi.com
@@ -593,16 +594,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.d.xaoyo.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.south-plus.net/images/men
-.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
-.gansudaily.com.cn/2017zt/images/.*gg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1322,6 +1319,7 @@ cpro.*.
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
+.south-plus.net/images/men
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -2400,6 +2398,7 @@ cpro.*.
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
 .jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
@@ -3011,6 +3010,7 @@ cpro.*.
 .gaoqingkong.com/images/body\.jpg
 .gaoqingkong.com/images/bann
 .gaofen.com/source/plugin/gaofen_ad/
+.gansudaily.com.cn/2017zt/images/.*gg
 .ganjituiguang.ganji.com
 .ganjistatic1.com/.*/adm/
 .ganjistatic1.com/.*-banner-
@@ -5819,6 +5819,7 @@ tanchuan.htm*.
 .gzbywl.com
 .gygdmy.com
 .gydag.com
+.gxejgs.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -6638,7 +6639,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gxejgs.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8247,6 +8247,7 @@ TAG:^adfilter-block-elem$
 .daima.23yy.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.xaoyo.com
 .d.tonghua5.com
 .d.mingyihui.net
 .cpro1.edushi.com
@@ -8421,16 +8422,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.d.xaoyo.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.south-plus.net/images/men
-.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
-.gansudaily.com.cn/2017zt/images/.*gg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9150,6 +9147,7 @@ cpro.*.
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
+.south-plus.net/images/men
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -10228,6 +10226,7 @@ cpro.*.
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
 .jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
@@ -10839,6 +10838,7 @@ cpro.*.
 .gaoqingkong.com/images/body\.jpg
 .gaoqingkong.com/images/bann
 .gaofen.com/source/plugin/gaofen_ad/
+.gansudaily.com.cn/2017zt/images/.*gg
 .ganjituiguang.ganji.com
 .ganjistatic1.com/.*/adm/
 .ganjistatic1.com/.*-banner-
@@ -13647,6 +13647,7 @@ tanchuan.htm*.
 .gzbywl.com
 .gygdmy.com
 .gydag.com
+.gxejgs.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -14466,7 +14467,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gxejgs.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -16019,6 +16019,7 @@ TAG:^adfilter-block-request$
 .daima.23yy.com
 .d6.mobaders.com
 .d.xinshipu.com
+.d.xaoyo.com
 .d.tonghua5.com
 .d.mingyihui.net
 .cpro1.edushi.com
@@ -16176,11 +16177,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.d.xaoyo.com
 /(.*/)?tps/noexpire/.*
-.south-plus.net/images/men
-.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
-.gansudaily.com.cn/2017zt/images/.*gg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16880,6 +16877,7 @@ a.kj-cy.cn
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
+.south-plus.net/images/men
 .soulu365.com/images/zhuce\.jpg
 .soul-plus.net/images/men
 .sopan.me/images/1\.gif
@@ -17912,6 +17910,7 @@ a.kj-cy.cn
 .jd.com/exsites\?spread_type=
 .jd-bbs.com/.*/gif/
 .jd-bbs.com/tianyi/
+.jcrb.com/ZYW/SY/LMWJJ_43357/201602/W020170903815576955721\.jpg
 .jbzyw.com/Application/M/adv/
 .jb51.net/.*Loader\.js
 .jb51.net/templets/2016js/
@@ -18505,6 +18504,7 @@ a.kj-cy.cn
 .gaoqingkong.com/images/body\.jpg
 .gaoqingkong.com/images/bann
 .gaofen.com/source/plugin/gaofen_ad/
+.gansudaily.com.cn/2017zt/images/.*gg
 .ganjituiguang.ganji.com
 .ganjistatic1.com/.*/adm/
 .ganjistatic1.com/.*-banner-
@@ -20937,6 +20937,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gzktpf.com
 .gygdmy.com
 .gydag.com
+.gxejgs.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -21397,7 +21398,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.gxejgs.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
