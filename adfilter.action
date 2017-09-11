@@ -596,6 +596,7 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.ty1.263y.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8435,6 +8436,7 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.ty1.263y.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16201,6 +16203,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.ty1.263y.com
 /(.*/)?tps/noexpire/.*
 .g.lznews.cn
 .beareyes.com.cn/2/cat/js/.*_right
