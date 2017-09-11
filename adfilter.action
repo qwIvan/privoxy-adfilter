@@ -16,6 +16,7 @@ TAG:^adfilter-block-dnt$
 .ztxbd.com
 .zsxpx.com
 .zpoder.com
+.zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
 .yyhqch.com
@@ -177,7 +178,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zjkdaikuan.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -601,11 +601,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.glzy8.com/img/ceo/js\.js
-.104.216.179.228/vip/
-.mp4ba.net/static/js/mp4ba\.js
-.ppddxx.com/tonglan
-.ppddxx.com/ad777\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1742,6 +1737,8 @@ cpro.*.
 .ppsj.com.cn/images/usa_250_120\.gif
 .ppsj.com.cn/images/ppsj300\.gif
 .ppshk.com/.*banner/
+.ppddxx.com/tonglan
+.ppddxx.com/ad777\.js
 .poxiao.com/template/default/images/12345\.js
 .potplayer.org/sc/
 .poster.weather.com.cn
@@ -1994,6 +1991,7 @@ cpro.*.
 .msdn.hk/templets/msdn/css/msdng\.js
 .msdn.hk/templets/msdn/css/index\.js
 .mql5.com/data\?
+.mp4ba.net/static/js/mp4ba\.js
 .mp3.haogeba.com
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
@@ -2968,6 +2966,7 @@ cpro.*.
 .gmbuluo.com/js/liebiao
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
+.glzy8.com/img/ceo/js\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -4753,6 +4752,7 @@ cpro.*.
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
 .107.182.131.103/cache/\?q=/images/
+.104.216.179.228/vip/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
 .1010pic.com/scripts/hd/yueyue3\.js
@@ -6963,6 +6963,7 @@ ad-footer.js*.
 /(.*/)?22tu/ads/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
+/(.*/)?1linbAte_mplatk/.*
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -7037,7 +7038,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?1linbAte_mplatk/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -7851,6 +7851,7 @@ TAG:^adfilter-block-elem$
 .ztxbd.com
 .zsxpx.com
 .zpoder.com
+.zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
 .yyhqch.com
@@ -8012,7 +8013,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zjkdaikuan.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8436,11 +8436,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.glzy8.com/img/ceo/js\.js
-.104.216.179.228/vip/
-.mp4ba.net/static/js/mp4ba\.js
-.ppddxx.com/tonglan
-.ppddxx.com/ad777\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9577,6 +9572,8 @@ cpro.*.
 .ppsj.com.cn/images/usa_250_120\.gif
 .ppsj.com.cn/images/ppsj300\.gif
 .ppshk.com/.*banner/
+.ppddxx.com/tonglan
+.ppddxx.com/ad777\.js
 .poxiao.com/template/default/images/12345\.js
 .potplayer.org/sc/
 .poster.weather.com.cn
@@ -9829,6 +9826,7 @@ cpro.*.
 .msdn.hk/templets/msdn/css/msdng\.js
 .msdn.hk/templets/msdn/css/index\.js
 .mql5.com/data\?
+.mp4ba.net/static/js/mp4ba\.js
 .mp3.haogeba.com
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
@@ -10803,6 +10801,7 @@ cpro.*.
 .gmbuluo.com/js/liebiao
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
+.glzy8.com/img/ceo/js\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -12588,6 +12587,7 @@ cpro.*.
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
 .107.182.131.103/cache/\?q=/images/
+.104.216.179.228/vip/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
 .1010pic.com/scripts/hd/yueyue3\.js
@@ -14798,6 +14798,7 @@ ad-footer.js*.
 /(.*/)?22tu/ads/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
+/(.*/)?1linbAte_mplatk/.*
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -14872,7 +14873,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?1linbAte_mplatk/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15687,6 +15687,7 @@ TAG:^adfilter-block-request$
 .ztxbd.com
 .zsxpx.com
 .zpoder.com
+.zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
 .yyhqch.com
@@ -15846,7 +15847,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zjkdaikuan.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16193,11 +16193,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.glzy8.com/img/ceo/js\.js
-.104.216.179.228/vip/
-.mp4ba.net/static/js/mp4ba\.js
-.ppddxx.com/tonglan
-.ppddxx.com/ad777\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17295,6 +17290,8 @@ a.kj-cy.cn
 .ppsj.com.cn/images/usa_250_120\.gif
 .ppsj.com.cn/images/ppsj300\.gif
 .ppshk.com/.*banner/
+.ppddxx.com/tonglan
+.ppddxx.com/ad777\.js
 .poxiao.com/template/default/images/12345\.js
 .potplayer.org/sc/
 .poster.weather.com.cn
@@ -17539,6 +17536,7 @@ a.kj-cy.cn
 .msdn.hk/templets/msdn/css/msdng\.js
 .msdn.hk/templets/msdn/css/index\.js
 .mql5.com/data\?
+.mp4ba.net/static/js/mp4ba\.js
 .motelppp.com/Content/img/hd
 .moratame.tw/img/contents/banner
 .mopxing.com/skin/sex/js/.*content
@@ -18477,6 +18475,7 @@ a.kj-cy.cn
 .gmbuluo.com/js/liebiao
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
+.glzy8.com/img/ceo/js\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -20193,6 +20192,7 @@ a.kj-cy.cn
 .108tec.com/zbs/floatcnoil_
 .108.171.248.234
 .107.182.131.103/cache/\?q=/images/
+.104.216.179.228/vip/
 .103.225.198.230:8080/index\.html
 .1024down.com/images/.*\.gif
 .1010pic.com/scripts/hd/yueyue3\.js
@@ -21728,6 +21728,7 @@ ad-footer.js*.
 /(.*/)?22tu/ads/.*
 /(.*/)?2016v2/js/adm2\.js
 /(.*/)?20160420_uho_bn\.gif
+/(.*/)?1linbAte_mplatk/.*
 /.*\.xyz/js/ads/
 .*.xyz/js/ads/
 /.*\.us/js/ads/
@@ -21800,7 +21801,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?1linbAte_mplatk/.*
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
