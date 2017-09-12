@@ -599,6 +599,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 .a1.jandan.net
+.z1.icauto.com.cn
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8447,6 +8448,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 .a1.jandan.net
+.z1.icauto.com.cn
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16222,6 +16224,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 .a1.jandan.net
+.z1.icauto.com.cn
 /(.*/)?tps/noexpire/.*
 .ifengimg.com/a/.*/core201
 .dlkoo.com/down/copy4\.js
