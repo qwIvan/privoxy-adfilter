@@ -98,6 +98,7 @@ TAG:^adfilter-block-dnt$
 .gyeet.com
 .gdsqwy.org
 .gadwhy.com
+.fyjyhm.com
 .fqzds.com
 .feifish66.com
 .fcrdb.com
@@ -178,7 +179,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.fyjyhm.com
+.dierqingchun.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -238,6 +239,7 @@ TAG:^adfilter-block-dnt$
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .u1.shuaiku.com
+.ty1.263y.com
 .tui98.cn
 .tt123.eastday.com
 .trebleperfect.com
@@ -596,16 +598,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.ty1.263y.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.g.lznews.cn
-.beareyes.com.cn/2/cat/js/.*_right
-.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2900,6 +2898,7 @@ cpro.*.
 .gusuwang.com/api/gsw_
 .guqu.net/Cooperate/
 .guokr.com/baidu-cbjs/
+.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .guitarchina.com/1/.*\.gif
 .guess.h.qhimg.com
 .gueizu.com/wp/img/xiazai
@@ -3050,6 +3049,7 @@ cpro.*.
 .g.rexian.net.cn/js/
 .g.ousns.net
 .g.mnw.cn
+.g.lznews.cn
 .g.jinti.com/f/a/a
 .g.hsw.cn
 .g.cnzz.cn/Static/js/.*-
@@ -3801,6 +3801,7 @@ cpro.*.
 .beephone.com.tw/ad-yahoo\.php
 .beephone.com.tw/ad-middle\.php
 .beareyes.com.cn/.*/ad/
+.beareyes.com.cn/2/cat/js/.*_right
 .beareyes.com.cn/2/cat/js/.*_centerl
 .bdstatic.com/.*/tam-ogel/
 .bdstatic.com/.*/QSURrcmRKV\.js
@@ -7938,6 +7939,7 @@ TAG:^adfilter-block-elem$
 .gyeet.com
 .gdsqwy.org
 .gadwhy.com
+.fyjyhm.com
 .fqzds.com
 .feifish66.com
 .fcrdb.com
@@ -8018,7 +8020,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.fyjyhm.com
+.dierqingchun.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8078,6 +8080,7 @@ TAG:^adfilter-block-elem$
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .u1.shuaiku.com
+.ty1.263y.com
 .tui98.cn
 .tt123.eastday.com
 .trebleperfect.com
@@ -8436,16 +8439,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.ty1.263y.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.g.lznews.cn
-.beareyes.com.cn/2/cat/js/.*_right
-.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10740,6 +10739,7 @@ cpro.*.
 .gusuwang.com/api/gsw_
 .guqu.net/Cooperate/
 .guokr.com/baidu-cbjs/
+.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .guitarchina.com/1/.*\.gif
 .guess.h.qhimg.com
 .gueizu.com/wp/img/xiazai
@@ -10890,6 +10890,7 @@ cpro.*.
 .g.rexian.net.cn/js/
 .g.ousns.net
 .g.mnw.cn
+.g.lznews.cn
 .g.jinti.com/f/a/a
 .g.hsw.cn
 .g.cnzz.cn/Static/js/.*-
@@ -11641,6 +11642,7 @@ cpro.*.
 .beephone.com.tw/ad-yahoo\.php
 .beephone.com.tw/ad-middle\.php
 .beareyes.com.cn/.*/ad/
+.beareyes.com.cn/2/cat/js/.*_right
 .beareyes.com.cn/2/cat/js/.*_centerl
 .bdstatic.com/.*/tam-ogel/
 .bdstatic.com/.*/QSURrcmRKV\.js
@@ -15779,6 +15781,7 @@ TAG:^adfilter-block-request$
 .gyeet.com
 .gdsqwy.org
 .gadwhy.com
+.fyjyhm.com
 .fqzds.com
 .feifish66.com
 .fcrdb.com
@@ -15857,7 +15860,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.fyjyhm.com
+.dierqingchun.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -15904,6 +15907,7 @@ TAG:^adfilter-block-request$
 .un1.takefoto.cn
 .uc2.atobo.com.cn
 .u1.shuaiku.com
+.ty1.263y.com
 .tui98.cn
 .tt123.eastday.com
 .ticcdn.com
@@ -16203,11 +16207,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.ty1.263y.com
 /(.*/)?tps/noexpire/.*
-.g.lznews.cn
-.beareyes.com.cn/2/cat/js/.*_right
-.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18420,6 +18420,7 @@ a.kj-cy.cn
 .gusuwang.com/api/gsw_
 .guqu.net/Cooperate/
 .guokr.com/baidu-cbjs/
+.guokr.com/apis/flowingboard/flowingboard\.json\?name=post_sidepic
 .guitarchina.com/1/.*\.gif
 .guess.h.qhimg.com
 .gueizu.com/wp/img/xiazai
@@ -18565,6 +18566,7 @@ a.kj-cy.cn
 .g.rexian.net.cn/js/
 .g.ousns.net
 .g.mnw.cn
+.g.lznews.cn
 .g.jinti.com/f/a/a
 .g.hsw.cn
 .g.cnzz.cn/Static/js/.*-
@@ -19281,6 +19283,7 @@ a.kj-cy.cn
 .beephone.com.tw/ad-yahoo\.php
 .beephone.com.tw/ad-middle\.php
 .beareyes.com.cn/.*/ad/
+.beareyes.com.cn/2/cat/js/.*_right
 .beareyes.com.cn/2/cat/js/.*_centerl
 .bdstatic.com/.*/tam-ogel/
 .bdstatic.com/.*/QSURrcmRKV\.js
