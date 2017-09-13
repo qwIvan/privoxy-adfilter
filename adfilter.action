@@ -2886,7 +2886,6 @@ cpro.*.
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
-.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -6664,6 +6663,9 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.package12.com
+.sp96878.com
+.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -10740,7 +10742,6 @@ cpro.*.
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
-.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -14518,6 +14519,9 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.package12.com
+.sp96878.com
+.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -18434,7 +18438,6 @@ a.kj-cy.cn
 .hangzhou.com.cn/extra/flash/hzwarticle300\.swf
 .haiwainet.cn*./(.*/)?k\.js
 .hainei.org/union/
-.haibao.com/js/article
 .haha.mx/upload/data/list_sidebar_
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
@@ -21475,6 +21478,9 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.package12.com
+.sp96878.com
+.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
