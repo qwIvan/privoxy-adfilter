@@ -602,6 +602,7 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a.ut8d.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -6663,7 +6664,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.package12.com
 .sp96878.com
 .hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
@@ -8458,6 +8458,7 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a.ut8d.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -14519,7 +14520,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.package12.com
 .sp96878.com
 .hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
@@ -16241,6 +16241,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a.ut8d.com
 /(.*/)?tps/noexpire/.*
 .stheadline.com/images/heading-jm
 .hackhome.com/js/dright\.js
@@ -21478,7 +21479,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.package12.com
 .sp96878.com
 .hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
