@@ -6673,6 +6673,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .bjedpt.com
+.hascosafety.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14536,6 +14537,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .bjedpt.com
+.hascosafety.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21502,6 +21504,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
 .bjedpt.com
+.hascosafety.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
