@@ -50,6 +50,7 @@ TAG:^adfilter-block-dnt$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.requested.cn
 .represented.cn
 .rbywg.com
 .qzdag.com
@@ -93,6 +94,7 @@ TAG:^adfilter-block-dnt$
 .hmttoly.com
 .hk9600.com
 .hbyyzm.com
+.gznsyh.com
 .gzmzts.com
 .gyrtg.com
 .gyeet.com
@@ -180,8 +182,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.gznsyh.com
-.requested.cn
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -515,6 +515,7 @@ TAG:^adfilter-block-dnt$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.ut8d.com
 .a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
@@ -602,16 +603,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.a.ut8d.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.stheadline.com/images/heading-jm
-.hackhome.com/js/dright\.js
-.hackhome.com/js/bhref\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1292,6 +1289,7 @@ cpro.*.
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
+.stheadline.com/images/heading-jm
 .stheadline.com/.*banner
 .steelcn.cn/img/bj_.*_146_315\.jpg
 .steamcn.com/img/
@@ -2891,6 +2889,8 @@ cpro.*.
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
 .hackhome.com/js/zt\.js
+.hackhome.com/js/dright\.js
+.hackhome.com/js/bhref\.js
 .hackhome.com/js/.*top\.js
 .hackhome.com/hz/.*down
 .gywb.cn/gggl/
@@ -5344,6 +5344,7 @@ tanchuan.htm*.
 .sqext.com
 .sphwq.net
 .spcode.baidu.com
+.sp96878.com
 .souacode.com
 .sos0easy.com
 .socdm.com
@@ -5798,6 +5799,7 @@ tanchuan.htm*.
 .hr41.cn
 .housefun.com.tw
 .houdaolj.com
+.hot-eam.com
 .hnyny.com
 .hntymg.com
 .hnctsm.com
@@ -6664,8 +6666,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.sp96878.com
-.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7906,6 +7906,7 @@ TAG:^adfilter-block-elem$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.requested.cn
 .represented.cn
 .rbywg.com
 .qzdag.com
@@ -7949,6 +7950,7 @@ TAG:^adfilter-block-elem$
 .hmttoly.com
 .hk9600.com
 .hbyyzm.com
+.gznsyh.com
 .gzmzts.com
 .gyrtg.com
 .gyeet.com
@@ -8036,8 +8038,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.gznsyh.com
-.requested.cn
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8371,6 +8371,7 @@ TAG:^adfilter-block-elem$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.ut8d.com
 .a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
@@ -8458,16 +8459,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.a.ut8d.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.stheadline.com/images/heading-jm
-.hackhome.com/js/dright\.js
-.hackhome.com/js/bhref\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9148,6 +9145,7 @@ cpro.*.
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
+.stheadline.com/images/heading-jm
 .stheadline.com/.*banner
 .steelcn.cn/img/bj_.*_146_315\.jpg
 .steamcn.com/img/
@@ -10747,6 +10745,8 @@ cpro.*.
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
 .hackhome.com/js/zt\.js
+.hackhome.com/js/dright\.js
+.hackhome.com/js/bhref\.js
 .hackhome.com/js/.*top\.js
 .hackhome.com/hz/.*down
 .gywb.cn/gggl/
@@ -13200,6 +13200,7 @@ tanchuan.htm*.
 .sqext.com
 .sphwq.net
 .spcode.baidu.com
+.sp96878.com
 .souacode.com
 .sos0easy.com
 .socdm.com
@@ -13654,6 +13655,7 @@ tanchuan.htm*.
 .hr41.cn
 .housefun.com.tw
 .houdaolj.com
+.hot-eam.com
 .hnyny.com
 .hntymg.com
 .hnctsm.com
@@ -14520,8 +14522,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.sp96878.com
-.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15763,6 +15763,7 @@ TAG:^adfilter-block-request$
 .smxay.com
 .shumilou.co/style/html5\.js
 .sdkdm.com
+.requested.cn
 .represented.cn
 .rbywg.com
 .qzdag.com
@@ -15806,6 +15807,7 @@ TAG:^adfilter-block-request$
 .hmttoly.com
 .hk9600.com
 .hbyyzm.com
+.gznsyh.com
 .gzmzts.com
 .gyrtg.com
 .gyeet.com
@@ -15891,8 +15893,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.gznsyh.com
-.requested.cn
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16166,6 +16166,7 @@ TAG:^adfilter-block-request$
 .a.yangshengtang123.com
 .a.xixiyishu.com
 .a.xinwenge.net
+.a.ut8d.com
 .a.thn21.com
 .a.shuoshuodaquan.net
 .a.shenchuang.com
@@ -16241,11 +16242,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.a.ut8d.com
 /(.*/)?tps/noexpire/.*
-.stheadline.com/images/heading-jm
-.hackhome.com/js/dright\.js
-.hackhome.com/js/bhref\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16907,6 +16904,7 @@ a.kj-cy.cn
 .stockstar.com/info/.*0x
 .stockstar.com/.*DUILIAN&t=
 .stheadline.com/.*/right_promo\.js
+.stheadline.com/images/heading-jm
 .steelcn.cn/img/bj_.*_146_315\.jpg
 .steamcn.com/img/
 .steamcn.com/data/attachment/common/.*\.gif
@@ -18443,6 +18441,8 @@ a.kj-cy.cn
 .haha.mx/upload/data/detail_
 .haha.mx/images/market/
 .hackhome.com/js/zt\.js
+.hackhome.com/js/dright\.js
+.hackhome.com/js/bhref\.js
 .hackhome.com/js/.*top\.js
 .hackhome.com/hz/.*down
 .gywb.cn/gggl/
@@ -20669,6 +20669,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .sscefsol.com
 .sqext.com
 .spcode.baidu.com
+.sp96878.com
 .sos0easy.com
 .socdm.com
 .so9l.com
@@ -20984,6 +20985,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hr44.com
 .hr41.cn
 .houdaolj.com
+.hot-eam.com
 .hnyny.com
 .hntymg.com
 .hnctsm.com
@@ -21479,8 +21481,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.sp96878.com
-.hot-eam.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -23865,6 +23865,7 @@ TAG:^adfilter-unblock-dnt$
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
 .zjol.com.cn/.*/index\.jsp\?newsid=
+.zimuku.net/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -24214,7 +24215,6 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.zimuku.net/ads\.js
 
 {+client-header-tagger{adfilter-unblock-dnt-R201} \
 }
@@ -24876,6 +24876,7 @@ TAG:^adfilter-unblock-elem$
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
+.zimuku.net/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -25217,7 +25218,6 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.zimuku.net/ads\.js
 
 {+client-header-tagger{adfilter-unblock-elem-R201} \
 }
@@ -25878,6 +25878,7 @@ TAG:^adfilter-unblock-request$
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
 .zjol.com.cn/.*/index\.jsp\?newsid=
+.zimuku.net/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -26200,7 +26201,6 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.zimuku.net/ads\.js
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
