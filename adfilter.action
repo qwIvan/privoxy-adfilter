@@ -23872,7 +23872,7 @@ TAG:^-adfilter-unblock-request-nR$
 { \
 }
 TAG:^adfilter-unblock-dnt$
-.vd.l.qq.com/proxyhttp
+.l.qq.com/proxyhttp
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -24885,7 +24885,7 @@ Loadads.*.
 {-filter{adfilter-elemhide-filter} \
 }
 TAG:^adfilter-unblock-elem$
-.vd.l.qq.com/proxyhttp
+.l.qq.com/proxyhttp
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
@@ -25889,7 +25889,7 @@ Loadads.*.
 +client-header-tagger{ab2b-unblock-u} \
 }
 TAG:^adfilter-unblock-request$
-.vd.l.qq.com/proxyhttp
+.l.qq.com/proxyhttp
 .youku.com/cms/playlog/get\?
 .youku.com/cms/player/userinfo/
 .tracklog.58.com/referrer
