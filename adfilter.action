@@ -24860,26 +24860,30 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R329} \
 }
-.simba.taobao.com/\?name=tcmad&
+.itc.*./(.*[^\w%.-])?prod=ad&
 
 {+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
-/(.*/)?analytics\.php\?
+.simba.taobao.com/\?name=tcmad&
 
 {+client-header-tagger{adfilter-unblock-dnt-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?analytics\.php\?
 
 {+client-header-tagger{adfilter-unblock-dnt-R332} \
+}
+/(.*/)?adblock_
+
+{+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R333} \
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R334} \
+{+client-header-tagger{adfilter-unblock-dnt-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -25860,26 +25864,30 @@ Loadads.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R329} \
 }
-.simba.taobao.com/\?name=tcmad&
+.itc.*./(.*[^\w%.-])?prod=ad&
 
 {+client-header-tagger{adfilter-unblock-elem-R330} \
 }
-/(.*/)?analytics\.php\?
+.simba.taobao.com/\?name=tcmad&
 
 {+client-header-tagger{adfilter-unblock-elem-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?analytics\.php\?
 
 {+client-header-tagger{adfilter-unblock-elem-R332} \
+}
+/(.*/)?adblock_
+
+{+client-header-tagger{adfilter-unblock-elem-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-elem-R333} \
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R334} \
+{+client-header-tagger{adfilter-unblock-elem-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -27041,31 +27049,36 @@ Loadads.*.
 {-block \
  +client-header-tagger{adfilter-unblock-request-R329} \
 }
-.simba.taobao.com/\?name=tcmad&
+.itc.*./(.*[^\w%.-])?prod=ad&
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R330} \
 }
-/(.*/)?analytics\.php\?
+.simba.taobao.com/\?name=tcmad&
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R331} \
 }
-/(.*/)?adblock_
+/(.*/)?analytics\.php\?
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-R332} \
+}
+/(.*/)?adblock_
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R333} \
 }
 .pos.baidu.com
 .baidustatic.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R333} \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 /(.*/)?pic/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R334} \
+ +client-header-tagger{adfilter-unblock-request-R335} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
