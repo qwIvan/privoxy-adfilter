@@ -606,6 +606,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 .chuangyixi.com
+.h1.kukuw.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8484,6 +8485,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 .chuangyixi.com
+.h1.kukuw.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16289,6 +16291,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 .chuangyixi.com
+.h1.kukuw.com
 /(.*/)?tps/noexpire/.*
 .divcss5.com*./(.*/)?liping/
 .005.tv/templets/muban/js/jquery-1\.8\.3\.js
@@ -24829,9 +24832,13 @@ adx.*.
 
 {+client-header-tagger{adfilter-unblock-dnt-R320} \
 }
-.geo.query.yahoo.com
+.pubads.g.doubleclick.net/gpt/pubads_impl_
 
 {+client-header-tagger{adfilter-unblock-dnt-R321} \
+}
+.geo.query.yahoo.com
+
+{+client-header-tagger{adfilter-unblock-dnt-R322} \
 }
 .tw.m.yimg.com/res/ads/
 
@@ -24840,62 +24847,62 @@ adx.*.
 /(.*/)?popunderv2\.
 popunderv2.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R322} \
+{+client-header-tagger{adfilter-unblock-dnt-R323} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 .g.doubleclick.net/gampad/adx\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R323} \
+{+client-header-tagger{adfilter-unblock-dnt-R324} \
 }
 /(.*/)?adsshow/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R324} \
+{+client-header-tagger{adfilter-unblock-dnt-R325} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R325} \
+{+client-header-tagger{adfilter-unblock-dnt-R326} \
 }
 /(.*/)?pop\.php\?id=
 
-{+client-header-tagger{adfilter-unblock-dnt-R326} \
+{+client-header-tagger{adfilter-unblock-dnt-R327} \
 }
 /(.*/)?show_ad_
 
-{+client-header-tagger{adfilter-unblock-dnt-R327} \
+{+client-header-tagger{adfilter-unblock-dnt-R328} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
-{+client-header-tagger{adfilter-unblock-dnt-R328} \
+{+client-header-tagger{adfilter-unblock-dnt-R329} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
-{+client-header-tagger{adfilter-unblock-dnt-R329} \
+{+client-header-tagger{adfilter-unblock-dnt-R330} \
 }
 .itc.*./(.*[^\w%.-])?prod=ad&
 
-{+client-header-tagger{adfilter-unblock-dnt-R330} \
+{+client-header-tagger{adfilter-unblock-dnt-R331} \
 }
 .simba.taobao.com/\?name=tcmad&
 
-{+client-header-tagger{adfilter-unblock-dnt-R331} \
+{+client-header-tagger{adfilter-unblock-dnt-R332} \
 }
 /(.*/)?analytics\.php\?
 
-{+client-header-tagger{adfilter-unblock-dnt-R332} \
+{+client-header-tagger{adfilter-unblock-dnt-R333} \
 }
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-dnt-R333} \
+{+client-header-tagger{adfilter-unblock-dnt-R334} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-dnt-R334} \
+{+client-header-tagger{adfilter-unblock-dnt-R335} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-dnt-R335} \
+{+client-header-tagger{adfilter-unblock-dnt-R336} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -25833,9 +25840,13 @@ adx.*.
 
 {+client-header-tagger{adfilter-unblock-elem-R320} \
 }
-.geo.query.yahoo.com
+.pubads.g.doubleclick.net/gpt/pubads_impl_
 
 {+client-header-tagger{adfilter-unblock-elem-R321} \
+}
+.geo.query.yahoo.com
+
+{+client-header-tagger{adfilter-unblock-elem-R322} \
 }
 .tw.m.yimg.com/res/ads/
 
@@ -25844,62 +25855,62 @@ adx.*.
 /(.*/)?popunderv2\.
 popunderv2.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R322} \
+{+client-header-tagger{adfilter-unblock-elem-R323} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 .g.doubleclick.net/gampad/adx\?
 
-{+client-header-tagger{adfilter-unblock-elem-R323} \
+{+client-header-tagger{adfilter-unblock-elem-R324} \
 }
 /(.*/)?adsshow/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R324} \
+{+client-header-tagger{adfilter-unblock-elem-R325} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R325} \
+{+client-header-tagger{adfilter-unblock-elem-R326} \
 }
 /(.*/)?pop\.php\?id=
 
-{+client-header-tagger{adfilter-unblock-elem-R326} \
+{+client-header-tagger{adfilter-unblock-elem-R327} \
 }
 /(.*/)?show_ad_
 
-{+client-header-tagger{adfilter-unblock-elem-R327} \
+{+client-header-tagger{adfilter-unblock-elem-R328} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
-{+client-header-tagger{adfilter-unblock-elem-R328} \
+{+client-header-tagger{adfilter-unblock-elem-R329} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
-{+client-header-tagger{adfilter-unblock-elem-R329} \
+{+client-header-tagger{adfilter-unblock-elem-R330} \
 }
 .itc.*./(.*[^\w%.-])?prod=ad&
 
-{+client-header-tagger{adfilter-unblock-elem-R330} \
+{+client-header-tagger{adfilter-unblock-elem-R331} \
 }
 .simba.taobao.com/\?name=tcmad&
 
-{+client-header-tagger{adfilter-unblock-elem-R331} \
+{+client-header-tagger{adfilter-unblock-elem-R332} \
 }
 /(.*/)?analytics\.php\?
 
-{+client-header-tagger{adfilter-unblock-elem-R332} \
+{+client-header-tagger{adfilter-unblock-elem-R333} \
 }
 /(.*/)?adblock_
 
-{+client-header-tagger{adfilter-unblock-elem-R333} \
+{+client-header-tagger{adfilter-unblock-elem-R334} \
 }
 .pos.baidu.com
 .baidustatic.com
 
-{+client-header-tagger{adfilter-unblock-elem-R334} \
+{+client-header-tagger{adfilter-unblock-elem-R335} \
 }
 /(.*/)?pic/ad/.*
 
-{+client-header-tagger{adfilter-unblock-elem-R335} \
+{+client-header-tagger{adfilter-unblock-elem-R336} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -27012,7 +27023,12 @@ adx.*.
 .ads.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R321} \
+ +client-header-tagger{adfilter-unblock-request-R320} \
+}
+.pubads.g.doubleclick.net/gpt/pubads_impl_
+
+{-block \
+ +client-header-tagger{adfilter-unblock-request-R322} \
 }
 .tw.m.yimg.com/res/ads/
 
@@ -27023,74 +27039,74 @@ adx.*.
 popunderv2.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R322} \
+ +client-header-tagger{adfilter-unblock-request-R323} \
 }
 .ifengimg.com/pdt/cfg/mudu/aplayer\.xml
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R323} \
+ +client-header-tagger{adfilter-unblock-request-R324} \
 }
 /(.*/)?adsshow/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R324} \
+ +client-header-tagger{adfilter-unblock-request-R325} \
 }
 .sinaimg.cn/unipro/pub/suda_m_v629\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R325} \
+ +client-header-tagger{adfilter-unblock-request-R326} \
 }
 /(.*/)?pop\.php\?id=
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R326} \
+ +client-header-tagger{adfilter-unblock-request-R327} \
 }
 /(.*/)?show_ad_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R327} \
+ +client-header-tagger{adfilter-unblock-request-R328} \
 }
 /(.*/)?Loadads\.
 Loadads.*.
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R328} \
+ +client-header-tagger{adfilter-unblock-request-R329} \
 }
 .sinajs.cn/open/analytics/js/suda\.js
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R329} \
+ +client-header-tagger{adfilter-unblock-request-R330} \
 }
 .itc.*./(.*[^\w%.-])?prod=ad&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R330} \
+ +client-header-tagger{adfilter-unblock-request-R331} \
 }
 .simba.taobao.com/\?name=tcmad&
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R331} \
+ +client-header-tagger{adfilter-unblock-request-R332} \
 }
 /(.*/)?analytics\.php\?
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R332} \
+ +client-header-tagger{adfilter-unblock-request-R333} \
 }
 /(.*/)?adblock_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R333} \
+ +client-header-tagger{adfilter-unblock-request-R334} \
 }
 .pos.baidu.com
 .baidustatic.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R334} \
+ +client-header-tagger{adfilter-unblock-request-R335} \
 }
 /(.*/)?pic/ad/.*
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-R335} \
+ +client-header-tagger{adfilter-unblock-request-R336} \
 }
 .a.ads.cn.miaozhen.com
 /.*u-ads\.adap\.tv.*youku\.
@@ -27108,12 +27124,12 @@ TAG:^adfilter-unblock-request-Xx$
 /(.*/)?hitCount_
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Xx-when-R320} \
+ +client-header-tagger{adfilter-unblock-request-Xx-when-R321} \
 }
 .geo.query.yahoo.com
 
 {-block \
- +client-header-tagger{adfilter-unblock-request-Xx-when-R322} \
+ +client-header-tagger{adfilter-unblock-request-Xx-when-R323} \
 }
 .g.doubleclick.net/gampad/adx\?
 
