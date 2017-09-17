@@ -24297,6 +24297,7 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
+.petrochina.com.cn/advertisement_
 
 {+client-header-tagger{adfilter-unblock-dnt-R201} \
 }
@@ -25309,6 +25310,7 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
+.petrochina.com.cn/advertisement_
 
 {+client-header-tagger{adfilter-unblock-elem-R201} \
 }
@@ -26301,6 +26303,7 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
+.petrochina.com.cn/advertisement_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
