@@ -605,6 +605,7 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.chuangyixi.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8481,6 +8482,7 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.chuangyixi.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16284,6 +16286,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.chuangyixi.com
 /(.*/)?tps/noexpire/.*
 .005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .zzzyk.com/js/
