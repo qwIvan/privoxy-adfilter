@@ -609,6 +609,7 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8499,6 +8500,7 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16316,6 +16318,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
 .ifengimg.com/iamsImg/.*_w100_h550\.
 .dbw.cn/eap/js/ss/
