@@ -10,6 +10,7 @@ TAG:^adfilter-block-dnt$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.zywhjd.com
 .zxjjzx.com
 .zxhymh.com
 .zwkssb.com
@@ -183,7 +184,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zywhjd.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -359,6 +359,7 @@ TAG:^adfilter-block-dnt$
 .hapic1.jhkxwl.com
 .hao.315hyw.com
 .h1.tvhome.com
+.h1.kukuw.com
 .gzpinda.com
 .gzlykj.cn
 .gushifanyi.com
@@ -374,6 +375,7 @@ TAG:^adfilter-block-dnt$
 .gewuwen.com
 .gd.jqgc.com
 .g1.taijuba.com
+.g.pgu.cc
 .fuz.cc
 .fpb1.chinacar.asia
 .fpb.51edu.com
@@ -437,6 +439,7 @@ TAG:^adfilter-block-dnt$
 .cp.greenxf.cn
 .cod.southmoney.com
 .cm.baidu.com
+.chuangyixi.com
 .chnci.com
 .chinacsky.com
 .chicken18.com
@@ -606,21 +609,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.chuangyixi.com
-.h1.kukuw.com
-.g.pgu.cc
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cp121.com/js2/
-.gtimg.com/sports/000/
-.yuanlai521.com/tu/690-90\.gif
-.mt30.com/good/
-.divcss5.com*./(.*/)?liping/
-.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -767,6 +761,7 @@ cpro.*.
 .yubei8.com/img/
 .yubei8.com/boximg/
 .yubei8.com/bar3\.js
+.yuanlai521.com/tu/690-90\.gif
 .ytbbs.com/images/index/
 .ysxs8.com/ysgg/
 .youxiaxiazai.com/dm/
@@ -2008,6 +2003,7 @@ cpro.*.
 .muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
+.mt30.com/good/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
 .msdn.hk/templets/msdn/js/gg\.js
@@ -2943,6 +2939,7 @@ cpro.*.
 .gtimg.com/sports/qingyang/
 .gtimg.com/sports/images/30090\.jpg
 .gtimg.com/sports/000_AD/
+.gtimg.com/sports/000/
 .gtimg.com/qqlive/
 .gtimg.com/pingjs/ext2020/dc/module/GJ/
 .gtimg.com/newsapp_ls/0/27161189/0
@@ -3370,6 +3367,7 @@ cpro.*.
 .djccc.com/js/a.*\.js
 .dj97.com/js/list_right_
 .diyijs.duapp.com
+.divcss5.com*./(.*/)?liping/
 .divcss5.com*./(.*/)?ibeifeng/
 .discuz.gtimg.cn/cloud/scripts/discuz_tips\.js
 .discuss.com.hk/yna.*_prod\.html
@@ -3476,6 +3474,7 @@ cpro.*.
 .cpd.com.cn/template/.*\.swf
 .cpbl-elta.cdn.hinet.net/web/images/ad_
 .cp1268.com/img/ad
+.cp121.com/js2/
 .cp.ifeng.com/iframe/getiframe
 .cp.eastmoney.com/wap/.*\.js
 .coolpc.com.tw/img/topweb\.html
@@ -4839,6 +4838,7 @@ cpro.*.
 .020.com/960-
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
@@ -7895,6 +7895,7 @@ TAG:^adfilter-block-elem$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.zywhjd.com
 .zxjjzx.com
 .zxhymh.com
 .zwkssb.com
@@ -8068,7 +8069,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zywhjd.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8244,6 +8244,7 @@ TAG:^adfilter-block-elem$
 .hapic1.jhkxwl.com
 .hao.315hyw.com
 .h1.tvhome.com
+.h1.kukuw.com
 .gzpinda.com
 .gzlykj.cn
 .gushifanyi.com
@@ -8259,6 +8260,7 @@ TAG:^adfilter-block-elem$
 .gewuwen.com
 .gd.jqgc.com
 .g1.taijuba.com
+.g.pgu.cc
 .fuz.cc
 .fpb1.chinacar.asia
 .fpb.51edu.com
@@ -8322,6 +8324,7 @@ TAG:^adfilter-block-elem$
 .cp.greenxf.cn
 .cod.southmoney.com
 .cm.baidu.com
+.chuangyixi.com
 .chnci.com
 .chinacsky.com
 .chicken18.com
@@ -8491,21 +8494,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.chuangyixi.com
-.h1.kukuw.com
-.g.pgu.cc
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.cp121.com/js2/
-.gtimg.com/sports/000/
-.yuanlai521.com/tu/690-90\.gif
-.mt30.com/good/
-.divcss5.com*./(.*/)?liping/
-.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8652,6 +8646,7 @@ cpro.*.
 .yubei8.com/img/
 .yubei8.com/boximg/
 .yubei8.com/bar3\.js
+.yuanlai521.com/tu/690-90\.gif
 .ytbbs.com/images/index/
 .ysxs8.com/ysgg/
 .youxiaxiazai.com/dm/
@@ -9893,6 +9888,7 @@ cpro.*.
 .muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
+.mt30.com/good/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
 .msdn.hk/templets/msdn/js/gg\.js
@@ -10828,6 +10824,7 @@ cpro.*.
 .gtimg.com/sports/qingyang/
 .gtimg.com/sports/images/30090\.jpg
 .gtimg.com/sports/000_AD/
+.gtimg.com/sports/000/
 .gtimg.com/qqlive/
 .gtimg.com/pingjs/ext2020/dc/module/GJ/
 .gtimg.com/newsapp_ls/0/27161189/0
@@ -11255,6 +11252,7 @@ cpro.*.
 .djccc.com/js/a.*\.js
 .dj97.com/js/list_right_
 .diyijs.duapp.com
+.divcss5.com*./(.*/)?liping/
 .divcss5.com*./(.*/)?ibeifeng/
 .discuz.gtimg.cn/cloud/scripts/discuz_tips\.js
 .discuss.com.hk/yna.*_prod\.html
@@ -11361,6 +11359,7 @@ cpro.*.
 .cpd.com.cn/template/.*\.swf
 .cpbl-elta.cdn.hinet.net/web/images/ad_
 .cp1268.com/img/ad
+.cp121.com/js2/
 .cp.ifeng.com/iframe/getiframe
 .cp.eastmoney.com/wap/.*\.js
 .coolpc.com.tw/img/topweb\.html
@@ -12724,6 +12723,7 @@ cpro.*.
 .020.com/960-
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
@@ -15781,6 +15781,7 @@ TAG:^adfilter-block-request$
 .akamaihd.net/.*/sid\.html\?p=
 .akamaihd.net/.*/gsd\.html\?d=
 .146.148.85.61
+.zywhjd.com
 .zxjjzx.com
 .zxhymh.com
 .zwkssb.com
@@ -15952,7 +15953,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zywhjd.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16083,6 +16083,7 @@ TAG:^adfilter-block-request$
 .hapic1.jhkxwl.com
 .hao.315hyw.com
 .h1.tvhome.com
+.h1.kukuw.com
 .gzlykj.cn
 .guang.sdsgwy.com
 .godloveme.cn
@@ -16094,6 +16095,7 @@ TAG:^adfilter-block-request$
 .gewuwen.com
 .gd.jqgc.com
 .g1.taijuba.com
+.g.pgu.cc
 .fpb1.chinacar.asia
 .fpb.51edu.com
 .fotao9.com
@@ -16151,6 +16153,7 @@ TAG:^adfilter-block-request$
 .cp.greenxf.cn
 .cod.southmoney.com
 .cm.baidu.com
+.chuangyixi.com
 .chinacsky.com
 .chicken18.com
 .cc.yac8.com
@@ -16303,16 +16306,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.chuangyixi.com
-.h1.kukuw.com
-.g.pgu.cc
 /(.*/)?tps/noexpire/.*
-.cp121.com/js2/
-.gtimg.com/sports/000/
-.yuanlai521.com/tu/690-90\.gif
-.mt30.com/good/
-.divcss5.com*./(.*/)?liping/
-.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16458,6 +16452,7 @@ a.kj-cy.cn
 .yubei8.com/img/
 .yubei8.com/boximg/
 .yubei8.com/bar3\.js
+.yuanlai521.com/tu/690-90\.gif
 .ytbbs.com/images/index/
 .ysxs8.com/ysgg/
 .youxiaxiazai.com/dm/
@@ -17653,6 +17648,7 @@ a.kj-cy.cn
 .muyuge.com/fw\.html/
 .mtime.cn/tg/
 .mt30.com/ok/
+.mt30.com/good/
 .msn.com/homep_ad
 .mshow.fang.com/s\?z=
 .msdn.hk/templets/msdn/js/gg\.js
@@ -18553,6 +18549,7 @@ a.kj-cy.cn
 .gtimg.com/sports/qingyang/
 .gtimg.com/sports/images/30090\.jpg
 .gtimg.com/sports/000_AD/
+.gtimg.com/sports/000/
 .gtimg.com/qqlive/
 .gtimg.com/pingjs/ext2020/dc/module/GJ/
 .gtimg.com/newsapp_ls/0/27161189/0
@@ -18955,6 +18952,7 @@ a.kj-cy.cn
 .djccc.com/js/a.*\.js
 .dj97.com/js/list_right_
 .diyijs.duapp.com
+.divcss5.com*./(.*/)?liping/
 .divcss5.com*./(.*/)?ibeifeng/
 .discuz.gtimg.cn/cloud/scripts/discuz_tips\.js
 .discuss.com.hk/yna.*_prod\.html
@@ -19055,6 +19053,7 @@ a.kj-cy.cn
 .cpd.com.cn/template/.*\.swf
 .cpbl-elta.cdn.hinet.net/web/images/ad_
 .cp1268.com/img/ad
+.cp121.com/js2/
 .cp.ifeng.com/iframe/getiframe
 .cp.eastmoney.com/wap/.*\.js
 .coolpc.com.tw/img/topweb\.html
@@ -20378,6 +20377,7 @@ a.kj-cy.cn
 .020.com/960-
 .007.mx/flv/
 .005.tv:60000/ad\.js
+.005.tv/templets/muban/js/jquery-1\.8\.3\.js
 .000b.info/js/
 .000001.azureedge.net/script/p\.js
 .000001.azureedge.net/script/common\.js
@@ -24069,6 +24069,7 @@ TAG:^adfilter-unblock-dnt$
 .poster.weather.com.cn/p_files/base/
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
+.petrochina.com.cn/advertisement_
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
 .papalah.com/ads\.js
@@ -24303,7 +24304,6 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.petrochina.com.cn/advertisement_
 
 {+client-header-tagger{adfilter-unblock-dnt-R201} \
 }
@@ -25088,6 +25088,7 @@ TAG:^adfilter-unblock-elem$
 .poster.weather.com.cn/p_files/base/
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
+.petrochina.com.cn/advertisement_
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
 .papalah.com/ads\.js
@@ -25316,7 +25317,6 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.petrochina.com.cn/advertisement_
 
 {+client-header-tagger{adfilter-unblock-elem-R201} \
 }
@@ -26092,6 +26092,7 @@ TAG:^adfilter-unblock-request$
 .pub.alimama.com/common/adzone/
 .piccool.com/2home/phpAdsNew/
 .pic.zol-img.com.cn/2009/pix_index\.swf
+.petrochina.com.cn/advertisement_
 .passiontimes.hk/.*-ad\.php\?
 .passiontimes.hk/player-
 .papalah.com/ads\.js
@@ -26309,7 +26310,6 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.petrochina.com.cn/advertisement_
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
