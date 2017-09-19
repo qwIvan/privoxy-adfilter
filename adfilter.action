@@ -184,6 +184,7 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.beifmu.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -848,7 +849,6 @@ cpro.*.
 .xyfdcw.com.cn/userfiles/flash/
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
-.xxbiquge.com/js/xbiquge\.js
 .xx978.info/images/468-60OK\.gif
 .xv98.com/js/hengfu
 .xv98.com/js/daohang
@@ -8075,6 +8075,7 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.beifmu.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8739,7 +8740,6 @@ cpro.*.
 .xyfdcw.com.cn/userfiles/flash/
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
-.xxbiquge.com/js/xbiquge\.js
 .xx978.info/images/468-60OK\.gif
 .xv98.com/js/hengfu
 .xv98.com/js/daohang
@@ -15965,6 +15965,7 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.beifmu.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16547,7 +16548,6 @@ a.kj-cy.cn
 .xyfdcw.com.cn/userfiles/flash/
 .xxhh.com/xh\.js
 .xxdm.*./(.*/)?js/union/
-.xxbiquge.com/js/xbiquge\.js
 .xx978.info/images/468-60OK\.gif
 .xv98.com/js/hengfu
 .xv98.com/js/daohang
