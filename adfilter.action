@@ -492,6 +492,7 @@ TAG:^adfilter-block-dnt$
 .b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
+.as1.wenku.baidu.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .aiwen.cc
@@ -609,18 +610,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.ifengimg.com/iamsImg/.*_w100_h550\.
-.dbw.cn/eap/js/ss/
-.pan66.com/popup/
-.windows7en.com/statistics/stats\.js
-.jb51.net/jslib/jquery/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -988,6 +983,7 @@ cpro.*.
 .wishdown.com/images/.*\.gif
 .winvvv.com
 .windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/statistics/stats\.js
 .windows7en.com/images/
 .windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
@@ -1866,6 +1862,7 @@ cpro.*.
 .panda.tv/cmstatic/panda-plouto-config\.js
 .panda.kdnet.net
 .panc.cc/ad/
+.pan66.com/popup/
 .paigu.com/assets/js/paigu\.js
 .p8u.hinet.net
 .p4p.sina.com.cn
@@ -2433,6 +2430,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/skin/downsoft/js/.*down\.js
+.jb51.net/jslib/jquery/
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
@@ -2664,6 +2662,7 @@ cpro.*.
 .ifengimg.com/m/ax\.js
 .ifengimg.com/iis/iis_
 .ifengimg.com/ifeng/sources/
+.ifengimg.com/iamsImg/.*_w100_h550\.
 .ifengimg.com/a/o\.js
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/201.*\.swf
@@ -3415,6 +3414,7 @@ cpro.*.
 .ddd.yuyouge.com
 .dcfever.com/campaigns/
 .dbw365.com/skin/yblog/js/thea
+.dbw.cn/eap/js/ss/
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
@@ -8383,6 +8383,7 @@ TAG:^adfilter-block-elem$
 .b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
+.as1.wenku.baidu.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .aiwen.cc
@@ -8500,18 +8501,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.ifengimg.com/iamsImg/.*_w100_h550\.
-.dbw.cn/eap/js/ss/
-.pan66.com/popup/
-.windows7en.com/statistics/stats\.js
-.jb51.net/jslib/jquery/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8879,6 +8874,7 @@ cpro.*.
 .wishdown.com/images/.*\.gif
 .winvvv.com
 .windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/statistics/stats\.js
 .windows7en.com/images/
 .windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
@@ -9757,6 +9753,7 @@ cpro.*.
 .panda.tv/cmstatic/panda-plouto-config\.js
 .panda.kdnet.net
 .panc.cc/ad/
+.pan66.com/popup/
 .paigu.com/assets/js/paigu\.js
 .p8u.hinet.net
 .p4p.sina.com.cn
@@ -10324,6 +10321,7 @@ cpro.*.
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/skin/downsoft/js/.*down\.js
+.jb51.net/jslib/jquery/
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
@@ -10555,6 +10553,7 @@ cpro.*.
 .ifengimg.com/m/ax\.js
 .ifengimg.com/iis/iis_
 .ifengimg.com/ifeng/sources/
+.ifengimg.com/iamsImg/.*_w100_h550\.
 .ifengimg.com/a/o\.js
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/201.*\.swf
@@ -11306,6 +11305,7 @@ cpro.*.
 .ddd.yuyouge.com
 .dcfever.com/campaigns/
 .dbw365.com/skin/yblog/js/thea
+.dbw.cn/eap/js/ss/
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
@@ -16215,6 +16215,7 @@ TAG:^adfilter-block-request$
 .b1.91jucai.com
 .b1.51scw.net
 .b.cyone.com.cn
+.as1.wenku.baidu.com
 .ap*./.*\.pl520\.com[^\w%.-]
 .ap*.pl520.com
 .aiwen.cc
@@ -16318,13 +16319,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.as1.wenku.baidu.com
 /(.*/)?tps/noexpire/.*
-.ifengimg.com/iamsImg/.*_w100_h550\.
-.dbw.cn/eap/js/ss/
-.pan66.com/popup/
-.windows7en.com/statistics/stats\.js
-.jb51.net/jslib/jquery/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16685,6 +16680,7 @@ a.kj-cy.cn
 .wlnews.zjol.com.cn/bbs/
 .wishdown.com/images/.*\.gif
 .windows7en.com/templets/default/images/logo/xtzj\.gif
+.windows7en.com/statistics/stats\.js
 .windows7en.com/images/
 .windows7en.com/160805/31-160P5004509403\.gif
 .windows.net/script/p\.js
@@ -17526,6 +17522,7 @@ a.kj-cy.cn
 .panda.tv/cmstatic/panda-plouto-config\.js
 .panda.kdnet.net
 .panc.cc/ad/
+.pan66.com/popup/
 .paigu.com/assets/js/paigu\.js
 .p8u.hinet.net
 .p4p.sina.com.cn
@@ -18071,6 +18068,7 @@ a.kj-cy.cn
 .jb51.net/templets/2016js/
 .jb51.net/skin/office/js/botad\.js
 .jb51.net/skin/downsoft/js/.*down\.js
+.jb51.net/jslib/jquery/
 .jb51.net/js/ggtop\.js
 .jb51.net/js/beitou\.js
 .jb51.net/imgby/logo_
@@ -18290,6 +18288,7 @@ a.kj-cy.cn
 .ifengimg.com/m/ax\.js
 .ifengimg.com/iis/iis_
 .ifengimg.com/ifeng/sources/
+.ifengimg.com/iamsImg/.*_w100_h550\.
 .ifengimg.com/a/o\.js
 .ifengimg.com/a/201.*600\.
 .ifengimg.com/a/201.*\.swf
@@ -19012,6 +19011,7 @@ a.kj-cy.cn
 .ddd.yuyouge.com
 .dcfever.com/campaigns/
 .dbw365.com/skin/yblog/js/thea
+.dbw.cn/eap/js/ss/
 .dbw.cn/eap/js/hl/hlj_ad
 .dbw.cn/eap/js/db/dbwad_
 .db28.cn/cache/ads\.js
