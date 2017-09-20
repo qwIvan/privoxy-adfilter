@@ -20,6 +20,7 @@ TAG:^adfilter-block-dnt$
 .zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
+.zgbsny.com
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
@@ -185,7 +186,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgbsny.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -432,6 +432,7 @@ TAG:^adfilter-block-dnt$
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
+.d520m.xuexila.com
 .d.xinshipu.com
 .d.xaoyo.com
 .d.tonghua5.com
@@ -471,6 +472,7 @@ TAG:^adfilter-block-dnt$
 .bdcode.gaosan.com
 .bdad.hao224.com
 .bdad.gaotie.net
+.bd3.chuiyue.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
 .bd1.szhk.com
@@ -538,6 +540,7 @@ TAG:^adfilter-block-dnt$
 .a.fwsir.com
 .a.fengyx.com
 .a.exam58.com
+.a.epinv.com
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
@@ -612,16 +615,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.bd3.chuiyue.com
-.d520m.xuexila.com
-.a.epinv.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -3200,6 +3199,7 @@ cpro.*.
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
 .epinv.com/wp-content/themes/ep/tu/yinshu\.gif
+.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .epinv.com/wp-content/themes/ep/tu/.*300\.js
 .epinv.com/wp-content/themes/ep/tu/.*250\.js
 .epinv.com/wp-content/themes/ep/js/single\.js
@@ -5148,6 +5148,7 @@ tanchuan.htm*.
 .xjidian.com
 .xixianad.com
 .xitao3.com
+.xiongyin.com
 .xingjuhe.com
 .xinasiaj.com
 .xiliweisha.cn
@@ -6706,7 +6707,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.xiongyin.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7922,6 +7922,7 @@ TAG:^adfilter-block-elem$
 .zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
+.zgbsny.com
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
@@ -8087,7 +8088,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgbsny.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8334,6 +8334,7 @@ TAG:^adfilter-block-elem$
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
+.d520m.xuexila.com
 .d.xinshipu.com
 .d.xaoyo.com
 .d.tonghua5.com
@@ -8373,6 +8374,7 @@ TAG:^adfilter-block-elem$
 .bdcode.gaosan.com
 .bdad.hao224.com
 .bdad.gaotie.net
+.bd3.chuiyue.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
 .bd1.szhk.com
@@ -8440,6 +8442,7 @@ TAG:^adfilter-block-elem$
 .a.fwsir.com
 .a.fengyx.com
 .a.exam58.com
+.a.epinv.com
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
@@ -8514,16 +8517,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.bd3.chuiyue.com
-.d520m.xuexila.com
-.a.epinv.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -11102,6 +11101,7 @@ cpro.*.
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
 .epinv.com/wp-content/themes/ep/tu/yinshu\.gif
+.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .epinv.com/wp-content/themes/ep/tu/.*300\.js
 .epinv.com/wp-content/themes/ep/tu/.*250\.js
 .epinv.com/wp-content/themes/ep/js/single\.js
@@ -13050,6 +13050,7 @@ tanchuan.htm*.
 .xjidian.com
 .xixianad.com
 .xitao3.com
+.xiongyin.com
 .xingjuhe.com
 .xinasiaj.com
 .xiliweisha.cn
@@ -14608,7 +14609,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.xiongyin.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15825,6 +15825,7 @@ TAG:^adfilter-block-request$
 .zjkdaikuan.com
 .zizcy.com
 .zgfszs.com
+.zgbsny.com
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
@@ -15988,7 +15989,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.zgbsny.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16180,6 +16180,7 @@ TAG:^adfilter-block-request$
 .daima.chazidian.com
 .daima.23yy.com
 .d6.mobaders.com
+.d520m.xuexila.com
 .d.xinshipu.com
 .d.xaoyo.com
 .d.tonghua5.com
@@ -16216,6 +16217,7 @@ TAG:^adfilter-block-request$
 .bdcode.gaosan.com
 .bdad.hao224.com
 .bdad.gaotie.net
+.bd3.chuiyue.com
 .bd1.xiangha.com
 .bd1.wowoqq.com
 .bd1.szhk.com
@@ -16281,6 +16283,7 @@ TAG:^adfilter-block-request$
 .a.fwsir.com
 .a.fengyx.com
 .a.exam58.com
+.a.epinv.com
 .a.duanmeiwen.com
 .a.armystar.com
 .a.80982.org
@@ -16343,11 +16346,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.bd3.chuiyue.com
-.d520m.xuexila.com
-.a.epinv.com
 /(.*/)?tps/noexpire/.*
-.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18832,6 +18831,7 @@ a.kj-cy.cn
 .eprice.com.tw/img/tw_m/ad/
 .eprice.com.tw/img/dis/file/
 .epinv.com/wp-content/themes/ep/tu/yinshu\.gif
+.epinv.com/wp-content/themes/ep/tu/epzz\.js
 .epinv.com/wp-content/themes/ep/tu/.*300\.js
 .epinv.com/wp-content/themes/ep/tu/.*250\.js
 .epinv.com/wp-content/themes/ep/js/single\.js
@@ -20644,6 +20644,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .xkwfao.com
 .xk2012.com
 .xjidian.com
+.xiongyin.com
 .xingjuhe.com
 .xinasiaj.com
 .xiliweisha.cn
@@ -21613,7 +21614,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.xiongyin.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -24203,6 +24203,7 @@ TAG:^adfilter-unblock-dnt$
 .feng.com/images/580de2ab8d68e\.png
 .feng.com/images/560a0b6b83143\.png
 .feng.com/images/%.*logo\.png
+.epinv.com/dl/
 .emome.net/files/advertising/
 .eiv.baidu.com/hmt/icon/21\.gif
 .edu.cn/epstar/.*/gg/
@@ -24356,7 +24357,6 @@ TAG:^adfilter-unblock-dnt$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.epinv.com/dl/
 
 {+client-header-tagger{adfilter-unblock-dnt-R201} \
 }
@@ -25211,6 +25211,7 @@ TAG:^adfilter-unblock-elem$
 .feng.com/images/580de2ab8d68e\.png
 .feng.com/images/560a0b6b83143\.png
 .feng.com/images/%.*logo\.png
+.epinv.com/dl/
 .emome.net/files/advertising/
 .eiv.baidu.com/hmt/icon/21\.gif
 .edu.cn/epstar/.*/gg/
@@ -25361,7 +25362,6 @@ TAG:^adfilter-unblock-elem$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.epinv.com/dl/
 
 {+client-header-tagger{adfilter-unblock-elem-R201} \
 }
@@ -26205,6 +26205,7 @@ TAG:^adfilter-unblock-request$
 .feng.com/images/580de2ab8d68e\.png
 .feng.com/images/560a0b6b83143\.png
 .feng.com/images/%.*logo\.png
+.epinv.com/dl/
 .emome.net/files/advertising/
 .eiv.baidu.com/hmt/icon/21\.gif
 .edu.cn/epstar/.*/gg/
@@ -26346,7 +26347,6 @@ TAG:^adfilter-unblock-request$
 .060s.com/images_ad/.*\.png
 tieba.baidu.com/index\.html$
 www.dilidili.wang/$
-.epinv.com/dl/
 
 {-block \
  +client-header-tagger{adfilter-unblock-request-Aaov} \
