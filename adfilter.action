@@ -6721,6 +6721,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .aiclicash.com
+.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14637,6 +14638,7 @@ pd2.js*.
 /.*\.cn/show\?id=
 .*.cn/show\?id=
 .aiclicash.com
+.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21655,6 +21657,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
