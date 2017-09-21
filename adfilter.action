@@ -621,6 +621,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.xinhuanet.com/js/xadndelayed\.js
 .price.com.hk/ec-discuss-widget\.php
 .dnvod.tv/gz/
 .zzzyk.com/js/
@@ -4154,8 +4155,7 @@ cpro.*.
 .acodes.b2b.cn
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.acglover.top/wp-content/uploads/.*-520-245\.
+.acglover.pw/wp-content/uploads/.*-520-245\.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
@@ -8524,6 +8524,7 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.xinhuanet.com/js/xadndelayed\.js
 .price.com.hk/ec-discuss-widget\.php
 .dnvod.tv/gz/
 .zzzyk.com/js/
@@ -12057,8 +12058,7 @@ cpro.*.
 .acodes.b2b.cn
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.acglover.top/wp-content/uploads/.*-520-245\.
+.acglover.pw/wp-content/uploads/.*-520-245\.
 .acgbenzi.com
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
@@ -16349,6 +16349,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
+.xinhuanet.com/js/xadndelayed\.js
 .price.com.hk/ec-discuss-widget\.php
 .dnvod.tv/gz/
 .zzzyk.com/js/
@@ -19753,8 +19754,7 @@ a.kj-cy.cn
 .acodes.b2b.cn
 .acode.b2b.cn/JS/
 .acgnx.se/images/adwork/
-.acglover.top/wp-content/uploads/2017/07/upupoo-
-.acglover.top/wp-content/uploads/.*-520-245\.
+.acglover.pw/wp-content/uploads/.*-520-245\.
 .acfun.*./(.*/)?adnew\.aspx\?id=
 .ac.tc.qq.com/store_file_download\?.*&dir_path=/admin/swf/
 .abcache.com/youlaohu/

@@ -195,7 +195,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R19
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.pw|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R20
 s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@adfilter-block-dnt@Ti
@@ -255,10 +255,10 @@ CLIENT-HEADER-TAGGER: adfilter-block-dnt-R37
 s@^referer(?=:[^\n]*[./](?:acg18\.us)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R39
-s@^referer(?=:[^\n]*[./](?:acglover\.top|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-dnt@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-dnt@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-dnt-R4
 s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@adfilter-block-dnt@Ti
@@ -738,7 +738,7 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R19
 s@^referer(?=:[^\n]*[./](?:400gb\.com|bego\.cc|ctfile\.com|pipipan\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.pw|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R20
 s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@adfilter-block-elem@Ti
@@ -798,10 +798,10 @@ CLIENT-HEADER-TAGGER: adfilter-block-elem-R37
 s@^referer(?=:[^\n]*[./](?:acg18\.us)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R39
-s@^referer(?=:[^\n]*[./](?:acglover\.top|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-elem@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-elem@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-elem-R4
 s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@adfilter-block-elem@Ti
@@ -1464,7 +1464,7 @@ s@^referer:.*@$&\t$host@Di
 s@^referer(?=:[^\n]*[./](?:jandown\.com))(?!:\s*(?:https?:\/\/)?(?:[\w.-]*\.)?([\w-]+\.[\w-]+)[^\w.-].*\1$):.*@adfilter-block-request@i
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R2
-s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.top|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:11luba\.com|174\.139\.109\.38|18board\.com|18p2p\.com|208\.94\.244\.98|22ccaa\.com|345qyl\.com|360bifen\.cc|360bifen\.com|46bk\.com|500xxxx\.com|666hdhd\.com|7mshipin\.org|84fn\.com|9dog\.pw|a3v4\.top|ac168\.info|acglover\.pw|aisex\.com|aotu22\.com|avtb001\.com|avtb002\.com|avtb003\.com|bejson\.com|blz20\.com|blz24\.com|btago\.com|cangjige\.net|cangjige\.win|caoliuzx\.com|cililian\.me|dydh\.tv|ems183\.cn|fcw26\.com|fdzone\.org|freecctv\.xyz|fulitxx\.com|ifulidh\.com|iidvd\.com|ilxdh\.com|izzs\.cc|kiees\.cn|lifan\.moe|llj22\.com|motelppp\.com|neonan\.com|niluba\.cc|qqxbt\.com|qyle9\.com|rarbt\.com|sbme\.me|se533\.com|shouyoutan\.com|txtshu365\.com|viidii\.info|vx666\.com|weike22\.com|wszhibo\.com|yapdd\.com|youb444\.com)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R20
 s@^referer(?=:[^\n]*[./](?:4sefang2\.com|bbb551\.com|oms12345\.com)):.*@adfilter-block-request@Ti
@@ -1518,10 +1518,10 @@ CLIENT-HEADER-TAGGER: adfilter-block-request-R37
 s@^referer(?=:[^\n]*[./](?:acg18\.us)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R38
-s@^referer(?=:[^\n]*[./](?:acglover\.top)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R39
-s@^referer(?=:[^\n]*[./](?:acglover\.top|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-request@Ti
+s@^referer(?=:[^\n]*[./](?:acglover\.pw|jitapu\.com|junying\.com|mlook\.mobi)):.*@adfilter-block-request@Ti
 
 CLIENT-HEADER-TAGGER: adfilter-block-request-R4
 s@^referer(?=:[^\n]*[./](?:12580sky\.com)):.*@adfilter-block-request@Ti
