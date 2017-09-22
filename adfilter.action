@@ -188,6 +188,7 @@ TAG:^adfilter-block-dnt$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .mmhhjt.com
+.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8107,6 +8108,7 @@ TAG:^adfilter-block-elem$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .mmhhjt.com
+.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16025,6 +16027,7 @@ TAG:^adfilter-block-request$
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
 .mmhhjt.com
+.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
