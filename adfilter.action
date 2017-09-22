@@ -113,6 +113,7 @@ TAG:^adfilter-block-dnt$
 .dtzysm.com
 .dkdlsj.com
 .dierqingchun.com
+.dgxzwj.com
 .dezfu.com
 .ddg1277.com
 .ddanq.com
@@ -186,7 +187,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dgxzwj.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -194,15 +194,15 @@ TAG:^adfilter-block-dnt$
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
-.shanghuitianxia.cn
-.hulemedia.com
-.ip.hivps.xyz
-.shunlige.com
-.bjwwfx001.org.cn
-.dupinpu.com
-.fate-xy.com
 .zgdmsj.cn
+.shunlige.com
+.shanghuitianxia.cn
+.ip.hivps.xyz
+.hulemedia.com
+.fate-xy.com
+.dupinpu.com
 .bycxsh.com
+.bjwwfx001.org.cn
 .zxw51.com
 .zuiceshi.net
 .zq84.com
@@ -631,11 +631,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.51credit.com/51api/creditcard\.php\?mod=
-.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
-.xinhuanet.com/js/xadndelayed\.js
-.price.com.hk/ec-discuss-widget\.php
-.dnvod.tv/gz/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -921,6 +916,7 @@ cpro.*.
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
+.xinhuanet.com/js/xadndelayed\.js
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
 .xinhuanet.com/ce/pcimage/mt\.swf
@@ -1766,6 +1762,7 @@ cpro.*.
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
+.price.com.hk/ec-discuss-widget\.php
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
@@ -2192,6 +2189,7 @@ cpro.*.
 .logoquan.com/upload/prd/
 .lofter.com/mailEntryMobile\.do
 .lnd.com.cn/site1/.*\.swf
+.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
 .llj22.com/1\.gif
 .ljia.net/vipflash/pop_footer\.js
 .ljia.net/images/beihu1\.jpg
@@ -3365,6 +3363,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
+.dnvod.tv/gz/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -4468,6 +4467,7 @@ cpro.*.
 .51cto.com/js/blog_top_list\.php
 .51credit.com/js/app/end-layer\.js
 .51credit.com/credit/images/201505/ggchedai\.jpg
+.51credit.com/51api/creditcard\.php\?mod=
 .51bczx.com/js/float\.js
 .51bczx.com/images1/
 .51ape.com/d/js/
@@ -5887,6 +5887,7 @@ tanchuan.htm*.
 .hanju18.net
 .haiyunx.com
 .haiyunpush.com
+.haiyunimg.com
 .haiwengji.net
 .hailuoxiang.com
 .h9377c.com
@@ -6264,6 +6265,7 @@ tanchuan.htm*.
 .aimato.com
 .aifei.info
 .aidaicn.com
+.aiclicash.com
 .ahyuns.com
 .ahyau.com
 .ahhuazhen.com
@@ -6720,8 +6722,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.aiclicash.com
-.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8030,6 +8030,7 @@ TAG:^adfilter-block-elem$
 .dtzysm.com
 .dkdlsj.com
 .dierqingchun.com
+.dgxzwj.com
 .dezfu.com
 .ddg1277.com
 .ddanq.com
@@ -8103,7 +8104,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dgxzwj.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8111,15 +8111,15 @@ TAG:^adfilter-block-elem$
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
-.shanghuitianxia.cn
-.hulemedia.com
-.ip.hivps.xyz
-.shunlige.com
-.bjwwfx001.org.cn
-.dupinpu.com
-.fate-xy.com
 .zgdmsj.cn
+.shunlige.com
+.shanghuitianxia.cn
+.ip.hivps.xyz
+.hulemedia.com
+.fate-xy.com
+.dupinpu.com
 .bycxsh.com
+.bjwwfx001.org.cn
 .zxw51.com
 .zuiceshi.net
 .zq84.com
@@ -8548,11 +8548,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.51credit.com/51api/creditcard\.php\?mod=
-.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
-.xinhuanet.com/js/xadndelayed\.js
-.price.com.hk/ec-discuss-widget\.php
-.dnvod.tv/gz/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8838,6 +8833,7 @@ cpro.*.
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
+.xinhuanet.com/js/xadndelayed\.js
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
 .xinhuanet.com/ce/pcimage/mt\.swf
@@ -9683,6 +9679,7 @@ cpro.*.
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
+.price.com.hk/ec-discuss-widget\.php
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
@@ -10109,6 +10106,7 @@ cpro.*.
 .logoquan.com/upload/prd/
 .lofter.com/mailEntryMobile\.do
 .lnd.com.cn/site1/.*\.swf
+.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
 .llj22.com/1\.gif
 .ljia.net/vipflash/pop_footer\.js
 .ljia.net/images/beihu1\.jpg
@@ -11282,6 +11280,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
+.dnvod.tv/gz/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -12385,6 +12384,7 @@ cpro.*.
 .51cto.com/js/blog_top_list\.php
 .51credit.com/js/app/end-layer\.js
 .51credit.com/credit/images/201505/ggchedai\.jpg
+.51credit.com/51api/creditcard\.php\?mod=
 .51bczx.com/js/float\.js
 .51bczx.com/images1/
 .51ape.com/d/js/
@@ -13804,6 +13804,7 @@ tanchuan.htm*.
 .hanju18.net
 .haiyunx.com
 .haiyunpush.com
+.haiyunimg.com
 .haiwengji.net
 .hailuoxiang.com
 .h9377c.com
@@ -14181,6 +14182,7 @@ tanchuan.htm*.
 .aimato.com
 .aifei.info
 .aidaicn.com
+.aiclicash.com
 .ahyuns.com
 .ahyau.com
 .ahhuazhen.com
@@ -14637,8 +14639,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.aiclicash.com
-.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15948,6 +15948,7 @@ TAG:^adfilter-block-request$
 .dtzysm.com
 .dkdlsj.com
 .dierqingchun.com
+.dgxzwj.com
 .dezfu.com
 .ddg1277.com
 .ddanq.com
@@ -16019,7 +16020,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.dgxzwj.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16027,15 +16027,15 @@ TAG:^adfilter-block-request$
 .aaaimg.com/images.*\.gif
 /(.*/)?moneymaker/js/player/zanting\.js
 /(.*/)?moneymaker/js/player/vast-
-.shanghuitianxia.cn
-.hulemedia.com
-.ip.hivps.xyz
-.shunlige.com
-.bjwwfx001.org.cn
-.dupinpu.com
-.fate-xy.com
 .zgdmsj.cn
+.shunlige.com
+.shanghuitianxia.cn
+.ip.hivps.xyz
+.hulemedia.com
+.fate-xy.com
+.dupinpu.com
 .bycxsh.com
+.bjwwfx001.org.cn
 .zuiceshi.net
 .zq84.com
 .zhongchouyan.com
@@ -16387,11 +16387,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.51credit.com/51api/creditcard\.php\?mod=
-.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
-.xinhuanet.com/js/xadndelayed\.js
-.price.com.hk/ec-discuss-widget\.php
-.dnvod.tv/gz/
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16671,6 +16666,7 @@ a.kj-cy.cn
 .xinhuanet.com/.*/adv
 .xinhuanet.com/.*/ad_
 .xinhuanet.com/v2/ads/
+.xinhuanet.com/js/xadndelayed\.js
 .xinhuanet.com/jjimages/jc/js/fla\.js
 .xinhuanet.com/images2015/index980
 .xinhuanet.com/ce/pcimage/mt\.swf
@@ -17483,6 +17479,7 @@ a.kj-cy.cn
 .proewildfire.cn/afhz\.gif
 .pro.iweihai.cn
 .price.com.hk/scripts/ysm\.js
+.price.com.hk/ec-discuss-widget\.php
 .price.com.hk/dfp_price\.php\?
 .prettyvirgin.com/js/show\.html
 .prettyvirgin.com/images/banners/
@@ -17895,6 +17892,7 @@ a.kj-cy.cn
 .logoquan.com/upload/prd/
 .lofter.com/mailEntryMobile\.do
 .lnd.com.cn/site1/.*\.swf
+.llss.me/4bab3bccgy1fj57y8kk3xj20m805k418\.jpg
 .llj22.com/1\.gif
 .ljia.net/vipflash/pop_footer\.js
 .ljia.net/images/beihu1\.jpg
@@ -19017,6 +19015,7 @@ a.kj-cy.cn
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
+.dnvod.tv/gz/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
@@ -20086,6 +20085,7 @@ a.kj-cy.cn
 .51cto.com/js/blog_top_list\.php
 .51credit.com/js/app/end-layer\.js
 .51credit.com/credit/images/201505/ggchedai\.jpg
+.51credit.com/51api/creditcard\.php\?mod=
 .51bczx.com/js/float\.js
 .51bczx.com/images1/
 .51ape.com/d/js/
@@ -21185,6 +21185,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .hanqidq.com
 .hanju18.net
 .haiyunpush.com
+.haiyunimg.com
 .haiwengji.net
 .h9377c.com
 .gzqudou.com
@@ -21657,7 +21658,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.haiyunimg.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -22906,6 +22906,7 @@ gg.*.
 .aimato.com
 .aifei.info
 .aidaicn.com
+.aiclicash.com
 .aguo.com
 .agrantsem.com
 .affiliate.rakuten.co.jp
@@ -23060,7 +23061,6 @@ pd2.js*.
 .*.com/jscode/
 /.*\.com/htmlcode/
 .*.com/htmlcode/
-.aiclicash.com
 /(.*/)?s\.js\?sp=.*&r=
 /(.*/)?js/jsstyle-
 /(.*/)?h/k\.php\?u=.*&l=.*&v=
