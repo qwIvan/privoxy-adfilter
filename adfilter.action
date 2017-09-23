@@ -70,6 +70,7 @@ TAG:^adfilter-block-dnt$
 .netko0o.com
 .myycrw.com
 .mobiorg8.com
+.mmhhjt.com
 .md0z4dh.com
 .lzjycy.com
 .lqmohun.com
@@ -91,6 +92,7 @@ TAG:^adfilter-block-dnt$
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hsbkr.com
 .hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
@@ -187,8 +189,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.mmhhjt.com
-.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -633,12 +633,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.emoney.cn/www/officalWebStatic/js/slideAd\.js
-.zx98.com/mm/
-.zx98.com/tb0
-.whichav.*./(.*/)?qq/qq\.js
-.zimuku.net/fgm/960x90\.jpg
-.160.com/statics/statics/js/code_13\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -652,6 +646,8 @@ cpro.*.
 .zybus.com/2017/img/ybss\.jpg
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
+.zx98.com/tb0
+.zx98.com/mm/
 .zww.me/.*\?action=Ajax_
 .zuoche.com/promo/.*\.jspx
 .zuishulou.com/assets/scripts/m\.js
@@ -692,6 +688,7 @@ cpro.*.
 .zisai.com/template/comiis_nby/ads/
 .zimuzu.tv/rrlx
 .zimuzu.tv/public/rooms\?
+.zimuku.net/fgm/960x90\.jpg
 .zhzyw.org/js/InsertJS\.js
 .zhushou.360.cn/script/plugin_tiper\.js
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
@@ -1021,6 +1018,7 @@ cpro.*.
 .whnews.cn/news/data/.*gg
 .white-plus.net/images/men
 .whinfo.net.cn/ad20
+.whichav.*./(.*/)?qq/qq\.js
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .west.cn/vcp/getJScode/
@@ -3238,6 +3236,7 @@ cpro.*.
 .enet.com.cn/eschool/includes/gdtup/tu6/slide\.js
 .emu999.net/nds/
 .ems183.cn/images/kiees
+.emoney.cn/www/officalWebStatic/js/slideAd\.js
 .embest-tech.cn/js/jquery\.blockUI\.js
 .elecfans.com/images2012/pcb\.gif
 .elecfans.com/baidu_m\.html
@@ -4755,6 +4754,7 @@ cpro.*.
 .162.212.181.32
 .1616.net/jd/i_
 .1616.net/jd/data/index/indexad\.json
+.160.com/statics/statics/js/code_13\.js
 .15w.com/ui/lol/v3/img/piclink\.jpg
 .15w.com/pages/adlive\.
 .15w.com/flash/
@@ -7995,6 +7995,7 @@ TAG:^adfilter-block-elem$
 .netko0o.com
 .myycrw.com
 .mobiorg8.com
+.mmhhjt.com
 .md0z4dh.com
 .lzjycy.com
 .lqmohun.com
@@ -8016,6 +8017,7 @@ TAG:^adfilter-block-elem$
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hsbkr.com
 .hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
@@ -8112,8 +8114,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.mmhhjt.com
-.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8558,12 +8558,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.emoney.cn/www/officalWebStatic/js/slideAd\.js
-.zx98.com/mm/
-.zx98.com/tb0
-.whichav.*./(.*/)?qq/qq\.js
-.zimuku.net/fgm/960x90\.jpg
-.160.com/statics/statics/js/code_13\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -8577,6 +8571,8 @@ cpro.*.
 .zybus.com/2017/img/ybss\.jpg
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
+.zx98.com/tb0
+.zx98.com/mm/
 .zww.me/.*\?action=Ajax_
 .zuoche.com/promo/.*\.jspx
 .zuishulou.com/assets/scripts/m\.js
@@ -8617,6 +8613,7 @@ cpro.*.
 .zisai.com/template/comiis_nby/ads/
 .zimuzu.tv/rrlx
 .zimuzu.tv/public/rooms\?
+.zimuku.net/fgm/960x90\.jpg
 .zhzyw.org/js/InsertJS\.js
 .zhushou.360.cn/script/plugin_tiper\.js
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
@@ -8946,6 +8943,7 @@ cpro.*.
 .whnews.cn/news/data/.*gg
 .white-plus.net/images/men
 .whinfo.net.cn/ad20
+.whichav.*./(.*/)?qq/qq\.js
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .west.cn/vcp/getJScode/
@@ -11163,6 +11161,7 @@ cpro.*.
 .enet.com.cn/eschool/includes/gdtup/tu6/slide\.js
 .emu999.net/nds/
 .ems183.cn/images/kiees
+.emoney.cn/www/officalWebStatic/js/slideAd\.js
 .embest-tech.cn/js/jquery\.blockUI\.js
 .elecfans.com/images2012/pcb\.gif
 .elecfans.com/baidu_m\.html
@@ -12680,6 +12679,7 @@ cpro.*.
 .162.212.181.32
 .1616.net/jd/i_
 .1616.net/jd/data/index/indexad\.json
+.160.com/statics/statics/js/code_13\.js
 .15w.com/ui/lol/v3/img/piclink\.jpg
 .15w.com/pages/adlive\.
 .15w.com/flash/
@@ -15921,6 +15921,7 @@ TAG:^adfilter-block-request$
 .netko0o.com
 .myycrw.com
 .mobiorg8.com
+.mmhhjt.com
 .md0z4dh.com
 .lzjycy.com
 .lqmohun.com
@@ -15942,6 +15943,7 @@ TAG:^adfilter-block-request$
 .hzxfmc.com
 .huayi65.com
 .htjsk.com
+.hsbkr.com
 .hqsjc.com
 .hqgjcm.com
 .hmyangshengji.com
@@ -16036,8 +16038,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.mmhhjt.com
-.hsbkr.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16405,12 +16405,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.emoney.cn/www/officalWebStatic/js/slideAd\.js
-.zx98.com/mm/
-.zx98.com/tb0
-.whichav.*./(.*/)?qq/qq\.js
-.zimuku.net/fgm/960x90\.jpg
-.160.com/statics/statics/js/code_13\.js
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16424,6 +16418,8 @@ a.kj-cy.cn
 .zybus.com/2017/img/ybss\.jpg
 .zxip.com/2013_ad/
 .zxba.cc/js/.*\.gif
+.zx98.com/tb0
+.zx98.com/mm/
 .zww.me/.*\?action=Ajax_
 .zuoche.com/promo/.*\.jspx
 .zuishulou.com/assets/scripts/m\.js
@@ -16464,6 +16460,7 @@ a.kj-cy.cn
 .zisai.com/template/comiis_nby/ads/
 .zimuzu.tv/rrlx
 .zimuzu.tv/public/rooms\?
+.zimuku.net/fgm/960x90\.jpg
 .zhzyw.org/js/InsertJS\.js
 .zhushou.360.cn/script/plugin_tiper\.js
 .zhulong.com/poster/get\?positions_name=ZY_SP_300
@@ -16786,6 +16783,7 @@ a.kj-cy.cn
 .whnews.cn/news/data/.*gg
 .white-plus.net/images/men
 .whinfo.net.cn/ad20
+.whichav.*./(.*/)?qq/qq\.js
 .wgun.net/data/yahoo_ad\.html
 .weste.net/js/showpagead\.js
 .west.cn/vcp/getJScode/
@@ -18915,6 +18913,7 @@ a.kj-cy.cn
 .enet.com.cn/eschool/includes/gdtup/tu6/slide\.js
 .emu999.net/nds/
 .ems183.cn/images/kiees
+.emoney.cn/www/officalWebStatic/js/slideAd\.js
 .embest-tech.cn/js/jquery\.blockUI\.js
 .elecfans.com/images2012/pcb\.gif
 .elecfans.com/baidu_m\.html
@@ -20380,6 +20379,7 @@ a.kj-cy.cn
 .162.212.181.32
 .1616.net/jd/i_
 .1616.net/jd/data/index/indexad\.json
+.160.com/statics/statics/js/code_13\.js
 .15w.com/ui/lol/v3/img/piclink\.jpg
 .15w.com/pages/adlive\.
 .15w.com/flash/
