@@ -629,6 +629,7 @@ TAG:^adfilter-block-dnt$
 .01.gxso.net
 a.kj-cy.cn
 .du1.bbdj.com
+.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -6734,6 +6735,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -8558,6 +8560,7 @@ TAG:^adfilter-block-elem$
 .01.gxso.net
 a.kj-cy.cn
 .du1.bbdj.com
+.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -14663,6 +14666,7 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
+.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -16414,6 +16418,7 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 .du1.bbdj.com
+.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
 .ghost580.com/js/nei4\.js
 .uubird.cc/070321054151/kaiboer\.gif
@@ -21694,6 +21699,7 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
+.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
