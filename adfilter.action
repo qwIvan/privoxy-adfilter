@@ -52,6 +52,7 @@ TAG:^adfilter-block-dnt$
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
+.sdytsh.com
 .sdkdm.com
 .requested.cn
 .represented.cn
@@ -189,7 +190,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.sdytsh.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -412,6 +412,7 @@ TAG:^adfilter-block-dnt$
 .e.qiaoyuwang.com
 .dzais.com
 .dyscb.cn
+.du1.bbdj.com
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
@@ -493,6 +494,7 @@ TAG:^adfilter-block-dnt$
 .bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.dopa.com
 .bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
@@ -628,18 +630,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.du1.bbdj.com
-.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.brushes8.com/wp-content/themes/new1\.0/ad/
-.boroboromi.com/js/tbclick\.js
-.ghost580.com/js/nei4\.js
-.uubird.cc/070321054151/kaiboer\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1122,6 +1118,7 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
+.uubird.cc/070321054151/kaiboer\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -3029,6 +3026,7 @@ cpro.*.
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
 .glzy8.com/img/ceo/js\.js
+.ghost580.com/js/nei4\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -3788,9 +3786,11 @@ cpro.*.
 .btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
+.brushes8.com/wp-content/themes/new1\.0/ad/
 .brand.sogou.com/micro\?yyid=
 .bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
+.boroboromi.com/js/tbclick\.js
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
 .bookgew.com/ml85/
@@ -5621,6 +5621,7 @@ tanchuan.htm*.
 .mstzym.com
 .msltzer.cn
 .mscimg.com
+.ms758.com
 .mrksys.com
 .moutaihotel.cn
 .motohelpr.com
@@ -6737,7 +6738,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7985,6 +7985,7 @@ TAG:^adfilter-block-elem$
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
+.sdytsh.com
 .sdkdm.com
 .requested.cn
 .represented.cn
@@ -8122,7 +8123,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.sdytsh.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8345,6 +8345,7 @@ TAG:^adfilter-block-elem$
 .e.qiaoyuwang.com
 .dzais.com
 .dyscb.cn
+.du1.bbdj.com
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
@@ -8426,6 +8427,7 @@ TAG:^adfilter-block-elem$
 .bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.dopa.com
 .bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
@@ -8561,18 +8563,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.du1.bbdj.com
-.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.brushes8.com/wp-content/themes/new1\.0/ad/
-.boroboromi.com/js/tbclick\.js
-.ghost580.com/js/nei4\.js
-.uubird.cc/070321054151/kaiboer\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9055,6 +9051,7 @@ cpro.*.
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
+.uubird.cc/070321054151/kaiboer\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -10962,6 +10959,7 @@ cpro.*.
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
 .glzy8.com/img/ceo/js\.js
+.ghost580.com/js/nei4\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -11721,9 +11719,11 @@ cpro.*.
 .btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
+.brushes8.com/wp-content/themes/new1\.0/ad/
 .brand.sogou.com/micro\?yyid=
 .bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
+.boroboromi.com/js/tbclick\.js
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
 .bookgew.com/ml85/
@@ -13554,6 +13554,7 @@ tanchuan.htm*.
 .mstzym.com
 .msltzer.cn
 .mscimg.com
+.ms758.com
 .mrksys.com
 .moutaihotel.cn
 .motohelpr.com
@@ -14670,7 +14671,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15919,6 +15919,7 @@ TAG:^adfilter-block-request$
 .sonomoyo.com
 .smxay.com
 .shumilou.co/style/html5\.js
+.sdytsh.com
 .sdkdm.com
 .requested.cn
 .represented.cn
@@ -16054,7 +16055,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.sdytsh.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16223,6 +16223,7 @@ TAG:^adfilter-block-request$
 .ent1.12584.cn
 .e.qiaoyuwang.com
 .dzais.com
+.du1.bbdj.com
 .dsxdn.com
 .dn7788.com
 .dn3.ixinwei.com
@@ -16300,6 +16301,7 @@ TAG:^adfilter-block-request$
 .bd1.nipic.com
 .bd1.jobui.com
 .bd1.fengdu100.com
+.bd1.dopa.com
 .bd1.365qilu.com
 .bd01.daqiso.com
 .bd.wayqq.cn
@@ -16421,13 +16423,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.du1.bbdj.com
-.bd1.dopa.com
 /(.*/)?tps/noexpire/.*
-.brushes8.com/wp-content/themes/new1\.0/ad/
-.boroboromi.com/js/tbclick\.js
-.ghost580.com/js/nei4\.js
-.uubird.cc/070321054151/kaiboer\.gif
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -16898,6 +16894,7 @@ a.kj-cy.cn
 .uuu9.com/yoyo_
 .uuu9.com/news/css/news_content_in\.js
 .uuu9.com/360adtest/
+.uubird.cc/070321054151/kaiboer\.gif
 .uschinapress.com/2015/0115/1421375153170\.gif
 .uschinapress.com/2014/0922/1411428929105\.png
 .urlpic.club/2016/upload/image/20170422/4220643630
@@ -18734,6 +18731,7 @@ a.kj-cy.cn
 .gmbbk.cn/jj/
 .gmbbk.cn/img/top\.js
 .glzy8.com/img/ceo/js\.js
+.ghost580.com/js/nei4\.js
 .ghoffice.com/bbs/js/float\.js
 .ghjie.com/JS/youcegg\.js
 .ghjie.com/images/2012/images/bg
@@ -19455,9 +19453,11 @@ a.kj-cy.cn
 .btbbt.*./(.*/)?imgs\.js
 .btago.com/static/banner/
 .bs.baidu.com/app-ads%
+.brushes8.com/wp-content/themes/new1\.0/ad/
 .brand.sogou.com/micro\?yyid=
 .bqg5.cc/images/960-90\.jpg
 .bosw.net/js/bos/.*960
+.boroboromi.com/js/tbclick\.js
 .books.com.tw/web/apActivityStick\?
 .bookgew.com/zj85/
 .bookgew.com/ml85/
@@ -21045,6 +21045,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .mstzym.com
 .msltzer.cn
 .mscimg.com
+.ms758.com
 .mrksys.com
 .moutaihotel.cn
 .motohelpr.com
@@ -21705,7 +21706,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ms758.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
