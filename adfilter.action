@@ -24,6 +24,7 @@ TAG:^adfilter-block-dnt$
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
+.ynjyhm.com
 .ynbzxh.com
 .yisloda.com
 .xztms.com
@@ -190,7 +191,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ynjyhm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -637,11 +637,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.g8mmm.net/websales_
-.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
-.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
-.canton8.com/adphoto/
-.523525.com/img/20170508\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1431,6 +1426,8 @@ cpro.*.
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
+.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
+.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
 .sinaimg.cn/large/d63ab74bjw1fb16iy59gmj20g402sq3x\.jpg
 .sinaimg.cn/large/d3a48243tw1e9ku3qboj1j207e02aq2y\.jpg
 .sinaimg.cn/large/bf2d8b8dgw1f83avu4kexj207s03w3ym\.jpg
@@ -3105,6 +3102,7 @@ cpro.*.
 .game.466.com
 .galacg.me/wp-content/uploads/.*750x
 .gagays.com/images/jumu_360x70\.png
+.g8mmm.net/websales_
 .g4.beva.com/data-js-
 .g2.ousns.net
 .g1080.com/js/cache_bg\.js
@@ -3712,6 +3710,7 @@ cpro.*.
 .car.pchome.com.tw/iframe/news_iframe\.
 .cao0002.com/vip/js/
 .cao0001.com/vip/js/
+.canton8.com/adphoto/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -4460,6 +4459,7 @@ cpro.*.
 .5278bbs.com/adpost_
 .5278.mobi/aa/
 .5278.cc/index\.js
+.523525.com/img/20170508\.jpg
 .521000.com/co/
 .520xs.la/js/xf\.js
 .520bdy.com/images/888
@@ -5922,6 +5922,7 @@ tanchuan.htm*.
 .gygdmy.com
 .gydag.com
 .gxejgs.com
+.gwylm.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -6746,7 +6747,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gwylm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -7966,6 +7966,7 @@ TAG:^adfilter-block-elem$
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
+.ynjyhm.com
 .ynbzxh.com
 .yisloda.com
 .xztms.com
@@ -8132,7 +8133,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ynjyhm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8579,11 +8579,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.g8mmm.net/websales_
-.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
-.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
-.canton8.com/adphoto/
-.523525.com/img/20170508\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9373,6 +9368,8 @@ cpro.*.
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
+.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
+.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
 .sinaimg.cn/large/d63ab74bjw1fb16iy59gmj20g402sq3x\.jpg
 .sinaimg.cn/large/d3a48243tw1e9ku3qboj1j207e02aq2y\.jpg
 .sinaimg.cn/large/bf2d8b8dgw1f83avu4kexj207s03w3ym\.jpg
@@ -11047,6 +11044,7 @@ cpro.*.
 .game.466.com
 .galacg.me/wp-content/uploads/.*750x
 .gagays.com/images/jumu_360x70\.png
+.g8mmm.net/websales_
 .g4.beva.com/data-js-
 .g2.ousns.net
 .g1080.com/js/cache_bg\.js
@@ -11654,6 +11652,7 @@ cpro.*.
 .car.pchome.com.tw/iframe/news_iframe\.
 .cao0002.com/vip/js/
 .cao0001.com/vip/js/
+.canton8.com/adphoto/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -12402,6 +12401,7 @@ cpro.*.
 .5278bbs.com/adpost_
 .5278.mobi/aa/
 .5278.cc/index\.js
+.523525.com/img/20170508\.jpg
 .521000.com/co/
 .520xs.la/js/xf\.js
 .520bdy.com/images/888
@@ -13864,6 +13864,7 @@ tanchuan.htm*.
 .gygdmy.com
 .gydag.com
 .gxejgs.com
+.gwylm.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -14688,7 +14689,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.gwylm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -15909,6 +15909,7 @@ TAG:^adfilter-block-request$
 .yyhqch.com
 .yxhxs.com
 .yunanfuwuqi.com
+.ynjyhm.com
 .ynbzxh.com
 .yisloda.com
 .xztms.com
@@ -16073,7 +16074,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ynjyhm.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16443,11 +16443,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.g8mmm.net/websales_
-.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
-.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
-.canton8.com/adphoto/
-.523525.com/img/20170508\.jpg
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17215,6 +17210,8 @@ a.kj-cy.cn
 .sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m\.gif
 .sinaimg.cn/large/e6b79078ly1fdwzlienvfg20uk01odg0\.gif
 .sinaimg.cn/large/df8f080agw1f47u58kr42j20dw0dwadl\.jpg
+.sinaimg.cn/large/d63ab74bly1fjr7m1981uj20g402s76d\.jpg
+.sinaimg.cn/large/d63ab74bly1fgyw685bojj20ok02sgow\.jpg
 .sinaimg.cn/large/d63ab74bjw1fb16iy59gmj20g402sq3x\.jpg
 .sinaimg.cn/large/d3a48243tw1e9ku3qboj1j207e02aq2y\.jpg
 .sinaimg.cn/large/bf2d8b8dgw1f83avu4kexj207s03w3ym\.jpg
@@ -18824,6 +18821,7 @@ a.kj-cy.cn
 .game.tiexue.net/iframe/
 .galacg.me/wp-content/uploads/.*750x
 .gagays.com/images/jumu_360x70\.png
+.g8mmm.net/websales_
 .g4.beva.com/data-js-
 .g2.ousns.net
 .g1080.com/js/cache_bg\.js
@@ -19399,6 +19397,7 @@ a.kj-cy.cn
 .car.pchome.com.tw/iframe/news_iframe\.
 .cao0002.com/vip/js/
 .cao0001.com/vip/js/
+.canton8.com/adphoto/
 .candou.com/i/2000/
 .camster.com/promos/
 .caikuu.com/ckimages/.*_zg
@@ -20129,6 +20128,7 @@ a.kj-cy.cn
 .5278bbs.com/adpost_
 .5278.mobi/aa/
 .5278.cc/index\.js
+.523525.com/img/20170508\.jpg
 .521000.com/co/
 .520xs.la/js/xf\.js
 .520bdy.com/images/888
@@ -21268,6 +21268,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .gygdmy.com
 .gydag.com
 .gxejgs.com
+.gwylm.com
 .guoshennet.com
 .guidashu.com
 .gugulonger.cn
@@ -21732,7 +21733,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.gwylm.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
