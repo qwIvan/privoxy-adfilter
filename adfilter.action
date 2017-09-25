@@ -636,8 +636,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.baidu.com/xpage/interface/get
-.hmog.me/tb
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -2816,6 +2814,7 @@ cpro.*.
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hongdou.gxnews.com.cn/upload/index/
 .hn-pc.com/css/Fun_Div\.js
+.hmog.me/tb
 .hktvmall.com/api/preroll/getList\?
 .hkheadline.com/.*/right_promo\.js
 .hkheadline.com/.*promo/
@@ -3943,6 +3942,7 @@ cpro.*.
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xpage/interface/get
 .baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
@@ -8571,8 +8571,6 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.baidu.com/xpage/interface/get
-.hmog.me/tb
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -10751,6 +10749,7 @@ cpro.*.
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hongdou.gxnews.com.cn/upload/index/
 .hn-pc.com/css/Fun_Div\.js
+.hmog.me/tb
 .hktvmall.com/api/preroll/getList\?
 .hkheadline.com/.*/right_promo\.js
 .hkheadline.com/.*promo/
@@ -11878,6 +11877,7 @@ cpro.*.
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xpage/interface/get
 .baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
@@ -16428,8 +16428,6 @@ TAG:^adfilter-block-request$
 .01.gxso.net
 a.kj-cy.cn
 /(.*/)?tps/noexpire/.*
-.baidu.com/xpage/interface/get
-.hmog.me/tb
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -18528,6 +18526,7 @@ a.kj-cy.cn
 .hongxiu.com/images/home20140530\.gif
 .honglingjin.co.uk/wp-content/uploads/2014/06/87\.jpg
 .hn-pc.com/css/Fun_Div\.js
+.hmog.me/tb
 .hktvmall.com/api/preroll/getList\?
 .hkheadline.com/.*/right_promo\.js
 .hkheadline.com/.*promo/
@@ -19612,6 +19611,7 @@ a.kj-cy.cn
 .baidu.com/.*/interface/ad\?
 .baidu.com/xpage/interface/searchad\?
 .baidu.com/xpage/interface/getthirdad\?
+.baidu.com/xpage/interface/get
 .baidu.com/xda\?
 .baidu.com/WerbungAjax/getTonglan\?
 .baidu.com/WerbungAjax/getBeitou\?
