@@ -55,6 +55,7 @@ TAG:^adfilter-block-dnt$
 .shumilou.co/style/html5\.js
 .sdytsh.com
 .sdkdm.com
+.ruyidk.com
 .requested.cn
 .represented.cn
 .rbywg.com
@@ -191,7 +192,6 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ruyidk.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -467,6 +467,7 @@ TAG:^adfilter-block-dnt$
 .cc.yac8.com
 .cc.shixunwang.net
 .cby521.cn
+.c6.friok.com
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -632,15 +633,12 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.c6.friok.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.soxunlei.net/cd/
-.manqian.cn/adLocation
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -1366,6 +1364,7 @@ cpro.*.
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.soxunlei.net/cd/
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
@@ -2137,6 +2136,7 @@ cpro.*.
 .market.178.com
 .maolihui.com/wp-content/themes/miaonew/images/adb
 .maodh.com/admin/up/.*\.gif
+.manqian.cn/adLocation
 .manage.wdfans.cn
 .manads.static.olcdn.com
 .mamise*./.*\.com/js/
@@ -5503,6 +5503,7 @@ tanchuan.htm*.
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
+.qxfly.com
 .quw18.com
 .queene.cn
 .qucaigg.com
@@ -6295,6 +6296,7 @@ tanchuan.htm*.
 .aiclicash.com
 .ahyuns.com
 .ahyau.com
+.ahszgog.com
 .ahhuazhen.com
 .aguo.com
 .agrantsem.com
@@ -6749,8 +6751,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ahszgog.com
-.qxfly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -6807,8 +6807,12 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -7145,10 +7149,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
-vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
-/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
-variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -8001,6 +8001,7 @@ TAG:^adfilter-block-elem$
 .shumilou.co/style/html5\.js
 .sdytsh.com
 .sdkdm.com
+.ruyidk.com
 .requested.cn
 .represented.cn
 .rbywg.com
@@ -8137,7 +8138,6 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ruyidk.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -8413,6 +8413,7 @@ TAG:^adfilter-block-elem$
 .cc.yac8.com
 .cc.shixunwang.net
 .cby521.cn
+.c6.friok.com
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -8578,15 +8579,12 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.c6.friok.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
-.soxunlei.net/cd/
-.manqian.cn/adLocation
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -9312,6 +9310,7 @@ cpro.*.
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.soxunlei.net/cd/
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
@@ -10083,6 +10082,7 @@ cpro.*.
 .market.178.com
 .maolihui.com/wp-content/themes/miaonew/images/adb
 .maodh.com/admin/up/.*\.gif
+.manqian.cn/adLocation
 .manage.wdfans.cn
 .manads.static.olcdn.com
 .mamise*./.*\.com/js/
@@ -13449,6 +13449,7 @@ tanchuan.htm*.
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
+.qxfly.com
 .quw18.com
 .queene.cn
 .qucaigg.com
@@ -14241,6 +14242,7 @@ tanchuan.htm*.
 .aiclicash.com
 .ahyuns.com
 .ahyau.com
+.ahszgog.com
 .ahhuazhen.com
 .aguo.com
 .agrantsem.com
@@ -14695,8 +14697,6 @@ pd2.js*.
 .*.cn/showpage\.asp\?u=
 /.*\.cn/show\?id=
 .*.cn/show\?id=
-.ahszgog.com
-.qxfly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -14753,8 +14753,12 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -15091,10 +15095,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
-vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
-/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
-variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -15948,6 +15948,7 @@ TAG:^adfilter-block-request$
 .shumilou.co/style/html5\.js
 .sdytsh.com
 .sdkdm.com
+.ruyidk.com
 .requested.cn
 .represented.cn
 .rbywg.com
@@ -16082,7 +16083,6 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
-.ruyidk.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -16300,6 +16300,7 @@ TAG:^adfilter-block-request$
 .cc.yac8.com
 .cc.shixunwang.net
 .cby521.cn
+.c6.friok.com
 .c1.china.cn
 .c1.4qx.net
 .bstatic.diyifanwen.com
@@ -16451,10 +16452,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
-.c6.friok.com
 /(.*/)?tps/noexpire/.*
-.soxunlei.net/cd/
-.manqian.cn/adLocation
 .zzzyk.com/js/
 .zzzsao.com/data/attachment/portal/201707/08/135857dkt8trrxk3g8zvq8\.png
 .zzz4.com/JS_AD/
@@ -17160,6 +17158,7 @@ a.kj-cy.cn
 .sp*./.*\.baidu\.com[^\w%.-].*\.gif\?
 .sp*.baidu.com/.*\.gif\?
 .sozi.cn/templets/sozi/js/js\.js
+.soxunlei.net/cd/
 .southmoney.com/.*/Inc/
 .southmoney.com/page/top
 .southmoney.com/page/pc/
@@ -17901,6 +17900,7 @@ a.kj-cy.cn
 .market.178.com
 .maolihui.com/wp-content/themes/miaonew/images/adb
 .maodh.com/admin/up/.*\.gif
+.manqian.cn/adLocation
 .manage.wdfans.cn
 .manads.static.olcdn.com
 .mamise*./.*\.com/js/
@@ -20987,6 +20987,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .qyctj.com
 .qxxys.com
 .qxjdlf.com
+.qxfly.com
 .quw18.com
 .queene.cn
 .qucaigg.com
@@ -21535,6 +21536,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .aishang.bid
 .ahyuns.com
 .ahyau.com
+.ahszgog.com
 .ahhuazhen.com
 .afjlb.com
 .adytx.com
@@ -21743,8 +21745,6 @@ tk.*./.*\.php\?id=.*&step=
 /(.*/)?adtmp/.*
 /(.*/)?adscpc/.*
 /(.*/)?adposid/.*
-.ahszgog.com
-.qxfly.com
 /.*\.8ox\.cn[^\w%.-]
 .*.8ox.cn
 ad.*.
@@ -21800,8 +21800,12 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -22129,10 +22133,6 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
-vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
-/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
-variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
