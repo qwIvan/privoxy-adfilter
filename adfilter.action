@@ -6808,12 +6808,8 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*
-vlive.qqvideo.tc.qq.com/.*
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
-/(.*/)?variety\.tc\.qq\.com/.*
-variety.tc.qq.com/.*
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -7150,6 +7146,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -14755,12 +14755,8 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*
-vlive.qqvideo.tc.qq.com/.*
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
-/(.*/)?variety\.tc\.qq\.com/.*
-variety.tc.qq.com/.*
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -15097,6 +15093,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
@@ -21803,12 +21803,8 @@ ad.*.
 /(.*/)?web8/ad/.*
 /(.*/)?wap_advpic/.*
 /(.*/)?W3Cfuns_Adv/.*
-/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*
-vlive.qqvideo.tc.qq.com/.*
 /(.*/)?vipgg/js/.*
 /(.*/)?View/img/b72890\.jpg
-/(.*/)?variety\.tc\.qq\.com/.*
-variety.tc.qq.com/.*
 /(.*/)?u/_sponsor/.*
 /(.*/)?tuzuan/ad/.*
 /(.*/)?tuiguang/.*
@@ -22136,6 +22132,10 @@ ad-footer.js*.
 /.*\.cc/js/ads/
 .*.cc/js/ads/
 /.*-HollandOne_GIF2\.gif
+/(.*/)?vlive\.qqvideo\.tc\.qq\.com/.*\.mp4\?vkey=
+vlive.qqvideo.tc.qq.com/.*\.mp4\?vkey=
+/(.*/)?variety\.tc\.qq\.com/.*\.mp4\?vkey=
+variety.tc.qq.com/.*\.mp4\?vkey=
 /.*-880-80-4\.jpg
 .*-880-80-4.jpg*.
 
