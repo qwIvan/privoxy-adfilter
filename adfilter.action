@@ -24142,7 +24142,7 @@ TAG:^adfilter-unblock-dnt$
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
 .zjol.com.cn/.*/index\.jsp\?newsid=
-.zimuku.net/ads\.js
+.zimuku.net/ad/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -25154,7 +25154,7 @@ TAG:^adfilter-unblock-elem$
 .xnimg.cn/.*/nx/ugc/share/js/hotlist\.js
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
-.zimuku.net/ads\.js
+.zimuku.net/ad/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
@@ -26157,7 +26157,7 @@ TAG:^adfilter-unblock-request$
 .bdstatic.com/.*/share_
 .bdstatic.com/po/\?\?.*,.*,.*,
 .zjol.com.cn/.*/index\.jsp\?newsid=
-.zimuku.net/ads\.js
+.zimuku.net/ad/ads\.js
 .zhibowu.com/ad2\.htm
 .zhaopin.cn/.*/adbox_
 .zhaopin.cn/js/app/popShow\.
