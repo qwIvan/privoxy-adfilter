@@ -192,6 +192,8 @@ TAG:^adfilter-block-dnt$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dydyhg.com
+.nixiclothing.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -3386,7 +3388,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/ly/
+.dnvod.tv/gx/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -8144,6 +8146,8 @@ TAG:^adfilter-block-elem$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dydyhg.com
+.nixiclothing.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -11338,7 +11342,7 @@ cpro.*.
 .dnvod.tv/.*/201
 .dnvod.tv/.*\.jpg
 .dnvod.tv/.*\.gif
-.dnvod.tv/ly/
+.dnvod.tv/gx/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmhy.ml/.*g\?
@@ -16095,6 +16099,8 @@ TAG:^adfilter-block-request$
 .*.m.3dllc.cc
 /.*\.m\.23sw\.net[^\w%.-]
 .*.m.23sw.net
+.dydyhg.com
+.nixiclothing.com
 .haoimgs.com/images/.*\.gif
 .ganimgs.com/images/.*\.gif
 .ganimg.com/images/.*\.gif
@@ -19108,7 +19114,7 @@ a.kj-cy.cn
 .docin.com/app/a_d/
 .dnwx.com/pic_ad/
 .dnwx.com/pic/.*_978x60\.
-.dnvod.tv/ly/
+.dnvod.tv/gx/
 .dn-geekpark-new.qbox.me/uploads/ad/
 .dmzj.com/js/m_BtmApp\.js
 .dmfans.net/template/haokandemanhhua/images/g_js/
