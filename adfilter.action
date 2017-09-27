@@ -812,7 +812,7 @@ cpro.*.
 .youku.com/QVideo/~ajax/getDefaultItem\?
 .youku.com/dress/
 .youku.com/cms/tool/pub/get_putdata\.
-.youbiyao.org/gongyi\.gif
+.youbiyao.*./(.*/)?gongyi\.gif
 .you85.*./(.*/)?ling/
 .yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
@@ -8766,7 +8766,7 @@ cpro.*.
 .youku.com/QVideo/~ajax/getDefaultItem\?
 .youku.com/dress/
 .youku.com/cms/tool/pub/get_putdata\.
-.youbiyao.org/gongyi\.gif
+.youbiyao.*./(.*/)?gongyi\.gif
 .you85.*./(.*/)?ling/
 .yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
@@ -16640,7 +16640,7 @@ a.kj-cy.cn
 .youku.com/QVideo/~ajax/getDefaultItem\?
 .youku.com/dress/
 .youku.com/cms/tool/pub/get_putdata\.
-.youbiyao.org/gongyi\.gif
+.youbiyao.*./(.*/)?gongyi\.gif
 .you85.*./(.*/)?ling/
 .yoka.com/s\?z=
 .ynzd.org/dict/uploads/20111007/ad_710\.jpg
