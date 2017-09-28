@@ -643,6 +643,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.bdstatic.com/.*/js/m\.js
+.zuidaima.com/images/1/201606/20160616135714978\.gif
 .xihabang.com/banner/
 .zol.com.cn/active/.*tmallmbp/script\.js
 .zol.com.cn/active/.*guomei/script\.js
@@ -6153,6 +6155,7 @@ tanchuan.htm*.
 .cpv6.com
 .cpro.baidustatic.com
 .cpro.baidu.com
+.eduad.baidu.com
 .cpms.cc
 .cpm360.com
 .cpcv.cc
@@ -8602,6 +8605,8 @@ a.kj-cy.cn
 cpro.*.
 /(.*/)?[^\w%.-]https\?:\\/\\/\(\?!www\[0-9\]\?\)\[0-9a-z-\]\+\\\.\[0-9a-z-\]\+\\\.\(\?:com\|com\\\.cn\|cn\|cc\|net\|org\)\\/\[a-z0-9\]\{3\}\\\?\[a-z0-9\]\{3\}=\[[^\w%.-]=[^\w%.-]&\]\{2,3\}&\[a-z\]\{3\}\(\?:=\[[^\w%.-]=\]\+\)\{10,18\}\$/
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/[a-z0-9]{3}\?[a-z0-9]{3}=[^=^&]{2,3}&[a-z]{3}(?:=[^=]+){10,18}$
+.bdstatic.com/.*/js/m\.js
+.zuidaima.com/images/1/201606/20160616135714978\.gif
 .xihabang.com/banner/
 .zol.com.cn/active/.*tmallmbp/script\.js
 .zol.com.cn/active/.*guomei/script\.js
@@ -14112,6 +14117,7 @@ tanchuan.htm*.
 .cpv6.com
 .cpro.baidustatic.com
 .cpro.baidu.com
+.eduad.baidu.com
 .cpms.cc
 .cpm360.com
 .cpcv.cc
@@ -16483,6 +16489,8 @@ TAG:^adfilter-block-request$
 a.kj-cy.cn
 .a1.aluntan.com
 /(.*/)?tps/noexpire/.*
+.bdstatic.com/.*/js/m\.js
+.zuidaima.com/images/1/201606/20160616135714978\.gif
 .xihabang.com/banner/
 .zol.com.cn/active/.*tmallmbp/script\.js
 .zol.com.cn/active/.*guomei/script\.js
@@ -21468,6 +21476,7 @@ a83b3cdeacac5a503717469ca5084ebc.*.
 .cpv6.com
 .cpro.baidustatic.com
 .cpro.baidu.com
+.eduad.baidu.com
 .cpms.cc
 .cpcv.cc
 .couqm.com.cn
