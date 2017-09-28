@@ -636,6 +636,7 @@ TAG:^adfilter-block-dnt$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a1.aluntan.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -8594,6 +8595,7 @@ TAG:^adfilter-block-elem$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a1.aluntan.com
 /(.*/)?tps/noexpire/.*
 /(.*/)?link\?c=
 /(.*/)?cpro\.
@@ -16479,6 +16481,7 @@ TAG:^adfilter-block-request$
 .06362.com
 .01.gxso.net
 a.kj-cy.cn
+.a1.aluntan.com
 /(.*/)?tps/noexpire/.*
 .xihabang.com/banner/
 .zol.com.cn/active/.*tmallmbp/script\.js
